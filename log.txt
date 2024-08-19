@@ -1,285 +1,41 @@
-2024-08-19 09:44:06,454 - INFO - Processing link: sdaa
-2024-08-19 09:44:07,416 - ERROR - Error in run function for link sdaa: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+2024-08-20 00:15:28,168 - INFO - Successfully connected to Redis
+2024-08-20 00:15:28,918 - INFO - Successfully connected to Redis
+2024-08-20 00:15:29,168 - INFO - Stored user information for user1
+2024-08-20 00:15:30,008 - INFO - Successfully connected to Redis
+2024-08-20 00:15:30,287 - INFO - Stored user information for user2
+2024-08-20 00:15:30,287 - INFO - Processing server started. Waiting for messages...
+2024-08-20 00:15:59,871 - INFO - Processing link: https://www.chess.com/analysis/game/live/117399087605?tab=review
+2024-08-20 00:16:00,417 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/117399087605?tab=review: BrowserType.launch: Failed to launch webkit because executable doesn't exist at C:\Users\Admin\AppData\Local\ms-playwright\webkit-2051\Playwright.exe
+2024-08-20 00:16:00,880 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/117399087605?tab=review: BrowserType.launch: Failed to launch webkit because executable doesn't exist at C:\Users\Admin\AppData\Local\ms-playwright\webkit-2051\Playwright.exe
+2024-08-20 00:16:54,568 - INFO - Successfully connected to Redis
+2024-08-20 00:16:55,318 - INFO - Successfully connected to Redis
+2024-08-20 00:16:55,568 - INFO - Stored user information for user1
+2024-08-20 00:16:56,328 - INFO - Successfully connected to Redis
+2024-08-20 00:16:56,588 - INFO - Stored user information for user2
+2024-08-20 00:16:56,588 - INFO - Processing server started. Waiting for messages...
+2024-08-20 00:17:07,938 - INFO - Processing link: https://www.chess.com/analysis/game/live/117399087605?tab=review
+2024-08-20 00:17:16,187 - INFO - Successfully processed link: juhniorx vs. ki1512 | Analysis - Chess.com
+2024-08-20 00:31:04,421 - INFO - Processing link: https://www.chess.com/analysis/game/live/117399087605?tab=review
+2024-08-20 00:31:11,995 - INFO - Successfully processed link: juhniorx vs. ki1512 | Analysis - Chess.com
+2024-08-20 00:32:02,600 - INFO - Processing link: https://www.chess.com/analysis/game/live/117170401963?tab=review
+2024-08-20 00:32:10,187 - INFO - Successfully processed link: ki1512 vs. Rodszz | Analysis - Chess.com
+2024-08-20 00:38:18,186 - INFO - Processing link: https://www.chess.com/analysis/game/live/108610372342?tab=review
+2024-08-20 00:38:26,243 - INFO - Successfully processed link: ki1512 vs. cproverbs31 | Analysis - Chess.com
+2024-08-20 00:42:58,264 - INFO - Processing link: https://www.chess.com/analysis/game/live/117828028951?tab=review
+2024-08-20 00:43:07,170 - INFO - Successfully processed link: ki1512 vs. luxaromaCEO | Analysis - Chess.com
+2024-08-20 01:01:50,150 - INFO - Processing link: https://www.chess.com/analysis/game/live/117829168583?tab=review
+2024-08-20 01:01:58,052 - INFO - Successfully processed link: ki1512 vs. cguyol | Analysis - Chess.com
+2024-08-20 01:03:23,226 - INFO - Processing link: https://www.chess.com/analysis/game/live/117829147611?tab=review
+2024-08-20 01:03:30,716 - INFO - Successfully processed link: Ozymandiasss00 vs. ki1512 | Analysis - Chess.com
+2024-08-20 01:10:10,364 - INFO - Processing link: [Site "Chess.com"] [Result "*"] [WhiteElo "650"] [BlackElo "671"] [TimeControl "60+1"] 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 d6 5. d5 Ne7 6. Bg5 h6 7. Bxf6 gxf6 8. Bb5+ Bd7 9. Bxd7+ Qxd7 10. Qd3 Rg8 11. g3 O-O-O 12. O-O-O c6 13. Qe3 cxd5 14. Qxa7 dxe4 15. Nxe4 Qc6 16. Kb1 Rg6 17. Nc3 Kc7 18. Qe3 e4 19. Nd2 Nf5 20. Qe1 Rg4 21. h3 Rg6 22. Ndxe4 *
+2024-08-20 01:10:11,041 - ERROR - Error in run function for link [Site "Chess.com"] [Result "*"] [WhiteElo "650"] [BlackElo "671"] [TimeControl "60+1"] 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 d6 5. d5 Ne7 6. Bg5 h6 7. Bxf6 gxf6 8. Bb5+ Bd7 9. Bxd7+ Qxd7 10. Qd3 Rg8 11. g3 O-O-O 12. O-O-O c6 13. Qe3 cxd5 14. Qxa7 dxe4 15. Nxe4 Qc6 16. Kb1 Rg6 17. Nc3 Kc7 18. Qe3 e4 19. Nd2 Nf5 20. Qe1 Rg4 21. h3 Rg6 22. Ndxe4 *: Page.goto: Protocol error (Playwright.navigate): Cannot navigate to invalid URL
 Call log:
-navigating to "sdaa", waiting until "load"
+navigating to "[Site "Chess.com"] [Result "*"] [WhiteElo "650"] [BlackElo "671"] [TimeControl "60+1"] 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 d6 5. d5 Ne7 6. Bg5 h6 7. Bxf6 gxf6 8. Bb5+ Bd7 9. Bxd7+ Qxd7 10. Qd3 Rg8 11. g3 O-O-O 12. O-O-O c6 13. Qe3 cxd5 14. Qxa7 dxe4 15. Nxe4 Qc6 16. Kb1 Rg6 17. Nc3 Kc7 18. Qe3 e4 19. Nd2 Nf5 20. Qe1 Rg4 21. h3 Rg6 22. Ndxe4 *", waiting until "load"
 
-2024-08-19 09:44:08,329 - ERROR - Error in run function for link sdaa: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+2024-08-20 01:10:12,060 - ERROR - Error in run function for link [Site "Chess.com"] [Result "*"] [WhiteElo "650"] [BlackElo "671"] [TimeControl "60+1"] 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 d6 5. d5 Ne7 6. Bg5 h6 7. Bxf6 gxf6 8. Bb5+ Bd7 9. Bxd7+ Qxd7 10. Qd3 Rg8 11. g3 O-O-O 12. O-O-O c6 13. Qe3 cxd5 14. Qxa7 dxe4 15. Nxe4 Qc6 16. Kb1 Rg6 17. Nc3 Kc7 18. Qe3 e4 19. Nd2 Nf5 20. Qe1 Rg4 21. h3 Rg6 22. Ndxe4 *: Page.goto: Protocol error (Playwright.navigate): Cannot navigate to invalid URL
 Call log:
-navigating to "sdaa", waiting until "load"
+navigating to "[Site "Chess.com"] [Result "*"] [WhiteElo "650"] [BlackElo "671"] [TimeControl "60+1"] 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 d6 5. d5 Ne7 6. Bg5 h6 7. Bxf6 gxf6 8. Bb5+ Bd7 9. Bxd7+ Qxd7 10. Qd3 Rg8 11. g3 O-O-O 12. O-O-O c6 13. Qe3 cxd5 14. Qxa7 dxe4 15. Nxe4 Qc6 16. Kb1 Rg6 17. Nc3 Kc7 18. Qe3 e4 19. Nd2 Nf5 20. Qe1 Rg4 21. h3 Rg6 22. Ndxe4 *", waiting until "load"
 
-2024-08-19 09:44:46,496 - INFO - Processing link: https://www.chess.com/analysis/game/live/117400849287?tab=review
-2024-08-19 09:44:54,088 - INFO - Successfully processed link: Arlqn vs. ki1512 | Analysis - Chess.com
-2024-08-19 09:45:56,764 - INFO - Successfully connected to Redis
-2024-08-19 09:45:57,563 - INFO - Successfully connected to Redis
-2024-08-19 09:45:57,822 - INFO - Stored user information for user1
-2024-08-19 09:45:58,601 - INFO - Successfully connected to Redis
-2024-08-19 09:45:58,860 - INFO - Stored user information for user2
-2024-08-19 09:45:58,861 - INFO - Processing server started. Waiting for messages...
-2024-08-19 09:46:28,602 - INFO - Processing link: ádasdsdsdsds
-2024-08-19 09:46:29,564 - ERROR - Error in run function for link ádasdsdsdsds: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
-Call log:
-navigating to "ádasdsdsdsds", waiting until "load"
-
-2024-08-19 09:46:30,525 - ERROR - Error in run function for link ádasdsdsdsds: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
-Call log:
-navigating to "ádasdsdsdsds", waiting until "load"
-
-2024-08-19 09:46:52,623 - INFO - Processing link: abc
-2024-08-19 09:46:53,587 - ERROR - Error in run function for link abc: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
-Call log:
-navigating to "abc", waiting until "load"
-
-2024-08-19 09:46:54,561 - ERROR - Error in run function for link abc: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
-Call log:
-navigating to "abc", waiting until "load"
-
-2024-08-19 09:47:13,616 - INFO - Processing link: abc
-2024-08-19 09:47:14,556 - ERROR - Error in run function for link abc: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
-Call log:
-navigating to "abc", waiting until "load"
-
-2024-08-19 09:47:15,483 - ERROR - Error in run function for link abc: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
-Call log:
-navigating to "abc", waiting until "load"
-
-2024-08-19 09:49:39,248 - INFO - Successfully connected to Redis
-2024-08-19 09:49:40,072 - INFO - Successfully connected to Redis
-2024-08-19 09:49:40,343 - INFO - Stored user information for user1
-2024-08-19 09:49:41,139 - INFO - Successfully connected to Redis
-2024-08-19 09:49:41,401 - INFO - Stored user information for user2
-2024-08-19 09:49:41,401 - INFO - Processing server started. Waiting for messages...
-2024-08-19 09:49:54,676 - INFO - Processing link: https://www.chess.com/analysis/game/live/117171584473?tab=review
-2024-08-19 09:50:01,883 - INFO - Successfully processed link: ki1512 vs. hazemkhaled2222 | Analysis - Chess.com
-2024-08-19 09:50:40,272 - INFO - Successfully connected to Redis
-2024-08-19 09:50:41,057 - INFO - Successfully connected to Redis
-2024-08-19 09:50:41,312 - INFO - Stored user information for user1
-2024-08-19 09:50:42,132 - INFO - Successfully connected to Redis
-2024-08-19 09:50:42,396 - INFO - Stored user information for user2
-2024-08-19 09:50:42,396 - INFO - Processing server started. Waiting for messages...
-2024-08-19 09:50:58,647 - INFO - Processing link: https://www.chess.com/analysis/game/live/117400832361?tab=review
-2024-08-19 09:51:12,355 - INFO - Successfully processed link: ki1512 vs. reza_hadishahr | Analysis - Chess.com
-2024-08-19 09:51:30,816 - INFO - Processing link: fdfdfdfd
-2024-08-19 09:51:31,451 - ERROR - Error in run function for link fdfdfdfd: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
-Call log:
-navigating to "fdfdfdfd", waiting until "load"
-
-2024-08-19 09:51:32,095 - ERROR - Error in run function for link fdfdfdfd: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
-Call log:
-navigating to "fdfdfdfd", waiting until "load"
-
-2024-08-19 09:51:52,670 - INFO - Processing link: fdfdf
-2024-08-19 09:51:53,349 - ERROR - Error in run function for link fdfdf: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
-Call log:
-navigating to "fdfdf", waiting until "load"
-
-2024-08-19 09:51:54,007 - ERROR - Error in run function for link fdfdf: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
-Call log:
-navigating to "fdfdf", waiting until "load"
-
-2024-08-19 09:52:18,672 - INFO - Processing link: restart:robebo005,Dinhvanvinh116
-2024-08-19 09:52:22,028 - INFO - Successfully logged in and saved cookies for robebo005
-2024-08-19 09:52:44,671 - INFO - Processing link: https://www.chess.com/analysis/game/live/117400796723?tab=review
-2024-08-19 09:53:17,278 - WARNING - Error processing link https://www.chess.com/analysis/game/live/117400796723?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
-Call log:
-waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
-
-2024-08-19 09:53:17,285 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/117400796723?tab=review
-2024-08-19 09:53:49,982 - WARNING - Error processing link https://www.chess.com/analysis/game/live/117400796723?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
-Call log:
-waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
-
-2024-08-19 09:53:49,990 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/117400796723?tab=review
-2024-08-19 09:54:38,677 - INFO - Processing link: restart:robebo009,Dinhvanvinh116
-2024-08-19 09:54:41,977 - INFO - Successfully logged in and saved cookies for robebo009
-2024-08-19 09:54:49,984 - INFO - Processing link: https://www.chess.com/analysis/game/live/117400796723?tab=review
-2024-08-19 09:54:58,205 - INFO - Successfully processed link: SoKool1234 vs. ki1512 | Analysis - Chess.com
-2024-08-19 10:08:12,105 - INFO - Successfully connected to Redis
-2024-08-19 10:08:12,902 - INFO - Successfully connected to Redis
-2024-08-19 10:08:13,163 - INFO - Stored user information for user1
-2024-08-19 10:08:13,957 - INFO - Successfully connected to Redis
-2024-08-19 10:08:14,217 - INFO - Stored user information for user2
-2024-08-19 10:08:14,217 - INFO - Processing server started. Waiting for messages...
-2024-08-19 10:08:24,167 - INFO - Processing link: github
-2024-08-19 10:08:24,168 - ERROR - Error in run function for link github: update_file_github() missing 1 required positional argument: 'path_name_file_on_local'
-2024-08-19 10:08:24,169 - ERROR - Error in run function for link github: update_file_github() missing 1 required positional argument: 'path_name_file_on_local'
-2024-08-19 10:09:16,462 - INFO - Successfully connected to Redis
-2024-08-19 10:09:17,256 - INFO - Successfully connected to Redis
-2024-08-19 10:09:17,511 - INFO - Stored user information for user1
-2024-08-19 10:09:18,351 - INFO - Successfully connected to Redis
-2024-08-19 10:09:18,622 - INFO - Stored user information for user2
-2024-08-19 10:09:18,622 - INFO - Processing server started. Waiting for messages...
-2024-08-19 10:09:27,582 - INFO - Processing link: github
-2024-08-19 10:09:27,953 - ERROR - Error in run function for link github: 401 {"message": "Bad credentials", "documentation_url": "https://docs.github.com/rest", "status": "401"}
-2024-08-19 10:09:28,333 - ERROR - Error in run function for link github: 401 {"message": "Bad credentials", "documentation_url": "https://docs.github.com/rest", "status": "401"}
-2024-08-19 10:11:33,475 - INFO - Successfully connected to Redis
-2024-08-19 10:11:34,297 - INFO - Successfully connected to Redis
-2024-08-19 10:11:34,572 - INFO - Stored user information for user1
-2024-08-19 10:11:35,337 - INFO - Successfully connected to Redis
-2024-08-19 10:11:35,591 - INFO - Stored user information for user2
-2024-08-19 10:11:35,592 - INFO - Processing server started. Waiting for messages...
-2024-08-19 10:11:42,611 - INFO - Processing link: github
-2024-08-19 10:12:49,883 - ERROR - Error in main loop: Timeout reading from socket
-2024-08-19 10:12:54,888 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:12:54,889 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:12:59,892 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:12:59,892 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:04,899 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:04,900 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:09,905 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:09,905 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:14,916 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:14,916 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:19,929 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:19,929 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:24,940 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:24,941 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:29,945 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:29,946 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:34,948 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:34,949 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:39,960 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:39,961 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:44,972 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:44,972 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:49,986 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:49,987 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:54,988 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:13:54,988 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:14:00,000 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:14:00,001 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:14:05,016 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:14:05,016 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:14:10,034 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:14:10,034 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:14:15,045 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:14:15,045 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:14:20,059 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:14:20,060 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:14:25,072 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:14:25,073 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:14:30,080 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:14:30,080 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
-2024-08-19 10:14:37,642 - INFO - Processing link: github
-2024-08-19 10:16:13,667 - INFO - Processing link: https://www.chess.com/analysis/game/live/117400279545?tab=review
-2024-08-19 10:16:28,589 - INFO - Successfully processed link: ki1512 vs. ogosku | Analysis - Chess.com
-2024-08-19 10:57:09,120 - INFO - Successfully connected to Redis
-2024-08-19 10:57:09,934 - INFO - Successfully connected to Redis
-2024-08-19 10:57:10,204 - INFO - Stored user information for user1
-2024-08-19 10:57:11,054 - INFO - Successfully connected to Redis
-2024-08-19 10:57:11,329 - INFO - Stored user information for user2
-2024-08-19 10:57:11,330 - INFO - Processing server started. Waiting for messages...
-2024-08-19 10:57:22,914 - INFO - Processing link: abc
-2024-08-19 10:57:26,017 - ERROR - Error in run function for link abc: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
-Call log:
-navigating to "abc", waiting until "load"
-
-2024-08-19 10:57:26,780 - ERROR - Error in run function for link abc: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
-Call log:
-navigating to "abc", waiting until "load"
-
-2024-08-19 10:58:12,920 - INFO - Processing link: https://www.chess.com/analysis/game/live/117400215401?tab=review
-2024-08-19 10:58:27,252 - INFO - Successfully processed link: ki1512 vs. sundaeschooler | Analysis - Chess.com
-2024-08-19 10:58:40,923 - INFO - Processing link: github
-2024-08-19 10:59:54,430 - INFO - Successfully connected to Redis
-2024-08-19 10:59:55,210 - INFO - Successfully connected to Redis
-2024-08-19 10:59:55,470 - INFO - Stored user information for user1
-2024-08-19 10:59:56,253 - INFO - Successfully connected to Redis
-2024-08-19 10:59:56,520 - INFO - Stored user information for user2
-2024-08-19 10:59:56,520 - INFO - Processing server started. Waiting for messages...
-2024-08-19 11:00:27,573 - INFO - Processing link: https://www.chess.com/analysis/game/live/117400185979?tab=review
-2024-08-19 11:00:36,992 - INFO - Successfully processed link: ki1512 vs. jgreine | Analysis - Chess.com
-2024-08-19 11:00:47,807 - INFO - Processing link: github
-2024-08-19 12:01:41,788 - INFO - Processing link: https://www.chess.com/analysis/game/live/117782356643?tab=review
-2024-08-19 12:01:50,359 - INFO - Successfully processed link: FAIHAZAFIER vs. taixe131 | Analysis - Chess.com
-2024-08-19 12:14:57,496 - INFO - Processing link: https://www.chess.com/analysis/game/live/117783525319?tab=review
-2024-08-19 12:15:08,089 - INFO - Successfully processed link: Herracek vs. CHIPI-CHIPU | Analysis - Chess.com
-2024-08-19 12:21:55,926 - INFO - Processing link: https://www.chess.com/analysis/game/live/117783555425?tab=review
-2024-08-19 12:22:03,623 - INFO - Successfully processed link: Hoangbuii99 vs. CHIPI-CHIPU | Analysis - Chess.com
-2024-08-19 12:44:17,763 - INFO - Processing link: https://www.chess.com/analysis/game/live/117784182541?tab=review
-2024-08-19 12:44:27,315 - INFO - Successfully processed link: CHIPI-CHIPU vs. mrihter | Analysis - Chess.com
-2024-08-19 12:49:30,392 - INFO - Processing link: https://www.chess.com/analysis/game/live/117785356493?tab=review
-2024-08-19 12:49:37,349 - INFO - Successfully processed link: idiot33333 vs. CHIPI-CHIPU | Analysis - Chess.com
-2024-08-19 12:55:17,728 - ERROR - Lost connection to Redis: Timeout reading from socket
-2024-08-19 12:58:10,097 - INFO - Processing link: https://www.chess.com/analysis/game/live/117785393935?tab=review
-2024-08-19 12:58:19,213 - INFO - Successfully processed link: carla-960 vs. CHIPI-CHIPU | Analysis - Chess.com
-2024-08-19 13:09:58,649 - ERROR - Error in main loop: Timeout reading from socket
-2024-08-19 13:11:04,646 - ERROR - Error in main loop: Timeout reading from socket
-2024-08-19 13:11:16,921 - ERROR - Error in main loop: Timeout reading from socket
-2024-08-19 13:11:42,207 - ERROR - Error in main loop: Timeout reading from socket
-2024-08-19 13:14:51,223 - ERROR - Error in main loop: Timeout reading from socket
-2024-08-19 13:18:30,937 - INFO - Processing link: https://www.chess.com/analysis/game/live/117786593665?tab=review
-2024-08-19 13:18:40,613 - INFO - Successfully processed link: OSM1967 vs. CHIPI-CHIPU | Analysis - Chess.com
-2024-08-19 13:18:58,939 - INFO - Processing link: https://www.chess.com/analysis/game/live/117785981323?tab=review
-2024-08-19 13:19:07,651 - INFO - Successfully processed link: CHIPI-CHIPU vs. OSM1967 | Analysis - Chess.com
-2024-08-19 13:39:39,191 - INFO - Processing link: https://www.chess.com/analysis/game/live/117788366347?tab=review
-2024-08-19 13:39:48,630 - INFO - Successfully processed link: CHIPI-CHIPU vs. Predo63 | Analysis - Chess.com
-2024-08-19 13:44:20,282 - INFO - Processing link: https://www.chess.com/analysis/game/live/117788388887?tab=review
-2024-08-19 13:44:27,260 - INFO - Successfully processed link: CHIPI-CHIPU vs. Dyadya81 | Analysis - Chess.com
-2024-08-19 13:50:02,576 - INFO - Processing link: https://www.chess.com/analysis/game/live/117788954005?tab=review
-2024-08-19 13:50:12,771 - INFO - Successfully processed link: Achuvettan vs. CHIPI-CHIPU | Analysis - Chess.com
-2024-08-19 13:51:30,597 - INFO - Processing link: https://www.chess.com/analysis/game/live/108794785930?tab=review
-2024-08-19 13:51:37,300 - INFO - Successfully processed link: Fabia8 vs. chirkhutth | Analysis - Chess.com
-2024-08-19 13:55:28,942 - INFO - Processing link: https://www.chess.com/analysis/game/live/117789532175?tab=review
-2024-08-19 13:55:35,907 - INFO - Successfully processed link: CHIPI-CHIPU vs. phonySallly | Analysis - Chess.com
-2024-08-19 14:01:55,272 - INFO - Processing link: https://www.chess.com/analysis/game/live/108794839500?tab=review
-2024-08-19 14:02:06,185 - INFO - Successfully processed link: chirkhutth vs. 8seh | Analysis - Chess.com
-2024-08-19 14:11:15,290 - INFO - Processing link: https://www.chess.com/analysis/game/live/117790187485?tab=review
-2024-08-19 14:11:23,603 - INFO - Successfully processed link: chirkhutth vs. Ferhat20Efe09 | Analysis - Chess.com
-2024-08-19 14:42:22,173 - INFO - Processing link: https://www.chess.com/analysis/game/live/117791954439?tab=review
-2024-08-19 14:42:32,265 - INFO - Successfully processed link: Hippohorse vs. chirkhutth | Analysis - Chess.com
-2024-08-19 14:43:46,292 - INFO - Processing link: https://www.chess.com/analysis/game/live/117791352983?tab=review
-2024-08-19 14:43:54,111 - INFO - Successfully processed link: chirkhutth vs. Hippohorse | Analysis - Chess.com
-2024-08-19 14:46:36,323 - INFO - Processing link: https://www.chess.com/analysis/game/live/117790736975?tab=review
-2024-08-19 14:46:44,839 - INFO - Successfully processed link: Hippohorse vs. chirkhutth | Analysis - Chess.com
-2024-08-19 15:05:45,204 - INFO - Processing link: https://www.chess.com/analysis/game/live/117793178173?tab=review
-2024-08-19 15:05:54,625 - INFO - Successfully processed link: chirkhutth vs. FilippoV88 | Analysis - Chess.com
-2024-08-19 15:07:35,592 - INFO - Processing link: https://www.chess.com/analysis/game/live/117793168001?tab=review
-2024-08-19 15:07:42,143 - INFO - Successfully processed link: fancy_a_game_of_chess vs. chirkhutth | Analysis - Chess.com
-2024-08-19 16:01:09,388 - INFO - Processing link: https://www.chess.com/analysis/game/live/117399625357?tab=review
-2024-08-19 16:01:21,775 - INFO - Successfully processed link: ki1512 vs. anupsindagi | Analysis - Chess.com
-2024-08-19 16:02:00,371 - INFO - Processing link: https://www.chess.com/analysis/game/live/117399597769?tab=review
-2024-08-19 16:02:06,555 - INFO - Successfully processed link: Baval vs. ki1512 | Analysis - Chess.com
-2024-08-19 16:36:48,254 - INFO - Processing link: https://www.chess.com/analysis/game/live/117796197135?tab=review
-2024-08-19 16:36:57,094 - INFO - Successfully processed link: chirkhutth vs. davethechessplayer2 | Analysis - Chess.com
-2024-08-19 17:06:13,753 - INFO - Processing link: https://www.chess.com/analysis/game/live/117799196803?tab=review
-2024-08-19 17:06:23,239 - INFO - Successfully processed link: K1N6_5T0N vs. chirkhutth | Analysis - Chess.com
-2024-08-19 17:41:44,493 - INFO - Processing link: github
-2024-08-19 17:43:47,543 - INFO - Processing link: https://www.chess.com/analysis/game/live/117800984441?tab=review
-2024-08-19 17:43:57,797 - INFO - Successfully processed link: feufoli vs. melamarty | Analysis - Chess.com
-2024-08-19 17:50:02,073 - INFO - Processing link: https://www.chess.com/analysis/game/live/117803374363?tab=review
-2024-08-19 17:50:09,644 - INFO - Successfully processed link: CHIPI-CHIPU vs. omariscoff | Analysis - Chess.com
-2024-08-19 17:54:59,352 - INFO - Processing link: https://www.chess.com/analysis/game/live/117803411315?tab=review
-2024-08-19 17:55:07,766 - INFO - Successfully processed link: JonasEilenberg vs. CHIPI-CHIPU | Analysis - Chess.com
-2024-08-19 17:58:44,487 - INFO - Processing link: https://www.chess.com/analysis/game/live/117803969435?tab=review
-2024-08-19 17:58:51,390 - INFO - Successfully processed link: CHIPI-CHIPU vs. sasan_alibabaei | Analysis - Chess.com
-2024-08-19 18:01:16,559 - INFO - Processing link: https://www.chess.com/analysis/game/live/117803374679?tab=review
-2024-08-19 18:01:24,901 - INFO - Successfully processed link: melamarty vs. ammomoh | Analysis - Chess.com
-2024-08-19 18:04:12,809 - INFO - Processing link: https://www.chess.com/analysis/game/live/117804003917?tab=review
-2024-08-19 18:04:20,030 - INFO - Successfully processed link: Jarred-Vanderbilt vs. CHIPI-CHIPU | Analysis - Chess.com
-2024-08-19 18:08:31,035 - INFO - Processing link: https://www.chess.com/analysis/game/live/117804555021?tab=review
-2024-08-19 18:08:38,707 - INFO - Successfully processed link: CHIPI-CHIPU vs. luksona14 | Analysis - Chess.com
-2024-08-19 18:15:32,365 - INFO - Processing link: https://www.chess.com/analysis/game/live/117804607545?tab=review
-2024-08-19 18:15:39,669 - INFO - Successfully processed link: CHIPI-CHIPU vs. drago89 | Analysis - Chess.com
-2024-08-19 18:20:57,639 - INFO - Processing link: https://www.chess.com/analysis/game/live/117805176241?tab=review
-2024-08-19 18:21:05,069 - INFO - Successfully processed link: ilqar_74 vs. CHIPI-CHIPU | Analysis - Chess.com
-2024-08-19 18:27:41,992 - INFO - Processing link: https://www.chess.com/analysis/game/live/117805225713?tab=review
-2024-08-19 18:27:49,139 - INFO - Successfully processed link: Hagi-Wagi vs. CHIPI-CHIPU | Analysis - Chess.com
-2024-08-19 18:52:33,978 - INFO - Processing link: https://www.chess.com/analysis/game/live/117807021913?tab=review
-2024-08-19 18:52:44,560 - INFO - Successfully processed link: GOD-EXTREME vs. NaingMyoOo | Analysis - Chess.com
-2024-08-19 18:53:06,857 - INFO - Processing link: https://www.chess.com/analysis/game/live/117807013013?tab=review
-2024-08-19 18:53:13,442 - INFO - Successfully processed link: ozkozk23 vs. GOD-EXTREME | Analysis - Chess.com
-2024-08-19 20:08:49,960 - ERROR - Error in main loop: Timeout reading from socket
-2024-08-19 20:18:30,114 - ERROR - Error in main loop: Timeout reading from socket
-2024-08-19 20:36:35,674 - ERROR - Error in main loop: Timeout reading from socket
-2024-08-19 20:40:34,857 - ERROR - Lost connection to Redis: Timeout reading from socket
-2024-08-19 21:16:57,113 - INFO - Processing link: github
-2024-08-19 21:19:48,141 - INFO - Processing link: https://www.chess.com/analysis/game/live/117399087605?tab=review
-2024-08-19 21:20:18,906 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/117399087605?tab=review: Page.goto: Timeout 30000ms exceeded.
-Call log:
-navigating to "https://www.chess.com/analysis/game/live/117399087605?tab=review", waiting until "load"
-
-2024-08-19 21:20:49,745 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/117399087605?tab=review: Page.goto: Timeout 30000ms exceeded.
-Call log:
-navigating to "https://www.chess.com/analysis/game/live/117399087605?tab=review", waiting until "load"
-
-2024-08-19 21:20:52,185 - INFO - Processing link: github
+2024-08-20 01:10:41,542 - INFO - Processing link: https://www.chess.com/analysis/game/live/117829215155?tab=review
+2024-08-20 01:10:49,607 - INFO - Successfully processed link: ki1512 vs. maxwelbm | Analysis - Chess.com
+2024-08-20 05:16:42,349 - INFO - Processing link: github
