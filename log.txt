@@ -244,3 +244,32 @@ navigating to "abc", waiting until "load"
 2024-08-19 17:06:13,753 - INFO - Processing link: https://www.chess.com/analysis/game/live/117799196803?tab=review
 2024-08-19 17:06:23,239 - INFO - Successfully processed link: K1N6_5T0N vs. chirkhutth | Analysis - Chess.com
 2024-08-19 17:41:44,493 - INFO - Processing link: github
+2024-08-19 17:43:47,543 - INFO - Processing link: https://www.chess.com/analysis/game/live/117800984441?tab=review
+2024-08-19 17:43:57,797 - INFO - Successfully processed link: feufoli vs. melamarty | Analysis - Chess.com
+2024-08-19 17:50:02,073 - INFO - Processing link: https://www.chess.com/analysis/game/live/117803374363?tab=review
+2024-08-19 17:50:09,644 - INFO - Successfully processed link: CHIPI-CHIPU vs. omariscoff | Analysis - Chess.com
+2024-08-19 17:54:59,352 - INFO - Processing link: https://www.chess.com/analysis/game/live/117803411315?tab=review
+2024-08-19 17:55:07,766 - INFO - Successfully processed link: JonasEilenberg vs. CHIPI-CHIPU | Analysis - Chess.com
+2024-08-19 17:58:44,487 - INFO - Processing link: https://www.chess.com/analysis/game/live/117803969435?tab=review
+2024-08-19 17:58:51,390 - INFO - Successfully processed link: CHIPI-CHIPU vs. sasan_alibabaei | Analysis - Chess.com
+2024-08-19 18:01:16,559 - INFO - Processing link: https://www.chess.com/analysis/game/live/117803374679?tab=review
+2024-08-19 18:01:24,901 - INFO - Successfully processed link: melamarty vs. ammomoh | Analysis - Chess.com
+2024-08-19 18:04:12,809 - INFO - Processing link: https://www.chess.com/analysis/game/live/117804003917?tab=review
+2024-08-19 18:04:20,030 - INFO - Successfully processed link: Jarred-Vanderbilt vs. CHIPI-CHIPU | Analysis - Chess.com
+2024-08-19 18:08:31,035 - INFO - Processing link: https://www.chess.com/analysis/game/live/117804555021?tab=review
+2024-08-19 18:08:38,707 - INFO - Successfully processed link: CHIPI-CHIPU vs. luksona14 | Analysis - Chess.com
+2024-08-19 18:15:32,365 - INFO - Processing link: https://www.chess.com/analysis/game/live/117804607545?tab=review
+2024-08-19 18:15:39,669 - INFO - Successfully processed link: CHIPI-CHIPU vs. drago89 | Analysis - Chess.com
+2024-08-19 18:20:57,639 - INFO - Processing link: https://www.chess.com/analysis/game/live/117805176241?tab=review
+2024-08-19 18:21:05,069 - INFO - Successfully processed link: ilqar_74 vs. CHIPI-CHIPU | Analysis - Chess.com
+2024-08-19 18:27:41,992 - INFO - Processing link: https://www.chess.com/analysis/game/live/117805225713?tab=review
+2024-08-19 18:27:49,139 - INFO - Successfully processed link: Hagi-Wagi vs. CHIPI-CHIPU | Analysis - Chess.com
+2024-08-19 18:52:33,978 - INFO - Processing link: https://www.chess.com/analysis/game/live/117807021913?tab=review
+2024-08-19 18:52:44,560 - INFO - Successfully processed link: GOD-EXTREME vs. NaingMyoOo | Analysis - Chess.com
+2024-08-19 18:53:06,857 - INFO - Processing link: https://www.chess.com/analysis/game/live/117807013013?tab=review
+2024-08-19 18:53:13,442 - INFO - Successfully processed link: ozkozk23 vs. GOD-EXTREME | Analysis - Chess.com
+2024-08-19 20:08:49,960 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-19 20:18:30,114 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-19 20:36:35,674 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-19 20:40:34,857 - ERROR - Lost connection to Redis: Timeout reading from socket
+2024-08-19 21:16:57,113 - INFO - Processing link: github
