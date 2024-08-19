@@ -39,3 +39,15 @@ navigating to "[Site "Chess.com"] [Result "*"] [WhiteElo "650"] [BlackElo "671"]
 2024-08-20 01:10:41,542 - INFO - Processing link: https://www.chess.com/analysis/game/live/117829215155?tab=review
 2024-08-20 01:10:49,607 - INFO - Successfully processed link: ki1512 vs. maxwelbm | Analysis - Chess.com
 2024-08-20 05:16:42,349 - INFO - Processing link: github
+2024-08-20 05:18:34,174 - INFO - Processing link: https://www.chess.com/analysis/game/live/117170987727?tab=review
+2024-08-20 05:19:08,702 - WARNING - Error processing link https://www.chess.com/analysis/game/live/117170987727?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-20 05:19:08,791 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/117170987727?tab=review: local variable 'username' referenced before assignment
+2024-08-20 05:19:43,969 - WARNING - Error processing link https://www.chess.com/analysis/game/live/117170987727?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-20 05:19:44,066 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/117170987727?tab=review: local variable 'username' referenced before assignment
+2024-08-20 05:19:48,825 - INFO - Processing link: github
