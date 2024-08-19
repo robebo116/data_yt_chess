@@ -189,3 +189,58 @@ navigating to "abc", waiting until "load"
 2024-08-19 11:00:27,573 - INFO - Processing link: https://www.chess.com/analysis/game/live/117400185979?tab=review
 2024-08-19 11:00:36,992 - INFO - Successfully processed link: ki1512 vs. jgreine | Analysis - Chess.com
 2024-08-19 11:00:47,807 - INFO - Processing link: github
+2024-08-19 12:01:41,788 - INFO - Processing link: https://www.chess.com/analysis/game/live/117782356643?tab=review
+2024-08-19 12:01:50,359 - INFO - Successfully processed link: FAIHAZAFIER vs. taixe131 | Analysis - Chess.com
+2024-08-19 12:14:57,496 - INFO - Processing link: https://www.chess.com/analysis/game/live/117783525319?tab=review
+2024-08-19 12:15:08,089 - INFO - Successfully processed link: Herracek vs. CHIPI-CHIPU | Analysis - Chess.com
+2024-08-19 12:21:55,926 - INFO - Processing link: https://www.chess.com/analysis/game/live/117783555425?tab=review
+2024-08-19 12:22:03,623 - INFO - Successfully processed link: Hoangbuii99 vs. CHIPI-CHIPU | Analysis - Chess.com
+2024-08-19 12:44:17,763 - INFO - Processing link: https://www.chess.com/analysis/game/live/117784182541?tab=review
+2024-08-19 12:44:27,315 - INFO - Successfully processed link: CHIPI-CHIPU vs. mrihter | Analysis - Chess.com
+2024-08-19 12:49:30,392 - INFO - Processing link: https://www.chess.com/analysis/game/live/117785356493?tab=review
+2024-08-19 12:49:37,349 - INFO - Successfully processed link: idiot33333 vs. CHIPI-CHIPU | Analysis - Chess.com
+2024-08-19 12:55:17,728 - ERROR - Lost connection to Redis: Timeout reading from socket
+2024-08-19 12:58:10,097 - INFO - Processing link: https://www.chess.com/analysis/game/live/117785393935?tab=review
+2024-08-19 12:58:19,213 - INFO - Successfully processed link: carla-960 vs. CHIPI-CHIPU | Analysis - Chess.com
+2024-08-19 13:09:58,649 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-19 13:11:04,646 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-19 13:11:16,921 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-19 13:11:42,207 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-19 13:14:51,223 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-19 13:18:30,937 - INFO - Processing link: https://www.chess.com/analysis/game/live/117786593665?tab=review
+2024-08-19 13:18:40,613 - INFO - Successfully processed link: OSM1967 vs. CHIPI-CHIPU | Analysis - Chess.com
+2024-08-19 13:18:58,939 - INFO - Processing link: https://www.chess.com/analysis/game/live/117785981323?tab=review
+2024-08-19 13:19:07,651 - INFO - Successfully processed link: CHIPI-CHIPU vs. OSM1967 | Analysis - Chess.com
+2024-08-19 13:39:39,191 - INFO - Processing link: https://www.chess.com/analysis/game/live/117788366347?tab=review
+2024-08-19 13:39:48,630 - INFO - Successfully processed link: CHIPI-CHIPU vs. Predo63 | Analysis - Chess.com
+2024-08-19 13:44:20,282 - INFO - Processing link: https://www.chess.com/analysis/game/live/117788388887?tab=review
+2024-08-19 13:44:27,260 - INFO - Successfully processed link: CHIPI-CHIPU vs. Dyadya81 | Analysis - Chess.com
+2024-08-19 13:50:02,576 - INFO - Processing link: https://www.chess.com/analysis/game/live/117788954005?tab=review
+2024-08-19 13:50:12,771 - INFO - Successfully processed link: Achuvettan vs. CHIPI-CHIPU | Analysis - Chess.com
+2024-08-19 13:51:30,597 - INFO - Processing link: https://www.chess.com/analysis/game/live/108794785930?tab=review
+2024-08-19 13:51:37,300 - INFO - Successfully processed link: Fabia8 vs. chirkhutth | Analysis - Chess.com
+2024-08-19 13:55:28,942 - INFO - Processing link: https://www.chess.com/analysis/game/live/117789532175?tab=review
+2024-08-19 13:55:35,907 - INFO - Successfully processed link: CHIPI-CHIPU vs. phonySallly | Analysis - Chess.com
+2024-08-19 14:01:55,272 - INFO - Processing link: https://www.chess.com/analysis/game/live/108794839500?tab=review
+2024-08-19 14:02:06,185 - INFO - Successfully processed link: chirkhutth vs. 8seh | Analysis - Chess.com
+2024-08-19 14:11:15,290 - INFO - Processing link: https://www.chess.com/analysis/game/live/117790187485?tab=review
+2024-08-19 14:11:23,603 - INFO - Successfully processed link: chirkhutth vs. Ferhat20Efe09 | Analysis - Chess.com
+2024-08-19 14:42:22,173 - INFO - Processing link: https://www.chess.com/analysis/game/live/117791954439?tab=review
+2024-08-19 14:42:32,265 - INFO - Successfully processed link: Hippohorse vs. chirkhutth | Analysis - Chess.com
+2024-08-19 14:43:46,292 - INFO - Processing link: https://www.chess.com/analysis/game/live/117791352983?tab=review
+2024-08-19 14:43:54,111 - INFO - Successfully processed link: chirkhutth vs. Hippohorse | Analysis - Chess.com
+2024-08-19 14:46:36,323 - INFO - Processing link: https://www.chess.com/analysis/game/live/117790736975?tab=review
+2024-08-19 14:46:44,839 - INFO - Successfully processed link: Hippohorse vs. chirkhutth | Analysis - Chess.com
+2024-08-19 15:05:45,204 - INFO - Processing link: https://www.chess.com/analysis/game/live/117793178173?tab=review
+2024-08-19 15:05:54,625 - INFO - Successfully processed link: chirkhutth vs. FilippoV88 | Analysis - Chess.com
+2024-08-19 15:07:35,592 - INFO - Processing link: https://www.chess.com/analysis/game/live/117793168001?tab=review
+2024-08-19 15:07:42,143 - INFO - Successfully processed link: fancy_a_game_of_chess vs. chirkhutth | Analysis - Chess.com
+2024-08-19 16:01:09,388 - INFO - Processing link: https://www.chess.com/analysis/game/live/117399625357?tab=review
+2024-08-19 16:01:21,775 - INFO - Successfully processed link: ki1512 vs. anupsindagi | Analysis - Chess.com
+2024-08-19 16:02:00,371 - INFO - Processing link: https://www.chess.com/analysis/game/live/117399597769?tab=review
+2024-08-19 16:02:06,555 - INFO - Successfully processed link: Baval vs. ki1512 | Analysis - Chess.com
+2024-08-19 16:36:48,254 - INFO - Processing link: https://www.chess.com/analysis/game/live/117796197135?tab=review
+2024-08-19 16:36:57,094 - INFO - Successfully processed link: chirkhutth vs. davethechessplayer2 | Analysis - Chess.com
+2024-08-19 17:06:13,753 - INFO - Processing link: https://www.chess.com/analysis/game/live/117799196803?tab=review
+2024-08-19 17:06:23,239 - INFO - Successfully processed link: K1N6_5T0N vs. chirkhutth | Analysis - Chess.com
+2024-08-19 17:41:44,493 - INFO - Processing link: github
