@@ -1,1 +1,120 @@
+2024-08-19 09:44:06,454 - INFO - Processing link: sdaa
+2024-08-19 09:44:07,416 - ERROR - Error in run function for link sdaa: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "sdaa", waiting until "load"
 
+2024-08-19 09:44:08,329 - ERROR - Error in run function for link sdaa: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "sdaa", waiting until "load"
+
+2024-08-19 09:44:46,496 - INFO - Processing link: https://www.chess.com/analysis/game/live/117400849287?tab=review
+2024-08-19 09:44:54,088 - INFO - Successfully processed link: Arlqn vs. ki1512 | Analysis - Chess.com
+2024-08-19 09:45:56,764 - INFO - Successfully connected to Redis
+2024-08-19 09:45:57,563 - INFO - Successfully connected to Redis
+2024-08-19 09:45:57,822 - INFO - Stored user information for user1
+2024-08-19 09:45:58,601 - INFO - Successfully connected to Redis
+2024-08-19 09:45:58,860 - INFO - Stored user information for user2
+2024-08-19 09:45:58,861 - INFO - Processing server started. Waiting for messages...
+2024-08-19 09:46:28,602 - INFO - Processing link: ádasdsdsdsds
+2024-08-19 09:46:29,564 - ERROR - Error in run function for link ádasdsdsdsds: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "ádasdsdsdsds", waiting until "load"
+
+2024-08-19 09:46:30,525 - ERROR - Error in run function for link ádasdsdsdsds: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "ádasdsdsdsds", waiting until "load"
+
+2024-08-19 09:46:52,623 - INFO - Processing link: abc
+2024-08-19 09:46:53,587 - ERROR - Error in run function for link abc: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "abc", waiting until "load"
+
+2024-08-19 09:46:54,561 - ERROR - Error in run function for link abc: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "abc", waiting until "load"
+
+2024-08-19 09:47:13,616 - INFO - Processing link: abc
+2024-08-19 09:47:14,556 - ERROR - Error in run function for link abc: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "abc", waiting until "load"
+
+2024-08-19 09:47:15,483 - ERROR - Error in run function for link abc: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "abc", waiting until "load"
+
+2024-08-19 09:49:39,248 - INFO - Successfully connected to Redis
+2024-08-19 09:49:40,072 - INFO - Successfully connected to Redis
+2024-08-19 09:49:40,343 - INFO - Stored user information for user1
+2024-08-19 09:49:41,139 - INFO - Successfully connected to Redis
+2024-08-19 09:49:41,401 - INFO - Stored user information for user2
+2024-08-19 09:49:41,401 - INFO - Processing server started. Waiting for messages...
+2024-08-19 09:49:54,676 - INFO - Processing link: https://www.chess.com/analysis/game/live/117171584473?tab=review
+2024-08-19 09:50:01,883 - INFO - Successfully processed link: ki1512 vs. hazemkhaled2222 | Analysis - Chess.com
+2024-08-19 09:50:40,272 - INFO - Successfully connected to Redis
+2024-08-19 09:50:41,057 - INFO - Successfully connected to Redis
+2024-08-19 09:50:41,312 - INFO - Stored user information for user1
+2024-08-19 09:50:42,132 - INFO - Successfully connected to Redis
+2024-08-19 09:50:42,396 - INFO - Stored user information for user2
+2024-08-19 09:50:42,396 - INFO - Processing server started. Waiting for messages...
+2024-08-19 09:50:58,647 - INFO - Processing link: https://www.chess.com/analysis/game/live/117400832361?tab=review
+2024-08-19 09:51:12,355 - INFO - Successfully processed link: ki1512 vs. reza_hadishahr | Analysis - Chess.com
+2024-08-19 09:51:30,816 - INFO - Processing link: fdfdfdfd
+2024-08-19 09:51:31,451 - ERROR - Error in run function for link fdfdfdfd: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "fdfdfdfd", waiting until "load"
+
+2024-08-19 09:51:32,095 - ERROR - Error in run function for link fdfdfdfd: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "fdfdfdfd", waiting until "load"
+
+2024-08-19 09:51:52,670 - INFO - Processing link: fdfdf
+2024-08-19 09:51:53,349 - ERROR - Error in run function for link fdfdf: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "fdfdf", waiting until "load"
+
+2024-08-19 09:51:54,007 - ERROR - Error in run function for link fdfdf: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "fdfdf", waiting until "load"
+
+2024-08-19 09:52:18,672 - INFO - Processing link: restart:robebo005,Dinhvanvinh116
+2024-08-19 09:52:22,028 - INFO - Successfully logged in and saved cookies for robebo005
+2024-08-19 09:52:44,671 - INFO - Processing link: https://www.chess.com/analysis/game/live/117400796723?tab=review
+2024-08-19 09:53:17,278 - WARNING - Error processing link https://www.chess.com/analysis/game/live/117400796723?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-19 09:53:17,285 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/117400796723?tab=review
+2024-08-19 09:53:49,982 - WARNING - Error processing link https://www.chess.com/analysis/game/live/117400796723?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-19 09:53:49,990 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/117400796723?tab=review
+2024-08-19 09:54:38,677 - INFO - Processing link: restart:robebo009,Dinhvanvinh116
+2024-08-19 09:54:41,977 - INFO - Successfully logged in and saved cookies for robebo009
+2024-08-19 09:54:49,984 - INFO - Processing link: https://www.chess.com/analysis/game/live/117400796723?tab=review
+2024-08-19 09:54:58,205 - INFO - Successfully processed link: SoKool1234 vs. ki1512 | Analysis - Chess.com
+2024-08-19 10:08:12,105 - INFO - Successfully connected to Redis
+2024-08-19 10:08:12,902 - INFO - Successfully connected to Redis
+2024-08-19 10:08:13,163 - INFO - Stored user information for user1
+2024-08-19 10:08:13,957 - INFO - Successfully connected to Redis
+2024-08-19 10:08:14,217 - INFO - Stored user information for user2
+2024-08-19 10:08:14,217 - INFO - Processing server started. Waiting for messages...
+2024-08-19 10:08:24,167 - INFO - Processing link: github
+2024-08-19 10:08:24,168 - ERROR - Error in run function for link github: update_file_github() missing 1 required positional argument: 'path_name_file_on_local'
+2024-08-19 10:08:24,169 - ERROR - Error in run function for link github: update_file_github() missing 1 required positional argument: 'path_name_file_on_local'
+2024-08-19 10:09:16,462 - INFO - Successfully connected to Redis
+2024-08-19 10:09:17,256 - INFO - Successfully connected to Redis
+2024-08-19 10:09:17,511 - INFO - Stored user information for user1
+2024-08-19 10:09:18,351 - INFO - Successfully connected to Redis
+2024-08-19 10:09:18,622 - INFO - Stored user information for user2
+2024-08-19 10:09:18,622 - INFO - Processing server started. Waiting for messages...
+2024-08-19 10:09:27,582 - INFO - Processing link: github
+2024-08-19 10:09:27,953 - ERROR - Error in run function for link github: 401 {"message": "Bad credentials", "documentation_url": "https://docs.github.com/rest", "status": "401"}
+2024-08-19 10:09:28,333 - ERROR - Error in run function for link github: 401 {"message": "Bad credentials", "documentation_url": "https://docs.github.com/rest", "status": "401"}
+2024-08-19 10:11:33,475 - INFO - Successfully connected to Redis
+2024-08-19 10:11:34,297 - INFO - Successfully connected to Redis
+2024-08-19 10:11:34,572 - INFO - Stored user information for user1
+2024-08-19 10:11:35,337 - INFO - Successfully connected to Redis
+2024-08-19 10:11:35,591 - INFO - Stored user information for user2
+2024-08-19 10:11:35,592 - INFO - Processing server started. Waiting for messages...
+2024-08-19 10:11:42,611 - INFO - Processing link: github
