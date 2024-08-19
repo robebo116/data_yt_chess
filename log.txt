@@ -160,3 +160,31 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-08-19 10:14:30,080 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
 2024-08-19 10:14:30,080 - ERROR - Error in main loop: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
 2024-08-19 10:14:37,642 - INFO - Processing link: github
+2024-08-19 10:16:13,667 - INFO - Processing link: https://www.chess.com/analysis/game/live/117400279545?tab=review
+2024-08-19 10:16:28,589 - INFO - Successfully processed link: ki1512 vs. ogosku | Analysis - Chess.com
+2024-08-19 10:23:30,596 - INFO - Successfully connected to Redis
+2024-08-19 10:23:31,399 - INFO - Successfully connected to Redis
+2024-08-19 10:23:31,658 - INFO - Stored user information for user1
+2024-08-19 10:23:32,457 - INFO - Successfully connected to Redis
+2024-08-19 10:23:32,717 - INFO - Stored user information for user2
+2024-08-19 10:23:32,717 - INFO - Processing server started. Waiting for messages...
+2024-08-19 10:23:45,414 - INFO - Processing link: aaaa
+2024-08-19 10:23:49,461 - ERROR - Error in run function for link aaaa: BrowserType.launch: Executable doesn't exist at D:\Python\BsVinh\Chess\Chess Analysis Sever\Chronium Sever\dist\server_process_new\_internal\playwright\driver\package\.local-browsers\chromium-1129\chrome-win\chrome.exe
+\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557
+\u2551 Looks like Playwright was just installed or updated.       \u2551
+\u2551 Please run the following command to download new browsers: \u2551
+\u2551                                                            \u2551
+\u2551     playwright install                                     \u2551
+\u2551                                                            \u2551
+\u2551 <3 Playwright Team                                         \u2551
+\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d
+2024-08-19 10:23:49,808 - ERROR - Error in run function for link aaaa: BrowserType.launch: Executable doesn't exist at D:\Python\BsVinh\Chess\Chess Analysis Sever\Chronium Sever\dist\server_process_new\_internal\playwright\driver\package\.local-browsers\chromium-1129\chrome-win\chrome.exe
+\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557
+\u2551 Looks like Playwright was just installed or updated.       \u2551
+\u2551 Please run the following command to download new browsers: \u2551
+\u2551                                                            \u2551
+\u2551     playwright install                                     \u2551
+\u2551                                                            \u2551
+\u2551 <3 Playwright Team                                         \u2551
+\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d
+2024-08-19 10:24:07,418 - INFO - Processing link: github
