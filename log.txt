@@ -180,3 +180,12 @@ navigating to "abc", waiting until "load"
 2024-08-19 10:58:12,920 - INFO - Processing link: https://www.chess.com/analysis/game/live/117400215401?tab=review
 2024-08-19 10:58:27,252 - INFO - Successfully processed link: ki1512 vs. sundaeschooler | Analysis - Chess.com
 2024-08-19 10:58:40,923 - INFO - Processing link: github
+2024-08-19 10:59:54,430 - INFO - Successfully connected to Redis
+2024-08-19 10:59:55,210 - INFO - Successfully connected to Redis
+2024-08-19 10:59:55,470 - INFO - Stored user information for user1
+2024-08-19 10:59:56,253 - INFO - Successfully connected to Redis
+2024-08-19 10:59:56,520 - INFO - Stored user information for user2
+2024-08-19 10:59:56,520 - INFO - Processing server started. Waiting for messages...
+2024-08-19 11:00:27,573 - INFO - Processing link: https://www.chess.com/analysis/game/live/117400185979?tab=review
+2024-08-19 11:00:36,992 - INFO - Successfully processed link: ki1512 vs. jgreine | Analysis - Chess.com
+2024-08-19 11:00:47,807 - INFO - Processing link: github
