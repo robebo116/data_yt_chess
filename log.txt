@@ -369,3 +369,15 @@ Call log:
 navigating to "d\u1ea5da", waiting until "load"
 
 2024-08-20 18:01:01,512 - INFO - Processing link: github
+2024-08-20 18:02:18,968 - INFO - Processing link: restart hello
+2024-08-20 18:02:18,968 - ERROR - Error in run function for link restart hello: not enough values to unpack (expected 2, got 1)
+2024-08-20 18:02:18,968 - ERROR - Error in run function for link restart hello: not enough values to unpack (expected 2, got 1)
+2024-08-20 18:03:02,012 - INFO - Processing link: https://www.chess.com/analysis/game/live/117889754613?tab=review
+2024-08-20 18:03:10,836 - INFO - Successfully processed link: GOD-SOMU vs. Tkm_Master | Analysis - Chess.com
+2024-08-20 18:03:19,028 - INFO - Processing link: restart:robebo010,Dinhvanvinh116
+2024-08-20 18:03:23,324 - INFO - Successfully logged in and saved cookies for robebo010
+2024-08-20 18:04:52,685 - INFO - Processing link: https://www.chess.com/analysis/game/live/117889156947?tab=review
+2024-08-20 18:05:01,955 - INFO - Successfully processed link: N_Kor vs. GOD-SOMU | Analysis - Chess.com
+2024-08-20 18:05:48,165 - INFO - Processing link: https://www.chess.com/analysis/game/live/117890353853?tab=review
+2024-08-20 18:05:57,040 - INFO - Successfully processed link: acharmevilches vs. GOD-SOMU | Analysis - Chess.com
+2024-08-20 18:28:10,495 - INFO - Processing link: github
