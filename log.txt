@@ -490,3 +490,15 @@ navigating to "d\u1ea5da", waiting until "load"
 2024-08-21 01:37:34,557 - ERROR - Failed to connect to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.. Retrying in 5 seconds...
 2024-08-21 01:37:44,588 - INFO - Successfully connected to Redis
 2024-08-21 06:03:33,366 - INFO - Processing link: github
+2024-08-21 06:06:01,541 - INFO - Processing link: https://www.chess.com/analysis/game/live/117904207737?tab=review
+2024-08-21 06:06:36,428 - WARNING - Error processing link https://www.chess.com/analysis/game/live/117904207737?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-21 06:06:36,530 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/117904207737?tab=review: local variable 'file_path' referenced before assignment
+2024-08-21 06:07:10,536 - WARNING - Error processing link https://www.chess.com/analysis/game/live/117904207737?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-21 06:07:10,605 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/117904207737?tab=review: local variable 'file_path' referenced before assignment
+2024-08-21 06:07:12,900 - INFO - Processing link: github
