@@ -347,3 +347,25 @@ navigating to "https://www.chess.com/analysis/game/live/117871730389?tab=review"
 2024-08-20 13:30:52,884 - ERROR - Failed to connect to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.. Retrying in 5 seconds...
 2024-08-20 13:31:01,163 - INFO - Successfully connected to Redis
 2024-08-20 15:28:58,765 - INFO - Processing link: github
+2024-08-20 16:32:02,875 - INFO - Processing link: https://www.chess.com/analysis/game/live/148737629?tab=review
+2024-08-20 16:32:10,775 - INFO - Successfully processed link: doctorjhs vs. danielpro88 | Analysis - Chess.com
+2024-08-20 16:32:38,049 - INFO - Processing link: https://www.chess.com/analysis/game/live/148737629?tab=review
+2024-08-20 16:32:45,063 - INFO - Successfully processed link: doctorjhs vs. danielpro88 | Analysis - Chess.com
+2024-08-20 16:53:13,597 - INFO - Processing link: https://www.chess.com/analysis/game/live/117885557113?tab=review
+2024-08-20 16:53:23,579 - INFO - Successfully processed link: GorchakovIvan vs. melamarty | Analysis - Chess.com
+2024-08-20 17:16:53,390 - INFO - Processing link: https://www.chess.com/analysis/game/live/117886803205?tab=review
+2024-08-20 17:17:03,105 - INFO - Successfully processed link: tobiassaviv vs. joshhutchersonnn | Analysis - Chess.com
+2024-08-20 17:25:50,780 - INFO - Processing link: https://www.chess.com/analysis/game/live/117873531871?tab=review
+2024-08-20 17:25:58,662 - INFO - Successfully processed link: karamabd vs. ki1512 | Analysis - Chess.com
+2024-08-20 17:28:42,978 - INFO - Processing link: https://www.chess.com/analysis/game/live/117887928465?tab=review
+2024-08-20 17:28:51,125 - INFO - Successfully processed link: taixe132 vs. rahmantambuna | Analysis - Chess.com
+2024-08-20 17:33:49,256 - INFO - Processing link: d\u1ea5da
+2024-08-20 17:33:49,913 - ERROR - Error in run function for link d\u1ea5da: Page.goto: Protocol error (Playwright.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "d\u1ea5da", waiting until "load"
+
+2024-08-20 17:33:51,067 - ERROR - Error in run function for link d\u1ea5da: Page.goto: Protocol error (Playwright.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "d\u1ea5da", waiting until "load"
+
+2024-08-20 18:01:01,512 - INFO - Processing link: github
