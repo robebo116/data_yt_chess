@@ -388,3 +388,31 @@ navigating to "d\u1ea5da", waiting until "load"
 2024-08-20 19:36:09,008 - INFO - Processing link: https://www.chess.com/analysis/game/live/117893340609?tab=review
 2024-08-20 19:36:18,545 - INFO - Successfully processed link: IoannisCheliotis vs. ki1512 | Analysis - Chess.com
 2024-08-20 19:36:41,425 - INFO - Processing link: github
+2024-08-20 19:37:33,097 - INFO - Processing link: https://www.chess.com/analysis/game/live/117892805563?tab=review
+2024-08-20 19:37:40,619 - INFO - Successfully processed link: ki1512 vs. AK-XII | Analysis - Chess.com
+2024-08-20 19:43:59,188 - INFO - Processing link: https://www.chess.com/analysis/game/live/117896408225?tab=review
+2024-08-20 19:44:08,360 - INFO - Successfully processed link: ki1512 vs. daniele_lombardo | Analysis - Chess.com
+2024-08-20 19:53:20,606 - INFO - Processing link: https://www.chess.com/analysis/game/live/117897014293?tab=review
+2024-08-20 19:53:28,491 - INFO - Successfully processed link: ki1512 vs. AkgEmilio | Analysis - Chess.com
+2024-08-20 19:59:51,162 - INFO - Processing link: https://www.chess.com/analysis/game/live/117897609847?tab=review
+2024-08-20 19:59:59,077 - INFO - Successfully processed link: IndianChessPrince11 vs. taixe132 | Analysis - Chess.com
+2024-08-20 20:10:17,402 - INFO - Processing link: https://www.chess.com/analysis/game/live/117897014293?tab=review
+2024-08-20 20:10:28,495 - INFO - Successfully processed link: ki1512 vs. AkgEmilio | Analysis - Chess.com
+2024-08-20 20:10:37,931 - ERROR - Lost connection to Redis: Timeout reading from socket
+2024-08-20 20:10:38,637 - INFO - Successfully connected to Redis
+2024-08-20 20:11:11,356 - INFO - Processing link: https://www.chess.com/analysis/game/live/117897014293?tab=review
+2024-08-20 20:11:18,508 - INFO - Successfully processed link: ki1512 vs. AkgEmilio | Analysis - Chess.com
+2024-08-20 20:26:11,393 - INFO - Processing link: https://www.chess.com/analysis/game/live/117896384815?tab=review
+2024-08-20 20:26:22,527 - INFO - Successfully processed link: chirkhutth vs. giovicelecir | Analysis - Chess.com
+2024-08-20 20:36:52,647 - INFO - Processing link: https://www.chess.com/analysis/game/live/117899337337?tab=review
+2024-08-20 20:37:02,589 - INFO - Successfully processed link: DhruvJainn vs. joshhutchersonnn | Analysis - Chess.com
+2024-08-20 20:39:10,738 - INFO - Processing link: https://www.chess.com/analysis/game/live/117899438031?tab=review
+2024-08-20 20:39:19,614 - INFO - Successfully processed link: Anubhav0709 vs. ch9l7 | Analysis - Chess.com
+2024-08-20 20:49:16,883 - INFO - Processing link: https://www.chess.com/analysis/game/live/117900603337?tab=review
+2024-08-20 20:49:24,976 - INFO - Successfully processed link: ch9l7 vs. chessswiperr | Analysis - Chess.com
+2024-08-20 21:26:06,013 - INFO - Processing link: https://www.chess.com/analysis/game/live/117902943391?tab=review
+2024-08-20 21:26:14,616 - INFO - Successfully processed link: Reckerl vs. ki1512 | Analysis - Chess.com
+2024-08-20 22:12:21,688 - INFO - Processing link: https://www.chess.com/analysis/game/live/117905347069?tab=review
+2024-08-20 22:12:33,324 - INFO - Successfully processed link: ch9l7 vs. Grotwekk | Analysis - Chess.com
+2024-08-20 22:59:03,416 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-21 00:40:57,421 - INFO - Processing link: github
