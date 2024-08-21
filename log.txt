@@ -203,3 +203,64 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-08-21 11:31:00,256 - INFO - Processing link: https://www.chess.com/analysis/game/live/117951565021?tab=review
 2024-08-21 11:31:07,974 - INFO - Successfully processed link: extreme-mew vs. rommelnolia | Analysis - Chess.com
 2024-08-21 11:31:11,270 - INFO - Processing link: github
+2024-08-21 11:31:23,265 - INFO - Processing link: https://www.chess.com/analysis/game/live/117951548249?tab=review
+2024-08-21 11:31:30,942 - INFO - Successfully processed link: kartal1068 vs. extreme-mew | Analysis - Chess.com
+2024-08-21 11:35:01,371 - INFO - Processing link: https://www.chess.com/analysis/game/live/117953930283?tab=review
+2024-08-21 11:35:08,791 - INFO - Successfully processed link: extreme-mew vs. Jovkata | Analysis - Chess.com
+2024-08-21 11:42:18,798 - INFO - Processing link: https://www.chess.com/analysis/game/live/117953952479?tab=review
+2024-08-21 11:42:28,359 - INFO - Successfully processed link: Diyarchik0410 vs. extreme-mew | Analysis - Chess.com
+2024-08-21 12:38:57,815 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-21 12:39:12,330 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-21 12:57:24,745 - INFO - Processing link: https://www.chess.com/analysis/game/live/117958756307?tab=review
+2024-08-21 12:57:31,571 - INFO - Successfully processed link: extreme-mew vs. taxi_kabbie | Analysis - Chess.com
+2024-08-21 12:57:48,770 - INFO - Processing link: https://www.chess.com/analysis/game/live/117958739917?tab=review
+2024-08-21 12:57:56,188 - INFO - Successfully processed link: extreme-mew vs. Fabba | Analysis - Chess.com
+2024-08-21 13:02:11,641 - INFO - Processing link: https://www.chess.com/analysis/game/live/117958778501?tab=review
+2024-08-21 13:02:19,178 - INFO - Successfully processed link: extreme-mew vs. 1c4Cf6 | Analysis - Chess.com
+2024-08-21 13:06:58,212 - INFO - Processing link: https://www.chess.com/analysis/game/live/117959364377?tab=review
+2024-08-21 13:07:32,747 - WARNING - Error processing link https://www.chess.com/analysis/game/live/117959364377?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-21 13:07:32,758 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/117959364377?tab=review
+2024-08-21 13:08:07,746 - WARNING - Error processing link https://www.chess.com/analysis/game/live/117959364377?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-21 13:08:07,756 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/117959364377?tab=review
+2024-08-21 13:13:11,056 - INFO - Processing link: https://www.chess.com/analysis/game/live/117959380735?tab=review
+2024-08-21 13:13:19,471 - INFO - Successfully processed link: atilio13 vs. extreme-mew | Analysis - Chess.com
+2024-08-21 13:13:33,058 - INFO - Processing link: https://www.chess.com/analysis/game/live/11795936437?tab=review
+2024-08-21 13:14:07,599 - WARNING - Error processing link https://www.chess.com/analysis/game/live/11795936437?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-21 13:14:07,610 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/11795936437?tab=review
+2024-08-21 13:14:44,408 - WARNING - Error processing link https://www.chess.com/analysis/game/live/11795936437?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-21 13:14:44,419 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/11795936437?tab=review
+2024-08-21 13:14:47,101 - INFO - Processing link: https://www.chess.com/analysis/game/live/117959336287?tab=review
+2024-08-21 13:14:47,103 - INFO - Processing link: https://www.chess.com/analysis/game/live/117959364377?tab=review
+2024-08-21 13:14:56,213 - INFO - Successfully processed link: extreme-mew vs. bensgambitdecline | Analysis - Chess.com
+2024-08-21 13:14:56,655 - INFO - Successfully processed link: fazlisarin vs. extreme-mew | Analysis - Chess.com
+2024-08-21 13:19:32,501 - INFO - Processing link: https://www.chess.com/analysis/game/live/117959336287?tab=review
+2024-08-21 13:19:41,315 - INFO - Successfully processed link: fazlisarin vs. extreme-mew | Analysis - Chess.com
+2024-08-21 13:19:51,521 - INFO - Processing link: https://www.chess.com/analysis/game/live/117959954681?tab=review
+2024-08-21 13:19:59,402 - INFO - Successfully processed link: extreme-mew vs. kasimaksit | Analysis - Chess.com
+2024-08-21 13:21:46,014 - INFO - Processing link: https://www.chess.com/analysis/game/live/117959990491?tab=review
+2024-08-21 13:21:53,314 - INFO - Successfully processed link: PortugalKs vs. extreme-mew | Analysis - Chess.com
+2024-08-21 13:28:05,357 - INFO - Processing link: https://www.chess.com/analysis/game/live/117960534225?tab=review
+2024-08-21 13:28:13,784 - INFO - Successfully processed link: extreme-mew vs. atilio13 | Analysis - Chess.com
+2024-08-21 13:28:25,374 - INFO - Processing link: https://www.chess.com/analysis/game/live/117960532275?tab=review
+2024-08-21 13:28:32,618 - INFO - Successfully processed link: iam_benoni vs. extreme-mew | Analysis - Chess.com
+2024-08-21 13:33:22,644 - INFO - Processing link: https://www.chess.com/analysis/game/live/117960532275?tab=review
+2024-08-21 13:33:29,777 - INFO - Successfully processed link: iam_benoni vs. extreme-mew | Analysis - Chess.com
+2024-08-21 13:37:27,883 - INFO - Processing link: https://www.chess.com/analysis/game/live/117961140497?tab=review
+2024-08-21 13:37:36,771 - INFO - Successfully processed link: extreme-mew vs. iam_benoni | Analysis - Chess.com
+2024-08-21 13:37:49,906 - INFO - Processing link: https://www.chess.com/analysis/game/live/117960584271?tab=review
+2024-08-21 13:37:57,840 - INFO - Successfully processed link: nenaddmilosevic vs. extreme-mew | Analysis - Chess.com
+2024-08-21 13:42:18,700 - INFO - Processing link: https://www.chess.com/analysis/game/live/117961177427?tab=review
+2024-08-21 13:42:27,689 - INFO - Successfully processed link: extreme-mew vs. Balik12345 | Analysis - Chess.com
+2024-08-21 13:59:16,905 - INFO - Processing link: github
