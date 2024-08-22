@@ -411,3 +411,32 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-08-22 18:30:51,581 - INFO - Processing link: github
 2024-08-22 18:43:45,885 - INFO - Processing link: github
 2024-08-22 18:43:45,885 - INFO - Processing link: https://www.chess.com/analysis/game/live/108852206660?tab=review
+2024-08-22 18:43:53,619 - INFO - Successfully processed link: Abolfazl930 vs. moskva-gorit | Analysis - Chess.com
+2024-08-22 19:03:45,314 - INFO - Processing link: https://www.chess.com/analysis/game/live/108849145832?tab=review
+2024-08-22 19:03:52,951 - INFO - Successfully processed link: wtalien vs. parveennarwal | Analysis - Chess.com
+2024-08-22 19:04:15,394 - INFO - Processing link: https://www.chess.com/analysis/game/live/108849145832?tab=review
+2024-08-22 19:04:21,929 - INFO - Successfully processed link: wtalien vs. parveennarwal | Analysis - Chess.com
+2024-08-22 19:29:53,458 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-22 20:11:39,738 - ERROR - Lost connection to Redis: Timeout reading from socket
+2024-08-22 20:11:40,677 - INFO - Successfully connected to Redis
+2024-08-22 20:27:58,157 - INFO - Processing link: https://www.chess.com/analysis/game/live/118071551735?tab=review
+2024-08-22 20:28:07,010 - INFO - Successfully processed link: RomanBull1983 vs. taixe133 | Analysis - Chess.com
+2024-08-22 20:35:30,102 - INFO - Processing link: https://www.chess.com/analysis/game/live/118072227837?tab=review
+2024-08-22 20:35:39,230 - INFO - Successfully processed link: Libero3 vs. taixe133 | Analysis - Chess.com
+2024-08-22 20:39:01,286 - INFO - Processing link: https://www.chess.com/analysis/game/live/118072760341?tab=review
+2024-08-22 20:39:11,228 - INFO - Successfully processed link: Vlad778Z vs. adyopanto | Analysis - Chess.com
+2024-08-22 20:54:54,053 - INFO - Processing link: https://www.chess.com/analysis/game/live/118073333841?tab=review
+2024-08-22 20:55:05,148 - INFO - Successfully processed link: DrAmazing13 vs. adyopanto | Analysis - Chess.com
+2024-08-22 20:57:48,068 - INFO - Processing link: https://www.chess.com/analysis/game/live/118073979075?tab=review
+2024-08-22 20:57:57,474 - INFO - Successfully processed link: taixe133 vs. lovemypudding | Analysis - Chess.com
+2024-08-22 21:09:30,779 - INFO - Processing link: https://www.chess.com/analysis/game/live/108854422102?tab=review
+2024-08-22 21:09:46,776 - INFO - Successfully processed link: lysimaxoslepesiwths vs. kenyakush | Analysis - Chess.com
+2024-08-22 21:10:06,266 - INFO - Processing link: https://www.chess.com/analysis/game/live/118074568231?tab=review
+2024-08-22 21:10:17,027 - INFO - Successfully processed link: dovon1231 vs. adyopanto | Analysis - Chess.com
+2024-08-22 21:10:19,295 - INFO - Processing link: https://www.chess.com/analysis/game/live/108854422102?tab=review
+2024-08-22 21:10:26,584 - INFO - Successfully processed link: lysimaxoslepesiwths vs. kenyakush | Analysis - Chess.com
+2024-08-22 21:11:49,288 - INFO - Processing link: https://www.chess.com/analysis/game/live/118074567077?tab=review
+2024-08-22 21:11:58,310 - INFO - Successfully processed link: taixe133 vs. Azollo14 | Analysis - Chess.com
+2024-08-22 21:12:01,927 - INFO - Processing link: https://www.chess.com/analysis/game/live/118074567077?tab=review
+2024-08-22 21:12:08,877 - INFO - Successfully processed link: taixe133 vs. Azollo14 | Analysis - Chess.com
+2024-08-22 21:13:28,014 - INFO - Processing link: github
