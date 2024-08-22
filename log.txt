@@ -310,3 +310,45 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-08-22 06:39:45,644 - INFO - Processing link: https://www.chess.com/analysis/game/live/118021743327?tab=review
 2024-08-22 06:39:54,749 - INFO - Successfully processed link: ch9l7 vs. claydhawk | Analysis - Chess.com
 2024-08-22 08:53:16,644 - INFO - Processing link: github
+2024-08-22 09:38:17,191 - INFO - Processing link: https://www.chess.com/analysis/game/live/108846449438?tab=review
+2024-08-22 09:38:25,469 - INFO - Successfully processed link: Nyzm05 vs. Rizler01 | Analysis - Chess.com
+2024-08-22 09:40:21,164 - INFO - Processing link: https://www.chess.com/analysis/game/live/108845817202?tab=review
+2024-08-22 09:40:29,016 - INFO - Successfully processed link: subandi7044 vs. Nyzm05 | Analysis - Chess.com
+2024-08-22 10:19:23,927 - INFO - Processing link: https://www.chess.com/analysis/game/live/118033736275?tab=review
+2024-08-22 10:19:32,303 - INFO - Successfully processed link: Nyzm05 vs. shadys111 | Analysis - Chess.com
+2024-08-22 10:21:56,953 - INFO - Processing link: https://www.chess.com/analysis/game/live/118034334097?tab=review
+2024-08-22 10:22:05,211 - INFO - Successfully processed link: shadys111 vs. Nyzm05 | Analysis - Chess.com
+2024-08-22 10:24:40,593 - INFO - Processing link: https://www.chess.com/analysis/game/live/118034381513?tab=review
+2024-08-22 10:24:48,411 - INFO - Successfully processed link: Nyzm05 vs. shadys111 | Analysis - Chess.com
+2024-08-22 10:27:44,067 - INFO - Processing link: https://www.chess.com/analysis/game/live/118034953647?tab=review
+2024-08-22 10:27:52,151 - INFO - Successfully processed link: shadys111 vs. Nyzm05 | Analysis - Chess.com
+2024-08-22 12:09:44,486 - INFO - Processing link: https://www.chess.com/analysis/game/live/118042171183?tab=review
+2024-08-22 12:09:51,353 - INFO - Successfully processed link: Nyzm05 vs. mackchessstar | Analysis - Chess.com
+2024-08-22 12:31:29,627 - INFO - Processing link: https://www.chess.com/analysis/game/live/118042783033?tab=review
+2024-08-22 12:31:36,712 - INFO - Successfully processed link: eililand vs. Nyzm05 | Analysis - Chess.com
+2024-08-22 12:39:42,879 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-22 12:39:47,891 - ERROR - Lost connection to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.
+2024-08-22 12:39:47,893 - ERROR - Failed to connect to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.. Retrying in 5 seconds...
+2024-08-22 12:39:52,904 - ERROR - Failed to connect to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.. Retrying in 5 seconds...
+2024-08-22 12:39:57,911 - ERROR - Failed to connect to Redis: Error 11001 connecting to redis-18631.c114.us-east-1-4.ec2.redns.redis-cloud.com:18631. getaddrinfo failed.. Retrying in 5 seconds...
+2024-08-22 12:40:04,057 - INFO - Successfully connected to Redis
+2024-08-22 12:47:17,496 - INFO - Processing link: https://www.chess.com/analysis/game/live/117990627995?tab=review
+2024-08-22 12:47:24,752 - INFO - Successfully processed link: Karina_301 vs. ki1512 | Analysis - Chess.com
+2024-08-22 12:51:12,706 - INFO - Processing link: https://www.chess.com/analysis/game/live/117958725401?tab=review
+2024-08-22 12:51:21,861 - INFO - Successfully processed link: YnotSHUBHAM vs. Santosh_Dhiwre | Analysis - Chess.com
+2024-08-22 12:51:41,740 - INFO - Processing link: https://www.chess.com/analysis/game/live/117958725401?tab=review
+2024-08-22 12:51:49,654 - INFO - Successfully processed link: YnotSHUBHAM vs. Santosh_Dhiwre | Analysis - Chess.com
+2024-08-22 13:34:40,652 - INFO - Processing link: https://www.chess.com/analysis/game/live/118046954815?tab=review
+2024-08-22 13:34:49,416 - INFO - Successfully processed link: LarryKameo vs. Nyzm05 | Analysis - Chess.com
+2024-08-22 13:53:16,464 - INFO - Processing link: https://www.chess.com/analysis/game/live/108848760280?tab=review
+2024-08-22 13:53:23,539 - INFO - Successfully processed link: evhutt vs. bundbaajboy | Analysis - Chess.com
+2024-08-22 14:30:13,847 - INFO - Processing link: https://www.chess.com/analysis/game/live/108849072164?tab=review
+2024-08-22 14:30:21,410 - INFO - Successfully processed link: bundbaajboy vs. DiazXVII | Analysis - Chess.com
+2024-08-22 16:12:07,267 - INFO - Processing link: https://www.chess.com/analysis/game/live/118056004485?tab=review
+2024-08-22 16:12:14,930 - INFO - Successfully processed link: Nyzm05 vs. soba0420 | Analysis - Chess.com
+2024-08-22 16:29:03,705 - INFO - Processing link: https://www.chess.com/analysis/game/live/118057179029?tab=review
+2024-08-22 16:29:11,229 - INFO - Successfully processed link: Nyzm05 vs. ppj11 | Analysis - Chess.com
+2024-08-22 16:32:05,172 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-22 16:41:17,258 - INFO - Processing link: https://www.chess.com/analysis/game/live/118051159081?tab=review
+2024-08-22 16:41:26,633 - INFO - Successfully processed link: gwylherme vs. Giantmonku | Analysis - Chess.com
+2024-08-22 17:20:22,761 - INFO - Processing link: github
