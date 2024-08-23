@@ -759,3 +759,15 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-08-23 23:39:40,906 - INFO - Processing link: https://www.chess.com/analysis/game/live/118169912511?tab=review
 2024-08-23 23:39:50,119 - INFO - Successfully processed link: stach7 vs. I_BRX_I | Analysis - Chess.com
 2024-08-23 23:53:33,349 - INFO - Processing link: github
+2024-08-24 01:00:46,790 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-24 01:03:09,326 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-24 01:03:20,576 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-24 01:03:35,589 - ERROR - Lost connection to Redis: Timeout reading from socket
+2024-08-24 01:03:36,294 - INFO - Successfully connected to Redis
+2024-08-24 02:09:52,874 - INFO - Processing link: https://www.chess.com/analysis/game/live/108877572796?tab=review
+2024-08-24 02:10:00,178 - INFO - Successfully processed link: Abolfazl930 vs. GertvaFerzya | Analysis - Chess.com
+2024-08-24 04:34:57,901 - INFO - Processing link: https://www.chess.com/analysis/game/live/108879440070?tab=review
+2024-08-24 04:35:04,808 - INFO - Successfully processed link: blunderdagain vs. bdrbadr | Analysis - Chess.com
+2024-08-24 04:55:41,926 - INFO - Processing link: https://www.chess.com/analysis/game/live/108879588138?tab=review
+2024-08-24 04:55:50,671 - INFO - Successfully processed link: bdrbadr vs. Ashish13dec | Analysis - Chess.com
+2024-08-24 05:16:49,185 - INFO - Processing link: github
