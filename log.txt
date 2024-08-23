@@ -545,3 +545,41 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-08-23 09:02:08,308 - ERROR - Failed to connect to Redis: Timeout connecting to server. Retrying in 5 seconds...
 2024-08-23 09:02:14,016 - INFO - Successfully connected to Redis
 2024-08-23 09:51:27,997 - INFO - Processing link: github
+2024-08-23 10:48:32,282 - INFO - Processing link: https://www.chess.com/analysis/game/live/118123761441?tab=review
+2024-08-23 10:49:07,458 - WARNING - Error processing link https://www.chess.com/analysis/game/live/118123761441?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-23 10:49:11,594 - INFO - Successfully logged in and saved cookies for robebo010
+2024-08-23 10:49:20,209 - INFO - Successfully processed link: vanputro vs. EXTREME-SOMU | Analysis - Chess.com
+2024-08-23 10:51:11,318 - INFO - Processing link: https://www.chess.com/analysis/game/live/118123782705?tab=review
+2024-08-23 10:51:19,339 - INFO - Successfully processed link: donkesocool12 vs. EXTREME-SOMU | Analysis - Chess.com
+2024-08-23 10:52:14,058 - INFO - Processing link: https://www.chess.com/analysis/game/live/118124325023?tab=review
+2024-08-23 10:52:21,493 - INFO - Successfully processed link: EXTREME-SOMU vs. eliavilomar | Analysis - Chess.com
+2024-08-23 10:53:41,479 - INFO - Processing link: https://www.chess.com/analysis/game/live/118124331887?tab=review
+2024-08-23 10:53:48,685 - INFO - Successfully processed link: Indigorez_On_Twitch vs. EXTREME-SOMU | Analysis - Chess.com
+2024-08-23 10:54:14,506 - INFO - Processing link: https://www.chess.com/analysis/game/live/118123772733?tab=review
+2024-08-23 10:54:22,109 - INFO - Successfully processed link: EXTREME-SOMU vs. a1four7 | Analysis - Chess.com
+2024-08-23 11:04:28,618 - INFO - Processing link: https://www.chess.com/analysis/game/live/118124367351?tab=review
+2024-08-23 11:04:36,409 - INFO - Successfully processed link: EXTREME-SOMU vs. EvansTailer | Analysis - Chess.com
+2024-08-23 11:16:25,553 - INFO - Processing link: https://www.chess.com/analysis/game/live/118124367351?tab=review
+2024-08-23 11:16:32,207 - INFO - Successfully processed link: EXTREME-SOMU vs. EvansTailer | Analysis - Chess.com
+2024-08-23 11:25:50,903 - INFO - Processing link: https://www.chess.com/analysis/game/live/118125564043?tab=review
+2024-08-23 11:25:58,604 - INFO - Successfully processed link: Ahimsa2006 vs. EXTREME-SOMU | Analysis - Chess.com
+2024-08-23 11:29:29,886 - INFO - Processing link: https://www.chess.com/analysis/game/live/108865395178?tab=review
+2024-08-23 11:29:38,924 - INFO - Successfully processed link: Nyzm05 vs. dirtydan408 | Analysis - Chess.com
+2024-08-23 11:34:50,399 - INFO - Processing link: https://www.chess.com/analysis/game/live/118126733431?tab=review
+2024-08-23 11:34:58,182 - INFO - Successfully processed link: DenisAVasilev vs. EXTREME-SOMU | Analysis - Chess.com
+2024-08-23 11:35:09,689 - INFO - Processing link: https://www.chess.com/analysis/game/live/118126160375?tab=review
+2024-08-23 11:35:19,364 - INFO - Successfully processed link: EXTREME-SOMU vs. DenisAVasilev | Analysis - Chess.com
+2024-08-23 11:38:32,897 - INFO - Processing link: https://www.chess.com/analysis/game/live/118126759227?tab=review
+2024-08-23 11:38:40,674 - INFO - Successfully processed link: EXTREME-SOMU vs. KR2D2 | Analysis - Chess.com
+2024-08-23 12:30:41,591 - INFO - Processing link: https://www.chess.com/analysis/game/live/108866019884?tab=review
+2024-08-23 12:30:48,823 - INFO - Successfully processed link: Beltheshezzar vs. only4uuu | Analysis - Chess.com
+2024-08-23 12:38:21,053 - INFO - Processing link: https://www.chess.com/analysis/game/live/118130288861?tab=review
+2024-08-23 12:38:29,338 - INFO - Successfully processed link: ki1512 vs. Miguel_R_i_v_e_r_a | Analysis - Chess.com
+2024-08-23 12:38:51,277 - INFO - Processing link: https://www.chess.com/analysis/game/live/108866095322?tab=review
+2024-08-23 12:38:58,727 - INFO - Successfully processed link: amangupta1069 vs. only4uuu | Analysis - Chess.com
+2024-08-23 12:39:39,141 - INFO - Processing link: https://www.chess.com/analysis/game/live/108866105952?tab=review
+2024-08-23 12:39:46,083 - INFO - Successfully processed link: akademiasportu vs. Nyzm05 | Analysis - Chess.com
+2024-08-23 12:49:54,372 - INFO - Processing link: github
