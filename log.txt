@@ -535,3 +535,13 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-08-23 04:45:09,684 - ERROR - Lost connection to Redis: Timeout reading from socket
 2024-08-23 04:45:11,012 - INFO - Successfully connected to Redis
 2024-08-23 04:51:12,319 - INFO - Processing link: github
+2024-08-23 04:54:52,395 - INFO - Processing link: https://www.chess.com/analysis/game/live/108861702912?tab=review
+2024-08-23 04:55:00,220 - INFO - Successfully processed link: Abolfazl930 vs. ChazCarrillo | Analysis - Chess.com
+2024-08-23 05:25:09,803 - INFO - Processing link: https://www.chess.com/analysis/game/live/108862077656?tab=review
+2024-08-23 05:25:18,046 - INFO - Successfully processed link: mikicordero17 vs. Nyzm05 | Analysis - Chess.com
+2024-08-23 05:52:59,210 - INFO - Processing link: https://www.chess.com/analysis/game/live/108862327278?tab=review
+2024-08-23 05:53:07,196 - INFO - Successfully processed link: vvacarov vs. Nyzm05 | Analysis - Chess.com
+2024-08-23 09:02:02,961 - ERROR - Lost connection to Redis: Timeout reading from socket
+2024-08-23 09:02:08,308 - ERROR - Failed to connect to Redis: Timeout connecting to server. Retrying in 5 seconds...
+2024-08-23 09:02:14,016 - INFO - Successfully connected to Redis
+2024-08-23 09:51:27,997 - INFO - Processing link: github
