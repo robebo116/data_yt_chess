@@ -778,3 +778,39 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-08-24 08:04:53,335 - ERROR - Failed to connect to Redis: Timeout connecting to server. Retrying in 5 seconds...
 2024-08-24 08:04:59,059 - INFO - Successfully connected to Redis
 2024-08-24 08:24:21,590 - INFO - Processing link: github
+2024-08-24 08:32:05,704 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-24 08:34:21,866 - INFO - Processing link: https://www.chess.com/analysis/game/live/118201721677?tab=review
+2024-08-24 08:34:30,133 - INFO - Successfully processed link: W-TOTTI7 vs. LongKirito | Analysis - Chess.com
+2024-08-24 08:37:23,920 - INFO - Processing link: https://www.chess.com/analysis/game/live/117984566041?tab=review
+2024-08-24 08:37:30,615 - INFO - Successfully processed link: LongKirito vs. SHassan47 | Analysis - Chess.com
+2024-08-24 08:39:00,094 - INFO - Processing link: https://www.chess.com/analysis/game/live/117885565819?tab=review
+2024-08-24 08:39:07,839 - INFO - Successfully processed link: shiratoe vs. LongKirito | Analysis - Chess.com
+2024-08-24 08:42:05,059 - INFO - Processing link: https://www.chess.com/analysis/game/live/118202296243?tab=review
+2024-08-24 08:42:12,631 - INFO - Successfully processed link: phoe_aye vs. taixe133 | Analysis - Chess.com
+2024-08-24 08:42:15,063 - INFO - Processing link: https://www.chess.com/analysis/game/live/117858572237?tab=review
+2024-08-24 08:42:23,019 - INFO - Successfully processed link: CandraAinurRofiq vs. LongKirito | Analysis - Chess.com
+2024-08-24 08:43:02,062 - INFO - Processing link: https://www.chess.com/analysis/game/live/108881912210?tab=review
+2024-08-24 08:43:09,351 - INFO - Successfully processed link: wtalien vs. NChfhejkfbwei | Analysis - Chess.com
+2024-08-24 08:56:17,975 - INFO - Processing link: https://www.chess.com/analysis/game/live/118202882837?tab=review
+2024-08-24 08:56:25,038 - INFO - Successfully processed link: ElMisterPR vs. taixe133 | Analysis - Chess.com
+2024-08-24 08:58:22,103 - INFO - Processing link: https://www.chess.com/analysis/game/live/108881890338?tab=review
+2024-08-24 08:58:30,833 - INFO - Successfully processed link: bdrbadr vs. movefastz | Analysis - Chess.com
+2024-08-24 09:11:30,398 - INFO - Processing link: https://www.chess.com/analysis/game/live/118203514299?tab=review
+2024-08-24 09:11:37,985 - INFO - Successfully processed link: taixe133 vs. AmirrezaEzzati | Analysis - Chess.com
+2024-08-24 10:54:43,779 - INFO - Processing link: https://www.chess.com/analysis/game/live/108882994784?tab=review
+2024-08-24 10:54:52,049 - INFO - Successfully processed link: Yogesh13017 vs. BWashinJ | Analysis - Chess.com
+2024-08-24 10:59:27,396 - INFO - Processing link: https://www.chess.com/analysis/game/live/108883130618?tab=review
+2024-08-24 10:59:34,852 - INFO - Successfully processed link: Mr_Kenge vs. Yogesh13017 | Analysis - Chess.com
+2024-08-24 11:41:45,548 - INFO - Processing link: https://www.chess.com/analysis/game/live/108883472926?tab=review
+2024-08-24 11:41:53,698 - INFO - Successfully processed link: marioco1917 vs. IM-GAY25102011 | Analysis - Chess.com
+2024-08-24 12:20:17,951 - INFO - Processing link: https://www.chess.com/analysis/game/live/118212479939?tab=review
+2024-08-24 12:20:26,086 - INFO - Successfully processed link: gasgfgfgagaaa vs. aranycsapat54 | Analysis - Chess.com
+2024-08-24 12:22:04,985 - INFO - Processing link: https://www.chess.com/analysis/game/live/118211878891?tab=review
+2024-08-24 12:22:12,071 - INFO - Successfully processed link: gegaqaldani vs. gasgfgfgagaaa | Analysis - Chess.com
+2024-08-24 12:23:14,939 - INFO - Processing link: https://www.chess.com/analysis/game/live/118211306731?tab=review
+2024-08-24 12:23:22,640 - INFO - Successfully processed link: gasgfgfgagaaa vs. ben08bagona | Analysis - Chess.com
+2024-08-24 12:24:28,994 - INFO - Processing link: https://www.chess.com/analysis/game/live/118211269577?tab=review
+2024-08-24 12:24:36,098 - INFO - Successfully processed link: pieet vs. gasgfgfgagaaa | Analysis - Chess.com
+2024-08-24 12:27:14,007 - INFO - Processing link: https://www.chess.com/analysis/game/live/118204081911?tab=review
+2024-08-24 12:27:21,561 - INFO - Successfully processed link: gabriel1202 vs. NotGoodAtChess9000 | Analysis - Chess.com
+2024-08-24 12:34:05,073 - INFO - Processing link: github
