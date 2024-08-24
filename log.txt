@@ -814,3 +814,30 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-08-24 12:27:14,007 - INFO - Processing link: https://www.chess.com/analysis/game/live/118204081911?tab=review
 2024-08-24 12:27:21,561 - INFO - Successfully processed link: gabriel1202 vs. NotGoodAtChess9000 | Analysis - Chess.com
 2024-08-24 12:34:05,073 - INFO - Processing link: github
+2024-08-24 13:24:45,433 - INFO - Processing link: https://www.chess.com/analysis/game/live/115238273119?tab=review
+2024-08-24 13:24:52,223 - INFO - Successfully processed link: LyonBeast vs. MagnusCarlsen | Analysis - Chess.com
+2024-08-24 13:29:05,256 - INFO - Processing link: https://www.chess.com/analysis/game/live/108884561776?tab=review
+2024-08-24 13:29:37,550 - WARNING - Error processing link https://www.chess.com/analysis/game/live/108884561776?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-24 13:29:37,575 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/108884561776?tab=review
+2024-08-24 13:30:11,534 - WARNING - Error processing link https://www.chess.com/analysis/game/live/108884561776?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-24 13:30:11,544 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/108884561776?tab=review
+2024-08-24 13:44:45,139 - INFO - Processing link: https://www.chess.com/analysis/game/live/108884703586?tab=review
+2024-08-24 13:44:52,678 - INFO - Successfully processed link: IM-GAY25102011 vs. sahta-ndraha1 | Analysis - Chess.com
+2024-08-24 13:46:47,218 - INFO - Processing link: https://www.chess.com/analysis/game/live/118219723891?tab=review
+2024-08-24 13:46:54,837 - INFO - Successfully processed link: LongKirito vs. BKG8B8 | Analysis - Chess.com
+2024-08-24 13:58:47,594 - INFO - Processing link: https://www.chess.com/analysis/game/live/108882970698?tab=review
+2024-08-24 13:58:53,533 - INFO - Successfully processed link: zemi001 vs. Yogesh13017 | Analysis - Chess.com
+2024-08-24 14:03:01,754 - INFO - Processing link: https://www.chess.com/analysis/game/live/118221528669?tab=review
+2024-08-24 14:03:08,952 - INFO - Successfully processed link: GOD-SOMU vs. Pmikemjm | Analysis - Chess.com
+2024-08-24 14:03:33,890 - INFO - Processing link: https://www.chess.com/analysis/game/live/118221501597?tab=review
+2024-08-24 14:03:42,160 - INFO - Successfully processed link: Gryphoenix7 vs. GOD-SOMU | Analysis - Chess.com
+2024-08-24 14:05:22,865 - INFO - Processing link: https://www.chess.com/analysis/game/live/108884836914?tab=review
+2024-08-24 14:05:30,185 - INFO - Successfully processed link: Yogesh13017 vs. mohanadsalem | Analysis - Chess.com
+2024-08-24 14:16:00,944 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-24 14:16:30,644 - INFO - Processing link: github
