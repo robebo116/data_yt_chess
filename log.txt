@@ -1238,3 +1238,40 @@ navigating to "https://www.chess.com/analysis/game/live/118286889353?tab=review"
 2024-08-25 22:21:12,786 - INFO - Processing link: https://www.chess.com/analysis/game/live/108909118182?tab=review
 2024-08-25 22:21:20,666 - INFO - Successfully processed link: adyopanto vs. Teambly | Analysis - Chess.com
 2024-08-25 22:43:37,828 - INFO - Processing link: github
+2024-08-25 22:47:30,436 - INFO - Processing link: https://www.chess.com/analysis/game/live/118253954255?tab=review
+2024-08-25 22:47:38,797 - INFO - Successfully processed link: ki1512 vs. PRODUO213 | Analysis - Chess.com
+2024-08-25 22:55:27,743 - INFO - Processing link: https://www.chess.com/analysis/game/live/118339720907?tab=review
+2024-08-25 22:55:36,392 - INFO - Successfully processed link: RBGoose vs. adyopanto | Analysis - Chess.com
+2024-08-25 22:57:03,594 - INFO - Processing link: https://www.chess.com/analysis/game/live/118338510091?tab=review
+2024-08-25 22:57:12,956 - INFO - Successfully processed link: adyopanto vs. Fuzialknowschess | Analysis - Chess.com
+2024-08-25 23:00:19,018 - INFO - Processing link: https://www.chess.com/analysis/game/live/108909652522?tab=review
+2024-08-25 23:00:29,579 - INFO - Successfully processed link: Abolfazl930 vs. fcocba | Analysis - Chess.com
+2024-08-25 23:04:05,800 - INFO - Processing link: https://www.chess.com/analysis/game/live/108909812980?tab=review
+2024-08-25 23:04:13,408 - INFO - Successfully processed link: Abolfazl930 vs. Chintand | Analysis - Chess.com
+2024-08-25 23:15:05,983 - INFO - Processing link: https://www.chess.com/analysis/game/live/108909875236?tab=review
+2024-08-25 23:15:15,272 - INFO - Successfully processed link: Abolfazl930 vs. sionwyn | Analysis - Chess.com
+2024-08-26 00:07:17,508 - INFO - Processing link: https://www.chess.com/analysis/game/live/108910716660?tab=review
+2024-08-26 00:07:26,142 - INFO - Successfully processed link: adyopanto vs. MIKESLATON777 | Analysis - Chess.com
+2024-08-26 00:14:01,736 - INFO - Processing link: https://www.chess.com/analysis/game/live/108910928064?tab=review
+2024-08-26 00:14:10,293 - INFO - Successfully processed link: fahmimeki vs. adyopanto | Analysis - Chess.com
+2024-08-26 00:21:10,516 - INFO - Processing link: https://www.chess.com/analysis/game/live/108911004378?tab=review
+2024-08-26 00:21:18,689 - INFO - Successfully processed link: adyopanto vs. youssefhelmym | Analysis - Chess.com
+2024-08-26 00:42:54,208 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-26 00:55:50,002 - INFO - Processing link: https://www.chess.com/analysis/game/live/108911556900?tab=review
+2024-08-26 00:55:58,226 - INFO - Successfully processed link: Abolfazl930 vs. hoppezz99 | Analysis - Chess.com
+2024-08-26 01:00:43,492 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-26 01:02:53,437 - ERROR - Lost connection to Redis: Timeout reading from socket
+2024-08-26 01:02:54,743 - INFO - Successfully connected to Redis
+2024-08-26 02:19:27,766 - INFO - Processing link: https://www.chess.com/analysis/game/live/108912619242?tab=review
+2024-08-26 02:19:35,797 - INFO - Successfully processed link: SofianeCherifi vs. pepguardiola957 | Analysis - Chess.com
+2024-08-26 02:33:49,985 - INFO - Processing link: https://www.chess.com/analysis/game/live/108913041536?tab=review
+2024-08-26 02:33:57,273 - INFO - Successfully processed link: SofianeCherifi vs. pjglbenizar | Analysis - Chess.com
+2024-08-26 03:29:31,541 - INFO - Processing link: https://www.chess.com/analysis/game/live/108913684914?tab=review
+2024-08-26 03:29:41,617 - INFO - Successfully processed link: bdrbadr vs. knightlylover | Analysis - Chess.com
+2024-08-26 03:36:55,656 - INFO - Processing link: https://www.chess.com/analysis/game/live/108913930688?tab=review
+2024-08-26 03:37:03,091 - INFO - Successfully processed link: plip8 vs. bdrbadr | Analysis - Chess.com
+2024-08-26 03:59:52,240 - INFO - Processing link: https://www.chess.com/analysis/game/live/108914109092?tab=review
+2024-08-26 04:00:01,040 - INFO - Successfully processed link: rabona777 vs. bdrbadr | Analysis - Chess.com
+2024-08-26 04:14:14,944 - INFO - Processing link: https://www.chess.com/analysis/game/live/108914387392?tab=review
+2024-08-26 04:14:21,903 - INFO - Successfully processed link: enigma9044 vs. bdrbadr | Analysis - Chess.com
+2024-08-26 04:19:28,615 - INFO - Processing link: github
