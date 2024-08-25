@@ -1174,3 +1174,22 @@ navigating to "https://www.chess.com/analysis/game/live/118286889353?tab=review"
 2024-08-25 14:26:39,778 - INFO - Processing link: https://www.chess.com/analysis/game/live/118308498717?tab=review
 2024-08-25 14:26:48,661 - INFO - Successfully processed link: Pawnagainagain vs. Yogesh13017 | Analysis - Chess.com
 2024-08-25 14:27:07,918 - INFO - Processing link: github
+2024-08-25 14:32:27,501 - INFO - Processing link: https://www.chess.com/analysis/game/live/118308498717?tab=review
+2024-08-25 14:32:35,371 - INFO - Successfully processed link: Pawnagainagain vs. Yogesh13017 | Analysis - Chess.com
+2024-08-25 14:33:34,552 - INFO - Processing link: https://www.chess.com/analysis/game/live/118309715789?tab=review
+2024-08-25 14:33:41,521 - INFO - Successfully processed link: velemajstor-Lazar vs. Yogesh13017 | Analysis - Chess.com
+2024-08-25 14:37:40,763 - ERROR - Lost connection to Redis: Timeout reading from socket
+2024-08-25 14:37:41,829 - INFO - Successfully connected to Redis
+2024-08-25 15:30:17,504 - INFO - Processing link: https://www.chess.com/analysis/game/live/118312668111?tab=review
+2024-08-25 15:30:25,959 - INFO - Successfully processed link: FriedPancake1 vs. UktamNah | Analysis - Chess.com
+2024-08-25 15:35:22,748 - INFO - Processing link: https://www.chess.com/analysis/game/live/108903351910?tab=review
+2024-08-25 15:35:30,983 - INFO - Successfully processed link: PidPuddin vs. XR69 | Analysis - Chess.com
+2024-08-25 16:33:05,932 - INFO - Processing link: https://www.chess.com/analysis/game/live/118316909871?tab=review
+2024-08-25 16:33:12,899 - INFO - Successfully processed link: FriedPancake1 vs. YYLR2000 | Analysis - Chess.com
+2024-08-25 17:09:40,306 - INFO - Processing link: https://www.chess.com/analysis/game/live/118317546383?tab=review
+2024-08-25 17:09:47,413 - INFO - Successfully processed link: Yogesh13017 vs. Abdulburatsky | Analysis - Chess.com
+2024-08-25 17:09:54,375 - INFO - Processing link: https://www.chess.com/analysis/game/live/118318115561?tab=review
+2024-08-25 17:10:02,287 - INFO - Successfully processed link: Yogesh13017 vs. wlagnagn | Analysis - Chess.com
+2024-08-25 17:10:05,377 - INFO - Processing link: https://www.chess.com/analysis/game/live/118318744523?tab=review
+2024-08-25 17:10:13,148 - INFO - Successfully processed link: Nawwaraa4 vs. Yogesh13017 | Analysis - Chess.com
+2024-08-25 17:22:48,507 - INFO - Processing link: github
