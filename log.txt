@@ -1275,3 +1275,39 @@ navigating to "https://www.chess.com/analysis/game/live/118286889353?tab=review"
 2024-08-26 04:14:14,944 - INFO - Processing link: https://www.chess.com/analysis/game/live/108914387392?tab=review
 2024-08-26 04:14:21,903 - INFO - Successfully processed link: enigma9044 vs. bdrbadr | Analysis - Chess.com
 2024-08-26 04:19:28,615 - INFO - Processing link: github
+2024-08-26 04:21:01,714 - INFO - Processing link: https://www.chess.com/analysis/game/live/108914453352?tab=review
+2024-08-26 04:21:09,371 - INFO - Successfully processed link: bdrbadr vs. ferman666 | Analysis - Chess.com
+2024-08-26 04:28:30,641 - INFO - Processing link: https://www.chess.com/analysis/game/live/108914461446?tab=review
+2024-08-26 04:28:41,297 - INFO - Successfully processed link: frandesmery vs. SofianeCherifi | Analysis - Chess.com
+2024-08-26 05:09:12,386 - ERROR - Lost connection to Redis: Timeout reading from socket
+2024-08-26 05:09:13,860 - INFO - Successfully connected to Redis
+2024-08-26 06:04:28,098 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-26 06:33:30,978 - INFO - Processing link: https://www.chess.com/analysis/game/live/108915870834?tab=review
+2024-08-26 06:33:38,055 - INFO - Successfully processed link: bdrbadr vs. Ov3erdrive | Analysis - Chess.com
+2024-08-26 07:25:36,925 - ERROR - Lost connection to Redis: Timeout reading from socket
+2024-08-26 07:25:38,143 - INFO - Successfully connected to Redis
+2024-08-26 08:00:25,257 - INFO - Processing link: https://www.chess.com/analysis/game/live/118331332489?tab=review
+2024-08-26 08:00:34,299 - INFO - Successfully processed link: ducdam047 vs. qadth | Analysis - Chess.com
+2024-08-26 08:03:58,366 - INFO - Processing link: https://www.chess.com/analysis/game/live/118328877557?tab=review
+2024-08-26 08:04:07,238 - INFO - Successfully processed link: hungvietna vs. akosg86 | Analysis - Chess.com
+2024-08-26 08:04:49,515 - INFO - Processing link: https://www.chess.com/analysis/game/live/118328316725?tab=review
+2024-08-26 08:04:56,765 - INFO - Successfully processed link: kulpet345 vs. hungvietna | Analysis - Chess.com
+2024-08-26 08:06:06,598 - INFO - Processing link: https://www.chess.com/analysis/game/live/118308515735?tab=review
+2024-08-26 08:06:15,228 - INFO - Successfully processed link: hungvietna vs. bishwojitneupane | Analysis - Chess.com
+2024-08-26 08:06:41,621 - INFO - Processing link: https://www.chess.com/analysis/game/live/118368518413?tab=review
+2024-08-26 08:06:50,309 - INFO - Successfully processed link: Wolver10 vs. MIKIvn | Analysis - Chess.com
+2024-08-26 08:06:52,851 - INFO - Processing link: https://www.chess.com/analysis/game/live/118244882359?tab=review
+2024-08-26 08:07:04,596 - INFO - Successfully processed link: hungvietna vs. Zorotaro9 | Analysis - Chess.com
+2024-08-26 08:07:07,623 - INFO - Processing link: https://www.chess.com/analysis/game/live/108885159352?tab=review
+2024-08-26 08:07:15,670 - INFO - Successfully processed link: abubakar2603 vs. TheSniperBishop13 | Analysis - Chess.com
+2024-08-26 08:08:14,695 - INFO - Processing link: https://www.chess.com/analysis/game/live/118243747093?tab=review
+2024-08-26 08:08:14,695 - INFO - Processing link: https://www.chess.com/analysis/game/live/118240125927?tab=review
+2024-08-26 08:08:22,972 - INFO - Successfully processed link: TheSniperBishop13 vs. Esteglali | Analysis - Chess.com
+2024-08-26 08:08:23,848 - INFO - Successfully processed link: hungvietna vs. ebymuzhlanov | Analysis - Chess.com
+2024-08-26 08:08:46,628 - INFO - Processing link: https://www.chess.com/analysis/game/live/117878931507?tab=review
+2024-08-26 08:08:55,680 - INFO - Successfully processed link: baomapr vs. OkarTheGoliath | Analysis - Chess.com
+2024-08-26 08:09:21,638 - INFO - Processing link: https://www.chess.com/analysis/game/live/118243685825?tab=review
+2024-08-26 08:09:29,259 - INFO - Successfully processed link: Charlit000 vs. hungvietna | Analysis - Chess.com
+2024-08-26 08:09:31,647 - INFO - Processing link: https://www.chess.com/analysis/game/live/108907080734?tab=review
+2024-08-26 08:09:38,970 - INFO - Successfully processed link: LXE14664 vs. KhuongMinh2013 | Analysis - Chess.com
+2024-08-26 08:09:41,640 - INFO - Processing link: github
