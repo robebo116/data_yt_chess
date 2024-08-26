@@ -2809,3 +2809,6 @@ navigating to "https://www.chess.com/analysis/game/live/108932475788?tab=review"
 2024-08-27 04:49:23,718 - ERROR - Failed to connect to Redis: Timeout reading from socket. Retrying in 5 seconds...
 2024-08-27 04:49:32,444 - INFO - Successfully connected to Redis
 2024-08-27 05:17:54,296 - INFO - Processing link: github
+2024-08-27 05:21:44,958 - INFO - Processing link: https://www.chess.com/analysis/game/live/118426139291?tab=review
+2024-08-27 05:21:52,070 - INFO - Successfully processed link: ViniciusBarizon vs. ki1512 | Analysis - Chess.com
+2024-08-27 05:22:26,084 - INFO - Processing link: github
