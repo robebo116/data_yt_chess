@@ -1367,3 +1367,100 @@ navigating to "https://www.chess.com/analysis/game/live/118286889353?tab=review"
 2024-08-26 09:01:10,493 - INFO - Processing link: https://www.chess.com/analysis/game/live/148788571?tab=review
 2024-08-26 09:01:18,256 - INFO - Successfully processed link: zure84 vs. dummycan | Analysis - Chess.com
 2024-08-26 09:18:34,119 - INFO - Processing link: github
+2024-08-26 09:23:43,721 - INFO - Processing link: https://www.chess.com/analysis/game/live/108917336040?tab=review
+2024-08-26 09:23:50,314 - INFO - Successfully processed link: ConuMisuBosulica vs. baomapr | Analysis - Chess.com
+2024-08-26 09:28:23,268 - INFO - Processing link: https://www.chess.com/analysis/game/live/118325280115?tab=review
+2024-08-26 09:28:31,496 - INFO - Successfully processed link: LeDinhNguyeKhoi vs. MIKIvn | Analysis - Chess.com
+2024-08-26 09:29:41,065 - INFO - Processing link: https://www.chess.com/analysis/game/live/108839217456?tab=review
+2024-08-26 09:29:49,296 - INFO - Successfully processed link: KhuongMinh2013 vs. gopalchandraroy | Analysis - Chess.com
+2024-08-26 09:29:54,080 - INFO - Processing link: https://www.chess.com/analysis/game/live/117964735361?tab=review
+2024-08-26 09:30:01,914 - INFO - Successfully processed link: STSRC77 vs. Chess_Be_Like0 | Analysis - Chess.com
+2024-08-26 09:30:32,121 - INFO - Processing link: https://www.chess.com/analysis/game/live/108835093026?tab=review
+2024-08-26 09:30:40,952 - INFO - Successfully processed link: KhuongMinh2013 vs. HotDude199 | Analysis - Chess.com
+2024-08-26 09:31:14,155 - INFO - Processing link: https://www.chess.com/analysis/game/live/117964778873?tab=review
+2024-08-26 09:31:21,533 - INFO - Successfully processed link: STSRC77 vs. Chess_Be_Like0 | Analysis - Chess.com
+2024-08-26 09:31:24,170 - INFO - Processing link: https://www.chess.com/analysis/game/live/1188224487833?tab=review
+2024-08-26 09:31:58,240 - WARNING - Error processing link https://www.chess.com/analysis/game/live/1188224487833?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-26 09:31:58,251 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/1188224487833?tab=review
+2024-08-26 09:32:31,760 - WARNING - Error processing link https://www.chess.com/analysis/game/live/1188224487833?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-26 09:32:31,771 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/1188224487833?tab=review
+2024-08-26 09:32:34,710 - INFO - Processing link: https://www.chess.com/analysis/game/live/108917403056?tab=review
+2024-08-26 09:32:34,710 - INFO - Processing link: https://www.chess.com/analysis/game/live/108917361130?tab=review
+2024-08-26 09:32:43,275 - INFO - Successfully processed link: JoGo2121 vs. baomapr | Analysis - Chess.com
+2024-08-26 09:32:43,863 - INFO - Successfully processed link: EdwardChessVN vs. Abbai99 | Analysis - Chess.com
+2024-08-26 09:32:51,263 - INFO - Processing link: https://www.chess.com/analysis/game/live/108917403056?tab=review
+2024-08-26 09:32:57,538 - INFO - Successfully processed link: JoGo2121 vs. baomapr | Analysis - Chess.com
+2024-08-26 09:34:02,339 - INFO - Processing link: https://www.chess.com/analysis/game/live/117965394515?tab=review
+2024-08-26 09:34:10,167 - INFO - Successfully processed link: phampro1234 vs. Chess_Be_Like0 | Analysis - Chess.com
+2024-08-26 09:35:05,413 - INFO - Processing link: https://www.chess.com/analysis/game/live/117773353757?tab=review
+2024-08-26 09:35:12,903 - INFO - Successfully processed link: Minhnoprodz14 vs. NUZ2010 | Analysis - Chess.com
+2024-08-26 09:36:01,574 - INFO - Processing link: https://www.chess.com/analysis/game/live/118224487833?tab=review
+2024-08-26 09:36:08,737 - INFO - Successfully processed link: ki1512 vs. BentLarsenErIkkeMig | Analysis - Chess.com
+2024-08-26 09:36:57,538 - INFO - Processing link: https://www.chess.com/analysis/game/live/117773353757?tab=review
+2024-08-26 09:37:04,344 - INFO - Successfully processed link: Minhnoprodz14 vs. NUZ2010 | Analysis - Chess.com
+2024-08-26 09:37:24,565 - INFO - Processing link: https://www.chess.com/analysis/game/live/149690841?tab=review
+2024-08-26 09:37:32,174 - INFO - Successfully processed link: aldoronco vs. neite | Analysis - Chess.com
+2024-08-26 09:38:01,611 - INFO - Processing link: https://www.chess.com/analysis/game/live/149690841?tab=review
+2024-08-26 09:38:08,086 - INFO - Successfully processed link: aldoronco vs. neite | Analysis - Chess.com
+2024-08-26 09:38:36,634 - INFO - Processing link: https://www.chess.com/analysis/game/live/108917336216?tab=review
+2024-08-26 09:38:44,559 - INFO - Successfully processed link: chessplayer-no2 vs. joelaristides | Analysis - Chess.com
+2024-08-26 09:38:47,484 - INFO - Processing link: https://www.chess.com/analysis/game/live/149690841?tab=review
+2024-08-26 09:38:54,324 - INFO - Successfully processed link: aldoronco vs. neite | Analysis - Chess.com
+2024-08-26 09:39:18,630 - INFO - Processing link: https://www.chess.com/analysis/game/live/118228072201?tab=review
+2024-08-26 09:39:26,401 - INFO - Successfully processed link: sulltani4 vs. thai08092011 | Analysis - Chess.com
+2024-08-26 09:39:29,632 - INFO - Processing link: https://www.chess.com/analysis/game/live/108917336216?tab=review
+2024-08-26 09:39:36,349 - INFO - Successfully processed link: chessplayer-no2 vs. joelaristides | Analysis - Chess.com
+2024-08-26 09:40:00,643 - INFO - Processing link: https://www.chess.com/analysis/game/live/108917481682?tab=review
+2024-08-26 09:40:08,703 - INFO - Successfully processed link: baomapr vs. Ayush_0415 | Analysis - Chess.com
+2024-08-26 09:41:37,492 - ERROR - Error in main loop: Timeout reading from socket
+2024-08-26 09:41:52,323 - ERROR - Lost connection to Redis: Timeout reading from socket
+2024-08-26 09:41:53,049 - INFO - Successfully connected to Redis
+2024-08-26 09:42:35,769 - INFO - Processing link: https://www.chess.com/analysis/game/live/118224487833?tab=review
+2024-08-26 09:42:42,163 - INFO - Successfully processed link: ki1512 vs. BentLarsenErIkkeMig | Analysis - Chess.com
+2024-08-26 09:43:19,753 - INFO - Processing link: https://www.chess.com/analysis/game/live/118378664903?tab=review
+2024-08-26 09:43:27,616 - INFO - Successfully processed link: Hai_Viet vs. pykles | Analysis - Chess.com
+2024-08-26 09:49:46,850 - INFO - Processing link: https://www.chess.com/analysis/game/live/108516289648?tab=review
+2024-08-26 09:49:54,123 - INFO - Successfully processed link: jesus2398 vs. ebe-dangvui | Analysis - Chess.com
+2024-08-26 09:57:38,019 - INFO - Processing link: https://www.chess.com/analysis/game/live/118378719513?tab=review
+2024-08-26 09:57:47,002 - INFO - Successfully processed link: gotosuccess vs. NavierStokes1 | Analysis - Chess.com
+2024-08-26 09:57:49,247 - INFO - Processing link: https://www.chess.com/analysis/game/live/0?tab=review
+2024-08-26 09:58:22,862 - WARNING - Error processing link https://www.chess.com/analysis/game/live/0?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-26 09:58:22,873 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/0?tab=review
+2024-08-26 09:58:56,515 - WARNING - Error processing link https://www.chess.com/analysis/game/live/0?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-26 09:58:56,523 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/0?tab=review
+2024-08-26 09:58:59,055 - INFO - Processing link: https://www.chess.com/analysis/game/live/0?tab=review
+2024-08-26 09:58:59,055 - INFO - Processing link: https://www.chess.com/analysis/game/live/118378071827?tab=review
+2024-08-26 09:59:08,418 - INFO - Successfully processed link: gotosuccess vs. triko6 | Analysis - Chess.com
+2024-08-26 09:59:33,998 - WARNING - Error processing link https://www.chess.com/analysis/game/live/0?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-26 09:59:34,009 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/0?tab=review
+2024-08-26 10:00:08,141 - WARNING - Error processing link https://www.chess.com/analysis/game/live/0?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-26 10:00:08,151 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/0?tab=review
+2024-08-26 10:00:10,914 - INFO - Processing link: https://www.chess.com/analysis/game/live/691987081?tab=review
+2024-08-26 10:00:10,914 - INFO - Processing link: https://www.chess.com/analysis/game/live/118377519211?tab=review
+2024-08-26 10:00:18,426 - INFO - Successfully processed link: 4nbb vs. gotosuccess | Analysis - Chess.com
+2024-08-26 10:00:19,163 - INFO - Successfully processed link: Mate_is_coming vs. superbreakout66 | Analysis - Chess.com
+2024-08-26 10:00:26,657 - INFO - Processing link: https://www.chess.com/analysis/game/live/691987081?tab=review
+2024-08-26 10:00:32,809 - INFO - Successfully processed link: Mate_is_coming vs. superbreakout66 | Analysis - Chess.com
+2024-08-26 10:07:40,082 - INFO - Processing link: https://www.chess.com/analysis/game/live/118379875011?tab=review
+2024-08-26 10:07:47,895 - INFO - Successfully processed link: Pauloojr vs. Hai_Viet | Analysis - Chess.com
+2024-08-26 10:11:10,283 - INFO - Processing link: https://www.chess.com/analysis/game/live/118380512321?tab=review
+2024-08-26 10:11:17,303 - INFO - Successfully processed link: FriedPancake1 vs. the_Player_1234567890 | Analysis - Chess.com
+2024-08-26 10:12:56,934 - INFO - Processing link: github
