@@ -1,68 +1,302 @@
-2024-08-27 12:17:50,726 - INFO - Processing link: https://www.chess.com/analysis/game/live/118425499881?tab=review
-2024-08-27 12:17:56,772 - INFO - Successfully processed link: love_to_blunder vs. ki1512 | Analysis - Chess.com
-2024-08-27 18:52:29,359 - INFO - Processing link: https://www.chess.com/analysis/game/daily/694186083?tab=review
-2024-08-27 18:53:09,370 - WARNING - Error processing link https://www.chess.com/analysis/game/daily/694186083?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+2024-08-27 20:45:14,690 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-08-27 20:45:14,690 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 20:45:14,691 - INFO -  * Restarting with stat
+2024-08-27 20:45:15,379 - WARNING -  * Debugger is active!
+2024-08-27 20:45:15,382 - INFO -  * Debugger PIN: 236-185-013
+2024-08-27 20:45:46,648 - INFO - Processing link: https://www.chess.com/analysis/game/live/118253923543?tab=analysis
+2024-08-27 20:45:47,109 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/118253923543?tab=review: BrowserType.launch: Failed to launch webkit because executable doesn't exist at C:\Users\Admin\AppData\Local\ms-playwright\webkit-2051\Playwright.exe
+2024-08-27 20:45:47,111 - INFO - 127.0.0.1 - - [27/Aug/2024 20:45:47] "POST /message HTTP/1.1" 200 -
+2024-08-27 20:46:33,668 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-08-27 20:46:33,668 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 20:46:33,669 - INFO -  * Restarting with stat
+2024-08-27 20:46:34,382 - WARNING -  * Debugger is active!
+2024-08-27 20:46:34,385 - INFO -  * Debugger PIN: 236-185-013
+2024-08-27 20:46:40,220 - INFO - Processing link: https://www.chess.com/analysis/game/live/118253923543?tab=analysis
+2024-08-27 20:47:14,784 - WARNING - Error processing link https://www.chess.com/analysis/game/live/118253923543?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
 Call log:
 waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
 
-2024-08-27 18:53:13,273 - INFO - Successfully logged in and saved cookies for robebo010
-2024-08-27 18:53:45,563 - INFO - Processing link: https://www.chess.com/analysis/game/daily/694186083?tab=review
-2024-08-27 18:53:50,782 - INFO - Successfully processed link: Twilightdaisy vs. KhuongMinh2013 | Analysis - Chess.com
-2024-08-27 18:54:30,354 - INFO - Processing link: https://www.chess.com/analysis/game/computer/150935197?tab=review
-2024-08-27 18:54:35,984 - INFO - Successfully processed link: B\u1ea3ng phân tích và trình duy\u1ec7t PGN - Chess.com
-2024-08-27 19:28:16,344 - WARNING -  * Debugger is active!
-2024-08-27 19:28:16,347 - INFO -  * Debugger PIN: 554-958-725
-2024-08-27 19:28:19,598 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2024-08-27 20:47:18,679 - INFO - Successfully logged in and saved cookies for robebo010
+2024-08-27 20:47:18,714 - INFO - 127.0.0.1 - - [27/Aug/2024 20:47:18] "POST /message HTTP/1.1" 200 -
+2024-08-27 20:47:34,255 - INFO - Processing link: https://www.chess.com/analysis/game/live/118253923543?tab=analysis
+2024-08-27 20:47:42,739 - INFO - Successfully processed link: ki1512 vs. PouleBleue | Analysis - Chess.com
+2024-08-27 20:47:42,783 - INFO - 127.0.0.1 - - [27/Aug/2024 20:47:42] "POST /message HTTP/1.1" 200 -
+2024-08-27 20:47:51,326 - INFO - Processing link: https://www.chess.com/game/live/118498679487
+2024-08-27 20:47:59,456 - INFO - Processing link: https://www.chess.com/game/live/118498679487
+2024-08-27 20:48:01,112 - INFO - Successfully processed link: kulitpasaway vs. chaunhatkhang3a | Analysis - Chess.com
+2024-08-27 20:48:01,151 - INFO - 127.0.0.1 - - [27/Aug/2024 20:48:01] "POST /message HTTP/1.1" 200 -
+2024-08-27 20:54:54,262 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:8000
-2024-08-27 19:28:19,598 - INFO - [33mPress CTRL+C to quit[0m
-2024-08-27 19:28:19,600 - INFO -  * Restarting with stat
-2024-08-27 19:28:20,499 - WARNING -  * Debugger is active!
-2024-08-27 19:28:20,501 - INFO -  * Debugger PIN: 554-958-725
-2024-08-27 19:29:31,709 - INFO - Processing link: https://www.chess.com/analysis/game/computer/150935197?tab=review
-2024-08-27 19:29:38,261 - INFO - Successfully processed link: B\u1ea3ng phân tích và trình duy\u1ec7t PGN - Chess.com
-2024-08-27 19:29:38,311 - INFO - 127.0.0.1 - - [27/Aug/2024 19:29:38] "POST /message HTTP/1.1" 200 -
-2024-08-27 19:31:12,902 - INFO - Processing link: https://www.chess.com/analysis/game/computer/150935197?tab=review
-2024-08-27 19:31:18,791 - INFO - Successfully processed link: B\u1ea3ng phân tích và trình duy\u1ec7t PGN - Chess.com
-2024-08-27 19:31:18,840 - INFO - 127.0.0.1 - - [27/Aug/2024 19:31:18] "POST /message HTTP/1.1" 200 -
-2024-08-27 19:34:15,002 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
-2024-08-27 19:34:15,088 - INFO -  * Restarting with stat
-2024-08-27 19:34:16,155 - WARNING -  * Debugger is active!
-2024-08-27 19:34:16,157 - INFO -  * Debugger PIN: 554-958-725
-2024-08-27 20:26:25,934 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2024-08-27 20:54:54,263 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 20:54:54,264 - INFO -  * Restarting with stat
+2024-08-27 20:54:54,953 - WARNING -  * Debugger is active!
+2024-08-27 20:54:54,956 - INFO -  * Debugger PIN: 236-185-013
+2024-08-27 20:55:24,163 - INFO - Processing link: https://www.chess.com/analysis/game/live/118253888641?tab=analysis
+2024-08-27 20:55:32,002 - INFO - Successfully processed link: ki1512 vs. Siemon187 | Analysis - Chess.com
+2024-08-27 20:55:32,048 - INFO - 127.0.0.1 - - [27/Aug/2024 20:55:32] "POST /message HTTP/1.1" 200 -
+2024-08-27 20:56:02,422 - INFO - Processing link: https://www.chess.com/analysis/game/live/118253888641?tab=analysis
+2024-08-27 20:56:10,598 - INFO - Successfully processed link: ki1512 vs. Siemon187 | Analysis - Chess.com
+2024-08-27 20:56:10,643 - INFO - 127.0.0.1 - - [27/Aug/2024 20:56:10] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:10:34,642 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:8000
-2024-08-27 20:26:25,934 - INFO - [33mPress CTRL+C to quit[0m
-2024-08-27 20:26:25,936 - INFO -  * Restarting with stat
-2024-08-27 20:26:26,988 - WARNING -  * Debugger is active!
-2024-08-27 20:26:26,990 - INFO -  * Debugger PIN: 554-958-725
-2024-08-27 20:26:59,877 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\requet.py', reloading
-2024-08-27 20:26:59,983 - INFO -  * Restarting with stat
-2024-08-27 20:27:01,063 - WARNING -  * Debugger is active!
-2024-08-27 20:27:01,064 - INFO -  * Debugger PIN: 554-958-725
-2024-08-27 20:27:02,637 - INFO - Processing link: github
-2024-08-27 20:27:04,899 - INFO - 127.0.0.1 - - [27/Aug/2024 20:27:04] "POST /message HTTP/1.1" 200 -
-2024-08-27 20:32:30,680 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
- * Running on http://127.0.0.1:8000
-2024-08-27 20:32:30,681 - INFO - [33mPress CTRL+C to quit[0m
-2024-08-27 20:32:30,683 - INFO -  * Restarting with stat
-2024-08-27 20:32:31,709 - WARNING -  * Debugger is active!
-2024-08-27 20:32:31,710 - INFO -  * Debugger PIN: 554-958-725
-2024-08-27 20:34:19,444 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\requet.py', reloading
-2024-08-27 20:34:19,540 - INFO -  * Restarting with stat
-2024-08-27 20:34:20,515 - WARNING -  * Debugger is active!
-2024-08-27 20:34:20,517 - INFO -  * Debugger PIN: 554-958-725
-2024-08-27 20:34:21,565 - INFO - Processing link: https://www.chess.com/analysis?tab=analysis
-2024-08-27 20:34:55,397 - WARNING - Error processing link https://www.chess.com/analysis?tab=analysis: Page.wait_for_selector: Timeout 30000ms exceeded.
+2024-08-27 21:10:34,642 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 21:10:34,643 - INFO -  * Restarting with stat
+2024-08-27 21:10:35,369 - WARNING -  * Debugger is active!
+2024-08-27 21:10:35,372 - INFO -  * Debugger PIN: 236-185-013
+2024-08-27 21:10:48,505 - INFO - Processing link: https://www.chess.com/analysis/game/live/118253888641?tab=analysis
+2024-08-27 21:10:48,506 - INFO - 127.0.0.1 - - [27/Aug/2024 21:10:48] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:10:55,509 - INFO - Successfully processed link: ki1512 vs. Siemon187 | Analysis - Chess.com
+2024-08-27 21:11:31,237 - INFO - 127.0.0.1 - - [27/Aug/2024 21:11:31] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:11:31,237 - INFO - Processing link: https://www.chess.com/analysis/game/live/118253340225?tab=analysis
+2024-08-27 21:11:38,633 - INFO - Successfully processed link: jgartel vs. ki1512 | Analysis - Chess.com
+2024-08-27 21:12:48,848 - INFO - 127.0.0.1 - - [27/Aug/2024 21:12:48] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:12:48,848 - INFO - Processing link: Check out this #chess game: muaj3344 vs Bodegroes - https://www.chess.com/live/game/108913654660
+2024-08-27 21:12:51,285 - INFO - Processing link: https://www.chess.com/analysis/game/computer/151010493?tab=analysis
+2024-08-27 21:12:51,286 - INFO - 127.0.0.1 - - [27/Aug/2024 21:12:51] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:12:55,815 - INFO - Successfully processed link: muaj3344 vs. Bodegroes | Analysis - Chess.com
+2024-08-27 21:12:58,529 - INFO - Successfully processed link: B\u1ea3ng phân tích và trình duy\u1ec7t PGN - Chess.com
+2024-08-27 21:13:39,470 - INFO - 127.0.0.1 - - [27/Aug/2024 21:13:39] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:13:39,470 - INFO - Processing link: https://www.chess.com/analysis/game/live/118507067457
+2024-08-27 21:13:47,842 - INFO - Successfully processed link: ndmanh1209 vs. Zeduky | Analysis - Chess.com
+2024-08-27 21:14:23,703 - INFO - 127.0.0.1 - - [27/Aug/2024 21:14:23] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:14:23,703 - INFO - Processing link: 118252766711
+2024-08-27 21:14:24,366 - ERROR - Error in run function for link 118252766711: Page.goto: Protocol error (Playwright.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "118252766711", waiting until "load"
+
+2024-08-27 21:22:12,519 - INFO - 127.0.0.1 - - [27/Aug/2024 21:22:12] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:22:12,519 - INFO - Processing link: https://www.chess.com/analysis/game/live/118507121139
+2024-08-27 21:22:20,412 - INFO - Successfully processed link: ndmanh1209 vs. sunilsape | Analysis - Chess.com
+2024-08-27 21:25:57,863 - INFO - 127.0.0.1 - - [27/Aug/2024 21:25:57] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:25:57,863 - INFO - Processing link: https://www.chess.com/game/108943981886
+2024-08-27 21:26:01,294 - INFO - 127.0.0.1 - - [27/Aug/2024 21:26:01] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:26:01,294 - INFO - Processing link: \u0634\u0627\u0647\u062f \u0647\u0630\u0647 \u0627\u0644\u0645\u0628\u0627\u0631\u0627\u0629: Suzie00007 \u0636\u062f medoxdf33 - https://www.chess.com/live/game/118507105277
+2024-08-27 21:26:09,881 - INFO - Successfully processed link: Suzie00007 vs. medoxdf33 | Analysis - Chess.com
+2024-08-27 21:26:30,780 - WARNING - Error processing link https://www.chess.com/game/108943981886: Page.wait_for_selector: Timeout 30000ms exceeded.
 Call log:
 waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+  -   locator resolved to 3 elements. Proceeding with the first one: <button type="button" aria-label="Xem l\u1ea1i ván \u0111\u1ea5u" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-review-button-background">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
 
-2024-08-27 20:34:55,406 - WARNING - Login element not found for link: https://www.chess.com/analysis?tab=analysis
-2024-08-27 20:34:55,444 - INFO - 127.0.0.1 - - [27/Aug/2024 20:34:55] "POST /message HTTP/1.1" 200 -
-2024-08-27 20:37:32,391 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
-2024-08-27 20:37:32,478 - INFO -  * Restarting with stat
-2024-08-27 20:37:33,467 - WARNING -  * Debugger is active!
-2024-08-27 20:37:33,469 - INFO -  * Debugger PIN: 554-958-725
-2024-08-27 20:37:42,742 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\requet.py', reloading
-2024-08-27 20:37:42,843 - INFO -  * Restarting with stat
-2024-08-27 20:37:43,829 - WARNING -  * Debugger is active!
-2024-08-27 20:37:43,831 - INFO -  * Debugger PIN: 554-958-725
-2024-08-27 20:37:44,980 - INFO - Processing link: github
+2024-08-27 21:26:30,788 - WARNING - Login element not found for link: https://www.chess.com/game/108943981886
+2024-08-27 21:26:36,026 - INFO - 127.0.0.1 - - [27/Aug/2024 21:26:36] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:26:36,027 - INFO - Processing link: https://www.chess.com/game/108943981886
+2024-08-27 21:27:08,690 - WARNING - Error processing link https://www.chess.com/game/108943981886: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+  -   locator resolved to 3 elements. Proceeding with the first one: <button type="button" aria-label="Xem l\u1ea1i ván \u0111\u1ea5u" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-review-button-background">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+
+2024-08-27 21:27:08,700 - WARNING - Login element not found for link: https://www.chess.com/game/108943981886
+2024-08-27 21:27:11,201 - INFO - 127.0.0.1 - - [27/Aug/2024 21:27:11] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:27:11,201 - INFO - Processing link: https://www.chess.com/game/108943981886
+2024-08-27 21:27:43,839 - WARNING - Error processing link https://www.chess.com/game/108943981886: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+
+2024-08-27 21:27:43,847 - WARNING - Login element not found for link: https://www.chess.com/game/108943981886
+2024-08-27 21:29:04,445 - INFO - 127.0.0.1 - - [27/Aug/2024 21:29:04] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:29:04,445 - INFO - Processing link: https://www.chess.com/game/108943981886
+2024-08-27 21:29:37,530 - WARNING - Error processing link https://www.chess.com/game/108943981886: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" data-click-spam-id="2" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full game-over-arena-button-button">…</button>
+
+2024-08-27 21:29:37,541 - WARNING - Login element not found for link: https://www.chess.com/game/108943981886
+2024-08-27 21:31:21,766 - INFO - 127.0.0.1 - - [27/Aug/2024 21:31:21] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:31:21,767 - INFO - Processing link: https://www.chess.com/analysis/game/live/118507706353
+2024-08-27 21:31:29,790 - INFO - Successfully processed link: ndmanh1209 vs. Krishna-984 | Analysis - Chess.com
+2024-08-27 21:33:54,903 - INFO - 127.0.0.1 - - [27/Aug/2024 21:33:54] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:33:54,903 - INFO - Processing link: https://www.chess.com/live/game/118507782139
+2024-08-27 21:34:02,193 - INFO - Successfully processed link: medoxdf33 vs. Nnyhihi | Analysis - Chess.com
+2024-08-27 21:34:21,774 - INFO - 127.0.0.1 - - [27/Aug/2024 21:34:21] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:34:21,774 - INFO - Processing link: https://www.chess.com/analysis/game/live/118508305483
+2024-08-27 21:34:29,126 - INFO - Successfully processed link: ndmanh1209 vs. Fatboy1989 | Analysis - Chess.com
+2024-08-27 21:45:29,935 - INFO - 127.0.0.1 - - [27/Aug/2024 21:45:29] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:45:29,936 - INFO - Processing link: https://www.chess.com/game/live/118508375043
+2024-08-27 21:45:37,486 - INFO - Successfully processed link: Chashinga1986 vs. Huongkhiet | Analysis - Chess.com
+2024-08-27 21:47:19,273 - INFO - 127.0.0.1 - - [27/Aug/2024 21:47:19] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:47:19,273 - INFO - Processing link: github
