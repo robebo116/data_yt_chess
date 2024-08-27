@@ -3187,3 +3187,34 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-08-27 16:51:17,902 - INFO - Processing link: https://www.chess.com/analysis/game/live/108344953888?tab=review
 2024-08-27 16:51:25,221 - INFO - Successfully processed link: ricvj vs. Yogesh131013 | Analysis - Chess.com
 2024-08-27 17:25:04,500 - INFO - Processing link: github
+2024-08-27 17:38:41,369 - INFO - Processing link: https://www.chess.com/analysis/game/live/108913767282?tab=review
+2024-08-27 17:38:49,715 - INFO - Successfully processed link: muaj3344 vs. EnhaRuiz | Analysis - Chess.com
+2024-08-27 17:39:59,457 - INFO - Processing link: https://www.chess.com/analysis/game/live/108940701822?tab=review
+2024-08-27 17:40:07,753 - INFO - Successfully processed link: toivo_r vs. muaj3344 | Analysis - Chess.com
+2024-08-27 17:41:16,535 - INFO - Processing link: https://www.chess.com/analysis/game/live/108940400274?tab=review
+2024-08-27 17:41:25,487 - INFO - Successfully processed link: EmilGD vs. muaj3344 | Analysis - Chess.com
+2024-08-27 17:42:14,558 - INFO - Processing link: https://www.chess.com/analysis/game/live/108940480062?tab=review
+2024-08-27 17:42:22,099 - INFO - Successfully processed link: Mateusz2025 vs. muaj3344 | Analysis - Chess.com
+2024-08-27 17:43:36,620 - INFO - Processing link: https://www.chess.com/analysis/game/live/118493937721?tab=review
+2024-08-27 17:43:44,172 - INFO - Successfully processed link: LongKirito vs. Konys_1959 | Analysis - Chess.com
+2024-08-27 17:44:09,930 - INFO - Processing link: https://www.chess.com/analysis/game/live/108940577406?tab=review
+2024-08-27 17:44:18,866 - INFO - Successfully processed link: muaj3344 vs. hamemiya | Analysis - Chess.com
+2024-08-27 17:48:22,634 - INFO - Processing link: https://www.chess.com/analysis/game/live/108876401508?tab=review
+2024-08-27 17:48:22,634 - INFO - Processing link: https://www.chess.com/analysis/game/live/108940891266?tab=review
+2024-08-27 17:48:30,956 - INFO - Successfully processed link: mathioupilou18 vs. ali_herr | Analysis - Chess.com
+2024-08-27 17:48:31,253 - INFO - Successfully processed link: gabo_Tc vs. muaj3344 | Analysis - Chess.com
+2024-08-27 17:48:42,918 - INFO - Processing link: https://www.chess.com/analysis/game/live/108940891266?tab=review
+2024-08-27 17:48:49,960 - INFO - Successfully processed link: mathioupilou18 vs. ali_herr | Analysis - Chess.com
+2024-08-27 18:00:53,609 - INFO - Processing link: https://www.chess.com/analysis/game/live/108941038700?tab=review
+2024-08-27 18:01:01,367 - INFO - Successfully processed link: chessplayer-no2 vs. akram-essaa | Analysis - Chess.com
+2024-08-27 18:01:03,618 - INFO - Processing link: https://www.chess.com/analysis/game/live/118494533613?tab=review
+2024-08-27 18:01:13,197 - INFO - Successfully processed link: The_Tactical_Technician vs. LongKirito | Analysis - Chess.com
+2024-08-27 18:01:50,101 - INFO - Processing link: https://www.chess.com/analysis/game/live/118495105979?tab=review
+2024-08-27 18:01:57,839 - INFO - Successfully processed link: urchmaney vs. GOD-SOMU | Analysis - Chess.com
+2024-08-27 18:03:32,783 - INFO - Processing link: https://www.chess.com/analysis/game/live/118495067261?tab=review
+2024-08-27 18:03:41,491 - INFO - Successfully processed link: manhdakdro0123 vs. daliborgogic | Analysis - Chess.com
+2024-08-27 18:06:52,992 - INFO - Processing link: https://www.chess.com/analysis/game/live/108941088024?tab=review
+2024-08-27 18:07:03,539 - INFO - Successfully processed link: ali_herr vs. doodle_dash | Analysis - Chess.com
+2024-08-27 18:11:00,369 - ERROR - Lost connection to Redis: Timeout reading from socket
+2024-08-27 18:11:01,718 - INFO - Successfully connected to Redis
+2024-08-27 18:29:35,243 - INFO - Processing link: github
