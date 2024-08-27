@@ -428,3 +428,17 @@ navigating to "chess.com/game/21321313123", waiting until "load"
 2024-08-28 00:28:55,208 - INFO - Successfully processed link: gokovali2009 vs. HUGOCHAVEZ1970 | Analysis - Chess.com
 2024-08-28 00:31:05,276 - INFO - 127.0.0.1 - - [28/Aug/2024 00:31:05] "POST /message HTTP/1.1" 200 -
 2024-08-28 00:31:05,276 - INFO - Processing link: github
+2024-08-28 00:31:36,699 - INFO - 127.0.0.1 - - [28/Aug/2024 00:31:36] "POST /message HTTP/1.1" 200 -
+2024-08-28 00:31:36,699 - INFO - Processing link: sdsliveds\u0111
+2024-08-28 00:31:37,382 - ERROR - Error in run function for link sdsliveds\u0111: Page.goto: Protocol error (Playwright.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "sdsliveds\u0111", waiting until "load"
+
+2024-08-28 00:35:46,214 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-08-28 00:35:46,214 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-28 00:35:46,215 - INFO -  * Restarting with stat
+2024-08-28 00:35:46,936 - WARNING -  * Debugger is active!
+2024-08-28 00:35:46,939 - INFO -  * Debugger PIN: 236-185-013
+2024-08-28 00:35:56,018 - INFO - Processing link: github
+2024-08-28 00:35:56,018 - INFO - 127.0.0.1 - - [28/Aug/2024 00:35:56] "POST /message HTTP/1.1" 200 -
