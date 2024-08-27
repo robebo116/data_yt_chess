@@ -5,3 +5,31 @@
 2024-08-27 19:48:33,477 - WARNING -  * Debugger is active!
 2024-08-27 19:48:33,479 - INFO -  * Debugger PIN: 236-185-013
 2024-08-27 19:48:52,310 - INFO - Processing link: github
+2024-08-27 19:48:54,589 - INFO - 127.0.0.1 - - [27/Aug/2024 19:48:54] "POST /message HTTP/1.1" 200 -
+2024-08-27 19:49:31,820 - INFO - Processing link: https://www.chess.com/analysis/game/live/118424987151?tab=analysis
+2024-08-27 19:49:32,279 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/118424987151?tab=review: BrowserType.launch: Failed to launch webkit because executable doesn't exist at C:\Users\Admin\AppData\Local\ms-playwright\webkit-2051\Playwright.exe
+2024-08-27 19:49:32,280 - INFO - 127.0.0.1 - - [27/Aug/2024 19:49:32] "POST /message HTTP/1.1" 200 -
+2024-08-27 19:50:37,339 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-08-27 19:50:37,339 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 19:50:37,340 - INFO -  * Restarting with stat
+2024-08-27 19:50:38,036 - WARNING -  * Debugger is active!
+2024-08-27 19:50:38,039 - INFO -  * Debugger PIN: 236-185-013
+2024-08-27 19:51:06,824 - INFO - Processing link: https://www.chess.com/analysis/game/live/118424987151?tab=analysis
+2024-08-27 19:51:14,340 - INFO - Successfully processed link: 8Avenger8 vs. ki1512 | Analysis - Chess.com
+2024-08-27 19:51:14,384 - INFO - 127.0.0.1 - - [27/Aug/2024 19:51:14] "POST /message HTTP/1.1" 200 -
+2024-08-27 19:51:45,636 - INFO - Processing link: https://www.chess.com/analysis/game/live/118424987151?tab=analysis
+2024-08-27 19:51:52,380 - INFO - Successfully processed link: 8Avenger8 vs. ki1512 | Analysis - Chess.com
+2024-08-27 19:51:52,425 - INFO - 127.0.0.1 - - [27/Aug/2024 19:51:52] "POST /message HTTP/1.1" 200 -
+2024-08-27 19:52:00,980 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-08-27 19:52:00,980 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 19:52:00,981 - INFO -  * Restarting with stat
+2024-08-27 19:52:01,690 - WARNING -  * Debugger is active!
+2024-08-27 19:52:01,693 - INFO -  * Debugger PIN: 236-185-013
+2024-08-27 19:53:50,234 - INFO - Processing link: https://www.chess.com/analysis/game/live/118424987151?tab=analysis
+2024-08-27 19:53:54,749 - INFO - Processing link: https://www.chess.com/game/108942293776
+2024-08-27 19:53:56,571 - INFO - Successfully processed link: 8Avenger8 vs. ki1512 | Analysis - Chess.com
+2024-08-27 19:53:56,636 - INFO - 127.0.0.1 - - [27/Aug/2024 19:53:56] "POST /message HTTP/1.1" 200 -
+2024-08-27 19:54:03,258 - INFO - Processing link: https://www.chess.com/game/108942293776
+2024-08-27 19:54:09,554 - INFO - Processing link: github
