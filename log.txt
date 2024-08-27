@@ -300,3 +300,8 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-08-27 21:45:37,486 - INFO - Successfully processed link: Chashinga1986 vs. Huongkhiet | Analysis - Chess.com
 2024-08-27 21:47:19,273 - INFO - 127.0.0.1 - - [27/Aug/2024 21:47:19] "POST /message HTTP/1.1" 200 -
 2024-08-27 21:47:19,273 - INFO - Processing link: github
+2024-08-27 21:48:09,957 - INFO - 127.0.0.1 - - [27/Aug/2024 21:48:09] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:48:09,957 - INFO - Processing link: https://www.chess.com/analysis/game/live/118424929461?tab=analysis
+2024-08-27 21:48:17,672 - INFO - Successfully processed link: tomtompa2 vs. ki1512 | Analysis - Chess.com
+2024-08-27 21:48:45,944 - INFO - 127.0.0.1 - - [27/Aug/2024 21:48:45] "POST /message HTTP/1.1" 200 -
+2024-08-27 21:48:45,944 - INFO - Processing link: githubádsdad
