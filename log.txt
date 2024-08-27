@@ -459,3 +459,11 @@ navigating to "chess.com/live", waiting until "load"
 2024-08-28 00:46:04,049 - INFO - Successfully processed link: muaj3344 vs. GOAG8 | Analysis - Chess.com
 2024-08-28 00:48:12,756 - INFO - 127.0.0.1 - - [28/Aug/2024 00:48:12] "POST /message HTTP/1.1" 200 -
 2024-08-28 00:48:12,756 - INFO - Processing link: github/live
+2024-08-28 00:49:26,882 - INFO - 127.0.0.1 - - [28/Aug/2024 00:49:26] "POST /message HTTP/1.1" 200 -
+2024-08-28 00:49:26,882 - INFO - Processing link: chess/com/live
+2024-08-28 00:49:27,538 - ERROR - Error in run function for link chess/com/live: Page.goto: Protocol error (Playwright.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "chess/com/live", waiting until "load"
+
+2024-08-28 00:50:53,068 - INFO - 127.0.0.1 - - [28/Aug/2024 00:50:53] "POST /message HTTP/1.1" 200 -
+2024-08-28 00:50:53,068 - INFO - Processing link: github
