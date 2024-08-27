@@ -417,3 +417,14 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-08-28 00:19:10,192 - INFO - Successfully processed link: Diegopro35 vs. cangaceirochess | Analysis - Chess.com
 2024-08-28 00:26:10,806 - INFO - 127.0.0.1 - - [28/Aug/2024 00:26:10] "POST /message HTTP/1.1" 200 -
 2024-08-28 00:26:10,806 - INFO - Processing link: github
+2024-08-28 00:26:37,671 - INFO - 127.0.0.1 - - [28/Aug/2024 00:26:37] "POST /message HTTP/1.1" 200 -
+2024-08-28 00:26:37,671 - INFO - Processing link: chess.com/game/21321313123
+2024-08-28 00:26:38,337 - ERROR - Error in run function for link chess.com/game/21321313123: Page.goto: Protocol error (Playwright.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "chess.com/game/21321313123", waiting until "load"
+
+2024-08-28 00:28:46,853 - INFO - 127.0.0.1 - - [28/Aug/2024 00:28:46] "POST /message HTTP/1.1" 200 -
+2024-08-28 00:28:46,854 - INFO - Processing link: dadada- chess.com/game/live/34234243
+2024-08-28 00:28:55,208 - INFO - Successfully processed link: gokovali2009 vs. HUGOCHAVEZ1970 | Analysis - Chess.com
+2024-08-28 00:31:05,276 - INFO - 127.0.0.1 - - [28/Aug/2024 00:31:05] "POST /message HTTP/1.1" 200 -
+2024-08-28 00:31:05,276 - INFO - Processing link: github
