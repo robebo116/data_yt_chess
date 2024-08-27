@@ -442,3 +442,20 @@ navigating to "sdsliveds\u0111", waiting until "load"
 2024-08-28 00:35:46,939 - INFO -  * Debugger PIN: 236-185-013
 2024-08-28 00:35:56,018 - INFO - Processing link: github
 2024-08-28 00:35:56,018 - INFO - 127.0.0.1 - - [28/Aug/2024 00:35:56] "POST /message HTTP/1.1" 200 -
+2024-08-28 00:40:08,070 - INFO - 127.0.0.1 - - [28/Aug/2024 00:40:08] "POST /message HTTP/1.1" 200 -
+2024-08-28 00:40:08,070 - INFO - Processing link: chess.com/game/live
+2024-08-28 00:40:09,282 - ERROR - Error in run function for link chess.com/game/live: Page.goto: Protocol error (Playwright.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "chess.com/game/live", waiting until "load"
+
+2024-08-28 00:44:47,743 - INFO - 127.0.0.1 - - [28/Aug/2024 00:44:47] "POST /message HTTP/1.1" 200 -
+2024-08-28 00:44:47,743 - INFO - Processing link: chess.com/live
+2024-08-28 00:44:48,387 - ERROR - Error in run function for link chess.com/live: Page.goto: Protocol error (Playwright.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "chess.com/live", waiting until "load"
+
+2024-08-28 00:45:56,094 - INFO - 127.0.0.1 - - [28/Aug/2024 00:45:56] "POST /message HTTP/1.1" 200 -
+2024-08-28 00:45:56,095 - INFO - Processing link: Check out this #chess game: muaj3344 vs GOAG8 - https://www.chess.com/live/game/108947371626
+2024-08-28 00:46:04,049 - INFO - Successfully processed link: muaj3344 vs. GOAG8 | Analysis - Chess.com
+2024-08-28 00:48:12,756 - INFO - 127.0.0.1 - - [28/Aug/2024 00:48:12] "POST /message HTTP/1.1" 200 -
+2024-08-28 00:48:12,756 - INFO - Processing link: github/live
