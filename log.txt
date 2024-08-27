@@ -313,3 +313,8 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-08-27 21:55:26,121 - INFO - Processing link: github
 2024-08-27 21:58:45,214 - INFO - 127.0.0.1 - - [27/Aug/2024 21:58:45] "POST /message HTTP/1.1" 200 -
 2024-08-27 21:58:45,214 - INFO - Processing link: github
+2024-08-27 22:02:40,868 - INFO - 127.0.0.1 - - [27/Aug/2024 22:02:40] "POST /message HTTP/1.1" 200 -
+2024-08-27 22:02:40,868 - INFO - Processing link: https://www.chess.com/game/live/118509582133
+2024-08-27 22:02:49,222 - INFO - Successfully processed link: ki1512 vs. Farnzie | Analysis - Chess.com
+2024-08-27 22:10:25,088 - INFO - 127.0.0.1 - - [27/Aug/2024 22:10:25] "POST /message HTTP/1.1" 200 -
+2024-08-27 22:10:25,088 - INFO - Processing link: github
