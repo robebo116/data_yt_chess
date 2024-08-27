@@ -469,3 +469,26 @@ navigating to "chess/com/live", waiting until "load"
 2024-08-28 00:50:53,068 - INFO - Processing link: github
 2024-08-28 00:51:29,382 - INFO - 127.0.0.1 - - [28/Aug/2024 00:51:29] "POST /message HTTP/1.1" 200 -
 2024-08-28 00:51:29,382 - INFO - Processing link: github
+2024-08-28 00:51:43,057 - INFO - 127.0.0.1 - - [28/Aug/2024 00:51:43] "POST /message HTTP/1.1" 200 -
+2024-08-28 00:51:43,058 - INFO - Processing link: https://www.chess.com/game/live/118224487833
+2024-08-28 00:51:49,914 - INFO - Successfully processed link: ki1512 vs. BentLarsenErIkkeMig | Analysis - Chess.com
+2024-08-28 00:57:41,250 - INFO - 127.0.0.1 - - [28/Aug/2024 00:57:41] "POST /message HTTP/1.1" 200 -
+2024-08-28 00:57:41,250 - INFO - Processing link: https://www.chess.com/game/live/118224487833
+2024-08-28 00:57:47,783 - INFO - Successfully processed link: ki1512 vs. BentLarsenErIkkeMig | Analysis - Chess.com
+2024-08-28 00:58:15,184 - INFO - 127.0.0.1 - - [28/Aug/2024 00:58:15] "POST /message HTTP/1.1" 200 -
+2024-08-28 00:58:15,185 - INFO - Processing link: Check out this #chess game: omer7740 vs Nyzm05 - https://www.chess.com/live/game/108947523440
+2024-08-28 00:58:22,603 - INFO - Successfully processed link: omer7740 vs. Nyzm05 | Analysis - Chess.com
+2024-08-28 00:59:36,456 - INFO - 127.0.0.1 - - [28/Aug/2024 00:59:36] "POST /message HTTP/1.1" 200 -
+2024-08-28 00:59:36,456 - INFO - Processing link: restart
+2024-08-28 00:59:36,457 - ERROR - Error in run function for link restart: not enough values to unpack (expected 2, got 1)
+2024-08-28 01:06:37,519 - INFO - 127.0.0.1 - - [28/Aug/2024 01:06:37] "POST /message HTTP/1.1" 200 -
+2024-08-28 01:06:37,519 - INFO - Processing link: https://www.chess.com/game/live/118520926213
+2024-08-28 01:06:50,207 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/118520926213?tab=review: Page.goto: Couldn't resolve host name
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/118520926213?tab=review", waiting until "load"
+
+2024-08-28 01:09:21,470 - INFO - 127.0.0.1 - - [28/Aug/2024 01:09:21] "POST /message HTTP/1.1" 200 -
+2024-08-28 01:09:21,470 - INFO - Processing link: Check out this #chess game: muaj3344 vs Helmut100000 - https://www.chess.com/live/game/108947664006
+2024-08-28 01:09:32,446 - INFO - Successfully processed link: muaj3344 vs. Helmut100000 | Analysis - Chess.com
+2024-08-28 01:20:16,561 - INFO - 127.0.0.1 - - [28/Aug/2024 01:20:16] "POST /message HTTP/1.1" 200 -
+2024-08-28 01:20:16,561 - INFO - Processing link: github
