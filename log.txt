@@ -952,3 +952,81 @@ navigating to "[Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-08-28\
 2024-08-28 23:01:06,573 - INFO - Successfully processed link: CS73748 vs. mie-ayam1 | Analysis - Chess.com
 2024-08-28 23:04:17,120 - INFO - 127.0.0.1 - - [28/Aug/2024 23:04:17] "POST /message HTTP/1.1" 200 -
 2024-08-28 23:04:17,120 - INFO - Processing link: github
+2024-08-28 23:13:37,616 - INFO - 127.0.0.1 - - [28/Aug/2024 23:13:37] "POST /message HTTP/1.1" 200 -
+2024-08-28 23:13:37,616 - INFO - Processing link: https://www.chess.com/game/live/108963862806
+2024-08-28 23:14:11,803 - WARNING - Error processing link https://www.chess.com/analysis/game/live/108963862806?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-28 23:14:11,811 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/108963862806?tab=review
+2024-08-28 23:15:45,366 - INFO - 127.0.0.1 - - [28/Aug/2024 23:15:45] "POST /message HTTP/1.1" 200 -
+2024-08-28 23:15:45,366 - INFO - Processing link: https://www.chess.com/analysis/game/computer/139776491?tab=analysis
+2024-08-28 23:15:54,026 - INFO - Successfully processed link: B\u1ea3ng phân tích và trình duy\u1ec7t PGN - Chess.com
+2024-08-28 23:21:54,899 - INFO - 127.0.0.1 - - [28/Aug/2024 23:21:54] "POST /message HTTP/1.1" 200 -
+2024-08-28 23:21:54,899 - INFO - Processing link: https://www.chess.com/analysis/game/live/108345168514?tab=review
+2024-08-28 23:22:02,541 - INFO - Successfully processed link: Yogesh131013 vs. ardi06g | Analysis - Chess.com
+2024-08-28 23:22:41,254 - INFO - 127.0.0.1 - - [28/Aug/2024 23:22:41] "POST /message HTTP/1.1" 200 -
+2024-08-28 23:22:41,254 - INFO - Processing link: [Event \"Live Chess\"] [Site \"Chess.com\"] [Date \"2024.08.28\"] [Round \"-\"] [White \"Giantmonku\"] [Black \"viyyapukumar\"] [Result \"1-0\"] [CurrentPosition \"8/2P1b3/8/1p6/1p3kp1/1P4N1/P4PP1/6K1 b - -\"] [Timezone \"UTC\"] [ECO \"B07\"] [ECOUrl \"https://www.chess.com/openings/Pirc-Defense-Czech-Defense\"] [UTCDate \"2024.08.28\"] [UTCTime \"16:11:27\"] [WhiteElo \"1857\"] [BlackElo \"1788\"] [TimeControl \"600\"] [Termination \"Giantmonku won - game abandoned\"] [StartTime \"16:11:27\"] [EndDate \"2024.08.28\"] [EndTime \"16:22:39\"] [Link \"https://www.chess.com/game/live/118600664179\"] [WhiteUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"] [WhiteCountry \"69\"] [WhiteTitle \"\"] [BlackUrl \"https://images.chesscomfiles.com/uploads/v1/user/84192114.347d22ac.50x50o.9786c8dad511.jpeg\"] [BlackCountry \"69\"] [BlackTitle \"\"] 1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. Bf4 Nbd7 5. Nf3 Qc7 6. e5 Nd5 7. Nxd5 cxd5 8. exd6 exd6 9. Bd3 Nf6 10. O-O a6 11. Qd2 Be7 12. Rfe1 O-O 13. h3 Re8 14. Re2 Bd7 15. Rae1 Bf8 16. Bg5 Ne4 17. Bxe4 dxe4 18. Rxe4 Bf5 19. Rxe8 Rxe8 20. Rxe8 f6 21. Bf4 Kf7 22. Re2 g5 23. Be3 h5 24. Qc3 Qd7 25. Bd2 g4 26. hxg4 hxg4 27. Nh4 Be6 28. Qd3 f5 29. Rxe6 Qxe6 30. Qxf5+ Qxf5 31. Nxf5 Kf6 32. Ng3 b5 33. Bb4 Kg5 34. b3 Kf4 35. c4 Be7 36. c5 dxc5 37. dxc5 a5 38. c6 axb4 39. c7 1-0
+2024-08-28 23:22:49,914 - INFO - Successfully processed link: Giantmonku vs. viyyapukumar | Analysis - Chess.com
+2024-08-28 23:23:19,443 - INFO - 127.0.0.1 - - [28/Aug/2024 23:23:19] "POST /message HTTP/1.1" 200 -
+2024-08-28 23:23:19,443 - INFO - Processing link: https://www.chess.com/analysis/game/live/118600689593?tab=analysis
+2024-08-28 23:23:26,741 - INFO - Successfully processed link: taixe133 vs. babakubi | Analysis - Chess.com
+2024-08-28 23:41:26,598 - INFO - 127.0.0.1 - - [28/Aug/2024 23:41:26] "POST /message HTTP/1.1" 200 -
+2024-08-28 23:41:26,598 - INFO - Processing link: Check out this #chess game: muaj3344 vs berati76 - https://www.chess.com/live/game/118601331941
+2024-08-28 23:41:34,741 - INFO - Successfully processed link: muaj3344 vs. berati76 | Analysis - Chess.com
+2024-08-28 23:44:47,153 - INFO - 127.0.0.1 - - [28/Aug/2024 23:44:47] "POST /message HTTP/1.1" 200 -
+2024-08-28 23:44:47,153 - INFO - Processing link: Check out this #chess game: muaj3344 vs A_MAN-25 - https://www.chess.com/live/game/108875635512
+2024-08-28 23:44:55,442 - INFO - Successfully processed link: muaj3344 vs. A_MAN-25 | Analysis - Chess.com
+2024-08-28 23:47:34,273 - INFO - 127.0.0.1 - - [28/Aug/2024 23:47:34] "POST /message HTTP/1.1" 200 -
+2024-08-28 23:47:34,273 - INFO - Processing link: [Event \"Live Chess\"] [Site \"Chess.com\"] [Date \"2024.08.28\"] [Round \"-\"] [White \"Peknoski\"] [Black \"Giantmonku\"] [Result \"0-1\"] [CurrentPosition \"8/3n2k1/1p4p1/1P2p2p/4P3/2r2P1P/2p3P1/2N2BK1 w - -\"] [Timezone \"UTC\"] [ECO \"E90\"] [ECOUrl \"https://www.chess.com/openings/Kings-Indian-Defense-Normal-Variation-4.e4-d6-5.Nf3-O-O-6.h3\"] [UTCDate \"2024.08.28\"] [UTCTime \"16:35:22\"] [WhiteElo \"1849\"] [BlackElo \"1856\"] [TimeControl \"600\"] [Termination \"Giantmonku won by resignation\"] [StartTime \"16:35:22\"] [EndDate \"2024.08.28\"] [EndTime \"16:48:14\"] [Link \"https://www.chess.com/game/live/118601917415\"] [WhiteUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"] [WhiteCountry \"52\"] [WhiteTitle \"\"] [BlackUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"] [BlackCountry \"69\"] [BlackTitle \"\"] 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 Re8 7. Bd3 e5 8. Be3 b6 9. O-O Bb7 10. d5 Nbd7 11. b4 a5 12. a3 axb4 13. axb4 Rxa1 14. Qxa1 Qa8 15. Nb5 Qb8 16. Qa7 Qxa7 17. Nxa7 Ra8 18. Nb5 Ne8 19. Rc1 c6 20. dxc6 Bxc6 21. Nc3 Ra3 22. Bf1 h6 23. b5 Bb7 24. Nd5 Bxd5 25. cxd5 Nc5 26. Bxc5 dxc5 27. Nd2 Ra7 28. Nc4 Rb7 29. Ra1 Nf6 30. f3 Nd7 31. Ra8+ Kh7 32. Nd6 Rc7 33. Nxf7 c4 34. Nd6 c3 35. Ra1 c2 36. Rc1 Rc3 37. Nc4 h5 38. Nb2 Bh6 39. Nd3 Bxc1 40. Nxc1 Nc5 41. d6 Kg7 42. d7 Nxd7 0-1
+2024-08-28 23:47:42,456 - INFO - Successfully processed link: Peknoski vs. Giantmonku | Analysis - Chess.com
+2024-08-29 01:52:35,532 - INFO - 127.0.0.1 - - [29/Aug/2024 01:52:35] "POST /message HTTP/1.1" 200 -
+2024-08-29 01:52:35,532 - INFO - Processing link: https://www.chess.com/game/computer/151416235
+2024-08-29 01:52:44,743 - INFO - Successfully processed link: B\u1ea3ng phân tích và trình duy\u1ec7t PGN - Chess.com
+2024-08-29 01:52:54,994 - INFO - 127.0.0.1 - - [29/Aug/2024 01:52:54] "POST /message HTTP/1.1" 200 -
+2024-08-29 01:52:54,995 - INFO - Processing link: https://www.chess.com/game/computer/151416235
+2024-08-29 01:53:02,137 - INFO - Successfully processed link: B\u1ea3ng phân tích và trình duy\u1ec7t PGN - Chess.com
+2024-08-29 03:02:44,479 - INFO - 127.0.0.1 - - [29/Aug/2024 03:02:44] "POST /message HTTP/1.1" 200 -
+2024-08-29 03:02:44,479 - INFO - Processing link: https://www.chess.com/live/game/118613881097
+2024-08-29 03:02:52,185 - INFO - Successfully processed link: Rico1204 vs. muaj3344 | Analysis - Chess.com
+2024-08-29 03:30:19,585 - INFO - 127.0.0.1 - - [29/Aug/2024 03:30:19] "POST /message HTTP/1.1" 200 -
+2024-08-29 03:30:19,585 - INFO - Processing link: Check out this #chess game: sasha_dnepr vs muaj3344 - https://www.chess.com/live/game/118614552031
+2024-08-29 03:30:29,467 - INFO - Successfully processed link: sasha_dnepr vs. muaj3344 | Analysis - Chess.com
+2024-08-29 03:32:29,296 - INFO - 127.0.0.1 - - [29/Aug/2024 03:32:29] "POST /message HTTP/1.1" 200 -
+2024-08-29 03:32:29,297 - INFO - Processing link: Check out this #chess game: muaj3344 vs sasha_dnepr - https://www.chess.com/live/game/118615714637
+2024-08-29 03:32:39,257 - INFO - Successfully processed link: muaj3344 vs. sasha_dnepr | Analysis - Chess.com
+2024-08-29 03:41:10,799 - INFO - 127.0.0.1 - - [29/Aug/2024 03:41:10] "POST /message HTTP/1.1" 200 -
+2024-08-29 03:41:10,800 - INFO - Processing link: Check out this #chess game: muaj3344 vs NateDogg_98 - https://www.chess.com/live/game/118616307897
+2024-08-29 03:41:19,685 - INFO - Successfully processed link: muaj3344 vs. NateDogg_98 | Analysis - Chess.com
+2024-08-29 04:06:32,679 - INFO - 127.0.0.1 - - [29/Aug/2024 04:06:32] "POST /message HTTP/1.1" 200 -
+2024-08-29 04:06:32,679 - INFO - Processing link: https://www.chess.com/analysis/game/live/108968404562?tab=analysis
+2024-08-29 04:06:42,812 - INFO - Successfully processed link: KingswoodA vs. Ash_2197 | Analysis - Chess.com
+2024-08-29 04:34:06,854 - INFO - 127.0.0.1 - - [29/Aug/2024 04:34:06] "POST /message HTTP/1.1" 200 -
+2024-08-29 04:34:06,855 - INFO - Processing link: Check out this #chess game: muaj3344 vs NateDogg_98 - https://www.chess.com/live/game/118616307897Check out this #chess game: mohammadreza_64 vs Ivan170485 - https://www.chess.com/live/game/118570696371
+2024-08-29 04:34:13,486 - INFO - Successfully processed link: muaj3344 vs. NateDogg_98 | Analysis - Chess.com
+2024-08-29 04:34:43,834 - INFO - 127.0.0.1 - - [29/Aug/2024 04:34:43] "POST /message HTTP/1.1" 200 -
+2024-08-29 04:34:43,834 - INFO - Processing link: Check out this #chess game: muaj3344 vs NateDogg_98 - https://www.chess.com/live/game/118616307897Check out this #chess game: mohammadreza_64 vs Ivan170485 - https://www.chess.com/live/game/118570696371
+2024-08-29 04:34:50,305 - INFO - Successfully processed link: muaj3344 vs. NateDogg_98 | Analysis - Chess.com
+2024-08-29 04:35:39,639 - INFO - 127.0.0.1 - - [29/Aug/2024 04:35:39] "POST /message HTTP/1.1" 200 -
+2024-08-29 04:35:39,639 - INFO - Processing link: Check out this #chess game: mohammadreza_64 vs muaj3344 - https://www.chess.com/live/game/118619342879
+2024-08-29 04:35:46,743 - INFO - Successfully processed link: mohammadreza_64 vs. muaj3344 | Analysis - Chess.com
+2024-08-29 04:39:25,058 - INFO - 127.0.0.1 - - [29/Aug/2024 04:39:25] "POST /message HTTP/1.1" 200 -
+2024-08-29 04:39:25,058 - INFO - Processing link: [Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-08-28\"] [White \"mie-ayam1\"] [Black \"Sven\"] [Result \"1-0\"] [WhiteElo \"954\"] [BlackElo \"1100\"] [TimeControl \"-\"] [Termination \"mie-ayam1 won by checkmate\"] 1. e4 (1. d4) 1... d6 2. Nf3 Nf6 3. Nc3 g6 4. d4 Bg7 5. Be3 O-O 6. Be2 h6 7. O-O e6 8. Qd2 b6 9. e5 Ng4 10. h3 Re8 11. hxg4 Bb7 12. Bxh6 Bxh6 13. Qxh6 c5 14. Ng5 Nc6 15. Qh7+ Kf8 16. Qxf7# 1-0
+2024-08-29 04:39:25,736 - ERROR - Error in run function for link [Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-08-28\"] [White \"mie-ayam1\"] [Black \"Sven\"] [Result \"1-0\"] [WhiteElo \"954\"] [BlackElo \"1100\"] [TimeControl \"-\"] [Termination \"mie-ayam1 won by checkmate\"] 1. e4 (1. d4) 1... d6 2. Nf3 Nf6 3. Nc3 g6 4. d4 Bg7 5. Be3 O-O 6. Be2 h6 7. O-O e6 8. Qd2 b6 9. e5 Ng4 10. h3 Re8 11. hxg4 Bb7 12. Bxh6 Bxh6 13. Qxh6 c5 14. Ng5 Nc6 15. Qh7+ Kf8 16. Qxf7# 1-0: Page.goto: Protocol error (Playwright.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "[Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-08-28\"] [White \"mie-ayam1\"] [Black \"Sven\"] [Result \"1-0\"] [WhiteElo \"954\"] [BlackElo \"1100\"] [TimeControl \"-\"] [Termination \"mie-ayam1 won by checkmate\"] 1. e4 (1. d4) 1... d6 2. Nf3 Nf6 3. Nc3 g6 4. d4 Bg7 5. Be3 O-O 6. Be2 h6 7. O-O e6 8. Qd2 b6 9. e5 Ng4 10. h3 Re8 11. hxg4 Bb7 12. Bxh6 Bxh6 13. Qxh6 c5 14. Ng5 Nc6 15. Qh7+ Kf8 16. Qxf7# 1-0", waiting until "load"
+
+2024-08-29 04:42:07,457 - INFO - 127.0.0.1 - - [29/Aug/2024 04:42:07] "POST /message HTTP/1.1" 200 -
+2024-08-29 04:42:07,457 - INFO - Processing link: [Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-08-29\"] [White \"mie-ayam1\"] [Black \"Sven\"] [Result \"1-0\"] [WhiteElo \"954\"] [BlackElo \"1100\"] [TimeControl \"-\"] [Termination \"mie-ayam1 won by checkmate\"] 1. e4 d6 2. Nf3 Nf6 3. Nc3 g6 4. d4 Bg7 5. Be3 O-O 6. Be2 h6 7. O-O e6 8. Qd2 b6 9. e5 Ng4 10. h3 Re8 11. hxg4 Bb7 12. Bxh6 Bxh6 13. Qxh6 c5 14. Ng5 Nc6 15. Qh7+ Kf8 16. Qxf7# 1-0
+2024-08-29 04:42:08,099 - ERROR - Error in run function for link [Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-08-29\"] [White \"mie-ayam1\"] [Black \"Sven\"] [Result \"1-0\"] [WhiteElo \"954\"] [BlackElo \"1100\"] [TimeControl \"-\"] [Termination \"mie-ayam1 won by checkmate\"] 1. e4 d6 2. Nf3 Nf6 3. Nc3 g6 4. d4 Bg7 5. Be3 O-O 6. Be2 h6 7. O-O e6 8. Qd2 b6 9. e5 Ng4 10. h3 Re8 11. hxg4 Bb7 12. Bxh6 Bxh6 13. Qxh6 c5 14. Ng5 Nc6 15. Qh7+ Kf8 16. Qxf7# 1-0: Page.goto: Protocol error (Playwright.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "[Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-08-29\"] [White \"mie-ayam1\"] [Black \"Sven\"] [Result \"1-0\"] [WhiteElo \"954\"] [BlackElo \"1100\"] [TimeControl \"-\"] [Termination \"mie-ayam1 won by checkmate\"] 1. e4 d6 2. Nf3 Nf6 3. Nc3 g6 4. d4 Bg7 5. Be3 O-O 6. Be2 h6 7. O-O e6 8. Qd2 b6 9. e5 Ng4 10. h3 Re8 11. hxg4 Bb7 12. Bxh6 Bxh6 13. Qxh6 c5 14. Ng5 Nc6 15. Qh7+ Kf8 16. Qxf7# 1-0", waiting until "load"
+
+2024-08-29 04:45:38,421 - INFO - 127.0.0.1 - - [29/Aug/2024 04:45:38] "POST /message HTTP/1.1" 200 -
+2024-08-29 04:45:38,421 - INFO - Processing link: Check out this #chess game: zsofiane vs muaj3344 - https://www.chess.com/live/game/118619933025
+2024-08-29 04:45:45,845 - INFO - Successfully processed link: zsofiane vs. muaj3344 | Analysis - Chess.com
+2024-08-29 05:08:08,681 - INFO - 127.0.0.1 - - [29/Aug/2024 05:08:08] "POST /message HTTP/1.1" 200 -
+2024-08-29 05:08:08,681 - INFO - Processing link: Check out this #chess game: muaj3344 vs RaisinBoy1 - https://www.chess.com/live/game/118621092329
+2024-08-29 05:08:16,882 - INFO - Successfully processed link: muaj3344 vs. RaisinBoy1 | Analysis - Chess.com
+2024-08-29 05:15:49,574 - INFO - 127.0.0.1 - - [29/Aug/2024 05:15:49] "POST /message HTTP/1.1" 200 -
+2024-08-29 05:15:49,574 - INFO - Processing link: github
