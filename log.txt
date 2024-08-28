@@ -606,3 +606,8 @@ navigating to "[Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-08-27\
 2024-08-28 06:58:46,706 - INFO - Successfully processed link: dai-9 vs. Mohamedome | Analysis - Chess.com
 2024-08-28 07:51:38,930 - INFO - 127.0.0.1 - - [28/Aug/2024 07:51:38] "POST /message HTTP/1.1" 200 -
 2024-08-28 07:51:38,930 - INFO - Processing link: github
+2024-08-28 08:08:36,528 - INFO - 127.0.0.1 - - [28/Aug/2024 08:08:36] "POST /message HTTP/1.1" 200 -
+2024-08-28 08:08:36,528 - INFO - Processing link: https://www.chess.com/analysis/game/live/117716385703?tab=analysis
+2024-08-28 08:08:45,988 - INFO - Successfully processed link: NgocThienAn2018 vs. Franzjohann | Analysis - Chess.com
+2024-08-28 08:33:08,140 - INFO - 127.0.0.1 - - [28/Aug/2024 08:33:08] "POST /message HTTP/1.1" 200 -
+2024-08-28 08:33:08,140 - INFO - Processing link: github
