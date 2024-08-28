@@ -908,3 +908,47 @@ navigating to "[Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-08-28\
 2024-08-28 21:43:42,421 - INFO - Successfully processed link: Prajwalxettri1CR7 vs. mie-ayam1 | Analysis - Chess.com
 2024-08-28 21:50:28,701 - INFO - 127.0.0.1 - - [28/Aug/2024 21:50:28] "POST /message HTTP/1.1" 200 -
 2024-08-28 21:50:28,701 - INFO - Processing link: github
+2024-08-28 22:01:37,045 - INFO - 127.0.0.1 - - [28/Aug/2024 22:01:37] "POST /message HTTP/1.1" 200 -
+2024-08-28 22:01:37,045 - INFO - Processing link: https://www.chess.com/analysis/game/live/108962695138?tab=analysis
+2024-08-28 22:01:44,711 - INFO - Successfully processed link: Shubhi7775 vs. surecare | Analysis - Chess.com
+2024-08-28 22:03:00,240 - INFO - 127.0.0.1 - - [28/Aug/2024 22:03:00] "POST /message HTTP/1.1" 200 -
+2024-08-28 22:03:00,241 - INFO - Processing link: https://www.chess.com/analysis/game/daily/677588273?tab=analysis
+2024-08-28 22:03:08,110 - INFO - Successfully processed link: surecare vs. CardenMcKinney | Analysis - Chess.com
+2024-08-28 22:06:31,818 - INFO - 127.0.0.1 - - [28/Aug/2024 22:06:31] "POST /message HTTP/1.1" 200 -
+2024-08-28 22:06:31,818 - INFO - Processing link: https://www.chess.com/game/live/118595914995
+2024-08-28 22:06:39,513 - INFO - Successfully processed link: mie-ayam1 vs. juk33 | Analysis - Chess.com
+2024-08-28 22:06:56,074 - INFO - 127.0.0.1 - - [28/Aug/2024 22:06:56] "POST /message HTTP/1.1" 200 -
+2024-08-28 22:06:56,074 - INFO - Processing link: https://www.chess.com/analysis/game/live/108962815140?tab=analysis
+2024-08-28 22:07:04,082 - INFO - Successfully processed link: bbgunz56 vs. surecare | Analysis - Chess.com
+2024-08-28 22:08:43,727 - INFO - 127.0.0.1 - - [28/Aug/2024 22:08:43] "POST /message HTTP/1.1" 200 -
+2024-08-28 22:08:43,727 - INFO - Processing link: https://www.chess.com/game/live/118596496671
+2024-08-28 22:08:51,182 - INFO - Successfully processed link: manhdakdro0123 vs. FARUK294 | Analysis - Chess.com
+2024-08-28 22:15:46,677 - INFO - 127.0.0.1 - - [28/Aug/2024 22:15:46] "POST /message HTTP/1.1" 200 -
+2024-08-28 22:15:46,678 - INFO - Processing link: https://www.chess.com/game/live/118596585565
+2024-08-28 22:15:49,532 - INFO - Processing link: https://www.chess.com/game/live/108962758604
+2024-08-28 22:15:49,532 - INFO - 127.0.0.1 - - [28/Aug/2024 22:15:49] "POST /message HTTP/1.1" 200 -
+2024-08-28 22:15:55,780 - INFO - Successfully processed link: Zolgrish vs. manhdakdro0123 | Analysis - Chess.com
+2024-08-28 22:15:58,966 - INFO - Successfully processed link: chessplayer-no2 vs. Ondrej_Lazecky | Analysis - Chess.com
+2024-08-28 22:30:03,781 - INFO - 127.0.0.1 - - [28/Aug/2024 22:30:03] "POST /message HTTP/1.1" 200 -
+2024-08-28 22:30:03,781 - INFO - Processing link: https://www.chess.com/game/live/118597096345
+2024-08-28 22:30:07,040 - INFO - 127.0.0.1 - - [28/Aug/2024 22:30:07] "POST /message HTTP/1.1" 200 -
+2024-08-28 22:30:07,040 - INFO - Processing link: I Beat Stanley Funk! https://www.chess.com/game/computer/151357685
+2024-08-28 22:30:11,881 - INFO - Successfully processed link: mie-ayam1 vs. maletaja9 | Analysis - Chess.com
+2024-08-28 22:30:15,988 - INFO - Successfully processed link: B\u1ea3ng phân tích và trình duy\u1ec7t PGN - Chess.com
+2024-08-28 22:30:23,231 - INFO - 127.0.0.1 - - [28/Aug/2024 22:30:23] "POST /message HTTP/1.1" 200 -
+2024-08-28 22:30:23,231 - INFO - Processing link: https://www.chess.com/game/live/118597096345
+2024-08-28 22:30:30,043 - INFO - Successfully processed link: mie-ayam1 vs. maletaja9 | Analysis - Chess.com
+2024-08-28 22:34:50,936 - INFO - 127.0.0.1 - - [28/Aug/2024 22:34:50] "POST /message HTTP/1.1" 200 -
+2024-08-28 22:34:50,936 - INFO - Processing link: I Beat Stanley Funk! https://www.chess.com/game/computer/151359075
+2024-08-28 22:34:59,286 - INFO - Successfully processed link: B\u1ea3ng phân tích và trình duy\u1ec7t PGN - Chess.com
+2024-08-28 22:35:19,883 - INFO - 127.0.0.1 - - [28/Aug/2024 22:35:19] "POST /message HTTP/1.1" 200 -
+2024-08-28 22:35:19,883 - INFO - Processing link: I Beat Stanley Funk! https://www.chess.com/game/computer/151359075
+2024-08-28 22:35:27,061 - INFO - Successfully processed link: B\u1ea3ng phân tích và trình duy\u1ec7t PGN - Chess.com
+2024-08-28 22:46:10,775 - INFO - 127.0.0.1 - - [28/Aug/2024 22:46:10] "POST /message HTTP/1.1" 200 -
+2024-08-28 22:46:10,775 - INFO - Processing link: https://www.chess.com/analysis/game/live/108963426784?tab=analysis
+2024-08-28 22:46:18,926 - INFO - Successfully processed link: GM_Taj vs. giosullaluna | Analysis - Chess.com
+2024-08-28 23:00:58,916 - INFO - 127.0.0.1 - - [28/Aug/2024 23:00:58] "POST /message HTTP/1.1" 200 -
+2024-08-28 23:00:58,916 - INFO - Processing link: https://www.chess.com/game/live/118598382581
+2024-08-28 23:01:06,573 - INFO - Successfully processed link: CS73748 vs. mie-ayam1 | Analysis - Chess.com
+2024-08-28 23:04:17,120 - INFO - 127.0.0.1 - - [28/Aug/2024 23:04:17] "POST /message HTTP/1.1" 200 -
+2024-08-28 23:04:17,120 - INFO - Processing link: github
