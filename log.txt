@@ -1030,3 +1030,74 @@ navigating to "[Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-08-29\
 2024-08-29 05:08:16,882 - INFO - Successfully processed link: muaj3344 vs. RaisinBoy1 | Analysis - Chess.com
 2024-08-29 05:15:49,574 - INFO - 127.0.0.1 - - [29/Aug/2024 05:15:49] "POST /message HTTP/1.1" 200 -
 2024-08-29 05:15:49,574 - INFO - Processing link: github
+2024-08-29 06:03:22,580 - INFO - 127.0.0.1 - - [29/Aug/2024 06:03:22] "POST /message HTTP/1.1" 200 -
+2024-08-29 06:03:22,581 - INFO - Processing link: https://www.chess.com/game/live/118624096101
+2024-08-29 06:03:30,758 - INFO - Successfully processed link: Jusileide vs. mie-ayam1 | Analysis - Chess.com
+2024-08-29 06:06:27,620 - INFO - 127.0.0.1 - - [29/Aug/2024 06:06:27] "POST /message HTTP/1.1" 200 -
+2024-08-29 06:06:27,620 - INFO - Processing link: https://www.chess.com/analysis/game/live/108969795394?tab=review
+2024-08-29 06:06:35,901 - INFO - Successfully processed link: bahman140444 vs. Ash_2197 | Analysis - Chess.com
+2024-08-29 06:19:51,600 - INFO - 127.0.0.1 - - [29/Aug/2024 06:19:51] "POST /message HTTP/1.1" 200 -
+2024-08-29 06:19:51,600 - INFO - Processing link: https://www.chess.com/analysis/game/computer/151486275?tab=analysis
+2024-08-29 06:20:00,374 - INFO - Successfully processed link: B\u1ea3ng phân tích và trình duy\u1ec7t PGN - Chess.com
+2024-08-29 06:32:06,883 - INFO - 127.0.0.1 - - [29/Aug/2024 06:32:06] "POST /message HTTP/1.1" 200 -
+2024-08-29 06:32:06,883 - INFO - Processing link: https://www.chess.com/game/live/118626469847
+2024-08-29 06:32:15,147 - INFO - Successfully processed link: mie-ayam1 vs. RDbarber | Analysis - Chess.com
+2024-08-29 06:32:40,565 - INFO - 127.0.0.1 - - [29/Aug/2024 06:32:40] "POST /message HTTP/1.1" 200 -
+2024-08-29 06:32:40,565 - INFO - Processing link: https://www.chess.com/game/live/118626469847
+2024-08-29 06:32:47,451 - INFO - Successfully processed link: mie-ayam1 vs. RDbarber | Analysis - Chess.com
+2024-08-29 06:37:29,699 - INFO - 127.0.0.1 - - [29/Aug/2024 06:37:29] "POST /message HTTP/1.1" 200 -
+2024-08-29 06:37:29,699 - INFO - Processing link: https://www.chess.com/analysis/game/computer/151490137?tab=analysis
+2024-08-29 06:37:38,209 - INFO - Successfully processed link: B\u1ea3ng phân tích và trình duy\u1ec7t PGN - Chess.com
+2024-08-29 07:07:26,800 - INFO - 127.0.0.1 - - [29/Aug/2024 07:07:26] "POST /message HTTP/1.1" 200 -
+2024-08-29 07:07:26,800 - INFO - Processing link: https://www.chess.com/game/live/118627105085
+2024-08-29 07:07:35,151 - INFO - Successfully processed link: Wichita56 vs. mie-ayam1 | Analysis - Chess.com
+2024-08-29 07:46:31,380 - INFO - 127.0.0.1 - - [29/Aug/2024 07:46:31] "POST /message HTTP/1.1" 200 -
+2024-08-29 07:46:31,380 - INFO - Processing link: https://www.chess.com/analysis/game/live/118628876747?tab=analysis
+2024-08-29 07:46:39,700 - INFO - Successfully processed link: Dalyveand vs. ricepicker13 | Analysis - Chess.com
+2024-08-29 07:48:33,671 - INFO - 127.0.0.1 - - [29/Aug/2024 07:48:33] "POST /message HTTP/1.1" 200 -
+2024-08-29 07:48:33,671 - INFO - Processing link: https://www.chess.com/analysis/game/live/118628876747?tab=analysis
+2024-08-29 07:48:39,908 - INFO - Successfully processed link: Dalyveand vs. ricepicker13 | Analysis - Chess.com
+2024-08-29 07:52:00,505 - INFO - 127.0.0.1 - - [29/Aug/2024 07:52:00] "POST /message HTTP/1.1" 200 -
+2024-08-29 07:52:00,505 - INFO - Processing link: https://www.chess.com/game/live/118627109775
+2024-08-29 07:52:08,576 - INFO - Successfully processed link: ricepicker13 vs. DudeNamedMarko | Analysis - Chess.com
+2024-08-29 08:16:12,745 - INFO - 127.0.0.1 - - [29/Aug/2024 08:16:12] "POST /message HTTP/1.1" 200 -
+2024-08-29 08:16:12,746 - INFO - Processing link: https://www.chess.com/game/live/118631904291
+2024-08-29 08:16:20,417 - INFO - Successfully processed link: ricepicker13 vs. Arlender21 | Analysis - Chess.com
+2024-08-29 08:49:44,803 - INFO - 127.0.0.1 - - [29/Aug/2024 08:49:44] "POST /message HTTP/1.1" 200 -
+2024-08-29 08:49:44,804 - INFO - Processing link: https://www.chess.com/analysis/game/live/118634294109
+2024-08-29 08:49:53,761 - INFO - Successfully processed link: ndmanh1209 vs. gameplayer3 | Analysis - Chess.com
+2024-08-29 09:00:15,159 - INFO - 127.0.0.1 - - [29/Aug/2024 09:00:15] "POST /message HTTP/1.1" 200 -
+2024-08-29 09:00:15,159 - INFO - Processing link: https://www.chess.com/analysis/game/live/118635501005?tab=analysis
+2024-08-29 09:00:22,561 - INFO - Successfully processed link: Alik0172 vs. Toi_Va_Cu_Hanh | Analysis - Chess.com
+2024-08-29 09:04:07,328 - INFO - 127.0.0.1 - - [29/Aug/2024 09:04:07] "POST /message HTTP/1.1" 200 -
+2024-08-29 09:04:07,328 - INFO - Processing link: Xem ván c\u1edd #: Toi_Va_Cu_Hanh vs Alik0172 - https://www.chess.com/live/game/118634919225
+2024-08-29 09:04:16,720 - INFO - Successfully processed link: Toi_Va_Cu_Hanh vs. Alik0172 | Analysis - Chess.com
+2024-08-29 09:11:52,293 - INFO - 127.0.0.1 - - [29/Aug/2024 09:11:52] "POST /message HTTP/1.1" 200 -
+2024-08-29 09:11:52,293 - INFO - Processing link: https://www.chess.com/analysis/game/live/118635462807
+2024-08-29 09:12:01,739 - INFO - Successfully processed link: ndmanh1209 vs. PayamJiani | Analysis - Chess.com
+2024-08-29 09:12:05,187 - INFO - 127.0.0.1 - - [29/Aug/2024 09:12:05] "POST /message HTTP/1.1" 200 -
+2024-08-29 09:12:05,187 - INFO - Processing link: https://www.chess.com/analysis/game/live/118635462807
+2024-08-29 09:12:11,745 - INFO - Successfully processed link: ndmanh1209 vs. PayamJiani | Analysis - Chess.com
+2024-08-29 09:21:08,485 - INFO - 127.0.0.1 - - [29/Aug/2024 09:21:08] "POST /message HTTP/1.1" 200 -
+2024-08-29 09:21:08,485 - INFO - Processing link: https://www.chess.com/analysis/game/live/118636687705
+2024-08-29 09:21:16,095 - INFO - Successfully processed link: GudkovAlexander vs. ndmanh1209 | Analysis - Chess.com
+2024-08-29 09:44:23,543 - INFO - 127.0.0.1 - - [29/Aug/2024 09:44:23] "POST /message HTTP/1.1" 200 -
+2024-08-29 09:44:23,543 - INFO - Processing link: https://www.chess.com/analysis/game/live/118637884733
+2024-08-29 09:44:32,561 - INFO - Successfully processed link: alissonmansur80 vs. ndmanh1209 | Analysis - Chess.com
+2024-08-29 09:49:41,722 - INFO - 127.0.0.1 - - [29/Aug/2024 09:49:41] "POST /message HTTP/1.1" 200 -
+2024-08-29 09:49:41,722 - INFO - Processing link: https://www.chess.com/game/live/108971788188
+2024-08-29 09:49:49,275 - INFO - Successfully processed link: chessplayer-no2 vs. 3david10 | Analysis - Chess.com
+2024-08-29 10:18:24,040 - INFO - 127.0.0.1 - - [29/Aug/2024 10:18:24] "POST /message HTTP/1.1" 200 -
+2024-08-29 10:18:24,040 - INFO - Processing link: https://www.chess.com/analysis/game/live/118639701099
+2024-08-29 10:18:32,188 - INFO - Successfully processed link: LongDaoPlayingChess2011 vs. valley8888 | Analysis - Chess.com
+2024-08-29 10:19:46,249 - INFO - 127.0.0.1 - - [29/Aug/2024 10:19:46] "POST /message HTTP/1.1" 200 -
+2024-08-29 10:19:46,250 - INFO - Processing link: https://www.chess.com/game/live/118639725023
+2024-08-29 10:19:54,840 - INFO - Successfully processed link: pun11 vs. LongDaoPlayingChess2011 | Analysis - Chess.com
+2024-08-29 10:20:59,998 - INFO - 127.0.0.1 - - [29/Aug/2024 10:20:59] "POST /message HTTP/1.1" 200 -
+2024-08-29 10:20:59,998 - INFO - Processing link: https://www.chess.com/game/live/118640271583
+2024-08-29 10:21:08,373 - INFO - Successfully processed link: LongDaoPlayingChess2011 vs. AlessioCdd | Analysis - Chess.com
+2024-08-29 10:32:27,633 - INFO - 127.0.0.1 - - [29/Aug/2024 10:32:27] "POST /message HTTP/1.1" 200 -
+2024-08-29 10:32:27,633 - INFO - Processing link: https://www.chess.com/game/live/118640916303
+2024-08-29 10:32:35,695 - INFO - Successfully processed link: KingnaKing123 vs. LongDaoPlayingChess2011 | Analysis - Chess.com
+2024-08-29 11:07:26,276 - INFO - 127.0.0.1 - - [29/Aug/2024 11:07:26] "POST /message HTTP/1.1" 200 -
+2024-08-29 11:07:26,276 - INFO - Processing link: github
