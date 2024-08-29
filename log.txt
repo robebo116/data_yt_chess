@@ -1463,3 +1463,42 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-08-30 01:13:53,883 - INFO - 127.0.0.1 - - [30/Aug/2024 01:13:53] "POST /message HTTP/1.1" 200 -
 2024-08-30 01:13:53,883 - INFO - Processing link: github
 2024-08-30 01:14:08,980 - WARNING - Retrying (GithubRetry(total=9, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CD18969220>, 'Connection to api.github.com timed out. (connect timeout=15)')': /repos/robebo116/data_yt_chess
+2024-08-30 03:14:06,264 - INFO - 127.0.0.1 - - [30/Aug/2024 03:14:06] "POST /message HTTP/1.1" 200 -
+2024-08-30 03:14:06,264 - INFO - Processing link: [Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-08-29\"] [White \"Nelson\"] [Black \"koldfuR1a\"] [Result \"1-0\"] [WhiteElo \"1300\"] [BlackElo \"800\"] [TimeControl \"-\"] [Termination \"Nelson won by checkmate\"] 1. e4 e5 2. Qh5 g6 3. Qxe5+ Qe7 4. Qxh8 Qxe4+ 5. Be2 Qxg2 6. Qe5+ Kd8 7. Bf3 Bd6 8. Qh8 Qg5 9. Qxg8+ Ke7 10. Qxc8 Bxh2 11. Ne2 a5 12. Rxh2 Qe5 13. Bxb7 Qxh2 14. Bxa8 Qh1+ 15. Bxh1 Nc6 16. Bxc6 dxc6 17. Qxc7+ Ke6 18. Qxc6+ Ke5 19. d4+ Kf5 20. Qc8+ Ke4 21. Qa8+ Kf5 22. Qxa5+ Ke4 23. Nd2# 1-0
+2024-08-30 03:14:06,944 - ERROR - Error in run function for link [Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-08-29\"] [White \"Nelson\"] [Black \"koldfuR1a\"] [Result \"1-0\"] [WhiteElo \"1300\"] [BlackElo \"800\"] [TimeControl \"-\"] [Termination \"Nelson won by checkmate\"] 1. e4 e5 2. Qh5 g6 3. Qxe5+ Qe7 4. Qxh8 Qxe4+ 5. Be2 Qxg2 6. Qe5+ Kd8 7. Bf3 Bd6 8. Qh8 Qg5 9. Qxg8+ Ke7 10. Qxc8 Bxh2 11. Ne2 a5 12. Rxh2 Qe5 13. Bxb7 Qxh2 14. Bxa8 Qh1+ 15. Bxh1 Nc6 16. Bxc6 dxc6 17. Qxc7+ Ke6 18. Qxc6+ Ke5 19. d4+ Kf5 20. Qc8+ Ke4 21. Qa8+ Kf5 22. Qxa5+ Ke4 23. Nd2# 1-0: Page.goto: Protocol error (Playwright.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "[Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-08-29\"] [White \"Nelson\"] [Black \"koldfuR1a\"] [Result \"1-0\"] [WhiteElo \"1300\"] [BlackElo \"800\"] [TimeControl \"-\"] [Termination \"Nelson won by checkmate\"] 1. e4 e5 2. Qh5 g6 3. Qxe5+ Qe7 4. Qxh8 Qxe4+ 5. Be2 Qxg2 6. Qe5+ Kd8 7. Bf3 Bd6 8. Qh8 Qg5 9. Qxg8+ Ke7 10. Qxc8 Bxh2 11. Ne2 a5 12. Rxh2 Qe5 13. Bxb7 Qxh2 14. Bxa8 Qh1+ 15. Bxh1 Nc6 16. Bxc6 dxc6 17. Qxc7+ Ke6 18. Qxc6+ Ke5 19. d4+ Kf5 20. Qc8+ Ke4 21. Qa8+ Kf5 22. Qxa5+ Ke4 23. Nd2# 1-0", waiting until "load"
+
+2024-08-30 03:19:46,685 - INFO - 127.0.0.1 - - [30/Aug/2024 03:19:46] "POST /message HTTP/1.1" 200 -
+2024-08-30 03:19:46,686 - INFO - Processing link: https://www.chess.com/analysis/game/computer/151766407
+2024-08-30 03:19:55,305 - INFO - Successfully processed link: B\u1ea3ng phân tích và trình duy\u1ec7t PGN - Chess.com
+2024-08-30 03:30:26,524 - INFO - 127.0.0.1 - - [30/Aug/2024 03:30:26] "POST /message HTTP/1.1" 200 -
+2024-08-30 03:30:26,524 - INFO - Processing link: https://www.chess.com/analysis/game/computer/151769475?tab=analysis
+2024-08-30 03:30:35,858 - INFO - Successfully processed link: B\u1ea3ng phân tích và trình duy\u1ec7t PGN - Chess.com
+2024-08-30 03:34:58,594 - INFO - 127.0.0.1 - - [30/Aug/2024 03:34:58] "POST /message HTTP/1.1" 200 -
+2024-08-30 03:34:58,595 - INFO - Processing link: Check out this #chess game: Maxbiax vs bardiya-sahranavard226 - https://www.chess.com/daily/game/696683831
+2024-08-30 03:35:32,736 - WARNING - Error processing link https://www.chess.com/analysis/game/daily/696683831?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-30 03:35:32,745 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/daily/696683831?tab=review
+2024-08-30 03:45:14,749 - INFO - 127.0.0.1 - - [30/Aug/2024 03:45:14] "POST /message HTTP/1.1" 200 -
+2024-08-30 03:45:14,749 - INFO - Processing link: https://www.chess.com/analysis/game/live/108986076394?tab=analysis
+2024-08-30 03:45:22,136 - INFO - Successfully processed link: BigPapi2137 vs. backatit24 | Analysis - Chess.com
+2024-08-30 03:46:52,799 - INFO - 127.0.0.1 - - [30/Aug/2024 03:46:52] "POST /message HTTP/1.1" 200 -
+2024-08-30 03:46:52,799 - INFO - Processing link: https://www.chess.com/analysis/game/live/108986076394
+2024-08-30 03:46:59,272 - INFO - Successfully processed link: BigPapi2137 vs. backatit24 | Analysis - Chess.com
+2024-08-30 03:48:00,013 - INFO - 127.0.0.1 - - [30/Aug/2024 03:48:00] "POST /message HTTP/1.1" 200 -
+2024-08-30 03:48:00,013 - INFO - Processing link: https://www.chess.com/game/live/108986076394
+2024-08-30 03:48:06,414 - INFO - Successfully processed link: BigPapi2137 vs. backatit24 | Analysis - Chess.com
+2024-08-30 03:50:15,846 - INFO - 127.0.0.1 - - [30/Aug/2024 03:50:15] "POST /message HTTP/1.1" 200 -
+2024-08-30 03:50:15,846 - INFO - Processing link: https://www.chess.com/game/live/108986076394
+2024-08-30 03:50:22,943 - INFO - Successfully processed link: BigPapi2137 vs. backatit24 | Analysis - Chess.com
+2024-08-30 04:33:49,050 - INFO - 127.0.0.1 - - [30/Aug/2024 04:33:49] "POST /message HTTP/1.1" 200 -
+2024-08-30 04:33:49,050 - INFO - Processing link: https://www.chess.com/game/live/108986835268
+2024-08-30 04:33:57,540 - INFO - Successfully processed link: TheLoops69 vs. NotLightbringer | Analysis - Chess.com
+2024-08-30 04:41:06,483 - INFO - 127.0.0.1 - - [30/Aug/2024 04:41:06] "POST /message HTTP/1.1" 200 -
+2024-08-30 04:41:06,483 - INFO - Processing link: https://www.chess.com/analysis/game/computer/151788071?tab=analysis
+2024-08-30 04:41:17,760 - INFO - Successfully processed link: B\u1ea3ng phân tích và trình duy\u1ec7t PGN - Chess.com
+2024-08-30 05:14:32,995 - INFO - 127.0.0.1 - - [30/Aug/2024 05:14:32] "POST /message HTTP/1.1" 200 -
+2024-08-30 05:14:32,995 - INFO - Processing link: github
