@@ -1840,3 +1840,12 @@ navigating to "[Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-08-30\
 2024-08-31 06:05:49,747 - WARNING - Retrying (GithubRetry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001E2360FF100>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed')': /repos/robebo116/data_yt_chess
 2024-08-31 06:05:49,748 - ERROR - Error in run function for link github: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/robebo116/data_yt_chess (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001E234F20700>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed'))
 2024-08-31 06:09:13,152 - INFO - Processing link: github
+2024-08-31 06:11:35,182 - INFO - Processing link: Check out this #chess game: sokol4e89 vs ki1512 - https://www.chess.com/live/game/118775373277
+2024-08-31 06:12:10,017 - WARNING - Error processing link https://www.chess.com/analysis/game/live/118775373277?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-08-31 06:12:14,551 - INFO - Successfully logged in and saved cookies for robebo010
+2024-08-31 06:12:27,728 - INFO - Processing link: Check out this #chess game: sokol4e89 vs ki1512 - https://www.chess.com/live/game/118775373277
+2024-08-31 06:12:34,300 - INFO - Successfully processed link: sokol4e89 vs. ki1512 | Analysis - Chess.com
+2024-08-31 06:12:48,517 - INFO - Processing link: github
