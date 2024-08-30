@@ -1803,3 +1803,15 @@ navigating to "[Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-08-30\
 2024-08-30 22:29:09,448 - INFO - Successfully processed link: XR69 vs. ShubhShaw08 | Analysis - Chess.com
 2024-08-30 22:46:51,335 - INFO - 127.0.0.1 - - [30/Aug/2024 22:46:51] "POST /message HTTP/1.1" 200 -
 2024-08-30 22:46:51,335 - INFO - Processing link: github
+2024-08-30 22:47:49,607 - INFO - 127.0.0.1 - - [30/Aug/2024 22:47:49] "POST /message HTTP/1.1" 200 -
+2024-08-30 22:47:49,607 - INFO - Processing link: Check out this #chess game: muaj3344 vs Dark_Knight1399 - https://www.chess.com/live/game/118771209875
+2024-08-30 22:47:58,715 - INFO - Successfully processed link: muaj3344 vs. Dark_Knight1399 | Analysis - Chess.com
+2024-08-30 22:55:26,009 - INFO - Processing link: https://www.chess.com/analysis/game/live/118651731891?tab=analysis
+2024-08-30 22:55:34,823 - INFO - Successfully processed link: HackySackKillEm vs. ki1512 | Analysis - Chess.com
+2024-08-30 22:57:47,151 - INFO - Processing link: https://www.chess.com/analysis/game/live/118651725869?tab=analysis
+2024-08-30 22:57:52,836 - INFO - Successfully processed link: ki1512 vs. dhenyizhiie | Analysis - Chess.com
+2024-08-30 22:59:20,024 - INFO - Processing link: Xem ván c\u1edd #: Bence0702 vs Toi_Va_Cu_Hanh - https://www.chess.com/live/game/118771820749
+2024-08-30 22:59:24,391 - INFO - Processing link: Check out this #chess game: muaj3344 vs yahya_jafar - https://www.chess.com/live/game/118771870753
+2024-08-30 22:59:27,490 - INFO - Successfully processed link: Bence0702 vs. Toi_Va_Cu_Hanh | Analysis - Chess.com
+2024-08-30 22:59:33,480 - INFO - Successfully processed link: muaj3344 vs. yahya_jafar | Analysis - Chess.com
+2024-08-30 23:19:49,970 - INFO - Processing link: github
