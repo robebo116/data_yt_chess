@@ -2157,3 +2157,69 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-08-31 22:44:02,614 - INFO - Processing link: https://www.chess.com/live/game/109017416824
 2024-08-31 22:44:10,462 - INFO - Successfully processed link: Chesssssssssssssssh vs. Aruna0812 | Analysis - Chess.com
 2024-08-31 22:52:13,599 - INFO - Processing link: github
+2024-08-31 22:52:41,156 - INFO - Processing link: Xem ván c\u1edd #: Beooooo222 vs Toi_Va_Cu_Hanh - https://www.chess.com/live/game/118856473859
+2024-08-31 22:52:49,376 - INFO - Successfully processed link: Beooooo222 vs. Toi_Va_Cu_Hanh | Analysis - Chess.com
+2024-08-31 22:54:55,512 - INFO - Processing link: https://www.chess.com/game/live/118858182233
+2024-08-31 22:55:03,476 - INFO - Successfully processed link: wilebaldov33 vs. huyamnotgay | Analysis - Chess.com
+2024-08-31 23:11:23,064 - INFO - Processing link: Check out this #chess game: SN6667 vs muaj3344 - https://www.chess.com/live/game/118859387291
+2024-08-31 23:11:31,195 - INFO - Successfully processed link: SN6667 vs. muaj3344 | Analysis - Chess.com
+2024-08-31 23:12:17,408 - INFO - Processing link: https://www.chess.com/analysis/game/live/118858811687
+2024-08-31 23:12:26,527 - INFO - Successfully processed link: ndmanh1209 vs. stufa88 | Analysis - Chess.com
+2024-08-31 23:13:29,149 - INFO - Processing link: https://www.chess.com/analysis/game/live/118856990881
+2024-08-31 23:13:38,391 - INFO - Successfully processed link: mohamedazizboussema vs. ndmanh1209 | Analysis - Chess.com
+2024-08-31 23:13:42,623 - INFO - Processing link: https://www.chess.com/analysis/game/live/118857033195
+2024-08-31 23:13:50,906 - INFO - Successfully processed link: ndmanh1209 vs. titan555555555 | Analysis - Chess.com
+2024-08-31 23:13:55,460 - INFO - Processing link: https://www.chess.com/analysis/game/live/118857673955
+2024-08-31 23:14:03,452 - INFO - Successfully processed link: ndmanh1209 vs. Jadi91799 | Analysis - Chess.com
+2024-08-31 23:14:07,842 - INFO - Processing link: https://www.chess.com/analysis/game/live/118858278911
+2024-08-31 23:14:14,884 - INFO - Successfully processed link: Jadi91799 vs. ndmanh1209 | Analysis - Chess.com
+2024-08-31 23:17:24,253 - INFO - Processing link: Check out this #chess game: muaj3344 vs BlueDevil_11 - https://www.chess.com/live/game/118859982219
+2024-08-31 23:17:31,538 - INFO - Successfully processed link: muaj3344 vs. BlueDevil_11 | Analysis - Chess.com
+2024-08-31 23:21:06,236 - INFO - Processing link: Xem ván c\u1edd #: Toi_Va_Cu_Hanh vs Beooooo222 - https://www.chess.com/live/game/118858805323
+2024-08-31 23:21:14,955 - INFO - Successfully processed link: Toi_Va_Cu_Hanh vs. Beooooo222 | Analysis - Chess.com
+2024-08-31 23:30:38,665 - INFO - Processing link: https://www.chess.com/analysis/game/live/109017733994?tab=analysis
+2024-08-31 23:30:46,822 - INFO - Successfully processed link: ThucDarkNo1 vs. ft03763055 | Analysis - Chess.com
+2024-08-31 23:31:30,205 - INFO - Processing link: Check out this #chess game: HandsomeAnteater vs muaj3344 - https://www.chess.com/live/game/118860057979
+2024-08-31 23:31:38,041 - INFO - Successfully processed link: HandsomeAnteater vs. muaj3344 | Analysis - Chess.com
+2024-09-01 00:23:20,890 - INFO - Processing link: https://www.chess.com/game/live/118863653799
+2024-09-01 00:23:27,810 - INFO - Successfully processed link: Bettorup vs. Sxavy81 | Analysis - Chess.com
+2024-09-01 01:09:21,060 - INFO - Processing link: https://www.chess.com/game/live/118864267177
+2024-09-01 01:09:29,502 - INFO - Successfully processed link: HopelessCaseAgain vs. prudhvi19 | Analysis - Chess.com
+2024-09-01 01:10:04,001 - INFO - Processing link: https://www.chess.com/game/live/118864828629
+2024-09-01 01:10:11,963 - INFO - Successfully processed link: LwangaVinny vs. HopelessCaseAgain | Analysis - Chess.com
+2024-09-01 01:11:04,265 - INFO - Processing link: https://www.chess.com/game/live/118865374197
+2024-09-01 01:11:34,910 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/118865374197?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/118865374197?tab=review", waiting until "load"
+
+2024-09-01 01:11:47,453 - INFO - Processing link: https://www.chess.com/game/live/118865374197
+2024-09-01 01:11:55,320 - INFO - Successfully processed link: Aishwarya_sahu_128 vs. HopelessCaseAgain | Analysis - Chess.com
+2024-09-01 01:13:12,783 - INFO - Processing link: https://www.chess.com/game/live/118865394845
+2024-09-01 01:13:20,719 - INFO - Successfully processed link: HopelessCaseAgain vs. zaiskivayushchiy | Analysis - Chess.com
+2024-09-01 01:15:42,724 - INFO - Processing link: https://www.chess.com/game/live/118865415653
+2024-09-01 01:16:12,921 - INFO - Successfully processed link: HopelessCaseAgain vs. hechizoy | Analysis - Chess.com
+2024-09-01 01:16:16,273 - INFO - Processing link: https://www.chess.com/analysis/game/live/118865415653?tab=analysis
+2024-09-01 01:16:46,940 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/118865415653?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/118865415653?tab=review", waiting until "load"
+
+2024-09-01 01:17:30,045 - INFO - Processing link: https://www.chess.com/analysis/game/live/118865444455?tab=analysis
+2024-09-01 01:18:27,591 - WARNING - Error processing link https://www.chess.com/analysis/game/live/118865444455?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-01 01:18:27,608 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/118865444455?tab=review
+2024-09-01 01:36:00,349 - INFO - Processing link: https://www.chess.com/analysis/game/live/118866016453?tab=analysis
+2024-09-01 01:36:27,127 - INFO - Processing link: https://www.chess.com/analysis/game/live/118866016453?tab=analysis
+2024-09-01 01:36:41,841 - INFO - Successfully processed link: hamid1190 vs. Sxavy81 | Analysis - Chess.com
+2024-09-01 01:36:57,851 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/118866016453?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/118866016453?tab=review", waiting until "load"
+
+2024-09-01 01:54:43,731 - INFO - Processing link: Check out this #chess game: bardiya-sahranavard226 vs deeznutz303 - https://www.chess.com/live/game/109020261286
+2024-09-01 01:55:17,979 - WARNING - Error processing link https://www.chess.com/analysis/game/live/109020261286?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-01 01:55:17,999 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/109020261286?tab=review
+2024-09-01 05:25:08,126 - INFO - Processing link: github
