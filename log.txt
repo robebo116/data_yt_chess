@@ -2318,3 +2318,106 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-01 14:49:21,823 - INFO - Processing link: [Event \"Live Chess\"] [Site \"Chess.com\"] [Date \"2024.09.01\"] [Round \"-\"] [White \"HuAway777\"] [Black \"dai-9\"] [Result \"0-1\"] [CurrentPosition \"3q2rk/4b2n/3p4/2p1p3/2P1P3/1B1n1N2/7K/6R1 w - -\"] [Timezone \"UTC\"] [ECO \"B50\"] [ECOUrl \"https://www.chess.com/openings/Sicilian-Defense-2.Nf3-d6-3.Bc4\"] [UTCDate \"2024.09.01\"] [UTCTime \"07:43:14\"] [WhiteElo \"971\"] [BlackElo \"1000\"] [TimeControl \"600\"] [Termination \"dai-9 won by resignation\"] [StartTime \"07:43:14\"] [EndDate \"2024.09.01\"] [EndTime \"07:50:18\"] [Link \"https://www.chess.com/game/live/109028325766\"] [WhiteUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"] [WhiteCountry \"112\"] [WhiteTitle \"\"] [BlackUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"] [BlackCountry \"149\"] [BlackTitle \"\"] 1. e4 c5 2. Nf3 d6 3. Bc4 e5 4. d3 Be7 5. O-O Nc6 6. c3 Bg4 7. h3 Bxf3 8. Qxf3 Nf6 9. Bg5 O-O 10. Nd2 h6 11. Be3 a6 12. a3 b5 13. Bb3 a5 14. c4 a4 15. Ba2 b4 16. axb4 Nxb4 17. Qg3 g5 18. Bxg5 hxg5 19. Qxg5+ Kh8 20. Qh6+ Nh7 21. Nf3 Nxd3 22. b3 axb3 23. Bxb3 Rxa1 24. Rxa1 Rg8 25. Qh5 Nf4 26. Qxf7 Nxh3+ 27. Kh2 Nxf2 28. Qd5 Ng4+ 29. Kh3 Nf2+ 30. Kh2 Ng4+ 31. Kh3 Ne3 32. Qd3 Nxg2 33. Rg1 Nf4+ 34. Kh2 Nxd3 0-1
 2024-09-01 14:49:30,191 - INFO - Successfully processed link: HuAway777 vs. dai-9 | Analysis - Chess.com
 2024-09-01 14:54:06,764 - INFO - Processing link: github
+2024-09-01 15:17:59,513 - INFO - Processing link: Check out this #chess game: bayagnamaitim vs Tiagomesquita1985 - https://www.chess.com/live/game/109028680762
+2024-09-01 15:18:07,725 - INFO - Successfully processed link: bayagnamaitim vs. Tiagomesquita1985 | Analysis - Chess.com
+2024-09-01 15:27:46,866 - INFO - Processing link: https://www.chess.com/analysis/game/live/109028724426?tab=review
+2024-09-01 15:27:54,871 - INFO - Successfully processed link: anawfuldark vs. yosefwageh | Analysis - Chess.com
+2024-09-01 15:33:59,349 - INFO - Processing link: https://www.chess.com/live/game/109028405452
+2024-09-01 15:34:08,764 - INFO - Successfully processed link: Sparsh_G_23 vs. theafterdark07 | Analysis - Chess.com
+2024-09-01 15:38:25,676 - INFO - Processing link: Check out this #chess game: Sidd5725 vs bayagnamaitim - https://www.chess.com/live/game/109028757106
+2024-09-01 15:38:33,713 - INFO - Successfully processed link: Sidd5725 vs. bayagnamaitim | Analysis - Chess.com
+2024-09-01 15:39:42,923 - INFO - Processing link: https://www.chess.com/analysis/game/live/109028878116?tab=analysis
+2024-09-01 15:39:52,573 - INFO - Successfully processed link: THANAPHATm200 vs. anawfuldark | Analysis - Chess.com
+2024-09-01 15:43:30,398 - INFO - Processing link: Check out this #chess game: theafterdark07 vs RanjeetKumar07 - https://www.chess.com/live/game/109027261378
+2024-09-01 15:43:38,263 - INFO - Successfully processed link: theafterdark07 vs. RanjeetKumar07 | Analysis - Chess.com
+2024-09-01 15:45:55,081 - INFO - Processing link: https://www.chess.com/game/live/118919385617
+2024-09-01 15:46:02,522 - INFO - Successfully processed link: MIKIvn vs. VaRfo | Analysis - Chess.com
+2024-09-01 15:46:55,551 - INFO - Processing link: Check out this #chess game: theafterdark07 vs mrDatta_blunderguy - https://www.chess.com/live/game/109026307760
+2024-09-01 15:47:04,208 - INFO - Successfully processed link: theafterdark07 vs. mrDatta_blunderguy | Analysis - Chess.com
+2024-09-01 15:52:32,042 - INFO - Processing link: https://www.chess.com/live/game/109026713434
+2024-09-01 15:52:40,640 - INFO - Successfully processed link: paulyz26 vs. theafterdark07 | Analysis - Chess.com
+2024-09-01 15:55:58,693 - INFO - Processing link: https://www.chess.com/live/game/109026786122
+2024-09-01 15:56:07,302 - INFO - Successfully processed link: dhawalporwal vs. theafterdark07 | Analysis - Chess.com
+2024-09-01 15:57:18,536 - INFO - Processing link: Check out this #chess game: MAULANA-BAIJAN vs theafterdark07 - https://www.chess.com/live/game/118897195243
+2024-09-01 15:57:26,008 - INFO - Successfully processed link: MAULANA-BAIJAN vs. theafterdark07 | Analysis - Chess.com
+2024-09-01 16:03:35,689 - INFO - Processing link: [Event \"Live Chess\"] [Site \"Chess.com\"] [Date \"2024.09.01\"] [Round \"-\"] [White \"dai-9\"] [Black \"uso_love\"] [Result \"1-0\"] [CurrentPosition \"R4k2/6R1/7p/1r5P/2p5/2B2r2/1P3P1P/5K2 b - -\"] [Timezone \"UTC\"] [ECO \"D08\"] [ECOUrl \"https://www.chess.com/openings/Queens-Gambit-Declined-Albin-Countergambit-3.dxe5\"] [UTCDate \"2024.09.01\"] [UTCTime \"08:57:07\"] [WhiteElo \"1007\"] [BlackElo \"983\"] [TimeControl \"600\"] [Termination \"dai-9 won by resignation\"] [StartTime \"08:57:07\"] [EndDate \"2024.09.01\"] [EndTime \"09:04:30\"] [Link \"https://www.chess.com/game/live/109029192470\"] [WhiteUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"] [WhiteCountry \"149\"] [WhiteTitle \"\"] [BlackUrl \"https://images.chesscomfiles.com/uploads/v1/user/291674757.0ffbf069.50x50o.24fca03be75f.jpg\"] [BlackCountry \"208\"] [BlackTitle \"\"] 1. d4 d5 2. c4 e5 3. dxe5 Be6 4. cxd5 Bxd5 5. Nc3 Bb4 6. Bd2 Bxc3 7. Bxc3 Nc6 8. e4 Qg5 9. Qxd5 Rd8 10. Qb3 Nge7 11. Nf3 Qf4 12. Be2 Qxe4 13. Qxb7 Ng6 14. a4 Nf4 15. Qxc6+ Qxc6 16. Bb5 Nd3+ 17. Ke2 Qxb5 18. axb5 O-O 19. Rhd1 Nf4+ 20. Kf1 Rde8 21. g3 Nh5 22. Rxa7 Rc8 23. Bd2 c5 24. g4 Rb8 25. gxh5 Rxb5 26. Bc3 h6 27. Re1 c4 28. e6 fxe6 29. Rxe6 Rxf3 30. Re8+ Kh7 31. Ree7 Kg8 32. Rxg7+ Kf8 33. Ra8+ 1-0
+2024-09-01 16:03:43,640 - INFO - Successfully processed link: dai-9 vs. uso_love | Analysis - Chess.com
+2024-09-01 16:11:25,323 - INFO - Processing link: https://www.chess.com/analysis/game/live/118918839611?tab=analysis
+2024-09-01 16:11:34,619 - INFO - Successfully processed link: Beooooo222 vs. Toi_Va_Cu_Hanh | Analysis - Chess.com
+2024-09-01 16:18:06,457 - INFO - Processing link: Check out this #chess game: bardiya-sahranavard226 vs raycistjack - https://www.chess.com/live/game/109029426032
+2024-09-01 16:18:13,779 - INFO - Successfully processed link: bardiya-sahranavard226 vs. raycistjack | Analysis - Chess.com
+2024-09-01 16:19:18,936 - INFO - Processing link: https://www.chess.com/game/live/118920610883
+2024-09-01 16:19:26,787 - INFO - Successfully processed link: MotoMotoOG vs. NotLaught | Analysis - Chess.com
+2024-09-01 16:25:25,534 - INFO - Processing link: https://www.chess.com/game/live/118919987299
+2024-09-01 16:25:32,877 - INFO - Successfully processed link: Arun384 vs. molal_20 | Analysis - Chess.com
+2024-09-01 16:25:52,762 - INFO - Processing link: https://www.chess.com/game/live/118919987299
+2024-09-01 16:25:59,318 - INFO - Successfully processed link: Arun384 vs. molal_20 | Analysis - Chess.com
+2024-09-01 16:35:59,114 - INFO - Processing link: Check out this #chess game: bardiya-sahranavard226 vs khandelwalujju - https://www.chess.com/live/game/109029582848
+2024-09-01 16:36:06,474 - INFO - Successfully processed link: bardiya-sahranavard226 vs. khandelwalujju | Analysis - Chess.com
+2024-09-01 16:56:14,706 - INFO - Processing link: https://www.chess.com/game/live/118923574481
+2024-09-01 16:56:22,442 - INFO - Successfully processed link: VenomGambit2 vs. Jero_Jone | Analysis - Chess.com
+2024-09-01 17:02:42,461 - INFO - Processing link: https://www.chess.com/analysis/game/live/118892386423
+2024-09-01 17:02:50,777 - INFO - Successfully processed link: ipank78 vs. ndmanh1209 | Analysis - Chess.com
+2024-09-01 17:06:50,836 - INFO - Processing link: https://www.chess.com/game/live/118923652577
+2024-09-01 17:06:59,822 - INFO - Successfully processed link: rafmir1971 vs. VenomGambit2 | Analysis - Chess.com
+2024-09-01 17:24:16,816 - INFO - Processing link: https://www.chess.com/game/live/118924829889
+2024-09-01 17:24:23,950 - INFO - Successfully processed link: VenomGambit2 vs. Omar5i | Analysis - Chess.com
+2024-09-01 17:26:16,585 - INFO - Processing link: https://www.chess.com/game/live/118924776999
+2024-09-01 17:26:24,483 - INFO - Successfully processed link: Omar5i vs. VenomGambit2 | Analysis - Chess.com
+2024-09-01 17:26:45,672 - INFO - Processing link: https://www.chess.com/game/live/118924232833
+2024-09-01 17:26:53,135 - INFO - Successfully processed link: VenomGambit2 vs. Omar5i | Analysis - Chess.com
+2024-09-01 17:38:48,391 - INFO - Processing link: https://www.chess.com/game/live/118925991703
+2024-09-01 17:38:55,551 - INFO - Successfully processed link: ficonee vs. VenomGambit2 | Analysis - Chess.com
+2024-09-01 17:40:03,432 - INFO - Processing link: https://www.chess.com/game/live/118925449771
+2024-09-01 17:40:10,948 - INFO - Successfully processed link: VenomGambit2 vs. RozitaWW | Analysis - Chess.com
+2024-09-01 17:45:35,670 - INFO - Processing link: https://www.chess.com/analysis/game/live/118924789075
+2024-09-01 17:45:44,121 - INFO - Successfully processed link: aniruddhaamitsapkal06 vs. ndmanh1209 | Analysis - Chess.com
+2024-09-01 17:45:48,135 - INFO - Processing link: https://www.chess.com/analysis/game/live/118925426117
+2024-09-01 17:45:55,661 - INFO - Successfully processed link: ndmanh1209 vs. parvathisammp | Analysis - Chess.com
+2024-09-01 17:45:59,564 - INFO - Processing link: https://www.chess.com/analysis/game/live/118925451623
+2024-09-01 17:46:07,672 - INFO - Successfully processed link: mahichesslove vs. ndmanh1209 | Analysis - Chess.com
+2024-09-01 17:52:13,727 - INFO - Processing link: https://www.chess.com/game/live/118926616137
+2024-09-01 17:52:21,736 - INFO - Successfully processed link: VenomGambit2 vs. MartinSmif | Analysis - Chess.com
+2024-09-01 18:02:01,061 - INFO - Processing link: https://www.chess.com/game/live/118927226435
+2024-09-01 18:02:09,864 - INFO - Successfully processed link: VenomGambit2 vs. Mendes1234567 | Analysis - Chess.com
+2024-09-01 18:02:42,462 - INFO - Processing link: https://www.chess.com/analysis/game/live/118926633177
+2024-09-01 18:02:49,948 - INFO - Successfully processed link: ndmanh1209 vs. aniskraouche | Analysis - Chess.com
+2024-09-01 18:02:50,295 - INFO - Processing link: https://www.chess.com/analysis/game/live/118927202495
+2024-09-01 18:02:57,132 - INFO - Successfully processed link: ndmanh1209 vs. NomadT | Analysis - Chess.com
+2024-09-01 18:02:58,379 - INFO - Processing link: https://www.chess.com/analysis/game/live/118927224403
+2024-09-01 18:03:05,711 - INFO - Successfully processed link: kaorukosan vs. ndmanh1209 | Analysis - Chess.com
+2024-09-01 18:13:24,207 - INFO - Processing link: https://www.chess.com/analysis/game/live/109030902344?tab=analysis
+2024-09-01 18:13:31,909 - INFO - Successfully processed link: Ash_2197 vs. Mobby2014 | Analysis - Chess.com
+2024-09-01 18:59:51,276 - INFO - Processing link: https://www.chess.com/game/live/118929579851
+2024-09-01 19:00:00,449 - INFO - Successfully processed link: pansuo vs. VenomGambit2 | Analysis - Chess.com
+2024-09-01 19:02:28,011 - INFO - Processing link: https://www.chess.com/game/live/118927783609
+2024-09-01 19:02:36,607 - INFO - Successfully processed link: IMLevyRozman123456 vs. VenomGambit2 | Analysis - Chess.com
+2024-09-01 19:02:56,139 - INFO - Processing link: https://www.chess.com/game/live/118928367625
+2024-09-01 19:03:03,581 - INFO - Successfully processed link: VenomGambit2 vs. Nikunj_Desai_1992 | Analysis - Chess.com
+2024-09-01 19:03:18,626 - INFO - Processing link: https://www.chess.com/game/live/118928438999
+2024-09-01 19:03:26,148 - INFO - Successfully processed link: geraldcervantes vs. VenomGambit2 | Analysis - Chess.com
+2024-09-01 19:03:56,620 - INFO - Processing link: https://www.chess.com/game/live/118929011723
+2024-09-01 19:04:05,573 - INFO - Successfully processed link: VenomGambit2 vs. Nickolayich | Analysis - Chess.com
+2024-09-01 19:04:25,027 - INFO - Processing link: https://www.chess.com/game/live/118929649343
+2024-09-01 19:04:33,222 - INFO - Successfully processed link: VenomGambit2 vs. anasauurus | Analysis - Chess.com
+2024-09-01 19:05:02,399 - INFO - Processing link: https://www.chess.com/game/live/118930214653
+2024-09-01 19:05:10,208 - INFO - Successfully processed link: VenomGambit2 vs. Pain949 | Analysis - Chess.com
+2024-09-01 19:23:08,885 - INFO - Processing link: https://www.chess.com/game/live/118932000733
+2024-09-01 19:23:17,182 - INFO - Successfully processed link: Kkhasim vs. VenomGambit2 | Analysis - Chess.com
+2024-09-01 19:24:14,170 - INFO - Processing link: https://www.chess.com/game/live/118931444893
+2024-09-01 19:24:23,236 - INFO - Successfully processed link: Samvel_1812 vs. VenomGambit2 | Analysis - Chess.com
+2024-09-01 19:33:24,251 - INFO - Processing link: https://www.chess.com/analysis/game/live/109031977282?tab=analysis
+2024-09-01 19:33:32,142 - INFO - Successfully processed link: HopelessCaseAgain vs. RedactedUserName2 | Analysis - Chess.com
+2024-09-01 19:38:17,184 - INFO - Processing link: https://www.chess.com/game/live/118932660683
+2024-09-01 19:38:24,833 - INFO - Successfully processed link: VenomGambit2 vs. sunil_gupta237 | Analysis - Chess.com
+2024-09-01 19:42:37,200 - INFO - Processing link: https://www.chess.com/game/live/118933248865
+2024-09-01 19:42:44,564 - INFO - Successfully processed link: VenomGambit2 vs. alialsa | Analysis - Chess.com
+2024-09-01 19:49:32,034 - INFO - Processing link: https://www.chess.com/game/live/118933783251
+2024-09-01 19:49:39,287 - INFO - Successfully processed link: Hirourk vs. VenomGambit2 | Analysis - Chess.com
+2024-09-01 19:56:03,981 - INFO - Processing link: https://www.chess.com/game/live/118933861411
+2024-09-01 19:56:11,357 - INFO - Successfully processed link: VenomGambit2 vs. berserkehate | Analysis - Chess.com
+2024-09-01 20:03:27,076 - INFO - Processing link: https://www.chess.com/game/live/118933844853
+2024-09-01 20:03:35,981 - INFO - Successfully processed link: Chelco28 vs. jhakoy777 | Analysis - Chess.com
+2024-09-01 20:04:57,183 - INFO - Processing link: https://www.chess.com/game/live/118934441429
+2024-09-01 20:05:05,166 - INFO - Successfully processed link: vituz01 vs. VenomGambit2 | Analysis - Chess.com
+2024-09-01 20:08:00,291 - INFO - Processing link: github
