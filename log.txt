@@ -3309,3 +3309,75 @@ navigating to "[Event \"Live Chess\"] [Site \"Chess.com\"] [Date \"2024.09.03\"]
 2024-09-04 00:45:17,361 - INFO - Processing link: github
 2024-09-04 00:45:39,115 - INFO - Processing link: github
 2024-09-04 00:46:06,890 - INFO - Processing link: github
+2024-09-04 01:02:23,970 - INFO - Processing link: https://www.chess.com/analysis/game/live/119124626969?tab=analysis
+2024-09-04 01:02:32,162 - INFO - Successfully processed link: alejandroguzmanarias vs. velociraptor_550 | Analysis - Chess.com
+2024-09-04 01:05:58,186 - INFO - Processing link: Check out this #chess game: nexteur vs Nyzm05 - https://www.chess.com/live/game/109073264814
+2024-09-04 01:06:28,848 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/109073264814?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/109073264814?tab=review", waiting until "load"
+
+2024-09-04 01:13:17,752 - INFO - Processing link: https://www.chess.com/analysis/game/live/119125812447?tab=explore
+2024-09-04 01:13:26,231 - INFO - Successfully processed link: phinemindz vs. nxt18 | Analysis - Chess.com
+2024-09-04 01:16:40,261 - INFO - Processing link: https://www.c4355.com/analysis/game/live/109073374934?tab=analysis
+2024-09-04 01:17:10,913 - ERROR - Error in run function for link https://www.c4355.com/analysis/game/live/109073374934?tab=analysis: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.c4355.com/analysis/game/live/109073374934?tab=analysis", waiting until "load"
+
+2024-09-04 01:33:43,426 - INFO - Processing link: https://www.chess.com/analysis/game/live/109073782842?tab=analysis
+2024-09-04 01:34:14,088 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/109073782842?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/109073782842?tab=review", waiting until "load"
+
+2024-09-04 01:34:18,687 - INFO - Processing link: https://www.chess.com/analysis/game/live/109073782842?tab=analysis
+2024-09-04 01:34:49,361 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/109073782842?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/109073782842?tab=review", waiting until "load"
+
+2024-09-04 01:55:30,875 - INFO - Processing link: https://www.chess.com/analysis/game/live/109073904708?tab=analysis
+2024-09-04 01:56:01,538 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/109073904708?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/109073904708?tab=review", waiting until "load"
+
+2024-09-04 01:56:02,750 - INFO - Processing link: https://www.chess.com/analysis/game/live/109073904708?tab=analysis
+2024-09-04 01:56:33,421 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/109073904708?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/109073904708?tab=review", waiting until "load"
+
+2024-09-04 01:56:47,479 - INFO - Processing link: https://www.chess.com/analysis/game/live/109073522598?tab=analysis
+2024-09-04 01:57:18,145 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/109073522598?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/109073522598?tab=review", waiting until "load"
+
+2024-09-04 01:58:01,490 - INFO - Processing link: https://www.chess.com/analysis/game/live/109073904708?tab=analysis
+2024-09-04 01:58:32,162 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/109073904708?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/109073904708?tab=review", waiting until "load"
+
+2024-09-04 02:11:58,094 - INFO - Processing link: https://www.chess.com/analysis/game/live/109073904708?tab=analysis
+2024-09-04 02:12:28,749 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/109073904708?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/109073904708?tab=review", waiting until "load"
+
+2024-09-04 02:45:12,112 - INFO - Processing link: Check out this #chess game: leviflisboa vs Nyzm05 - https://www.chess.com/live/game/109074838914
+2024-09-04 02:45:22,287 - INFO - Successfully processed link: leviflisboa vs. Nyzm05 | Analysis - Chess.com
+2024-09-04 02:51:20,041 - INFO - Processing link: https://www.chess.com/analysis/game/live/109074853916?tab=analysis
+2024-09-04 02:51:27,645 - INFO - Successfully processed link: MrNoqx vs. moffffffff | Analysis - Chess.com
+2024-09-04 02:57:22,754 - INFO - Processing link: Check out this #chess game: Nyzm05 vs HaakonSand - https://www.chess.com/live/game/109075032750
+2024-09-04 02:57:31,851 - INFO - Successfully processed link: Nyzm05 vs. HaakonSand | Analysis - Chess.com
+2024-09-04 03:46:20,512 - INFO - Processing link: Check out this #chess game: eskponentti vs expreso809 - https://www.chess.com/live/game/119135378921
+2024-09-04 03:46:29,053 - INFO - Successfully processed link: eskponentti vs. expreso809 | Analysis - Chess.com
+2024-09-04 04:16:16,426 - INFO - Processing link: https://www.chess.com/analysis/game/live/109073904708?tab=analysis
+2024-09-04 04:16:25,005 - INFO - Successfully processed link: ricepicker13 vs. ittt666 | Analysis - Chess.com
+2024-09-04 04:26:26,283 - INFO - Processing link: Check out this #chess game: eskponentti vs deeschessticles - https://www.chess.com/live/game/109076371268
+2024-09-04 04:26:34,156 - INFO - Successfully processed link: eskponentti vs. deeschessticles | Analysis - Chess.com
+2024-09-04 04:42:57,379 - INFO - Processing link: https://www.chess.com/analysis/game/live/119137236133?tab=analysis
+2024-09-04 04:43:05,721 - INFO - Successfully processed link: firepony vs. ricepicker13 | Analysis - Chess.com
+2024-09-04 04:46:02,726 - INFO - Processing link: Check out this #chess game: Nyzm05 vs HaakonSand - https://www.chess.com/live/game/109075032750
+2024-09-04 04:46:09,902 - INFO - Successfully processed link: Nyzm05 vs. HaakonSand | Analysis - Chess.com
+2024-09-04 04:46:42,773 - INFO - Processing link: Check out this #chess game: El-Sepuhh vs Dezi23 - https://www.chess.com/live/game/109076577346
+2024-09-04 04:46:50,380 - INFO - Successfully processed link: El-Sepuhh vs. Dezi23 | Analysis - Chess.com
+2024-09-04 04:55:23,379 - INFO - Processing link: https://www.chess.com/analysis/game/live/109076558866?tab=analysis
+2024-09-04 04:55:31,305 - INFO - Successfully processed link: nguyen5731 vs. MrNoqx | Analysis - Chess.com
+2024-09-04 04:56:52,489 - INFO - Processing link: Check out this #chess game: Blace1 vs El-Sepuhh - https://www.chess.com/live/game/109076669188
+2024-09-04 04:57:00,829 - INFO - Successfully processed link: Blace1 vs. El-Sepuhh | Analysis - Chess.com
+2024-09-04 06:16:58,612 - INFO - Processing link: github
