@@ -4497,3 +4497,240 @@ navigating to "daily/694391689", waiting until "load"
 2024-09-05 11:10:40,374 - INFO - Processing link: https://www.chess.com/analysis/game/live/109098854214?tab=analysis
 2024-09-05 11:10:47,867 - INFO - Successfully processed link: gojosaturo1o vs. long6271 | Analysis - Chess.com
 2024-09-05 11:12:53,216 - INFO - Processing link: github
+2024-09-05 11:27:15,812 - INFO - Processing link: https://www.chess.com/game/live/119248788925
+2024-09-05 11:27:25,109 - INFO - Successfully processed link: LeoQasim7 vs. huyamnotgay | Analysis - Chess.com
+2024-09-05 11:30:09,224 - INFO - Processing link: https://www.chess.com/game/live/109098976258
+2024-09-05 11:30:17,972 - INFO - Successfully processed link: aditya_x02 vs. MIGMEI30 | Analysis - Chess.com
+2024-09-05 11:32:06,698 - INFO - Processing link: https://www.chess.com/analysis/game/live/119249376157
+2024-09-05 11:32:13,866 - INFO - Successfully processed link: joseantoniocamachovargas vs. ndmanh1209 | Analysis - Chess.com
+2024-09-05 11:37:13,084 - INFO - Processing link: https://www.chess.com/game/live/109099143904
+2024-09-05 11:37:20,241 - INFO - Successfully processed link: galang123plg vs. MIGMEI30 | Analysis - Chess.com
+2024-09-05 11:46:26,837 - INFO - Processing link: https://www.chess.com/game/live/109099222830
+2024-09-05 11:46:34,623 - INFO - Successfully processed link: MIGMEI30 vs. Yashraj_0608 | Analysis - Chess.com
+2024-09-05 11:54:20,222 - INFO - Processing link: https://www.chess.com/game/live/109099305254
+2024-09-05 11:54:27,975 - INFO - Successfully processed link: MIGMEI30 vs. Rifan14 | Analysis - Chess.com
+2024-09-05 12:02:52,076 - INFO - Processing link: https://www.chess.com/game/live/109099376026
+2024-09-05 12:03:00,178 - INFO - Successfully processed link: MarieJuana91 vs. MIGMEI30 | Analysis - Chess.com
+2024-09-05 12:49:13,697 - INFO - Processing link: [Event \"Live Chess\"] [Site \"Chess.com\"] [Date \"2024.09.05\"] [Round \"-\"] [White \"ashudai\"] [Black \"dai-9\"] [Result \"0-1\"] [CurrentPosition \"1r4k1/1q1K1p1p/p2p2p1/4b3/8/2p3PP/5P2/8 w - -\"] [Timezone \"UTC\"] [ECO \"B23\"] [ECOUrl \"https://www.chess.com/openings/Closed-Sicilian-Defense-Traditional-Line-3.Nf3\"] [UTCDate \"2024.09.05\"] [UTCTime \"05:46:23\"] [WhiteElo \"445\"] [BlackElo \"445\"] [TimeControl \"180\"] [Termination \"dai-9 won by checkmate\"] [StartTime \"05:46:23\"] [EndDate \"2024.09.05\"] [EndTime \"05:51:03\"] [Link \"https://www.chess.com/game/live/109099842042\"] [WhiteUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"] [WhiteCountry \"100\"] [WhiteTitle \"\"] [BlackUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"] [BlackCountry \"149\"] [BlackTitle \"\"] 1. e4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 g6 5. d3 Bg7 6. Bf4 O-O 7. g3 d6 8. Qe2 e5 9. Be3 Bg4 10. O-O-O a6 11. h3 Bxf3 12. Qxf3 b5 13. Bd5 Nb4 14. Bxa8 Qxa8 15. d4 Nxa2+ 16. Kb1 Nxc3+ 17. bxc3 cxd4 18. cxd4 Nxe4 19. Bd2 Nxd2+ 20. Rxd2 Qxf3 21. dxe5 Qxh1+ 22. Kb2 Bxe5+ 23. c3 b4 24. Kb3 bxc3 25. Rc2 Rb8+ 26. Kc4 Qf1+ 27. Kd5 Qd3+ 28. Kc6 Qxc2 29. Kc7 Qb3 30. Kd7 Qb7# 0-1
+2024-09-05 12:49:21,204 - INFO - Successfully processed link: ashudai vs. dai-9 | Analysis - Chess.com
+2024-09-05 13:08:59,234 - INFO - Processing link: [Event \"Live Chess\"] [Site \"Chess.com\"] [Date \"2024.09.05\"] [Round \"-\"] [White \"dai-9\"] [Black \"Rider_379\"] [Result \"1-0\"] [CurrentPosition \"r1b2b2/p5pp/8/1p2N3/3n4/2Nk4/PP3PPP/R1BK3R b - -\"] [Timezone \"UTC\"] [ECO \"D20\"] [ECOUrl \"https://www.chess.com/openings/Queens-Gambit-Accepted-Central-Variation-Rubinstein-Defense-4.Nf3-cxd4\"] [UTCDate \"2024.09.05\"] [UTCTime \"06:08:29\"] [WhiteElo \"445\"] [BlackElo \"441\"] [TimeControl \"180\"] [Termination \"dai-9 won by checkmate\"] [StartTime \"06:08:29\"] [EndDate \"2024.09.05\"] [EndTime \"06:10:58\"] [Link \"https://www.chess.com/game/live/109100067372\"] [WhiteUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"] [WhiteCountry \"149\"] [WhiteTitle \"\"] [BlackUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"] [BlackCountry \"141\"] [BlackTitle \"\"] 1. d4 d5 2. c4 dxc4 3. e4 c5 4. Nf3 cxd4 5. Nxd4 e5 6. Nf3 Qxd1+ 7. Kxd1 Nc6 8. Bxc4 Nf6 9. Nc3 Nd4 10. Nxe5 b5 11. Bxf7+ Ke7 12. Bd5 Nxd5 13. Nxd5+ Kd6 14. Nf7+ Ke6 15. Nxh8 Ke5 16. Nf7+ Kxe4 17. Nc3+ Kd3 18. Ne5# 1-0
+2024-09-05 13:09:07,142 - INFO - Successfully processed link: dai-9 vs. Rider_379 | Analysis - Chess.com
+2024-09-05 13:09:50,615 - INFO - Processing link: https://www.chess.com/live/game/119227174387
+2024-09-05 13:09:57,446 - INFO - Successfully processed link: hajtou vs. Afdhal354 | Analysis - Chess.com
+2024-09-05 13:11:09,703 - INFO - Processing link: https://www.chess.com/live/game/119255399171
+2024-09-05 13:11:18,115 - INFO - Successfully processed link: morsalin1 vs. Afdhal354 | Analysis - Chess.com
+2024-09-05 13:23:49,889 - INFO - Processing link: https://www.chess.com/game/live/119255988227
+2024-09-05 13:23:58,712 - INFO - Successfully processed link: GOD-SOMU vs. nhatkhangnobot | Analysis - Chess.com
+2024-09-05 13:30:08,299 - INFO - Processing link: https://www.chess.com/game/live/119256012111
+2024-09-05 13:30:16,720 - INFO - Successfully processed link: miny0517 vs. molal_20 | Analysis - Chess.com
+2024-09-05 13:35:19,054 - INFO - Processing link: https://www.chess.com/game/live/109100335326
+2024-09-05 13:35:27,881 - INFO - Successfully processed link: GOD-SOMU vs. MrHans2X | Analysis - Chess.com
+2024-09-05 13:52:02,398 - INFO - Processing link: https://www.chess.com/analysis/game/live/119257788037
+2024-09-05 13:52:09,950 - INFO - Successfully processed link: ndmanh1209 vs. schnimi | Analysis - Chess.com
+2024-09-05 14:03:41,934 - INFO - Processing link: https://www.chess.com/analysis/game/live/109100582078?tab=analysis
+2024-09-05 14:03:51,184 - INFO - Successfully processed link: tom1947Y vs. Easygame133 | Analysis - Chess.com
+2024-09-05 14:04:01,875 - INFO - Processing link: https://www.chess.com/analysis/game/live/109100624268?tab=review
+2024-09-05 14:04:09,097 - INFO - Successfully processed link: Chasmetic vs. PierrePapin | Analysis - Chess.com
+2024-09-05 14:13:29,074 - INFO - Processing link: https://www.chess.com/analysis/game/live/119258983567
+2024-09-05 14:13:36,558 - INFO - Successfully processed link: Akaliplayer7 vs. ndmanh1209 | Analysis - Chess.com
+2024-09-05 14:16:33,234 - INFO - Processing link: https://www.chess.com/analysis/game/live/109100707498?tab=analysis
+2024-09-05 14:16:41,002 - INFO - Successfully processed link: Easygame133 vs. tommymaye1 | Analysis - Chess.com
+2024-09-05 14:20:11,626 - INFO - Processing link: https://www.chess.com/game/live/119259581577
+2024-09-05 14:20:19,959 - INFO - Successfully processed link: Eagleeyes1402 vs. huyamnotgay | Analysis - Chess.com
+2024-09-05 14:29:40,585 - INFO - Processing link: https://www.chess.com/game/live/119259609303
+2024-09-05 14:29:48,390 - INFO - Successfully processed link: manhdakdro0123 vs. Gani198512 | Analysis - Chess.com
+2024-09-05 14:30:24,658 - INFO - Processing link: https://www.chess.com/game/live/119260179283
+2024-09-05 14:30:32,165 - INFO - Successfully processed link: huyamnotgay vs. ncvd60 | Analysis - Chess.com
+2024-09-05 14:32:48,650 - INFO - Processing link: https://www.chess.com/analysis/game/live/109100878220?tab=review
+2024-09-05 14:32:56,360 - INFO - Successfully processed link: anawfuldark vs. A3_woodenbrooches | Analysis - Chess.com
+2024-09-05 14:35:40,665 - INFO - Processing link: Check out this #chess game: Joy-Girl vs sainika22 - https://www.chess.com/live/game/108410290782
+2024-09-05 14:35:48,020 - INFO - Successfully processed link: Joy-Girl vs. sainika22 | Analysis - Chess.com
+2024-09-05 14:35:52,069 - INFO - Processing link: Check out this #chess game: jeremie641 vs Joy-Girl - https://www.chess.com/live/game/108410224162
+2024-09-05 14:35:59,776 - INFO - Successfully processed link: jeremie641 vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:36:01,521 - INFO - Processing link: Check out this #chess game: Joy-Girl vs 0Endru0 - https://www.chess.com/live/game/108410104214
+2024-09-05 14:36:11,322 - INFO - Successfully processed link: Joy-Girl vs. 0Endru0 | Analysis - Chess.com
+2024-09-05 14:36:13,737 - INFO - Processing link: Check out this #chess game: oreos92 vs Joy-Girl - https://www.chess.com/live/game/108410078892
+2024-09-05 14:36:20,923 - INFO - Successfully processed link: oreos92 vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:36:29,349 - INFO - Processing link: Check out this #chess game: Joy-Girl vs Emjuli006 - https://www.chess.com/live/game/108410050948
+2024-09-05 14:36:36,770 - INFO - Successfully processed link: Joy-Girl vs. Emjuli006 | Analysis - Chess.com
+2024-09-05 14:36:39,246 - INFO - Processing link: Check out this #chess game: xXDeathshadowXx vs Joy-Girl - https://www.chess.com/live/game/115682893281
+2024-09-05 14:36:47,145 - INFO - Successfully processed link: xXDeathshadowXx vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:36:47,485 - INFO - Processing link: Check out this #chess game: Mityri96 vs Joy-Girl - https://www.chess.com/live/game/108403789690
+2024-09-05 14:36:54,612 - INFO - Processing link: Check out this #chess game: Joy-Girl vs Albybaby123 - https://www.chess.com/live/game/108403059030
+2024-09-05 14:36:55,836 - INFO - Successfully processed link: Mityri96 vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:37:01,898 - INFO - Successfully processed link: Joy-Girl vs. Albybaby123 | Analysis - Chess.com
+2024-09-05 14:37:02,015 - INFO - Processing link: Check out this #chess game: rupausjb vs Joy-Girl - https://www.chess.com/live/game/108401051240
+2024-09-05 14:37:09,950 - INFO - Processing link: Check out this #chess game: Joy-Girl vs CapriceNo5 - https://www.chess.com/live/game/108400959436
+2024-09-05 14:37:12,184 - INFO - Successfully processed link: rupausjb vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:37:17,173 - INFO - Processing link: Check out this #chess game: brandontrent111 vs Joy-Girl - https://www.chess.com/live/game/108400874222
+2024-09-05 14:37:18,695 - INFO - Successfully processed link: Joy-Girl vs. CapriceNo5 | Analysis - Chess.com
+2024-09-05 14:37:24,192 - INFO - Processing link: Check out this #chess game: Joy-Girl vs LouvaD - https://www.chess.com/live/game/108400803816
+2024-09-05 14:37:25,224 - INFO - Successfully processed link: brandontrent111 vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:37:32,185 - INFO - Processing link: Check out this #chess game: RGibs9 vs Joy-Girl - https://www.chess.com/live/game/108387621700
+2024-09-05 14:37:32,347 - INFO - Successfully processed link: Joy-Girl vs. LouvaD | Analysis - Chess.com
+2024-09-05 14:37:39,821 - INFO - Processing link: Check out this #chess game: Conan_dfg vs Joy-Girl - https://www.chess.com/live/game/115483200835
+2024-09-05 14:37:41,065 - INFO - Successfully processed link: RGibs9 vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:37:47,296 - INFO - Processing link: Check out this #chess game: Joy-Girl vs Sasuke335522 - https://www.chess.com/live/game/115580272713
+2024-09-05 14:37:48,895 - INFO - Successfully processed link: Conan_dfg vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:37:55,381 - INFO - Successfully processed link: Joy-Girl vs. Sasuke335522 | Analysis - Chess.com
+2024-09-05 14:37:57,367 - INFO - Processing link: Check out this #chess game: Joy-Girl vs clomaclo - https://www.chess.com/live/game/115476536875
+2024-09-05 14:38:05,376 - INFO - Processing link: Check out this #chess game: SCAAB vs Joy-Girl - https://www.chess.com/live/game/115475900945
+2024-09-05 14:38:07,523 - INFO - Successfully processed link: Joy-Girl vs. clomaclo | Analysis - Chess.com
+2024-09-05 14:38:12,746 - INFO - Processing link: Check out this #chess game: Joy-Girl vs casilas222 - https://www.chess.com/live/game/115474716251
+2024-09-05 14:38:14,923 - INFO - Successfully processed link: SCAAB vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:38:20,631 - INFO - Successfully processed link: Joy-Girl vs. casilas222 | Analysis - Chess.com
+2024-09-05 14:38:21,821 - INFO - Processing link: Check out this #chess game: Joy-Girl vs Nathanjames245 - https://www.chess.com/live/game/115470567917
+2024-09-05 14:38:29,558 - INFO - Processing link: Check out this #chess game: mostafashrief383 vs Joy-Girl - https://www.chess.com/live/game/115470472243
+2024-09-05 14:38:31,304 - INFO - Successfully processed link: Joy-Girl vs. Nathanjames245 | Analysis - Chess.com
+2024-09-05 14:38:38,962 - INFO - Successfully processed link: mostafashrief383 vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:38:39,220 - INFO - Processing link: Check out this #chess game: Joy-Girl vs Ayanokoji-Kiyotaka05 - https://www.chess.com/live/game/116374821195
+2024-09-05 14:38:46,504 - INFO - Successfully processed link: Joy-Girl vs. Ayanokoji-Kiyotaka05 | Analysis - Chess.com
+2024-09-05 14:38:47,877 - INFO - Processing link: Check out this #chess game: Ayanokoji-Kiyotaka05 vs Joy-Girl - https://www.chess.com/live/game/116375375023
+2024-09-05 14:38:54,713 - INFO - Successfully processed link: Ayanokoji-Kiyotaka05 vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:40:58,633 - INFO - Processing link: vhttps://www.chess.com/analysis/game/live/119260196543
+2024-09-05 14:41:06,438 - INFO - Successfully processed link: tempak vs. ndmanh1209 | Analysis - Chess.com
+2024-09-05 14:48:21,058 - INFO - Processing link: Check out this #chess game: adigemehmet38 vs Joy-Girl - https://www.chess.com/live/game/115469922969
+2024-09-05 14:48:29,353 - INFO - Successfully processed link: adigemehmet38 vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:48:37,347 - INFO - Processing link: Check out this #chess game: Joy-Girl vs ByteMixed - https://www.chess.com/live/game/115469363729
+2024-09-05 14:48:45,011 - INFO - Successfully processed link: Joy-Girl vs. ByteMixed | Analysis - Chess.com
+2024-09-05 14:48:47,226 - INFO - Processing link: Check out this #chess game: Ilyestaha vs Joy-Girl - https://www.chess.com/live/game/115298924509
+2024-09-05 14:48:55,261 - INFO - Processing link: Check out this #chess game: morning-star4137 vs Joy-Girl - https://www.chess.com/live/game/115252735757
+2024-09-05 14:48:57,426 - INFO - Successfully processed link: Ilyestaha vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:49:02,612 - INFO - Processing link: Check out this #chess game: Joy-Girl vs morning-star4137 - https://www.chess.com/live/game/115252723807
+2024-09-05 14:49:03,979 - INFO - Successfully processed link: morning-star4137 vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:49:09,787 - INFO - Processing link: Check out this #chess game: Stupid_sacerfices vs Joy-Girl - https://www.chess.com/live/game/115252131253
+2024-09-05 14:49:10,569 - INFO - Successfully processed link: Joy-Girl vs. morning-star4137 | Analysis - Chess.com
+2024-09-05 14:49:17,479 - INFO - Processing link: Check out this #chess game: Joy-Girl vs Draxler738 - https://www.chess.com/live/game/115220308923
+2024-09-05 14:49:17,592 - INFO - Successfully processed link: Stupid_sacerfices vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:49:25,166 - INFO - Processing link: Check out this #chess game: Vedansh2Vasu vs Joy-Girl - https://www.chess.com/live/game/115219776177
+2024-09-05 14:49:26,777 - INFO - Successfully processed link: Joy-Girl vs. Draxler738 | Analysis - Chess.com
+2024-09-05 14:49:32,596 - INFO - Processing link: Check out this #chess game: Joy-Girl vs Stupid_sacerfices - https://www.chess.com/live/game/115252084229
+2024-09-05 14:49:32,810 - INFO - Successfully processed link: Vedansh2Vasu vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:49:39,865 - INFO - Successfully processed link: Joy-Girl vs. Stupid_sacerfices | Analysis - Chess.com
+2024-09-05 14:49:41,570 - INFO - Processing link: Check out this #chess game: Ikrom1978 vs Joy-Girl - https://www.chess.com/live/game/115135787983
+2024-09-05 14:49:49,442 - INFO - Successfully processed link: Ikrom1978 vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:49:59,750 - INFO - Processing link: Check out this #chess game: Joy-Girl vs MerajYousefi - https://www.chess.com/live/game/115134539417
+2024-09-05 14:50:08,171 - INFO - Processing link: Check out this #chess game: desantiselia vs Joy-Girl - https://www.chess.com/live/game/115120162217
+2024-09-05 14:50:09,422 - INFO - Successfully processed link: Joy-Girl vs. MerajYousefi | Analysis - Chess.com
+2024-09-05 14:50:16,048 - INFO - Successfully processed link: desantiselia vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:50:16,628 - INFO - Processing link: Check out this #chess game: generationzforever vs Joy-Girl - https://www.chess.com/live/game/115048691377
+2024-09-05 14:50:24,196 - INFO - Successfully processed link: generationzforever vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:50:24,638 - INFO - Processing link: Check out this #chess game: ranggeyondaime vs Joy-Girl - https://www.chess.com/live/game/115000090305
+2024-09-05 14:50:31,953 - INFO - Successfully processed link: ranggeyondaime vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:50:32,566 - INFO - Processing link: Check out this #chess game: Joy-Girl vs Montalbert - https://www.chess.com/live/game/115120117961
+2024-09-05 14:50:34,856 - INFO - Processing link: https://www.chess.com/analysis/game/live/119261404001
+2024-09-05 14:50:40,692 - INFO - Successfully processed link: Joy-Girl vs. Montalbert | Analysis - Chess.com
+2024-09-05 14:50:40,998 - INFO - Processing link: Check out this #chess game: Joy-Girl vs pbrown6 - https://www.chess.com/live/game/115048735549
+2024-09-05 14:50:43,670 - INFO - Successfully processed link: vallavelli22 vs. ndmanh1209 | Analysis - Chess.com
+2024-09-05 14:50:49,141 - INFO - Successfully processed link: Joy-Girl vs. pbrown6 | Analysis - Chess.com
+2024-09-05 14:50:51,993 - INFO - Processing link: Check out this #chess game: economic2 vs Joy-Girl - https://www.chess.com/live/game/114977955981
+2024-09-05 14:50:58,298 - INFO - Successfully processed link: economic2 vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:50:59,863 - INFO - Processing link: Check out this #chess game: Joy-Girl vs Abdall18599 - https://www.chess.com/live/game/115048705249
+2024-09-05 14:51:07,266 - INFO - Successfully processed link: Joy-Girl vs. Abdall18599 | Analysis - Chess.com
+2024-09-05 14:51:08,588 - INFO - Processing link: Check out this #chess game: darjonk vs Joy-Girl - https://www.chess.com/live/game/114976087929
+2024-09-05 14:51:15,430 - INFO - Successfully processed link: darjonk vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:51:18,425 - INFO - Processing link: Check out this #chess game: Joy-Girl vs Dycybal - https://www.chess.com/live/game/114976145985
+2024-09-05 14:51:27,332 - INFO - Successfully processed link: Joy-Girl vs. Dycybal | Analysis - Chess.com
+2024-09-05 14:51:27,484 - INFO - Processing link: Check out this #chess game: Joy-Girl vs ntramposch - https://www.chess.com/live/game/114977360479
+2024-09-05 14:51:35,207 - INFO - Processing link: Check out this #chess game: ravi12111 vs Joy-Girl - https://www.chess.com/live/game/114977272215
+2024-09-05 14:51:36,450 - INFO - Successfully processed link: Joy-Girl vs. ntramposch | Analysis - Chess.com
+2024-09-05 14:51:43,823 - INFO - Successfully processed link: ravi12111 vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:57:14,470 - INFO - Processing link: Check out this #chess game: Joy-Girl vs teby8 - https://www.chess.com/live/game/114974386421
+2024-09-05 14:57:23,101 - INFO - Successfully processed link: Joy-Girl vs. teby8 | Analysis - Chess.com
+2024-09-05 14:57:27,448 - INFO - Processing link: Check out this #chess game: TEONTHA vs Joy-Girl - https://www.chess.com/live/game/108251725464
+2024-09-05 14:57:34,733 - INFO - Successfully processed link: TEONTHA vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:57:36,130 - INFO - Processing link: Check out this #chess game: Joy-Girl vs Hakan55Kadir - https://www.chess.com/live/game/108251683112
+2024-09-05 14:57:44,583 - INFO - Successfully processed link: Joy-Girl vs. Hakan55Kadir | Analysis - Chess.com
+2024-09-05 14:57:46,810 - INFO - Processing link: Check out this #chess game: m1ke420 vs Joy-Girl - https://www.chess.com/live/game/108251667520
+2024-09-05 14:57:53,910 - INFO - Successfully processed link: m1ke420 vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:57:54,501 - INFO - Processing link: Check out this #chess game: Joy-Girl vs smeth48 - https://www.chess.com/live/game/108251647824
+2024-09-05 14:58:02,067 - INFO - Processing link: Check out this #chess game: Joy-Girl vs kosmokos - https://www.chess.com/live/game/108251615558
+2024-09-05 14:58:02,366 - INFO - Successfully processed link: Joy-Girl vs. smeth48 | Analysis - Chess.com
+2024-09-05 14:58:09,416 - INFO - Successfully processed link: Joy-Girl vs. kosmokos | Analysis - Chess.com
+2024-09-05 14:58:10,750 - INFO - Processing link: Check out this #chess game: gymazul vs Joy-Girl - https://www.chess.com/live/game/114708468617
+2024-09-05 14:58:16,468 - INFO - Processing link: https://www.chess.com/analysis/game/live/109101138774?tab=review
+2024-09-05 14:58:18,403 - INFO - Successfully processed link: gymazul vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:58:18,818 - INFO - Processing link: Check out this #chess game: Joy-Girl vs mmohammedsaad - https://www.chess.com/live/game/114707909863
+2024-09-05 14:58:26,187 - INFO - Successfully processed link: fredcheval vs. anawfuldark | Analysis - Chess.com
+2024-09-05 14:58:27,378 - INFO - Successfully processed link: Joy-Girl vs. mmohammedsaad | Analysis - Chess.com
+2024-09-05 14:58:29,384 - INFO - Processing link: Check out this #chess game: dkeiter vs Joy-Girl - https://www.chess.com/live/game/114706182341
+2024-09-05 14:58:36,708 - INFO - Successfully processed link: dkeiter vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:58:47,802 - INFO - Processing link: Check out this #chess game: Saddam77777 vs Joy-Girl - https://www.chess.com/live/game/114707327665
+2024-09-05 14:58:55,209 - INFO - Successfully processed link: Saddam77777 vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:58:55,653 - INFO - Processing link: Check out this #chess game: Joy-Girl vs 15AB3L24 - https://www.chess.com/live/game/114706766123
+2024-09-05 14:59:03,131 - INFO - Successfully processed link: Joy-Girl vs. 15AB3L24 | Analysis - Chess.com
+2024-09-05 14:59:03,664 - INFO - Processing link: Check out this #chess game: Joy-Girl vs Lucas2c - https://www.chess.com/live/game/114704949793
+2024-09-05 14:59:11,254 - INFO - Successfully processed link: Joy-Girl vs. Lucas2c | Analysis - Chess.com
+2024-09-05 14:59:12,313 - INFO - Processing link: Check out this #chess game: Vitor_Chess_Brasil vs Joy-Girl - https://www.chess.com/live/game/114704898061
+2024-09-05 14:59:19,482 - INFO - Successfully processed link: Vitor_Chess_Brasil vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:59:19,553 - INFO - Processing link: Check out this #chess game: Joy-Girl vs Mohamed_mussa - https://www.chess.com/live/game/114649722749
+2024-09-05 14:59:26,763 - INFO - Successfully processed link: Joy-Girl vs. Mohamed_mussa | Analysis - Chess.com
+2024-09-05 14:59:26,999 - INFO - Processing link: Check out this #chess game: Mohamed_mussa vs Joy-Girl - https://www.chess.com/live/game/114649690785
+2024-09-05 14:59:34,969 - INFO - Successfully processed link: Mohamed_mussa vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 14:59:44,797 - INFO - Processing link: Check out this #chess game: Joy-Girl vs yotamh23 - https://www.chess.com/live/game/114703149981
+2024-09-05 14:59:52,410 - INFO - Successfully processed link: Joy-Girl vs. yotamh23 | Analysis - Chess.com
+2024-09-05 14:59:53,589 - INFO - Processing link: Check out this #chess game: Joy-Girl vs Mohamed_mussa - https://www.chess.com/live/game/114649663735
+2024-09-05 15:00:01,298 - INFO - Successfully processed link: Joy-Girl vs. Mohamed_mussa | Analysis - Chess.com
+2024-09-05 15:00:01,908 - INFO - Processing link: Check out this #chess game: Joy-Girl vs ZiggsAbuser - https://www.chess.com/live/game/114641315845
+2024-09-05 15:00:09,933 - INFO - Successfully processed link: Joy-Girl vs. ZiggsAbuser | Analysis - Chess.com
+2024-09-05 15:00:11,693 - INFO - Processing link: Check out this #chess game: ajitkumar1628 vs Joy-Girl - https://www.chess.com/live/game/114640163799
+2024-09-05 15:00:19,334 - INFO - Processing link: Check out this #chess game: Joy-Girl vs sujalplayschess - https://www.chess.com/live/game/114639557883
+2024-09-05 15:00:19,644 - INFO - Successfully processed link: ajitkumar1628 vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 15:00:26,793 - INFO - Successfully processed link: Joy-Girl vs. sujalplayschess | Analysis - Chess.com
+2024-09-05 15:00:28,000 - INFO - Processing link: Check out this #chess game: 7moodzzz vs Joy-Girl - https://www.chess.com/live/game/114608275067
+2024-09-05 15:00:35,564 - INFO - Processing link: Check out this #chess game: Niteen04 vs Joy-Girl - https://www.chess.com/live/game/114640753791
+2024-09-05 15:00:37,257 - INFO - Successfully processed link: 7moodzzz vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 15:00:43,631 - INFO - Successfully processed link: Niteen04 vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 15:03:13,626 - INFO - Processing link: https://www.chess.com/analysis/game/live/109101018738?tab=analysis
+2024-09-05 15:03:21,524 - INFO - Successfully processed link: Andy5408 vs. anawfuldark | Analysis - Chess.com
+2024-09-05 15:06:14,253 - INFO - Processing link: Check out this #chess game: Joy-Girl vs bomza3 - https://www.chess.com/live/game/114380397443
+2024-09-05 15:06:21,900 - INFO - Successfully processed link: Joy-Girl vs. bomza3 | Analysis - Chess.com
+2024-09-05 15:06:25,446 - INFO - Processing link: Check out this #chess game: Joy-Girl vs 12vishal212 - https://www.chess.com/live/game/114607693157
+2024-09-05 15:06:32,992 - INFO - Processing link: Check out this #chess game: earl15000 vs Joy-Girl - https://www.chess.com/live/game/114607106367
+2024-09-05 15:06:33,550 - INFO - Successfully processed link: Joy-Girl vs. 12vishal212 | Analysis - Chess.com
+2024-09-05 15:06:41,423 - INFO - Processing link: Check out this #chess game: Joy-Girl vs Bill_V_Dirtclub - https://www.chess.com/live/game/114607065033
+2024-09-05 15:06:41,782 - INFO - Successfully processed link: earl15000 vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 15:06:49,213 - INFO - Successfully processed link: Joy-Girl vs. Bill_V_Dirtclub | Analysis - Chess.com
+2024-09-05 15:06:49,585 - INFO - Processing link: Check out this #chess game: A_Doggo vs Joy-Girl - https://www.chess.com/live/game/114530985507
+2024-09-05 15:06:57,844 - INFO - Processing link: Check out this #chess game: Joy-Girl vs LabeatFejza - https://www.chess.com/live/game/114530921747
+2024-09-05 15:06:58,414 - INFO - Successfully processed link: A_Doggo vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 15:07:06,047 - INFO - Processing link: Check out this #chess game: DorjenKneto vs Joy-Girl - https://www.chess.com/live/game/108194424174
+2024-09-05 15:07:06,365 - INFO - Successfully processed link: Joy-Girl vs. LabeatFejza | Analysis - Chess.com
+2024-09-05 15:07:12,376 - INFO - Successfully processed link: DorjenKneto vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 15:07:13,991 - INFO - Processing link: Check out this #chess game: mandarinvsapelsin vs Joy-Girl - https://www.chess.com/live/game/108193894942
+2024-09-05 15:07:21,586 - INFO - Processing link: Check out this #chess game: alyagame vs Joy-Girl - https://www.chess.com/live/game/108194278674
+2024-09-05 15:07:21,822 - INFO - Successfully processed link: mandarinvsapelsin vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 15:07:29,163 - INFO - Processing link: Check out this #chess game: Joy-Girl vs TravenGraven - https://www.chess.com/live/game/108193722422
+2024-09-05 15:07:30,296 - INFO - Successfully processed link: alyagame vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 15:07:36,743 - INFO - Processing link: Check out this #chess game: Joy-Girl vs mindmaze75 - https://www.chess.com/live/game/108193926744
+2024-09-05 15:07:39,318 - INFO - Successfully processed link: Joy-Girl vs. TravenGraven | Analysis - Chess.com
+2024-09-05 15:07:44,475 - INFO - Successfully processed link: Joy-Girl vs. mindmaze75 | Analysis - Chess.com
+2024-09-05 15:07:44,987 - INFO - Processing link: Check out this #chess game: Joy-Girl vs lala23_x - https://www.chess.com/live/game/108193656910
+2024-09-05 15:07:52,974 - INFO - Successfully processed link: Joy-Girl vs. lala23_x | Analysis - Chess.com
+2024-09-05 15:07:54,114 - INFO - Processing link: Check out this #chess game: fianchh vs Joy-Girl - https://www.chess.com/live/game/108184350206
+2024-09-05 15:08:01,681 - INFO - Successfully processed link: fianchh vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 15:08:02,511 - INFO - Processing link: Check out this #chess game: Joy-Girl vs ShakeDownBoi - https://www.chess.com/live/game/114427206631
+2024-09-05 15:08:09,929 - INFO - Successfully processed link: Joy-Girl vs. ShakeDownBoi | Analysis - Chess.com
+2024-09-05 15:08:10,516 - INFO - Processing link: Check out this #chess game: Joy-Girl vs Romo972 - https://www.chess.com/live/game/108184299328
+2024-09-05 15:08:18,321 - INFO - Processing link: Check out this #chess game: Apogreat vs Joy-Girl - https://www.chess.com/live/game/114426650369
+2024-09-05 15:08:19,210 - INFO - Successfully processed link: Joy-Girl vs. Romo972 | Analysis - Chess.com
+2024-09-05 15:08:25,562 - INFO - Successfully processed link: Apogreat vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 15:08:25,723 - INFO - Processing link: Check out this #chess game: HunterOfFish vs Joy-Girl - https://www.chess.com/live/game/114439262173
+2024-09-05 15:08:34,044 - INFO - Processing link: Check out this #chess game: Joy-Girl vs BetchaQuit - https://www.chess.com/live/game/114427773017
+2024-09-05 15:08:34,304 - INFO - Successfully processed link: HunterOfFish vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 15:08:43,429 - INFO - Successfully processed link: Joy-Girl vs. BetchaQuit | Analysis - Chess.com
+2024-09-05 15:08:45,553 - INFO - Processing link: Check out this #chess game: Joy-Girl vs merlijn33 - https://www.chess.com/live/game/114381667019
+2024-09-05 15:08:52,803 - INFO - Successfully processed link: Joy-Girl vs. merlijn33 | Analysis - Chess.com
+2024-09-05 15:08:54,070 - INFO - Processing link: Check out this #chess game: LandoisWet vs Joy-Girl - https://www.chess.com/live/game/114381581285
+2024-09-05 15:09:01,322 - INFO - Successfully processed link: LandoisWet vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 15:09:14,924 - INFO - Processing link: Check out this #chess game: LandoisWet vs Joy-Girl - https://www.chess.com/live/game/114381581285
+2024-09-05 15:09:20,970 - INFO - Successfully processed link: LandoisWet vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 15:09:23,437 - INFO - Processing link: Check out this #chess game: Cidras23 vs Joy-Girl - https://www.chess.com/live/game/114380485345
+2024-09-05 15:09:31,168 - INFO - Successfully processed link: Cidras23 vs. Joy-Girl | Analysis - Chess.com
+2024-09-05 15:09:33,189 - INFO - Processing link: Check out this #chess game: Joy-Girl vs CapsChess - https://www.chess.com/live/game/114381030321
+2024-09-05 15:09:40,889 - INFO - Successfully processed link: Joy-Girl vs. CapsChess | Analysis - Chess.com
+2024-09-05 15:13:00,437 - INFO - Processing link: Xem ván c\u1edd #: BKnight55 vs Toi_Va_Cu_Hanh - https://www.chess.com/live/game/119262008037
+2024-09-05 15:13:07,992 - INFO - Successfully processed link: BKnight55 vs. Toi_Va_Cu_Hanh | Analysis - Chess.com
+2024-09-05 15:18:51,225 - INFO - Processing link: https://www.chess.com/analysis/game/live/109101395960?tab=analysis
+2024-09-05 15:18:59,381 - INFO - Successfully processed link: MrNoqx vs. OlympianSpear | Analysis - Chess.com
+2024-09-05 15:20:20,211 - INFO - Processing link: github
