@@ -5200,3 +5200,71 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-06 01:11:47,996 - INFO - Processing link: https://www.chess.com/analysis/game/live/109110420872?tab=analysis
 2024-09-06 01:11:54,494 - INFO - Successfully processed link: haRIZZyousuf vs. josekrj | Analysis - Chess.com
 2024-09-06 01:34:23,325 - INFO - Processing link: github
+2024-09-06 01:35:25,029 - INFO - Processing link: Check out this #chess game: Logsritmi vs varunkulkarni20 - https://www.chess.com/live/game/119275207575
+2024-09-06 01:35:55,697 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/119275207575?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/119275207575?tab=review", waiting until "load"
+
+2024-09-06 01:36:37,349 - INFO - Processing link: Check out this #chess game: Agadmarino vs Reklamo - https://www.chess.com/live/game/119299264003
+2024-09-06 01:37:08,032 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/119299264003?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/119299264003?tab=review", waiting until "load"
+
+2024-09-06 02:09:24,941 - INFO - Processing link: \u0634\u0627\u0647\u062f \u0647\u0630\u0647 \u0627\u0644\u0645\u0628\u0627\u0631\u0627\u0629: ali_herr \u0636\u062f chekmate_8 - https://www.chess.com/live/game/109111394320
+2024-09-06 02:09:36,754 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/109111394320?tab=review: Page.goto: Couldn't resolve host name
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/109111394320?tab=review", waiting until "load"
+
+2024-09-06 02:27:23,691 - INFO - Processing link: https://www.chess.com/analysis/game/live/119302226595?tab=analysis
+2024-09-06 02:27:32,147 - INFO - Successfully processed link: Armaan_1 vs. Deus-Arcanum | Analysis - Chess.com
+2024-09-06 02:40:24,021 - INFO - Processing link: https://www.chess.com/live/game/109111839552
+2024-09-06 02:40:25,591 - INFO - Processing link: https://www.chess.com/analysis/game/live/119303964861?tab=analysis
+2024-09-06 02:40:34,421 - INFO - Successfully processed link: mast20000 vs. Deus-Arcanum | Analysis - Chess.com
+2024-09-06 02:40:34,643 - INFO - Successfully processed link: Charly_pro777 vs. ali_herr | Analysis - Chess.com
+2024-09-06 02:41:12,150 - INFO - Processing link: https://www.chess.com/live/game/113345993273
+2024-09-06 02:41:19,924 - INFO - Successfully processed link: Joy-Girl vs. Nav_Ryes | Analysis - Chess.com
+2024-09-06 02:41:44,726 - INFO - Processing link: Check out this #chess game: 111111hgffffff vs Joy-Girl - https://www.chess.com/live/game/119303365347
+2024-09-06 02:41:53,349 - INFO - Successfully processed link: 111111hgffffff vs. Joy-Girl | Analysis - Chess.com
+2024-09-06 02:42:08,947 - INFO - Processing link: https://www.chess.com/live/game/113313646537
+2024-09-06 02:42:16,941 - INFO - Successfully processed link: Joy-Girl vs. Malinowy_Jan | Analysis - Chess.com
+2024-09-06 02:42:47,316 - INFO - Processing link: https://www.chess.com/live/game/113322595267
+2024-09-06 02:42:56,745 - INFO - Successfully processed link: Joy-Girl vs. Mukulusz | Analysis - Chess.com
+2024-09-06 02:43:20,714 - INFO - Processing link: https://www.chess.com/live/game/108023942652
+2024-09-06 02:43:29,086 - INFO - Successfully processed link: curroruizr vs. Joy-Girl | Analysis - Chess.com
+2024-09-06 02:44:02,449 - INFO - Processing link: https://www.chess.com/live/game/113345976029
+2024-09-06 02:44:09,565 - INFO - Successfully processed link: GugaLindoFisher vs. Joy-Girl | Analysis - Chess.com
+2024-09-06 02:44:47,321 - INFO - Processing link: https://www.chess.com/live/game/113478029289
+2024-09-06 02:44:56,134 - INFO - Successfully processed link: Joy-Girl vs. hozy1 | Analysis - Chess.com
+2024-09-06 02:45:18,482 - INFO - Processing link: https://www.chess.com/live/game/113373603835
+2024-09-06 02:45:26,346 - INFO - Successfully processed link: Joy-Girl vs. ovanzaimul | Analysis - Chess.com
+2024-09-06 02:45:41,940 - INFO - Processing link: https://www.chess.com/live/game/113436569931
+2024-09-06 02:45:51,794 - INFO - Successfully processed link: extrasistolesv vs. Joy-Girl | Analysis - Chess.com
+2024-09-06 02:46:14,735 - INFO - Processing link: https://www.chess.com/live/game/113477417171
+2024-09-06 02:46:22,494 - INFO - Successfully processed link: Joy-Girl vs. Dhwanil1522 | Analysis - Chess.com
+2024-09-06 02:46:36,478 - INFO - Processing link: https://www.chess.com/live/game/113480426269
+2024-09-06 02:46:45,340 - INFO - Successfully processed link: ClementHC vs. Joy-Girl | Analysis - Chess.com
+2024-09-06 02:47:07,616 - INFO - Processing link: https://www.chess.com/live/game/113477980215
+2024-09-06 02:47:15,898 - INFO - Successfully processed link: PatBas vs. Joy-Girl | Analysis - Chess.com
+2024-09-06 02:47:26,019 - INFO - Processing link: https://www.chess.com/live/game/113481042151
+2024-09-06 02:47:34,198 - INFO - Successfully processed link: swalt vs. Joy-Girl | Analysis - Chess.com
+2024-09-06 02:47:38,541 - INFO - Processing link: https://www.chess.com/live/game/113481610169
+2024-09-06 02:47:48,328 - INFO - Successfully processed link: Joy-Girl vs. Bayome123 | Analysis - Chess.com
+2024-09-06 02:47:50,057 - INFO - Processing link: https://www.chess.com/live/game/113481610169
+2024-09-06 02:47:58,290 - INFO - Successfully processed link: Joy-Girl vs. Bayome123 | Analysis - Chess.com
+2024-09-06 02:48:01,978 - INFO - Processing link: https://www.chess.com/live/game/113482238535
+2024-09-06 02:48:10,203 - INFO - Successfully processed link: Joy-Girl vs. JerichoKRB | Analysis - Chess.com
+2024-09-06 02:48:12,277 - INFO - Processing link: https://www.chess.com/live/game/113482777943
+2024-09-06 02:48:20,873 - INFO - Successfully processed link: Joy-Girl vs. selosmart1 | Analysis - Chess.com
+2024-09-06 02:48:35,098 - INFO - Processing link: https://www.chess.com/live/game/113483366727
+2024-09-06 02:48:43,091 - INFO - Successfully processed link: Sabbia0 vs. Joy-Girl | Analysis - Chess.com
+2024-09-06 02:48:48,444 - INFO - Processing link: https://www.chess.com/live/game/113483441557
+2024-09-06 02:48:55,770 - INFO - Successfully processed link: Joy-Girl vs. sahilit23292 | Analysis - Chess.com
+2024-09-06 02:48:59,643 - INFO - Processing link: https://www.chess.com/live/game/113322645845
+2024-09-06 02:49:08,963 - INFO - Successfully processed link: PanchovGeovannov vs. Joy-Girl | Analysis - Chess.com
+2024-09-06 02:57:50,563 - INFO - Processing link: https://www.chess.com/analysis/game/live/119304582611?tab=analysis
+2024-09-06 02:57:59,220 - INFO - Successfully processed link: Deus-Arcanum vs. Marcosaugustobrisola | Analysis - Chess.com
+2024-09-06 03:03:05,525 - INFO - Processing link: Check out this #chess game: Joy-Girl vs AnatolyMiroshnik - https://www.chess.com/live/game/119305188317
+2024-09-06 03:03:14,058 - INFO - Successfully processed link: Joy-Girl vs. AnatolyMiroshnik | Analysis - Chess.com
+2024-09-06 03:41:46,198 - INFO - Processing link: https://www.chess.com/live/game/119307570131
+2024-09-06 03:41:55,016 - INFO - Successfully processed link: FY203 vs. Joy-Girl | Analysis - Chess.com
+2024-09-06 03:50:21,317 - INFO - Processing link: github
