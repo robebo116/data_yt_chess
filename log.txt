@@ -585,3 +585,21 @@ navigating to "https://www.chess.com/analysis/game/live/119471981953?tab=review"
 
 2024-09-08 01:15:49,004 - WARNING - Retrying (GithubRetry(total=9, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001E235F7A5B0>, 'Connection to api.github.com timed out. (connect timeout=15)')': /repos/robebo116/data_yt_chess
 2024-09-08 01:17:45,709 - INFO - Processing link: github
+2024-09-08 02:31:48,807 - INFO - Processing link: https://www.chess.com/game/live/119474392949
+2024-09-08 02:31:54,992 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/119474392949?tab=review: Page.goto: Couldn't resolve host name
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/119474392949?tab=review", waiting until "load"
+
+2024-09-08 04:07:15,483 - INFO - Processing link: Check out this #chess game: waelhouidi0 vs Ghooost04 - https://www.chess.com/live/game/119480380535
+2024-09-08 04:07:23,430 - INFO - Successfully processed link: waelhouidi0 vs. Ghooost04 | Analysis - Chess.com
+2024-09-08 04:24:29,599 - INFO - Processing link: https://www.chess.com/game/live/119482856517
+2024-09-08 04:24:38,910 - INFO - Successfully processed link: kanave92 vs. memanpls1 | Analysis - Chess.com
+2024-09-08 04:36:28,576 - INFO - Processing link: https://www.chess.com/game/live/119483414719
+2024-09-08 04:36:37,635 - INFO - Successfully processed link: memanpls1 vs. HF81Pool | Analysis - Chess.com
+2024-09-08 04:45:05,864 - INFO - Processing link: https://www.chess.com/game/computer/154925361
+2024-09-08 04:45:15,439 - INFO - Successfully processed link: B\u1ea3ng phân tích và trình duy\u1ec7t PGN - Chess.com
+2024-09-08 06:25:26,598 - INFO - Processing link: Xem ván c\u1edd #: ThucDarkNo1 vs milmarus - https://www.chess.com/live/game/119379763082
+2024-09-08 06:25:34,722 - INFO - Successfully processed link: ThucDarkNo1 vs. milmarus | Analysis - Chess.com
+2024-09-08 06:26:07,812 - INFO - Processing link: Observa esta partida de #chess: XR69 vs Joeyfizzo - https://www.chess.com/live/game/119379665302
+2024-09-08 06:26:15,754 - INFO - Successfully processed link: XR69 vs. Joeyfizzo | Analysis - Chess.com
+2024-09-08 06:30:17,080 - INFO - Processing link: github
