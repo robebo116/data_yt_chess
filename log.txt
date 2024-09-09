@@ -1076,3 +1076,28 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-09 13:16:26,624 - INFO - Processing link: [Event \"Live Chess\"] [Site \"Chess.com\"] [Date \"2024.09.09\"] [Round \"-\"] [White \"dai-9\"] [Black \"Voro88\"] [Result \"1-0\"] [CurrentPosition \"r5k1/1b2B1pp/3P2r1/pq2p3/2p1Pp2/2P2P2/2B3PP/R2Q1R1K b - -\"] [Timezone \"UTC\"] [ECO \"D35\"] [ECOUrl \"https://www.chess.com/openings/Queens-Gambit-Declined-Queens-Knight-Variation-3...Nf6\"] [UTCDate \"2024.09.09\"] [UTCTime \"06:09:09\"] [WhiteElo \"568\"] [BlackElo \"546\"] [TimeControl \"300\"] [Termination \"dai-9 won on time\"] [StartTime \"06:09:09\"] [EndDate \"2024.09.09\"] [EndTime \"06:18:03\"] [Link \"https://www.chess.com/game/live/119401947586\"] [WhiteUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"] [WhiteCountry \"149\"] [WhiteTitle \"\"] [BlackUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"] [BlackCountry \"115\"] [BlackTitle \"\"] 1. d4 d5 2. c4 Nf6 3. Nc3 e6 4. e3 Bb4 5. Bd3 Ne4 6. Ne2 f5 7. O-O O-O 8. f3 Nxc3 9. Nxc3 Bxc3 10. bxc3 dxc4 11. Bxc4 a6 12. Qb3 Rf6 13. Bd2 b5 14. Bd3 c5 15. Bc2 c4 16. Qb1 Bb7 17. e4 Nc6 18. a4 e5 19. d5 Ne7 20. axb5 a5 21. Bg5 Qb6+ 22. Kh1 Rg6 23. Bxe7 f4 24. Qd1 Qxb5 25. d6 1-0
 2024-09-09 13:16:34,269 - INFO - Successfully processed link: dai-9 vs. Voro88 | Analysis - Chess.com
 2024-09-09 13:51:28,152 - INFO - Processing link: github
+2024-09-09 13:53:15,248 - INFO - Processing link: https://www.chess.com/game/live/119402196832
+2024-09-09 13:53:24,508 - INFO - Successfully processed link: OhNemesis vs. joshuatanwm | Analysis - Chess.com
+2024-09-09 13:53:44,657 - INFO - Processing link: https://www.chess.com/game/live/119402196832
+2024-09-09 13:53:51,940 - INFO - Successfully processed link: OhNemesis vs. joshuatanwm | Analysis - Chess.com
+2024-09-09 14:04:51,468 - INFO - Processing link: https://www.chess.com/analysis/game/live/119402477970
+2024-09-09 14:05:00,642 - INFO - Successfully processed link: aneeshcr7 vs. joshuatanwm | Analysis - Chess.com
+2024-09-09 14:10:34,933 - INFO - Processing link: https://www.chess.com/game/live/119604036841
+2024-09-09 14:10:43,522 - INFO - Successfully processed link: NBGsloba vs. GamalielMaster | Analysis - Chess.com
+2024-09-09 14:23:35,294 - INFO - Processing link: https://www.chess.com/game/live/119402623420
+2024-09-09 14:23:43,220 - INFO - Successfully processed link: GamalielMaster vs. Ameenhallak55A | Analysis - Chess.com
+2024-09-09 14:31:19,145 - INFO - Processing link: https://www.chess.com/game/live/119402763024
+2024-09-09 14:31:27,246 - INFO - Successfully processed link: GamalielMaster vs. 22nec | Analysis - Chess.com
+2024-09-09 14:33:33,871 - INFO - Processing link: https://www.chess.com/analysis/game/live/119402753828
+2024-09-09 14:33:43,349 - INFO - Successfully processed link: KhuongMinh2013 vs. mohitsolank | Analysis - Chess.com
+2024-09-09 14:36:13,531 - INFO - Processing link: https://www.chess.com/game/live/119402849602
+2024-09-09 14:36:20,721 - INFO - Successfully processed link: YoungBraad vs. GamalielMaster | Analysis - Chess.com
+2024-09-09 14:41:55,217 - INFO - Processing link: https://www.chess.com/game/live/119402912428
+2024-09-09 14:42:02,245 - INFO - Successfully processed link: GamalielMaster vs. trainharderchess | Analysis - Chess.com
+2024-09-09 14:46:10,765 - INFO - Processing link: https://www.chess.com/game/live/119402956372
+2024-09-09 14:46:17,959 - INFO - Successfully processed link: rizky1906 vs. GamalielMaster | Analysis - Chess.com
+2024-09-09 15:02:31,515 - INFO - Processing link: https://www.chess.com/game/live/119403004860
+2024-09-09 15:02:39,861 - INFO - Successfully processed link: GamalielMaster vs. yakrytya | Analysis - Chess.com
+2024-09-09 15:21:30,104 - INFO - Processing link: https://www.chess.com/analysis/game/live/119608215165?tab=analysis
+2024-09-09 15:21:40,903 - INFO - Successfully processed link: velociraptor_550 vs. KingV1951 | Analysis - Chess.com
+2024-09-09 15:22:29,341 - INFO - Processing link: github
