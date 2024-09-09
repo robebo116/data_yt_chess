@@ -1043,3 +1043,36 @@ navigating to "https://www.chess.com/analysis/game/live/119474392949?tab=review"
 2024-09-09 12:07:28,376 - INFO - Processing link: https://www.chess.com/game/live/119597379183
 2024-09-09 12:07:36,112 - INFO - Successfully processed link: t-o-n-y-6 vs. meoerror404 | Analysis - Chess.com
 2024-09-09 12:18:20,003 - INFO - Processing link: github
+2024-09-09 12:20:05,125 - INFO - Processing link: https://www.chess.com/analysis/game/live/119401419824?tab=analysis
+2024-09-09 12:20:14,572 - INFO - Successfully processed link: BATTAWSKY vs. t-o-n-y-6 | Analysis - Chess.com
+2024-09-09 12:20:27,601 - INFO - Processing link: Xem ván c\u1edd #: Altayoba vs ThucDarkNo1 - https://www.chess.com/live/game/119401420840
+2024-09-09 12:20:36,163 - INFO - Successfully processed link: Altayoba vs. ThucDarkNo1 | Analysis - Chess.com
+2024-09-09 12:23:35,024 - INFO - Processing link: https://www.chess.com/analysis/game/live/119401512976?tab=analysis
+2024-09-09 12:23:42,082 - INFO - Successfully processed link: t-o-n-y-6 vs. HamBoogie13 | Analysis - Chess.com
+2024-09-09 12:31:24,830 - INFO - Processing link: https://www.chess.com/analysis/game/live/119401535388?tab=analysis
+2024-09-09 12:31:32,975 - INFO - Successfully processed link: t-o-n-y-6 vs. divy-ansh | Analysis - Chess.com
+2024-09-09 12:37:31,095 - INFO - Processing link: https://www.chess.com/game/live/119599203829
+2024-09-09 12:38:06,051 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119599203829?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-09 12:38:06,077 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119599203829?tab=review
+2024-09-09 12:38:23,423 - INFO - Processing link: https://www.chess.com/analysis/game/live/119599203829?tab=analysis
+2024-09-09 12:38:57,450 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119599203829?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-09 12:38:57,461 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119599203829?tab=review
+2024-09-09 12:39:18,846 - INFO - Processing link: Xem ván c\u1edd #: EdEddie20 vs ThucDarkNo1 - https://www.chess.com/live/game/119401594804
+2024-09-09 12:39:27,273 - INFO - Successfully processed link: EdEddie20 vs. ThucDarkNo1 | Analysis - Chess.com
+2024-09-09 12:42:18,384 - INFO - Processing link: https://www.chess.com/game/live/119599203829
+2024-09-09 12:42:26,333 - INFO - Successfully processed link: Mkeating1999 vs. GMLeHoangMinh | Analysis - Chess.com
+2024-09-09 12:48:18,896 - INFO - Processing link: Xem ván c\u1edd #: ThucDarkNo1 vs JPGarner - https://www.chess.com/live/game/119401741766
+2024-09-09 12:48:26,574 - INFO - Successfully processed link: ThucDarkNo1 vs. JPGarner | Analysis - Chess.com
+2024-09-09 13:00:17,529 - INFO - Processing link: https://www.chess.com/analysis/game/live/119401814590?tab=analysis
+2024-09-09 13:00:25,577 - INFO - Successfully processed link: t-o-n-y-6 vs. farzinlak | Analysis - Chess.com
+2024-09-09 13:02:10,914 - INFO - Processing link: https://www.chess.com/analysis/game/live/119599785459?tab=analysis
+2024-09-09 13:02:18,773 - INFO - Successfully processed link: nduydungdz vs. GMLeHoangMinh | Analysis - Chess.com
+2024-09-09 13:16:26,624 - INFO - Processing link: [Event \"Live Chess\"] [Site \"Chess.com\"] [Date \"2024.09.09\"] [Round \"-\"] [White \"dai-9\"] [Black \"Voro88\"] [Result \"1-0\"] [CurrentPosition \"r5k1/1b2B1pp/3P2r1/pq2p3/2p1Pp2/2P2P2/2B3PP/R2Q1R1K b - -\"] [Timezone \"UTC\"] [ECO \"D35\"] [ECOUrl \"https://www.chess.com/openings/Queens-Gambit-Declined-Queens-Knight-Variation-3...Nf6\"] [UTCDate \"2024.09.09\"] [UTCTime \"06:09:09\"] [WhiteElo \"568\"] [BlackElo \"546\"] [TimeControl \"300\"] [Termination \"dai-9 won on time\"] [StartTime \"06:09:09\"] [EndDate \"2024.09.09\"] [EndTime \"06:18:03\"] [Link \"https://www.chess.com/game/live/119401947586\"] [WhiteUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"] [WhiteCountry \"149\"] [WhiteTitle \"\"] [BlackUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"] [BlackCountry \"115\"] [BlackTitle \"\"] 1. d4 d5 2. c4 Nf6 3. Nc3 e6 4. e3 Bb4 5. Bd3 Ne4 6. Ne2 f5 7. O-O O-O 8. f3 Nxc3 9. Nxc3 Bxc3 10. bxc3 dxc4 11. Bxc4 a6 12. Qb3 Rf6 13. Bd2 b5 14. Bd3 c5 15. Bc2 c4 16. Qb1 Bb7 17. e4 Nc6 18. a4 e5 19. d5 Ne7 20. axb5 a5 21. Bg5 Qb6+ 22. Kh1 Rg6 23. Bxe7 f4 24. Qd1 Qxb5 25. d6 1-0
+2024-09-09 13:16:34,269 - INFO - Successfully processed link: dai-9 vs. Voro88 | Analysis - Chess.com
+2024-09-09 13:51:28,152 - INFO - Processing link: github
