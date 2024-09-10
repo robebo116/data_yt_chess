@@ -284,3 +284,31 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-10 16:25:04,161 - INFO -  * Debugger PIN: 554-958-725
 2024-09-10 16:25:21,919 - INFO - Processing link: github
 2024-09-10 16:25:21,920 - INFO - 127.0.0.1 - - [10/Sep/2024 16:25:21] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:25:26,656 - INFO - 127.0.0.1 - - [10/Sep/2024 16:25:26] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:25:26,657 - INFO - Processing link: Check out this #chess game: Joy-Girl vs joebarnettjoe - https://www.chess.com/live/game/107620238826
+2024-09-10 16:25:33,283 - INFO - Processing link: Check out this #chess game: Joy-Girl vs hristosweehugoberonio - https://www.chess.com/live/game/107620292428
+2024-09-10 16:25:33,284 - INFO - 127.0.0.1 - - [10/Sep/2024 16:25:33] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:25:33,915 - INFO - Successfully processed link: Joy-Girl vs. joebarnettjoe | Analysis - Chess.com
+2024-09-10 16:25:40,197 - INFO - Successfully processed link: Joy-Girl vs. hristosweehugoberonio | Analysis - Chess.com
+2024-09-10 16:25:40,264 - INFO - 127.0.0.1 - - [10/Sep/2024 16:25:40] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:25:40,264 - INFO - Processing link: Check out this #chess game: Joy-Girl vs Haa010617 - https://www.chess.com/live/game/107620319730
+2024-09-10 16:25:46,967 - INFO - 127.0.0.1 - - [10/Sep/2024 16:25:46] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:25:46,967 - INFO - Processing link: Check out this #chess game: Sarangpise98 vs Joy-Girl - https://www.chess.com/live/game/107620355106
+2024-09-10 16:25:47,418 - INFO - Successfully processed link: Joy-Girl vs. Haa010617 | Analysis - Chess.com
+2024-09-10 16:25:50,422 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-10 16:25:54,994 - INFO - Successfully processed link: Sarangpise98 vs. Joy-Girl | Analysis - Chess.com
+2024-09-10 16:25:55,138 - INFO -  * Restarting with stat
+2024-09-10 16:26:01,099 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-10 16:26:01,099 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-10 16:26:01,100 - INFO -  * Restarting with stat
+2024-09-10 16:26:02,031 - WARNING -  * Debugger is active!
+2024-09-10 16:26:02,033 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 16:26:12,529 - INFO - Processing link: Check out this #chess game: Joy-Girl vs KAntunbepo - https://www.chess.com/live/game/107620484498
+2024-09-10 16:26:12,530 - INFO - 127.0.0.1 - - [10/Sep/2024 16:26:12] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:26:19,821 - INFO - Successfully processed link: Joy-Girl vs. KAntunbepo | Analysis - Chess.com
+2024-09-10 16:26:30,466 - INFO - 127.0.0.1 - - [10/Sep/2024 16:26:30] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:26:30,467 - INFO - Processing link: Check out this #chess game: Fehshi vs Joy-Girl - https://www.chess.com/live/game/107620555980
+2024-09-10 16:26:38,263 - INFO - Successfully processed link: Fehshi vs. Joy-Girl | Analysis - Chess.com
+2024-09-10 16:27:09,985 - INFO - 127.0.0.1 - - [10/Sep/2024 16:27:09] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:27:09,986 - INFO - Processing link: github
