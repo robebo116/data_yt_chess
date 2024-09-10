@@ -1327,3 +1327,26 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-10 11:52:58,535 - INFO - Processing link: https://www.chess.com/analysis/game/live/119682579169
 2024-09-10 11:53:07,592 - INFO - Successfully processed link: ndmanh1209 vs. novince063 | Analysis - Chess.com
 2024-09-10 12:06:07,893 - INFO - Processing link: github
+2024-09-10 12:20:49,865 - INFO - Processing link: https://www.chess.com/analysis/game/live/119684376627?tab=analysis
+2024-09-10 12:20:57,837 - INFO - Successfully processed link: PAYN3 vs. rraasell | Analysis - Chess.com
+2024-09-10 12:36:38,067 - INFO - Processing link: https://www.chess.com/analysis/game/live/119420722932?tab=analysis
+2024-09-10 12:36:47,043 - INFO - Successfully processed link: Xuanhan2012 vs. Tuaavo999 | Analysis - Chess.com
+2024-09-10 12:52:48,108 - INFO - Processing link: Ayo lihat permainan #chess ini: DRajasekharaRao melawan Afdhal354 -https://www.chess.com/live/game/119686217101
+2024-09-10 12:52:56,016 - INFO - Successfully processed link: DRajasekharaRao vs. Afdhal354 | Analysis - Chess.com
+2024-09-10 13:04:48,657 - INFO - Processing link: https://www.chess.com/game/live/119625639373
+2024-09-10 13:05:01,134 - INFO - Processing link: https://www.chess.com/analysis/game/live/119420935022?tab=analysis
+2024-09-10 13:05:11,402 - INFO - Successfully processed link: BaoLong0104 vs. fabiontoro | Analysis - Chess.com
+2024-09-10 13:05:25,253 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119625639373?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-10 13:05:25,264 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119625639373?tab=review
+2024-09-10 13:07:48,484 - INFO - Processing link: https://www.chess.com/game/live/119625639373
+2024-09-10 13:08:22,241 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119625639373?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-10 13:08:22,251 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119625639373?tab=review
+2024-09-10 13:19:13,538 - INFO - Processing link: chess.com/analysis/game/live/119421210820?tab=analysis
+2024-09-10 13:19:20,888 - INFO - Successfully processed link: TrialNError890 vs. BaoLong0104 | Analysis - Chess.com
+2024-09-10 13:46:12,592 - INFO - Processing link: github
