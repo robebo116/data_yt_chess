@@ -50,3 +50,15 @@ navigating to "hello", waiting until "load"
 2024-09-10 14:54:05,958 - INFO -  * Debugger PIN: 554-958-725
 2024-09-10 14:55:25,043 - INFO - Processing link: github
 2024-09-10 14:55:25,043 - INFO - 127.0.0.1 - - [10/Sep/2024 14:55:25] "POST /message HTTP/1.1" 200 -
+2024-09-10 14:55:37,537 - INFO - 127.0.0.1 - - [10/Sep/2024 14:55:37] "POST /message HTTP/1.1" 200 -
+2024-09-10 14:55:37,537 - INFO - Processing link: https://www.chess.com/game/computer/155787555
+2024-09-10 14:56:11,337 - WARNING - Error processing link https://www.chess.com/analysis/game/computer/155787555?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-10 14:56:15,170 - INFO - Successfully logged in and saved cookies for robebo010
+2024-09-10 14:59:16,574 - INFO - 127.0.0.1 - - [10/Sep/2024 14:59:16] "POST /message HTTP/1.1" 200 -
+2024-09-10 14:59:16,574 - INFO - Processing link: https://www.chess.com/game/computer/155787555
+2024-09-10 14:59:23,520 - INFO - Successfully processed link: B\u1ea3ng phân tích và trình duy\u1ec7t PGN - Chess.com
+2024-09-10 15:11:14,708 - INFO - 127.0.0.1 - - [10/Sep/2024 15:11:14] "POST /message HTTP/1.1" 200 -
+2024-09-10 15:11:14,708 - INFO - Processing link: github
