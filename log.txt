@@ -81,3 +81,39 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-10 15:22:19,735 - INFO - 127.0.0.1 - - [10/Sep/2024 15:22:19] "POST /pgn HTTP/1.1" 200 -
 2024-09-10 15:22:19,737 - INFO - 127.0.0.1 - - [10/Sep/2024 15:22:19] "POST /message HTTP/1.1" 200 -
 2024-09-10 15:22:19,737 - INFO - Processing link: github
+2024-09-10 15:24:40,058 - INFO - 127.0.0.1 - - [10/Sep/2024 15:24:40] "POST /pgn HTTP/1.1" 200 -
+2024-09-10 15:24:40,061 - INFO - 127.0.0.1 - - [10/Sep/2024 15:24:40] "POST /message HTTP/1.1" 200 -
+2024-09-10 15:24:40,061 - INFO - Processing link: https://www.chess.com/live/game/1
+2024-09-10 15:25:14,016 - WARNING - Error processing link https://www.chess.com/analysis/game/live/1?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-10 15:25:14,023 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/1?tab=review
+2024-09-10 15:25:30,789 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-10 15:25:30,881 - INFO -  * Restarting with stat
+2024-09-10 15:25:31,834 - WARNING -  * Debugger is active!
+2024-09-10 15:25:31,835 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 15:25:44,259 - INFO - Processing link: https://www.chess.com/live/game/1
+2024-09-10 15:25:44,259 - INFO - 127.0.0.1 - - [10/Sep/2024 15:25:44] "POST /message HTTP/1.1" 200 -
+2024-09-10 15:25:49,303 - INFO - 127.0.0.1 - - [10/Sep/2024 15:25:49] "POST /pgn HTTP/1.1" 200 -
+2024-09-10 15:26:17,677 - WARNING - Error processing link https://www.chess.com/analysis/game/live/1?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-10 15:26:17,686 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/1?tab=review
+2024-09-10 15:27:11,452 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-10 15:27:11,534 - INFO -  * Restarting with stat
+2024-09-10 15:27:12,468 - WARNING -  * Debugger is active!
+2024-09-10 15:27:12,470 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 15:27:27,421 - INFO - Processing link: https://www.chess.com/live/game/119694033197
+2024-09-10 15:27:27,422 - INFO - 127.0.0.1 - - [10/Sep/2024 15:27:27] "POST /message HTTP/1.1" 200 -
+2024-09-10 15:27:33,644 - INFO - Successfully processed link: Nitin20258 vs. Thenics247 | Analysis - Chess.com
+2024-09-10 15:27:52,643 - INFO - 127.0.0.1 - - [10/Sep/2024 15:27:52] "POST /message HTTP/1.1" 200 -
+2024-09-10 15:27:52,643 - INFO - Processing link: https://www.chess.com/live/game/119422551476
+2024-09-10 15:27:57,462 - INFO - 127.0.0.1 - - [10/Sep/2024 15:27:57] "POST /pgn HTTP/1.1" 200 -
+2024-09-10 15:28:04,069 - INFO - Successfully processed link: ali_herr vs. LewisLeeG | Analysis - Chess.com
+2024-09-10 15:28:15,073 - INFO - 127.0.0.1 - - [10/Sep/2024 15:28:15] "POST /message HTTP/1.1" 200 -
+2024-09-10 15:28:15,073 - INFO - Processing link: \u0634\u0627\u0647\u062f \u0647\u0630\u0647 \u0627\u0644\u0645\u0628\u0627\u0631\u0627\u0629: ali_herr \u0636\u062f LewisLeeG - https://www.chess.com/live/game/119422551476
+2024-09-10 15:28:21,735 - INFO - Successfully processed link: ali_herr vs. LewisLeeG | Analysis - Chess.com
+2024-09-10 15:34:40,691 - INFO - 127.0.0.1 - - [10/Sep/2024 15:34:40] "POST /message HTTP/1.1" 200 -
+2024-09-10 15:34:40,691 - INFO - Processing link: github
