@@ -121,3 +121,43 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-10 15:35:06,797 - INFO - Processing link: github
 2024-09-10 15:35:45,243 - INFO - 127.0.0.1 - - [10/Sep/2024 15:35:45] "POST /message HTTP/1.1" 200 -
 2024-09-10 15:35:45,243 - INFO - Processing link: github
+2024-09-10 15:38:06,085 - INFO - 127.0.0.1 - - [10/Sep/2024 15:38:06] "POST /pgn HTTP/1.1" 200 -
+2024-09-10 15:38:20,434 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-10 15:38:20,521 - INFO -  * Restarting with stat
+2024-09-10 15:38:21,458 - WARNING -  * Debugger is active!
+2024-09-10 15:38:21,460 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 15:39:19,675 - INFO - 127.0.0.1 - - [10/Sep/2024 15:39:19] "POST /pgn HTTP/1.1" 200 -
+2024-09-10 15:40:00,767 - INFO - 127.0.0.1 - - [10/Sep/2024 15:40:00] "POST /pgn HTTP/1.1" 200 -
+2024-09-10 15:43:41,384 - INFO - Processing link: https://www.chess.com/analysis/game/live/119422815822?tab=review
+2024-09-10 15:43:41,385 - INFO - 127.0.0.1 - - [10/Sep/2024 15:43:41] "POST /message HTTP/1.1" 200 -
+2024-09-10 15:43:47,978 - INFO - Successfully processed link: anawfuldark vs. RamazanKus | Analysis - Chess.com
+2024-09-10 15:53:12,105 - INFO - 127.0.0.1 - - [10/Sep/2024 15:53:12] "POST /message HTTP/1.1" 200 -
+2024-09-10 15:53:12,106 - INFO - Processing link: Check out this #chess game: groziobo vs Thenics247 - https://www.chess.com/live/game/119696379697
+2024-09-10 15:53:18,768 - INFO - Successfully processed link: groziobo vs. Thenics247 | Analysis - Chess.com
+2024-09-10 15:55:33,788 - INFO - 127.0.0.1 - - [10/Sep/2024 15:55:33] "POST /pgn HTTP/1.1" 200 -
+2024-09-10 15:56:12,398 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-10 15:56:12,493 - INFO -  * Restarting with stat
+2024-09-10 15:56:13,516 - WARNING -  * Debugger is active!
+2024-09-10 15:56:13,519 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 15:56:20,769 - INFO - 127.0.0.1 - - [10/Sep/2024 15:56:20] "POST /pgn HTTP/1.1" 200 -
+2024-09-10 15:58:59,932 - INFO - Processing link: https://www.chess.com/analysis/game/live/119422091582?tab=analysis
+2024-09-10 15:58:59,932 - INFO - 127.0.0.1 - - [10/Sep/2024 15:58:59] "POST /message HTTP/1.1" 200 -
+2024-09-10 15:59:07,364 - INFO - Successfully processed link: Bumble3eee vs. arijitsarkar1234567 | Analysis - Chess.com
+2024-09-10 16:02:28,831 - INFO - 127.0.0.1 - - [10/Sep/2024 16:02:28] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:02:28,831 - INFO - Processing link: https://www.chess.com/game/live/119697598131
+2024-09-10 16:02:36,208 - INFO - Successfully processed link: anawfuldark vs. hungcuong18 | Analysis - Chess.com
+2024-09-10 16:02:45,107 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-10 16:02:45,186 - INFO -  * Restarting with stat
+2024-09-10 16:02:46,123 - WARNING -  * Debugger is active!
+2024-09-10 16:02:46,125 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 16:02:58,910 - INFO - 127.0.0.1 - - [10/Sep/2024 16:02:58] "POST /pgn HTTP/1.1" 200 -
+2024-09-10 16:03:46,855 - INFO - Processing link: https://www.chess.com/analysis/game/live/119422950388
+2024-09-10 16:03:46,855 - INFO - 127.0.0.1 - - [10/Sep/2024 16:03:46] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:03:54,721 - INFO - Successfully processed link: KhuongMinh2013 vs. Berdikhan_Kaisar | Analysis - Chess.com
+2024-09-10 16:04:55,448 - INFO - 127.0.0.1 - - [10/Sep/2024 16:04:55] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:04:55,448 - INFO - Processing link: Check out this #chess game: narges_369 vs Joy-Girl - https://www.chess.com/live/game/119697049373
+2024-09-10 16:05:02,755 - INFO - Successfully processed link: narges_369 vs. Joy-Girl | Analysis - Chess.com
+2024-09-10 16:05:25,550 - INFO - 127.0.0.1 - - [10/Sep/2024 16:05:25] "POST /pgn HTTP/1.1" 200 -
+2024-09-10 16:05:35,481 - INFO - 127.0.0.1 - - [10/Sep/2024 16:05:35] "POST /pgn HTTP/1.1" 200 -
+2024-09-10 16:06:00,186 - INFO - 127.0.0.1 - - [10/Sep/2024 16:06:00] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:06:00,186 - INFO - Processing link: github
