@@ -650,3 +650,9 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-10 21:01:17,404 - INFO - 127.0.0.1 - - [10/Sep/2024 21:01:17] "POST /message HTTP/1.1" 200 -
 2024-09-10 21:01:19,785 - INFO - 127.0.0.1 - - [10/Sep/2024 21:01:19] "POST /message HTTP/1.1" 200 -
 2024-09-10 21:01:19,785 - INFO - Processing link: github
+2024-09-10 21:03:06,889 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-10 21:03:06,978 - INFO -  * Restarting with stat
+2024-09-10 21:03:07,950 - WARNING -  * Debugger is active!
+2024-09-10 21:03:07,952 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 21:03:34,057 - INFO - Processing link: github
+2024-09-10 21:03:34,057 - INFO - 127.0.0.1 - - [10/Sep/2024 21:03:34] "POST /message HTTP/1.1" 200 -
