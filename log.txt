@@ -1439,3 +1439,24 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-10 22:35:00,610 - INFO - Processing link: https://www.chess.com/analysis/game/live/119429045856?tab=analysis
 2024-09-10 22:35:08,950 - INFO - Successfully processed link: arijitsarkar1234567 vs. hensolow | Analysis - Chess.com
 2024-09-11 02:03:23,565 - INFO - Processing link: github
+2024-09-11 02:51:10,361 - INFO - Processing link: Check out this #chess game: bardiya-sahranavard226 vs Mure19 - https://www.chess.com/live/game/119432519202
+2024-09-11 02:51:44,592 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119432519202?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-11 02:51:49,180 - INFO - Successfully logged in and saved cookies for robebo010
+2024-09-11 02:52:05,049 - INFO - Processing link: Check out this #chess game: bardiya-sahranavard226 vs Mure19 - https://www.chess.com/live/game/119432519202
+2024-09-11 02:52:12,721 - INFO - Successfully processed link: bardiya-sahranavard226 vs. Mure19 | Analysis - Chess.com
+2024-09-11 03:51:01,938 - INFO - Processing link: Check out this #chess game: zamskuii vs Riverboard - https://www.chess.com/live/game/119434383224
+2024-09-11 03:51:10,062 - INFO - Successfully processed link: zamskuii vs. Riverboard | Analysis - Chess.com
+2024-09-11 03:58:22,905 - INFO - Processing link: Observa esta partida de #chess: XR69 vs Marvy765 - https://www.chess.com/live/game/119739590803
+2024-09-11 03:58:32,067 - INFO - Successfully processed link: XR69 vs. Marvy765 | Analysis - Chess.com
+2024-09-11 04:48:11,502 - INFO - Processing link: https://www.chess.com/analysis/game/live/119435142604?tab=analysis
+2024-09-11 04:48:19,578 - INFO - Successfully processed link: HandWork vs. ricepicker13 | Analysis - Chess.com
+2024-09-11 04:51:15,129 - INFO - Processing link: https://www.chess.com/analysis/game/live/119435313554?tab=analysis
+2024-09-11 04:51:21,687 - INFO - Successfully processed link: ricepicker13 vs. elansari26 | Analysis - Chess.com
+2024-09-11 04:52:36,115 - INFO - Processing link: https://www.chess.com/analysis/game/live/119743172171?tab=analysis
+2024-09-11 04:52:45,389 - INFO - Successfully processed link: toodumbtomate96 vs. banelazin | Analysis - Chess.com
+2024-09-11 05:19:06,119 - INFO - Processing link: Check out this #chess game: Tvrdoglav vs zamskuii - https://www.chess.com/live/game/119435439674
+2024-09-11 05:19:14,754 - INFO - Successfully processed link: Tvrdoglav vs. zamskuii | Analysis - Chess.com
+2024-09-11 05:59:02,127 - INFO - Processing link: github
