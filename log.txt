@@ -161,3 +161,38 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-10 16:05:35,481 - INFO - 127.0.0.1 - - [10/Sep/2024 16:05:35] "POST /pgn HTTP/1.1" 200 -
 2024-09-10 16:06:00,186 - INFO - 127.0.0.1 - - [10/Sep/2024 16:06:00] "POST /message HTTP/1.1" 200 -
 2024-09-10 16:06:00,186 - INFO - Processing link: github
+2024-09-10 16:07:44,129 - INFO - 127.0.0.1 - - [10/Sep/2024 16:07:44] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:07:44,129 - INFO - Processing link: https://www.chess.com/analysis/game/live/119697643313?tab=analysis&move=37
+2024-09-10 16:08:11,277 - INFO - Processing link: https://www.chess.com/analysis/game/live/119697643313?tab=analysis&move=37
+2024-09-10 16:08:11,277 - INFO - 127.0.0.1 - - [10/Sep/2024 16:08:11] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:08:17,367 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119697643313?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-10 16:08:17,376 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119697643313?tab=review
+2024-09-10 16:08:41,445 - INFO - 127.0.0.1 - - [10/Sep/2024 16:08:41] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:08:41,445 - INFO - Processing link: https://www.chess.com/analysis/game/live/119697643313
+2024-09-10 16:08:44,843 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119697643313?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-10 16:08:44,851 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119697643313?tab=review
+2024-09-10 16:08:59,614 - INFO - 127.0.0.1 - - [10/Sep/2024 16:08:59] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:08:59,614 - INFO - Processing link: https://www.chess.com/analysis/game/live/119697643313?tab=analysis
+2024-09-10 16:09:15,294 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119697643313?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-10 16:09:15,303 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119697643313?tab=review
+2024-09-10 16:09:33,010 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119697643313?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-10 16:09:33,017 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119697643313?tab=review
+2024-09-10 16:11:23,609 - INFO - 127.0.0.1 - - [10/Sep/2024 16:11:23] "POST /pgn HTTP/1.1" 200 -
+2024-09-10 16:11:35,656 - INFO - 127.0.0.1 - - [10/Sep/2024 16:11:35] "POST /pgn HTTP/1.1" 200 -
+2024-09-10 16:15:44,868 - INFO - 127.0.0.1 - - [10/Sep/2024 16:15:44] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:15:44,868 - INFO - Processing link: https://www.chess.com/game/live/119698780513
+2024-09-10 16:15:51,709 - INFO - Successfully processed link: MIKIvn vs. manifar | Analysis - Chess.com
+2024-09-10 16:17:03,168 - INFO - 127.0.0.1 - - [10/Sep/2024 16:17:03] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:17:03,168 - INFO - Processing link: github
