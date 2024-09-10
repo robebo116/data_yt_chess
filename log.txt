@@ -62,3 +62,15 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-10 14:59:23,520 - INFO - Successfully processed link: B\u1ea3ng phân tích và trình duy\u1ec7t PGN - Chess.com
 2024-09-10 15:11:14,708 - INFO - 127.0.0.1 - - [10/Sep/2024 15:11:14] "POST /message HTTP/1.1" 200 -
 2024-09-10 15:11:14,708 - INFO - Processing link: github
+2024-09-10 15:15:12,390 - INFO - 127.0.0.1 - - [10/Sep/2024 15:15:12] "POST /message HTTP/1.1" 200 -
+2024-09-10 15:15:12,390 - INFO - Processing link: https://www.chess.com/live/game/119422412994
+2024-09-10 15:15:19,560 - INFO - Successfully processed link: ali_herr vs. Nadzmiii97 | Analysis - Chess.com
+2024-09-10 15:18:58,329 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-10 15:18:58,409 - INFO -  * Restarting with stat
+2024-09-10 15:18:59,308 - WARNING -  * Debugger is active!
+2024-09-10 15:18:59,310 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 15:19:08,000 - INFO - Processing link: Check out this #chess game: Nitin20258 vs Thenics247 - https://www.chess.com/live/game/119694033197
+2024-09-10 15:19:08,001 - INFO - 127.0.0.1 - - [10/Sep/2024 15:19:08] "POST /message HTTP/1.1" 200 -
+2024-09-10 15:19:15,043 - INFO - Successfully processed link: Nitin20258 vs. Thenics247 | Analysis - Chess.com
+2024-09-10 15:19:22,911 - INFO - 127.0.0.1 - - [10/Sep/2024 15:19:22] "POST /message HTTP/1.1" 200 -
+2024-09-10 15:19:22,911 - INFO - Processing link: github
