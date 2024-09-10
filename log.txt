@@ -316,3 +316,18 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-10 16:29:32,154 - INFO - Processing link: github
 2024-09-10 16:30:47,149 - INFO - 127.0.0.1 - - [10/Sep/2024 16:30:47] "POST /message HTTP/1.1" 200 -
 2024-09-10 16:30:47,150 - INFO - Processing link: github
+2024-09-10 16:31:20,523 - INFO - 127.0.0.1 - - [10/Sep/2024 16:31:20] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:31:20,523 - INFO - Processing link: Check out this #chess game: Joy-Girl vs SpecialPawn13 - https://www.chess.com/live/game/107605547190
+2024-09-10 16:31:28,112 - INFO - Successfully processed link: Joy-Girl vs. SpecialPawn13 | Analysis - Chess.com
+2024-09-10 16:31:28,492 - INFO - 127.0.0.1 - - [10/Sep/2024 16:31:28] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:31:28,492 - INFO - Processing link: Check out this #chess game: hamedmilan1 vs Joy-Girl - https://www.chess.com/live/game/107605601184
+2024-09-10 16:31:35,254 - INFO - Processing link: Check out this #chess game: Joy-Girl vs yaronrado24 - https://www.chess.com/live/game/107610466454
+2024-09-10 16:31:35,255 - INFO - 127.0.0.1 - - [10/Sep/2024 16:31:35] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:31:36,662 - INFO - Successfully processed link: hamedmilan1 vs. Joy-Girl | Analysis - Chess.com
+2024-09-10 16:31:42,328 - INFO - Successfully processed link: Joy-Girl vs. yaronrado24 | Analysis - Chess.com
+2024-09-10 16:38:32,993 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-10 16:38:33,078 - INFO -  * Restarting with stat
+2024-09-10 16:38:34,098 - WARNING -  * Debugger is active!
+2024-09-10 16:38:34,100 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 16:38:46,309 - INFO - Processing link: github
+2024-09-10 16:38:46,311 - INFO - 127.0.0.1 - - [10/Sep/2024 16:38:46] "POST /message HTTP/1.1" 200 -
