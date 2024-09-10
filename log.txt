@@ -440,3 +440,23 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-10 17:21:13,667 - INFO -  * Debugger PIN: 554-958-725
 2024-09-10 17:22:20,411 - INFO - Processing link: github
 2024-09-10 17:22:20,411 - INFO - 127.0.0.1 - - [10/Sep/2024 17:22:20] "POST /message HTTP/1.1" 200 -
+2024-09-10 17:24:00,193 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\send_wordpress.py', reloading
+2024-09-10 17:24:00,301 - INFO -  * Restarting with stat
+2024-09-10 17:24:01,273 - WARNING -  * Debugger is active!
+2024-09-10 17:24:01,275 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 17:24:21,863 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\send_wordpress.py', reloading
+2024-09-10 17:24:21,951 - INFO -  * Restarting with stat
+2024-09-10 17:24:22,934 - WARNING -  * Debugger is active!
+2024-09-10 17:24:22,936 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 17:25:02,697 - INFO - Processing link: https://www.chess.com/game/live/119701821705
+2024-09-10 17:25:02,697 - INFO - 127.0.0.1 - - [10/Sep/2024 17:25:02] "POST /message HTTP/1.1" 200 -
+2024-09-10 17:25:05,117 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\send_wordpress.py', reloading
+2024-09-10 17:25:09,864 - INFO - Successfully processed link: Professor-on-smurf vs. luganskchess | Analysis - Chess.com
+2024-09-10 17:25:10,079 - INFO -  * Restarting with stat
+2024-09-10 17:25:11,302 - WARNING -  * Debugger is active!
+2024-09-10 17:25:11,305 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 17:35:46,797 - INFO - Processing link: https://www.chess.com/analysis/game/live/119424176730?tab=analysis
+2024-09-10 17:35:46,797 - INFO - 127.0.0.1 - - [10/Sep/2024 17:35:46] "POST /message HTTP/1.1" 200 -
+2024-09-10 17:35:53,905 - INFO - Successfully processed link: gandhi9058 vs. Puotrixon09 | Analysis - Chess.com
+2024-09-10 17:47:07,957 - INFO - 127.0.0.1 - - [10/Sep/2024 17:47:07] "POST /message HTTP/1.1" 200 -
+2024-09-10 17:47:07,957 - INFO - Processing link: github
