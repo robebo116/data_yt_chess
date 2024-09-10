@@ -196,3 +196,91 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-10 16:15:51,709 - INFO - Successfully processed link: MIKIvn vs. manifar | Analysis - Chess.com
 2024-09-10 16:17:03,168 - INFO - 127.0.0.1 - - [10/Sep/2024 16:17:03] "POST /message HTTP/1.1" 200 -
 2024-09-10 16:17:03,168 - INFO - Processing link: github
+2024-09-10 16:18:56,535 - INFO - 127.0.0.1 - - [10/Sep/2024 16:18:56] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:18:56,535 - INFO - Processing link: https://www.chess.com/game/live/119698228929
+2024-09-10 16:19:17,727 - INFO - 127.0.0.1 - - [10/Sep/2024 16:19:17] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:19:17,728 - INFO - Processing link: https://www.chess.com/game/live/119698228929
+2024-09-10 16:19:29,908 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119698228929?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-10 16:19:29,915 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119698228929?tab=review
+2024-09-10 16:19:51,476 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119698228929?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-10 16:19:51,483 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119698228929?tab=review
+2024-09-10 16:19:52,672 - INFO - 127.0.0.1 - - [10/Sep/2024 16:19:52] "OPTIONS /pgn HTTP/1.1" 200 -
+2024-09-10 16:20:03,185 - INFO - 127.0.0.1 - - [10/Sep/2024 16:20:03] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:20:03,185 - INFO - Processing link: Check out this #chess game: AMRe4e57784 vs waelhouidi0 - https://www.chess.com/live/game/119698170649
+2024-09-10 16:20:09,847 - INFO - Successfully processed link: AMRe4e57784 vs. waelhouidi0 | Analysis - Chess.com
+2024-09-10 16:20:14,388 - INFO - 127.0.0.1 - - [10/Sep/2024 16:20:14] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:20:14,388 - INFO - Processing link: https://www.chess.com/analysis/game/live/119698228929?tab=analysis
+2024-09-10 16:20:32,314 - INFO - 127.0.0.1 - - [10/Sep/2024 16:20:32] "OPTIONS /pgn HTTP/1.1" 200 -
+2024-09-10 16:20:34,116 - INFO - 127.0.0.1 - - [10/Sep/2024 16:20:34] "OPTIONS /pgn HTTP/1.1" 200 -
+2024-09-10 16:20:34,935 - INFO - 127.0.0.1 - - [10/Sep/2024 16:20:34] "OPTIONS /pgn HTTP/1.1" 200 -
+2024-09-10 16:20:35,982 - INFO - 127.0.0.1 - - [10/Sep/2024 16:20:35] "OPTIONS /pgn HTTP/1.1" 200 -
+2024-09-10 16:20:36,171 - INFO - 127.0.0.1 - - [10/Sep/2024 16:20:36] "OPTIONS /pgn HTTP/1.1" 200 -
+2024-09-10 16:20:36,355 - INFO - 127.0.0.1 - - [10/Sep/2024 16:20:36] "OPTIONS /pgn HTTP/1.1" 200 -
+2024-09-10 16:20:36,522 - INFO - 127.0.0.1 - - [10/Sep/2024 16:20:36] "OPTIONS /pgn HTTP/1.1" 200 -
+2024-09-10 16:20:36,698 - INFO - 127.0.0.1 - - [10/Sep/2024 16:20:36] "OPTIONS /pgn HTTP/1.1" 200 -
+2024-09-10 16:20:36,882 - INFO - 127.0.0.1 - - [10/Sep/2024 16:20:36] "OPTIONS /pgn HTTP/1.1" 200 -
+2024-09-10 16:20:48,376 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119698228929?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-10 16:20:48,383 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119698228929?tab=review
+2024-09-10 16:22:19,553 - INFO - 127.0.0.1 - - [10/Sep/2024 16:22:19] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:22:19,553 - INFO - Processing link: https://www.chess.com/analysis/game/live/119698228929?tab=analysis
+2024-09-10 16:22:53,322 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119698228929?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-10 16:22:53,329 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119698228929?tab=review
+2024-09-10 16:23:34,533 - INFO - 127.0.0.1 - - [10/Sep/2024 16:23:34] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:23:34,533 - INFO - Processing link: Check out this #chess game: Joy-Girl vs rusell121 - https://www.chess.com/live/game/107610848184
+2024-09-10 16:23:43,248 - INFO - Successfully processed link: Joy-Girl vs. rusell121 | Analysis - Chess.com
+2024-09-10 16:23:46,854 - INFO - 127.0.0.1 - - [10/Sep/2024 16:23:46] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:23:46,854 - INFO - Processing link: Check out this #chess game: Schymek vs Joy-Girl - https://www.chess.com/live/game/107611227982
+2024-09-10 16:23:54,250 - INFO - Successfully processed link: Schymek vs. Joy-Girl | Analysis - Chess.com
+2024-09-10 16:23:57,013 - INFO - 127.0.0.1 - - [10/Sep/2024 16:23:57] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:23:57,013 - INFO - Processing link: Check out this #chess game: Joy-Girl vs abcbtw - https://www.chess.com/live/game/107611305560
+2024-09-10 16:24:03,279 - INFO - 127.0.0.1 - - [10/Sep/2024 16:24:03] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:24:03,279 - INFO - Processing link: Check out this #chess game: kost19 vs Joy-Girl - https://www.chess.com/live/game/107611381738
+2024-09-10 16:24:03,972 - INFO - Successfully processed link: Joy-Girl vs. abcbtw | Analysis - Chess.com
+2024-09-10 16:24:09,860 - INFO - Successfully processed link: kost19 vs. Joy-Girl | Analysis - Chess.com
+2024-09-10 16:24:10,240 - INFO - 127.0.0.1 - - [10/Sep/2024 16:24:10] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:24:10,240 - INFO - Processing link: Check out this #chess game: Joy-Girl vs cavikas - https://www.chess.com/live/game/107611401356
+2024-09-10 16:24:17,028 - INFO - 127.0.0.1 - - [10/Sep/2024 16:24:17] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:24:17,028 - INFO - Processing link: Check out this #chess game: kingsettinz vs Joy-Girl - https://www.chess.com/live/game/107611612864
+2024-09-10 16:24:18,311 - INFO - Successfully processed link: Joy-Girl vs. cavikas | Analysis - Chess.com
+2024-09-10 16:24:19,470 - INFO - 127.0.0.1 - - [10/Sep/2024 16:24:19] "OPTIONS /pgn HTTP/1.1" 200 -
+2024-09-10 16:24:20,910 - INFO - 127.0.0.1 - - [10/Sep/2024 16:24:20] "OPTIONS /pgn HTTP/1.1" 200 -
+2024-09-10 16:24:23,361 - INFO - 127.0.0.1 - - [10/Sep/2024 16:24:23] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:24:23,362 - INFO - Processing link: Check out this #chess game: fayzulloshukur vs Joy-Girl - https://www.chess.com/live/game/107611688406
+2024-09-10 16:24:25,377 - INFO - Successfully processed link: kingsettinz vs. Joy-Girl | Analysis - Chess.com
+2024-09-10 16:24:29,845 - INFO - 127.0.0.1 - - [10/Sep/2024 16:24:29] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:24:29,845 - INFO - Processing link: Check out this #chess game: Joy-Girl vs Belebuzzi - https://www.chess.com/live/game/107611763634
+2024-09-10 16:24:30,582 - INFO - Successfully processed link: fayzulloshukur vs. Joy-Girl | Analysis - Chess.com
+2024-09-10 16:24:36,496 - INFO - 127.0.0.1 - - [10/Sep/2024 16:24:36] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:24:36,496 - INFO - Processing link: Check out this #chess game: duaneganther vs Joy-Girl - https://www.chess.com/live/game/107619801470
+2024-09-10 16:24:36,917 - INFO - Successfully processed link: Joy-Girl vs. Belebuzzi | Analysis - Chess.com
+2024-09-10 16:24:38,333 - INFO - 127.0.0.1 - - [10/Sep/2024 16:24:38] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:24:38,334 - INFO - Processing link: https://www.chess.com/analysis/game/live/119423181330?tab=analysis
+2024-09-10 16:24:42,830 - INFO - Processing link: Check out this #chess game: Joy-Girl vs JMG199 - https://www.chess.com/live/game/107619849636
+2024-09-10 16:24:42,830 - INFO - 127.0.0.1 - - [10/Sep/2024 16:24:42] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:24:44,610 - INFO - Successfully processed link: duaneganther vs. Joy-Girl | Analysis - Chess.com
+2024-09-10 16:24:47,482 - INFO - Successfully processed link: arijitsarkar1234567 vs. hritikkararia | Analysis - Chess.com
+2024-09-10 16:24:49,455 - INFO - 127.0.0.1 - - [10/Sep/2024 16:24:49] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:24:49,455 - INFO - Processing link: Check out this #chess game: fmtsahs vs Joy-Girl - https://www.chess.com/live/game/107620160738
+2024-09-10 16:24:50,329 - INFO - Successfully processed link: Joy-Girl vs. JMG199 | Analysis - Chess.com
+2024-09-10 16:24:55,812 - INFO - 127.0.0.1 - - [10/Sep/2024 16:24:55] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:24:55,812 - INFO - Processing link: Check out this #chess game: carlos1142gonzalez vs Joy-Girl - https://www.chess.com/live/game/107620193026
+2024-09-10 16:24:56,632 - INFO - Successfully processed link: fmtsahs vs. Joy-Girl | Analysis - Chess.com
+2024-09-10 16:24:58,964 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-10 16:25:03,066 - INFO - Successfully processed link: carlos1142gonzalez vs. Joy-Girl | Analysis - Chess.com
+2024-09-10 16:25:03,217 - INFO -  * Restarting with stat
+2024-09-10 16:25:04,159 - WARNING -  * Debugger is active!
+2024-09-10 16:25:04,161 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 16:25:21,919 - INFO - Processing link: github
+2024-09-10 16:25:21,920 - INFO - 127.0.0.1 - - [10/Sep/2024 16:25:21] "POST /message HTTP/1.1" 200 -
