@@ -331,3 +331,112 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-10 16:38:34,100 - INFO -  * Debugger PIN: 554-958-725
 2024-09-10 16:38:46,309 - INFO - Processing link: github
 2024-09-10 16:38:46,311 - INFO - 127.0.0.1 - - [10/Sep/2024 16:38:46] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:39:08,600 - INFO - 127.0.0.1 - - [10/Sep/2024 16:39:08] "POST /pgn HTTP/1.1" 200 -
+2024-09-10 16:39:38,861 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-10 16:39:38,952 - INFO -  * Restarting with stat
+2024-09-10 16:39:39,973 - WARNING -  * Debugger is active!
+2024-09-10 16:39:39,974 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 16:39:55,501 - INFO - 127.0.0.1 - - [10/Sep/2024 16:39:55] "POST /pgn HTTP/1.1" 200 -
+2024-09-10 16:40:16,006 - INFO - 127.0.0.1 - - [10/Sep/2024 16:40:16] "POST /pgn HTTP/1.1" 200 -
+2024-09-10 16:40:48,881 - INFO - Processing link: https://www.chess.com/analysis/game/live/119423417566?tab=analysis
+2024-09-10 16:40:48,882 - INFO - 127.0.0.1 - - [10/Sep/2024 16:40:48] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:40:56,226 - INFO - Successfully processed link: arijitsarkar1234567 vs. Ganja161 | Analysis - Chess.com
+2024-09-10 16:42:47,028 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-10 16:42:47,115 - INFO -  * Restarting with stat
+2024-09-10 16:42:48,132 - WARNING -  * Debugger is active!
+2024-09-10 16:42:48,134 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 16:44:59,362 - INFO - Processing link: https://www.chess.com/analysis/game/live/119662828387?tab=analysis
+2024-09-10 16:44:59,362 - INFO - 127.0.0.1 - - [10/Sep/2024 16:44:59] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:45:08,105 - INFO - Successfully processed link: simpreza vs. Professor-on-smurf | Analysis - Chess.com
+2024-09-10 16:45:55,106 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-10 16:45:55,201 - INFO -  * Restarting with stat
+2024-09-10 16:45:56,355 - WARNING -  * Debugger is active!
+2024-09-10 16:45:56,358 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 16:46:08,285 - INFO - 127.0.0.1 - - [10/Sep/2024 16:46:08] "POST /pgn HTTP/1.1" 200 -
+2024-09-10 16:46:16,955 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-10 16:46:17,035 - INFO -  * Restarting with stat
+2024-09-10 16:46:18,009 - WARNING -  * Debugger is active!
+2024-09-10 16:46:18,010 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 16:46:19,064 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-10 16:46:19,149 - INFO -  * Restarting with stat
+2024-09-10 16:46:20,125 - WARNING -  * Debugger is active!
+2024-09-10 16:46:20,126 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 16:46:32,445 - INFO - 127.0.0.1 - - [10/Sep/2024 16:46:32] "POST /pgn HTTP/1.1" 200 -
+2024-09-10 16:47:00,206 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-10 16:47:00,291 - INFO -  * Restarting with stat
+2024-09-10 16:47:01,348 - WARNING -  * Debugger is active!
+2024-09-10 16:47:01,350 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 16:47:50,183 - INFO - Processing link: https://www.chess.com/analysis/game/live/119661594337?tab=analysis
+2024-09-10 16:47:50,183 - INFO - 127.0.0.1 - - [10/Sep/2024 16:47:50] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:47:58,590 - INFO - Successfully processed link: Professor-on-smurf vs. bens_woodpushers | Analysis - Chess.com
+2024-09-10 16:49:43,409 - INFO - 127.0.0.1 - - [10/Sep/2024 16:49:43] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:49:43,409 - INFO - Processing link: https://www.chess.com/game/live/119700598259
+2024-09-10 16:49:50,936 - INFO - Successfully processed link: CoolSanyam vs. pranavgarv | Analysis - Chess.com
+2024-09-10 16:50:18,946 - INFO - 127.0.0.1 - - [10/Sep/2024 16:50:18] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:50:18,946 - INFO - Processing link: https://www.chess.com/analysis/game/live/119423676834?tab=analysis
+2024-09-10 16:50:25,864 - INFO - Successfully processed link: Puotrixon09 vs. IamBuz | Analysis - Chess.com
+2024-09-10 16:50:57,781 - INFO - 127.0.0.1 - - [10/Sep/2024 16:50:57] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:50:57,781 - INFO - Processing link: https://www.chess.com/analysis/game/live/119661007095?tab=analysis
+2024-09-10 16:51:04,886 - INFO - Successfully processed link: imetra80302 vs. Professor-on-smurf | Analysis - Chess.com
+2024-09-10 16:51:24,559 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\requet.py', reloading
+2024-09-10 16:51:24,657 - INFO -  * Restarting with stat
+2024-09-10 16:51:25,648 - WARNING -  * Debugger is active!
+2024-09-10 16:51:25,649 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 16:52:03,507 - INFO - Processing link: https://www.chess.com/analysis/game/live/119662792241?tab=analysis
+2024-09-10 16:52:03,508 - INFO - 127.0.0.1 - - [10/Sep/2024 16:52:03] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:52:08,857 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\send_wordpress.py', reloading
+2024-09-10 16:52:10,890 - INFO - Successfully processed link: bens_woodpushers vs. Professor-on-smurf | Analysis - Chess.com
+2024-09-10 16:52:11,027 - INFO -  * Restarting with stat
+2024-09-10 16:52:11,950 - WARNING -  * Debugger is active!
+2024-09-10 16:52:11,951 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 16:55:29,328 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\send_wordpress.py', reloading
+2024-09-10 16:55:29,433 - INFO -  * Restarting with stat
+2024-09-10 16:55:30,403 - WARNING -  * Debugger is active!
+2024-09-10 16:55:30,404 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 16:56:40,648 - INFO - 127.0.0.1 - - [10/Sep/2024 16:56:40] "[31m[1mGET /message HTTP/1.1[0m" 405 -
+2024-09-10 16:56:40,741 - INFO - 127.0.0.1 - - [10/Sep/2024 16:56:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-09-10 16:56:47,461 - INFO - 127.0.0.1 - - [10/Sep/2024 16:56:47] "[31m[1mGET /pgn HTTP/1.1[0m" 405 -
+2024-09-10 16:57:10,340 - INFO - Processing link: https://www.chess.com/analysis/game/live/119423707586?tab=review
+2024-09-10 16:57:10,340 - INFO - 127.0.0.1 - - [10/Sep/2024 16:57:10] "POST /message HTTP/1.1" 200 -
+2024-09-10 16:57:18,235 - INFO - Successfully processed link: Ahmed_R7_M10 vs. Puotrixon09 | Analysis - Chess.com
+2024-09-10 17:01:51,583 - INFO - 127.0.0.1 - - [10/Sep/2024 17:01:51] "POST /message HTTP/1.1" 200 -
+2024-09-10 17:01:51,583 - INFO - Processing link: https://www.chess.com/game/computer/155813283
+2024-09-10 17:01:58,614 - INFO - Successfully processed link: B\u1ea3ng phân tích và trình duy\u1ec7t PGN - Chess.com
+2024-09-10 17:03:27,439 - INFO - 127.0.0.1 - - [10/Sep/2024 17:03:27] "POST /message HTTP/1.1" 200 -
+2024-09-10 17:03:27,439 - INFO - Processing link: https://www.chess.com/analysis/game/live/119388078308?tab=analysis
+2024-09-10 17:03:35,878 - INFO - Successfully processed link: ZachGauhar vs. phuc011011011 | Analysis - Chess.com
+2024-09-10 17:03:36,823 - INFO - 127.0.0.1 - - [10/Sep/2024 17:03:36] "POST /message HTTP/1.1" 200 -
+2024-09-10 17:03:36,823 - INFO - Processing link: https://www.chess.com/analysis/game/live/119423807928?tab=analysis
+2024-09-10 17:03:43,614 - INFO - Successfully processed link: Puotrixon09 vs. hayati281091 | Analysis - Chess.com
+2024-09-10 17:06:05,418 - INFO - 127.0.0.1 - - [10/Sep/2024 17:06:05] "POST /message HTTP/1.1" 200 -
+2024-09-10 17:06:05,418 - INFO - Processing link: https://www.chess.com/analysis/game/live/119446235933?tab=analysis&move=3
+2024-09-10 17:06:13,881 - INFO - Successfully processed link: phuc011011011 vs. ChAS198007 | Analysis - Chess.com
+2024-09-10 17:11:36,372 - INFO - 127.0.0.1 - - [10/Sep/2024 17:11:36] "POST /message HTTP/1.1" 200 -
+2024-09-10 17:11:36,372 - INFO - Processing link: https://www.chess.com/analysis/game/daily/699050989?tab=analysis
+2024-09-10 17:12:13,108 - WARNING - Error processing link https://www.chess.com/analysis/game/daily/699050989?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-10 17:12:13,115 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/daily/699050989?tab=review
+2024-09-10 17:13:47,776 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-10 17:13:47,776 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-10 17:13:47,778 - INFO -  * Restarting with stat
+2024-09-10 17:13:48,727 - WARNING -  * Debugger is active!
+2024-09-10 17:13:48,729 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 17:15:42,382 - INFO - Processing link: https://www.chess.com/analysis/game/live/119423923766?tab=analysis
+2024-09-10 17:15:42,383 - INFO - 127.0.0.1 - - [10/Sep/2024 17:15:42] "POST /message HTTP/1.1" 200 -
+2024-09-10 17:15:49,340 - INFO - Successfully processed link: lamb0ner vs. Puotrixon09 | Analysis - Chess.com
+2024-09-10 17:16:08,645 - INFO - 127.0.0.1 - - [10/Sep/2024 17:16:08] "POST /message HTTP/1.1" 200 -
+2024-09-10 17:16:08,645 - INFO - Processing link: https://www.chess.com/analysis/game/daily/699050989?tab=review
+2024-09-10 17:16:42,312 - WARNING - Error processing link https://www.chess.com/analysis/game/daily/699050989?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-10 17:16:42,320 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/daily/699050989?tab=review
+2024-09-10 17:21:12,429 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\send_wordpress.py', reloading
+2024-09-10 17:21:12,558 - INFO -  * Restarting with stat
+2024-09-10 17:21:13,665 - WARNING -  * Debugger is active!
+2024-09-10 17:21:13,667 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 17:22:20,411 - INFO - Processing link: github
+2024-09-10 17:22:20,411 - INFO - 127.0.0.1 - - [10/Sep/2024 17:22:20] "POST /message HTTP/1.1" 200 -
