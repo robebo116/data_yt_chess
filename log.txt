@@ -460,3 +460,51 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-10 17:35:53,905 - INFO - Successfully processed link: gandhi9058 vs. Puotrixon09 | Analysis - Chess.com
 2024-09-10 17:47:07,957 - INFO - 127.0.0.1 - - [10/Sep/2024 17:47:07] "POST /message HTTP/1.1" 200 -
 2024-09-10 17:47:07,957 - INFO - Processing link: github
+2024-09-10 17:47:29,125 - INFO - 127.0.0.1 - - [10/Sep/2024 17:47:29] "POST /message HTTP/1.1" 200 -
+2024-09-10 17:47:29,125 - INFO - Processing link: https://www.chess.com/analysis/game/live/119424176730?tab=analysis
+2024-09-10 17:47:36,261 - INFO - Successfully processed link: gandhi9058 vs. Puotrixon09 | Analysis - Chess.com
+2024-09-10 17:47:54,768 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-10 17:47:54,768 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-10 17:47:54,770 - INFO -  * Restarting with stat
+2024-09-10 17:47:55,688 - WARNING -  * Debugger is active!
+2024-09-10 17:47:55,689 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 17:47:59,840 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-10 17:47:59,920 - INFO -  * Restarting with stat
+2024-09-10 17:48:00,845 - WARNING -  * Debugger is active!
+2024-09-10 17:48:00,847 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 17:49:50,898 - INFO - Processing link: https://www.chess.com/analysis/game/live/119423417566?tab=analysisV
+2024-09-10 17:49:50,898 - INFO - 127.0.0.1 - - [10/Sep/2024 17:49:50] "POST /message HTTP/1.1" 200 -
+2024-09-10 17:49:57,146 - INFO - Successfully processed link: arijitsarkar1234567 vs. Ganja161 | Analysis - Chess.com
+2024-09-10 17:50:41,604 - INFO - 127.0.0.1 - - [10/Sep/2024 17:50:41] "POST /message HTTP/1.1" 200 -
+2024-09-10 17:50:41,604 - INFO - Processing link: https://www.chess.com/analysis/game/live/119424449626?tab=analysis
+2024-09-10 17:50:48,806 - INFO - Successfully processed link: berli08950 vs. arijitsarkar1234567 | Analysis - Chess.com
+2024-09-10 17:51:14,766 - INFO - 127.0.0.1 - - [10/Sep/2024 17:51:14] "[33mPOST /pgn HTTP/1.1[0m" 404 -
+2024-09-10 17:51:46,509 - INFO - 127.0.0.1 - - [10/Sep/2024 17:51:46] "[33mPOST /pgn HTTP/1.1[0m" 404 -
+2024-09-10 17:52:25,144 - INFO - 127.0.0.1 - - [10/Sep/2024 17:52:25] "[33mPOST /pgn HTTP/1.1[0m" 404 -
+2024-09-10 17:52:54,683 - INFO - 127.0.0.1 - - [10/Sep/2024 17:52:54] "POST /message HTTP/1.1" 200 -
+2024-09-10 17:52:54,684 - INFO - Processing link: https://www.chess.com/analysis/game/live/119424452414?tab=analysis
+2024-09-10 17:53:01,873 - INFO - Successfully processed link: lucasdcorrea1 vs. EdwardChessVN | Analysis - Chess.com
+2024-09-10 17:53:46,840 - INFO - 127.0.0.1 - - [10/Sep/2024 17:53:46] "[33mPOST /pgn HTTP/1.1[0m" 404 -
+2024-09-10 17:59:26,433 - INFO - 127.0.0.1 - - [10/Sep/2024 17:59:26] "[33mPOST /pgn HTTP/1.1[0m" 404 -
+2024-09-10 18:00:16,395 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-10 18:00:16,486 - INFO -  * Restarting with stat
+2024-09-10 18:00:17,465 - WARNING -  * Debugger is active!
+2024-09-10 18:00:17,468 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 18:00:32,894 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-10 18:00:32,987 - INFO -  * Restarting with stat
+2024-09-10 18:00:34,086 - WARNING -  * Debugger is active!
+2024-09-10 18:00:34,088 - INFO -  * Debugger PIN: 554-958-725
+2024-09-10 18:00:36,749 - INFO - Processing link: https://www.chess.com/analysis/game/live/119424594354?tab=analysis
+2024-09-10 18:00:36,750 - INFO - 127.0.0.1 - - [10/Sep/2024 18:00:36] "POST /message HTTP/1.1" 200 -
+2024-09-10 18:00:43,902 - INFO - Successfully processed link: arijitsarkar1234567 vs. najmulhasan110 | Analysis - Chess.com
+2024-09-10 18:00:59,103 - INFO - 127.0.0.1 - - [10/Sep/2024 18:00:59] "POST /pgn HTTP/1.1" 200 -
+2024-09-10 18:02:02,458 - INFO - 127.0.0.1 - - [10/Sep/2024 18:02:02] "[31m[1mPOST /receive-message HTTP/1.1[0m" 400 -
+2024-09-10 18:06:03,525 - INFO - 127.0.0.1 - - [10/Sep/2024 18:06:03] "POST /message HTTP/1.1" 200 -
+2024-09-10 18:06:03,525 - INFO - Processing link: https://www.chess.com/analysis/game/live/119424671750?tab=analysis
+2024-09-10 18:06:12,436 - INFO - Successfully processed link: Halfofwatermelon vs. ssayotata | Analysis - Chess.com
+2024-09-10 18:11:06,095 - INFO - 127.0.0.1 - - [10/Sep/2024 18:11:06] "POST /message HTTP/1.1" 200 -
+2024-09-10 18:11:06,096 - INFO - Processing link: https://www.chess.com/analysis/game/live/119424772714?tab=analysis
+2024-09-10 18:11:13,527 - INFO - Successfully processed link: Jasper_369 vs. Halfofwatermelon | Analysis - Chess.com
+2024-09-10 18:11:43,102 - INFO - 127.0.0.1 - - [10/Sep/2024 18:11:43] "POST /message HTTP/1.1" 200 -
+2024-09-10 18:11:43,102 - INFO - Processing link: github
