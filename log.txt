@@ -258,3 +258,23 @@ waiting for locator("button:has-text(\"Review\")")
 2024-09-11 12:15:58,103 - INFO - Processing link: PGN PGN PGN PGN
 2024-09-11 12:16:26,428 - INFO - Processing link: github
 2024-09-11 12:16:26,429 - INFO - 127.0.0.1 - - [11/Sep/2024 12:16:26] "POST /message HTTP/1.1" 200 -
+2024-09-11 12:16:32,347 - ERROR - Error in run function for link dsds: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 12:16:32,348 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 12:16:32,718 - INFO - 127.0.0.1 - - [11/Sep/2024 12:16:32] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 12:16:51,895 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 12:16:51,896 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 12:16:51,897 - INFO -  * Restarting with stat
+2024-09-11 12:16:52,882 - WARNING -  * Debugger is active!
+2024-09-11 12:16:52,884 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 12:25:03,614 - INFO - Processing link: https://www.chess.com/game/live/119770833275
+2024-09-11 12:25:03,614 - INFO - 127.0.0.1 - - [11/Sep/2024 12:25:03] "POST /message HTTP/1.1" 200 -
+2024-09-11 12:25:11,587 - INFO - Successfully processed link: G_Toilet_40 vs. depikatom | Analysis - Chess.com
+2024-09-11 12:34:12,155 - INFO - 127.0.0.1 - - [11/Sep/2024 12:34:12] "POST /message HTTP/1.1" 200 -
+2024-09-11 12:34:12,155 - INFO - Processing link: https://www.chess.com/game/live/119439603304
+2024-09-11 12:34:23,759 - INFO - Successfully processed link: Xuanhan2012 vs. Jusim500 | Analysis - Chess.com
+2024-09-11 12:57:39,061 - INFO - 127.0.0.1 - - [11/Sep/2024 12:57:39] "POST /message HTTP/1.1" 200 -
+2024-09-11 12:57:39,061 - INFO - Processing link: github
