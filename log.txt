@@ -126,3 +126,22 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-11 10:42:12,926 - INFO - Successfully processed link: gabriellavami vs. Halfofwatermelon | Analysis - Chess.com
 2024-09-11 10:42:43,272 - INFO - 127.0.0.1 - - [11/Sep/2024 10:42:43] "POST /message HTTP/1.1" 200 -
 2024-09-11 10:42:43,272 - INFO - Processing link: github
+2024-09-11 11:06:18,843 - INFO - 127.0.0.1 - - [11/Sep/2024 11:06:18] "POST /message HTTP/1.1" 200 -
+2024-09-11 11:06:18,843 - INFO - Processing link: https://www.chess.com/analysis/game/live/119765984645?tab=analysis
+2024-09-11 11:06:25,630 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 11:06:27,247 - INFO - Successfully processed link: taixe133 vs. Ramonray-2024 | Analysis - Chess.com
+2024-09-11 11:06:59,954 - ERROR - Error in run function for link dsd: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 11:06:59,955 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 11:07:00,582 - INFO - 127.0.0.1 - - [11/Sep/2024 11:07:00] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 11:15:57,471 - INFO - 127.0.0.1 - - [11/Sep/2024 11:15:57] "POST /message HTTP/1.1" 200 -
+2024-09-11 11:15:57,471 - INFO - Processing link: https://www.chess.com/analysis/game/live/119766629449?tab=analysis
+2024-09-11 11:16:05,754 - INFO - Successfully processed link: Halfofwatermelon vs. AlejandroCN0211 | Analysis - Chess.com
+2024-09-11 11:20:22,838 - INFO - 127.0.0.1 - - [11/Sep/2024 11:20:22] "POST /message HTTP/1.1" 200 -
+2024-09-11 11:20:22,839 - INFO - Processing link: https://www.chess.com/analysis/game/live/119767191415?tab=analysis
+2024-09-11 11:20:23,978 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 11:20:30,275 - INFO - Successfully processed link: Halfofwatermelon vs. PhEs9 | Analysis - Chess.com
+2024-09-11 11:20:52,524 - INFO - 127.0.0.1 - - [11/Sep/2024 11:20:52] "POST /message HTTP/1.1" 200 -
+2024-09-11 11:20:52,524 - INFO - Processing link: github
