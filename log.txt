@@ -278,3 +278,15 @@ waiting for locator("button:has-text(\"Review\")")
 2024-09-11 12:34:23,759 - INFO - Successfully processed link: Xuanhan2012 vs. Jusim500 | Analysis - Chess.com
 2024-09-11 12:57:39,061 - INFO - 127.0.0.1 - - [11/Sep/2024 12:57:39] "POST /message HTTP/1.1" 200 -
 2024-09-11 12:57:39,061 - INFO - Processing link: github
+2024-09-11 12:57:55,404 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 12:58:43,941 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 12:58:43,941 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 12:58:43,944 - INFO -  * Restarting with stat
+2024-09-11 12:58:45,006 - WARNING -  * Debugger is active!
+2024-09-11 12:58:45,010 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 13:10:00,281 - INFO - Processing link: https://www.chess.com/analysis/game/live/119440217517
+2024-09-11 13:10:00,281 - INFO - 127.0.0.1 - - [11/Sep/2024 13:10:00] "POST /message HTTP/1.1" 200 -
+2024-09-11 13:10:07,499 - INFO - Successfully processed link: ndmanh1209 vs. Zeduky | Analysis - Chess.com
+2024-09-11 13:10:09,770 - INFO - 127.0.0.1 - - [11/Sep/2024 13:10:09] "POST /message HTTP/1.1" 200 -
+2024-09-11 13:10:09,770 - INFO - Processing link: github
