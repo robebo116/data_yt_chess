@@ -100,3 +100,8 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-11 09:26:21,219 - INFO - 127.0.0.1 - - [11/Sep/2024 09:26:21] "POST /message HTTP/1.1" 200 -
 2024-09-11 09:30:54,896 - INFO - 127.0.0.1 - - [11/Sep/2024 09:30:54] "POST /message HTTP/1.1" 200 -
 2024-09-11 09:30:54,896 - INFO - Processing link: github
+2024-09-11 09:50:12,925 - INFO - 127.0.0.1 - - [11/Sep/2024 09:50:12] "POST /message HTTP/1.1" 200 -
+2024-09-11 09:50:12,925 - INFO - Processing link: https://www.chess.com/analysis/game/live/119438154858?tab=analysis
+2024-09-11 09:50:26,194 - INFO - Successfully processed link: Ivan_Douglas vs. Halfofwatermelon | Analysis - Chess.com
+2024-09-11 09:53:23,411 - INFO - 127.0.0.1 - - [11/Sep/2024 09:53:23] "POST /message HTTP/1.1" 200 -
+2024-09-11 09:53:23,411 - INFO - Processing link: github
