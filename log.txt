@@ -181,3 +181,11 @@ waiting for locator("button:has-text(\"Review\")")
 2024-09-11 11:35:21,319 - INFO - Processing link: PGN PGN PGN PGN
 2024-09-11 11:35:48,306 - INFO - Processing link: github
 2024-09-11 11:35:48,306 - INFO - 127.0.0.1 - - [11/Sep/2024 11:35:48] "POST /message HTTP/1.1" 200 -
+2024-09-11 11:35:55,507 - ERROR - Error in run function for link sdsd: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 11:35:55,507 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 11:35:55,872 - INFO - 127.0.0.1 - - [11/Sep/2024 11:35:55] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 11:36:15,075 - INFO - 127.0.0.1 - - [11/Sep/2024 11:36:15] "POST /message HTTP/1.1" 200 -
+2024-09-11 11:36:15,075 - INFO - Processing link: github
