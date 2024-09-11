@@ -6,3 +6,95 @@
 2024-09-11 08:21:59,040 - INFO -  * Debugger PIN: 554-958-725
 2024-09-11 08:23:18,901 - INFO - Processing link: github
 2024-09-11 08:23:18,902 - INFO - 127.0.0.1 - - [11/Sep/2024 08:23:18] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:23:30,099 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 08:24:08,865 - ERROR - Error in run function for link fssd: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 08:24:08,866 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 08:24:09,313 - INFO - 127.0.0.1 - - [11/Sep/2024 08:24:09] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 08:25:27,012 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 08:26:01,626 - WARNING - Error processing link [Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[Link "https://www.chess.com/clubs/forum/view/sau-1-nam-tui-cuoi-cung-cung-tim-ra-nuoc-di-manh-nhat-chong-lai-petrov-defense"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 (3... Nxe4 4. dxe5 Nc6 5. Bd3 Nc5 6. Be3 Nxd3+ 7.
+cxd3 Bb4+ 8. Nc3 Bxc3+ 9. bxc3 O-O 10. O-O Re8 11. Re1 d6 12. exd6 cxd6 13. d4)
+(3... d6 4. Nc3 Be6 5. d5 Bd7 6. Bc4 c6 7. Be3 Ng4 8. O-O Nxe3 9. fxe3 cxd5 10.
+exd5 g6 11. Re1 Bg7 12. Ne4 Qc7 13. b3 O-O 14. Qe2 Re8 15. Rac1) (3... Nc6 4. d5
+Ne7 5. Nc3 d6 6. Bd3 Bd7 7. Be3 c6 8. O-O cxd5 9. exd5 Nfxd5 10. Nxd5 Nxd5 11.
+Bxh7 Nf6 12. Bd3 Qa5 13. Re1) (3... d5 4. dxe5 Nxe4 5. Nc3 Nxc3 6. bxc3 Bc5 7.
+Bf4 O-O 8. Bd3 Nc6 9. O-O Bg4 10. h3 Bh5 11. g4 Bg6 12. Bxg6 fxg6 13. Re1) (3...
+c6 4. dxe5 Nxe4 5. Bd3 Nc5 6. Nc3 d6 7. Bf4 dxe5 8. Nxe5 Bd6 9. O-O O-O 10. Qg4
+Nbd7 11. Bh6 g6 12. Bxf8 Nxf8 13. Qf4 Bxe5 14. Qxe5 Be6 15. Rad1 Rc8 16. Bxg6)
+(3... c5 4. dxe5 Nxe4 5. Bd3 d5 6. exd6 Nxd6 7. O-O Bf5 8. Re1+ Be7 9. Bxf5 Nxf5
+10. Qxd8+ Kxd8 11. Nc3 Nc6 12. Bf4 Bd6 13. Rad1 Kd7 14. Bxd6 Nxd6 15. Nb5) (3...
+Bb4+ 4. c3 Ba5 5. b4 Bb6 6. dxe5 Nxe4 7. Bd3 d5 8. exd6 Nxd6 9. O-O O-O 10. Bf4
+Re8 11. Nbd2 Nc6 12. Re1 Be6 13. Qc2 g6 14. Bh6) 4. Nxd4 Nxe4 5. f3 Nf6 6. Bc4
+Bc5 7. Nc3 d6 8. Be3 O-O 9. O-O Re8 10. Re1 *: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-11 08:26:04,938 - INFO - Successfully logged in and saved cookies for robebo010
+2024-09-11 08:26:04,970 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 08:26:05,400 - INFO - 127.0.0.1 - - [11/Sep/2024 08:26:05] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 08:26:40,052 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 08:26:51,646 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 08:26:56,903 - INFO - 127.0.0.1 - - [11/Sep/2024 08:26:56] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 08:29:40,593 - INFO - 127.0.0.1 - - [11/Sep/2024 08:29:40] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:29:40,593 - INFO - Processing link: https://www.chess.com/game/live/119423931782
+2024-09-11 08:29:48,812 - INFO - Successfully processed link: petertadross vs. G_Toilet_40 | Analysis - Chess.com
+2024-09-11 08:30:16,785 - INFO - 127.0.0.1 - - [11/Sep/2024 08:30:16] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:30:16,785 - INFO - Processing link: https://www.chess.com/game/live/119701785461
+2024-09-11 08:30:23,939 - INFO - Successfully processed link: G_Toilet_40 vs. afazza28 | Analysis - Chess.com
+2024-09-11 08:30:31,742 - INFO - 127.0.0.1 - - [11/Sep/2024 08:30:31] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:30:31,742 - INFO - Processing link: https://www.chess.com/analysis/game/live/119437434520?tab=analysis
+2024-09-11 08:30:38,203 - INFO - Successfully processed link: Halfofwatermelon vs. vasilyborgov47 | Analysis - Chess.com
+2024-09-11 08:30:39,708 - INFO - 127.0.0.1 - - [11/Sep/2024 08:30:39] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:30:39,708 - INFO - Processing link: https://www.chess.com/game/live/119701251651
+2024-09-11 08:30:47,132 - INFO - Successfully processed link: G_Toilet_40 vs. fendraseptianadi | Analysis - Chess.com
+2024-09-11 08:31:11,261 - INFO - 127.0.0.1 - - [11/Sep/2024 08:31:11] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:31:11,261 - INFO - Processing link: https://www.chess.com/game/live/119701242403
+2024-09-11 08:31:18,019 - INFO - Successfully processed link: G_Toilet_40 vs. crsitaino | Analysis - Chess.com
+2024-09-11 08:31:36,443 - INFO - 127.0.0.1 - - [11/Sep/2024 08:31:36] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:31:36,443 - INFO - Processing link: https://www.chess.com/game/live/119628613191
+2024-09-11 08:32:10,298 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119628613191?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-11 08:32:10,306 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119628613191?tab=review
+2024-09-11 08:32:10,669 - INFO - 127.0.0.1 - - [11/Sep/2024 08:32:10] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:32:10,669 - INFO - Processing link: https://www.chess.com/analysis/game/live/119628632365
+2024-09-11 08:32:18,123 - INFO - Successfully processed link: G_Toilet_40 vs. Fernando_ill | Analysis - Chess.com
+2024-09-11 08:32:33,427 - INFO - 127.0.0.1 - - [11/Sep/2024 08:32:33] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:32:33,427 - INFO - Processing link: https://www.chess.com/game/computer/155813119
+2024-09-11 08:32:40,628 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 08:33:59,306 - INFO - 127.0.0.1 - - [11/Sep/2024 08:33:59] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:33:59,306 - INFO - Processing link: https://www.chess.com/game/computer/148054753
+2024-09-11 08:34:09,026 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 08:34:28,320 - INFO - 127.0.0.1 - - [11/Sep/2024 08:34:28] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:34:28,320 - INFO - Processing link: https://www.chess.com/game/live/109060310348
+2024-09-11 08:34:36,099 - INFO - Successfully processed link: ravi9912 vs. G_Toilet_40 | Analysis - Chess.com
+2024-09-11 08:45:12,402 - INFO - 127.0.0.1 - - [11/Sep/2024 08:45:12] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:45:12,402 - INFO - Processing link: https://www.chess.com/game/live/119628613191
+2024-09-11 08:45:46,558 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119628613191?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-11 08:45:46,566 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119628613191?tab=review
+2024-09-11 08:53:28,182 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 08:53:41,668 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 08:53:45,469 - INFO - 127.0.0.1 - - [11/Sep/2024 08:53:45] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 09:24:48,163 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 09:24:48,164 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 09:24:48,167 - INFO -  * Restarting with stat
+2024-09-11 09:24:49,615 - WARNING -  * Debugger is active!
+2024-09-11 09:24:49,618 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 09:26:21,219 - INFO - Processing link: github
+2024-09-11 09:26:21,219 - INFO - 127.0.0.1 - - [11/Sep/2024 09:26:21] "POST /message HTTP/1.1" 200 -
