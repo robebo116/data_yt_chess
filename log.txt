@@ -1482,3 +1482,57 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-11 08:18:53,526 - INFO - Processing link: https://www.chess.com/live/game/119437359242
 2024-09-11 08:18:59,827 - INFO - Successfully processed link: wtalien vs. WageWarTheRiver | Analysis - Chess.com
 2024-09-11 17:11:26,796 - INFO - Processing link: github
+2024-09-11 17:11:54,148 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 17:12:28,798 - WARNING - Error processing link 1.e4 e5: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-11 17:12:33,716 - INFO - Successfully logged in and saved cookies for robebo010
+2024-09-11 17:12:33,754 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 17:13:24,711 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 17:13:37,318 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 17:13:40,652 - INFO - Processing link: https://www.chess.com/analysis/game/live/119634595485?tab=analysis
+2024-09-11 17:13:49,655 - INFO - Successfully processed link: ki1512 vs. Nolefx | Analysis - Chess.com
+2024-09-11 17:14:47,310 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 17:15:01,368 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 17:15:56,714 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 17:16:08,992 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 17:16:27,440 - INFO - Processing link: https://www.chess.com/analysis/game/computer/156194215?tab=analysis
+2024-09-11 17:16:34,471 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 17:17:03,122 - INFO - Processing link: https://www.chess.com/analysis/game/live/119787621455?tab=analysis
+2024-09-11 17:17:11,365 - INFO - Successfully processed link: vasiliys24 vs. PrzemeKChess | Analysis - Chess.com
+2024-09-11 17:19:19,294 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 17:19:31,927 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 17:20:08,045 - INFO - Processing link: https://www.chess.com/analysis/game/live/118861815721?tab=analysis
+2024-09-11 17:20:15,644 - INFO - Successfully processed link: mimi_nipo vs. IRravanlone | Analysis - Chess.com
+2024-09-11 17:21:39,247 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 17:21:51,733 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 17:22:09,183 - INFO - Processing link: Check out this #chess game: ovidiuluca vs bayagnamaitim - https://www.chess.com/live/game/119443061154
+2024-09-11 17:22:16,920 - INFO - Successfully processed link: ovidiuluca vs. bayagnamaitim | Analysis - Chess.com
+2024-09-11 17:22:49,585 - INFO - Processing link: https://www.chess.com/game/computer/156077289
+2024-09-11 17:22:58,218 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 17:23:28,969 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 17:23:42,026 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 17:27:02,509 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 17:27:14,364 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 17:27:32,498 - INFO - Processing link: https://www.chess.com/game/live/119782233083
+2024-09-11 17:27:40,450 - INFO - Successfully processed link: JOHNNY48 vs. John_karamous | Analysis - Chess.com
+2024-09-11 17:28:06,323 - INFO - Processing link: https://www.chess.com/game/live/119782233083
+2024-09-11 17:28:13,139 - INFO - Successfully processed link: JOHNNY48 vs. John_karamous | Analysis - Chess.com
+2024-09-11 17:28:45,095 - INFO - Processing link: https://www.chess.com/live/game/119788771801
+2024-09-11 17:28:47,952 - INFO - Processing link: https://www.chess.com/live/game/119443167548
+2024-09-11 17:28:53,148 - INFO - Successfully processed link: aserelgendy1 vs. efraim9696 | Analysis - Chess.com
+2024-09-11 17:28:56,328 - INFO - Successfully processed link: wtalien vs. Board-Flipper | Analysis - Chess.com
+2024-09-11 17:29:20,401 - INFO - Processing link: https://www.chess.com/game/live/119782233083
+2024-09-11 17:29:27,475 - INFO - Successfully processed link: JOHNNY48 vs. John_karamous | Analysis - Chess.com
+2024-09-11 17:30:10,621 - INFO - Processing link: https://www.chess.com/game/live/119782233083
+2024-09-11 17:30:18,425 - INFO - Successfully processed link: JOHNNY48 vs. John_karamous | Analysis - Chess.com
+2024-09-11 17:30:51,218 - INFO - Processing link: https://www.chess.com/game/live/119782233083
+2024-09-11 17:30:58,290 - INFO - Successfully processed link: JOHNNY48 vs. John_karamous | Analysis - Chess.com
+2024-09-11 17:35:20,866 - INFO - Processing link: https://www.chess.com/analysis/game/live/119443235254?tab=analysis
+2024-09-11 17:35:28,168 - INFO - Successfully processed link: Imanistai vs. arijitsarkar1234567 | Analysis - Chess.com
+2024-09-11 17:39:44,828 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 17:39:55,865 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 17:40:07,706 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 17:40:20,711 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 17:40:46,335 - INFO - Processing link: github
