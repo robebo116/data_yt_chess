@@ -189,3 +189,25 @@ waiting for locator("button:has-text(\"Review\")")
 2024-09-11 11:35:55,872 - INFO - 127.0.0.1 - - [11/Sep/2024 11:35:55] "POST /receive-message HTTP/1.1" 200 -
 2024-09-11 11:36:15,075 - INFO - 127.0.0.1 - - [11/Sep/2024 11:36:15] "POST /message HTTP/1.1" 200 -
 2024-09-11 11:36:15,075 - INFO - Processing link: github
+2024-09-11 11:39:06,777 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 11:39:06,777 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 11:39:06,778 - INFO -  * Restarting with stat
+2024-09-11 11:39:07,791 - WARNING -  * Debugger is active!
+2024-09-11 11:39:07,792 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 11:41:15,999 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 11:41:50,291 - ERROR - Error in run function for link dsds: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 11:41:50,291 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 11:41:50,686 - INFO - 127.0.0.1 - - [11/Sep/2024 11:41:50] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 11:41:52,394 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 11:42:26,435 - ERROR - Error in run function for link sds: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 11:42:26,436 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 11:42:26,808 - INFO - 127.0.0.1 - - [11/Sep/2024 11:42:26] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 11:42:26,972 - INFO - 127.0.0.1 - - [11/Sep/2024 11:42:26] "POST /message HTTP/1.1" 200 -
+2024-09-11 11:42:26,973 - INFO - Processing link: github
