@@ -455,3 +455,36 @@ waiting for locator("button:has-text(\"Review\")")
 2024-09-11 16:18:04,486 - INFO - Processing link: PGN PGN PGN PGN
 2024-09-11 16:18:16,119 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
 2024-09-11 16:20:07,120 - INFO - Processing link: github
+2024-09-11 16:20:09,184 - INFO - Processing link: https://www.chess.com/analysis/game/live/119442252882?tab=analysis
+2024-09-11 16:20:16,424 - INFO - Successfully processed link: KevinJiIolani1 vs. Puotrixon09 | Analysis - Chess.com
+2024-09-11 16:27:48,041 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 16:27:48,067 - INFO - Processing link: Check out this #chess game: bardiya-sahranavard226 vs aytnic - https://www.chess.com/live/game/119442283678
+2024-09-11 16:27:56,398 - INFO - Successfully processed link: bardiya-sahranavard226 vs. aytnic | Analysis - Chess.com
+2024-09-11 16:28:01,741 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 16:30:14,080 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 16:30:25,930 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 16:30:51,637 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 16:31:25,613 - ERROR - Error in run function for link dfd: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 16:31:25,613 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 16:34:40,796 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 16:34:52,456 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 16:35:06,036 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 16:35:17,898 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 16:35:53,862 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 16:36:27,897 - ERROR - Error in run function for link dfd: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 16:36:27,897 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 16:36:30,188 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 16:36:42,186 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 16:40:01,028 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 16:40:13,018 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 16:40:24,347 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 16:40:36,686 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 16:41:26,711 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 16:41:38,691 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 16:42:49,062 - INFO - Processing link: github
