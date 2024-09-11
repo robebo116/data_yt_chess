@@ -1,193 +1,410 @@
-2024-09-11 13:28:59,352 - INFO - Processing link: PGN PGN PGN PGN
-2024-09-11 13:28:59,412 - INFO - Processing link: PGN PGN PGN PGN
-2024-09-11 13:29:31,810 - INFO - Processing link: PGN PGN PGN PGN
-2024-09-11 13:29:31,811 - INFO - Processing link: PGN PGN PGN PGN
-2024-09-11 13:29:40,128 - WARNING - Error processing link [Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2024.09.10"]
-[Round "-"]
-[White "binay12345"]
-[Black "ki1512"]
-[Result "1-0"]
-[CurrentPosition "r1b1kb1r/pp2np1p/2n1p3/1QppP1NB/5P2/2P3P1/PP1P3P/RNB1K2R b KQkq -"]
-[Timezone "UTC"]
-[ECO "C00"]
-[ECOUrl "https://www.chess.com/openings/French-Defense"]
-[UTCDate "2024.09.10"]
-[UTCTime "14:08:04"]
-[WhiteElo "691"]
-[BlackElo "656"]
-[TimeControl "60+1"]
-[Termination "binay12345 won by resignation"]
-[StartTime "14:08:04"]
-[EndDate "2024.09.10"]
-[EndTime "14:09:49"]
-[Link "https://www.chess.com/game/live/119716230527"]
-[WhiteUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
-[WhiteCountry "69"]
-[WhiteTitle ""]
-[BlackUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
-[BlackCountry "2"]
-[BlackTitle ""]
+2024-09-11 08:21:58,087 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 08:21:58,087 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 08:21:58,089 - INFO -  * Restarting with stat
+2024-09-11 08:21:59,038 - WARNING -  * Debugger is active!
+2024-09-11 08:21:59,040 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 08:23:18,901 - INFO - Processing link: github
+2024-09-11 08:23:18,902 - INFO - 127.0.0.1 - - [11/Sep/2024 08:23:18] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:23:30,099 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 08:24:08,865 - ERROR - Error in run function for link fssd: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
 
-1. e4 {[%clk 0:01:01]} 1... e6 {[%clk 0:01:01]} 2. c3 {[%clk 0:01:01.1]} 2... d5
-{[%clk 0:01:01.9]} 3. e5 {[%clk 0:01:00.8]} 3... c5 {[%clk 0:01:01.7]} 4. Qb3 $6
-{[%clk 0:00:59.3]} 4... Nc6 {[%clk 0:00:58.3]} 5. f4 {[%clk 0:00:58.6]} 5...
-Qh4+ $6 {[%clk 0:00:55.2]} 6. g3 $1 {[%clk 0:00:58.2]} 6... Qg4 {[%clk 0:00:53.8]}
-7. Be2 {[%clk 0:00:56.7]} 7... Qf5 {[%clk 0:00:54.1]} 8. Qb5 $6 {[%clk
-0:00:53.6]} 8... Ne7 $6 {[%clk 0:00:50.4]} 9. Nf3 {[%clk 0:00:53.3]} 9... g5 $6
-{[%clk 0:00:47.3]} 10. Bd3 $6 {[%clk 0:00:41.9]} 10... Qg4 $6 {[%clk 0:00:45.5]}
-11. Be2 $9 {[%clk 0:00:41.1]} 11... Qf5 $9 {[%clk 0:00:45]} 12. Bd3 $6 {[%clk
-0:00:40.8]} 12... Qg4 $6 {[%clk 0:00:44.9]} 13. Be2 $9 {[%clk 0:00:40.6]} 13...
-Qh3 $4 {[%clk 0:00:42.1]} 14. Nxg5 $1 {[%clk 0:00:35.4]} 14... Qf5 {[%clk
-0:00:38.8]} 15. Bd3 $2 {[%clk 0:00:32.6]} 15... Qg4 $6 {[%clk 0:00:37.1]} 16. Be2
-{[%clk 0:00:31.8]} 16... Qf5 {[%clk 0:00:37.4]} 17. Bd3 $6 {[%clk 0:00:31.3]}
-17... Qg4 $6 {[%clk 0:00:37.7]} 18. Be2 $9 {[%clk 0:00:31.2]} 18... Qh5 $4 {[%clk
-0:00:36.7]} 19. Bxh5 $1 {[%clk 0:00:30.6]} 1-0: Page.wait_for_selector: Timeout 30000ms exceeded.
+2024-09-11 08:24:08,866 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 08:24:09,313 - INFO - 127.0.0.1 - - [11/Sep/2024 08:24:09] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 08:25:27,012 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 08:26:01,626 - WARNING - Error processing link [Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[Link "https://www.chess.com/clubs/forum/view/sau-1-nam-tui-cuoi-cung-cung-tim-ra-nuoc-di-manh-nhat-chong-lai-petrov-defense"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 (3... Nxe4 4. dxe5 Nc6 5. Bd3 Nc5 6. Be3 Nxd3+ 7.
+cxd3 Bb4+ 8. Nc3 Bxc3+ 9. bxc3 O-O 10. O-O Re8 11. Re1 d6 12. exd6 cxd6 13. d4)
+(3... d6 4. Nc3 Be6 5. d5 Bd7 6. Bc4 c6 7. Be3 Ng4 8. O-O Nxe3 9. fxe3 cxd5 10.
+exd5 g6 11. Re1 Bg7 12. Ne4 Qc7 13. b3 O-O 14. Qe2 Re8 15. Rac1) (3... Nc6 4. d5
+Ne7 5. Nc3 d6 6. Bd3 Bd7 7. Be3 c6 8. O-O cxd5 9. exd5 Nfxd5 10. Nxd5 Nxd5 11.
+Bxh7 Nf6 12. Bd3 Qa5 13. Re1) (3... d5 4. dxe5 Nxe4 5. Nc3 Nxc3 6. bxc3 Bc5 7.
+Bf4 O-O 8. Bd3 Nc6 9. O-O Bg4 10. h3 Bh5 11. g4 Bg6 12. Bxg6 fxg6 13. Re1) (3...
+c6 4. dxe5 Nxe4 5. Bd3 Nc5 6. Nc3 d6 7. Bf4 dxe5 8. Nxe5 Bd6 9. O-O O-O 10. Qg4
+Nbd7 11. Bh6 g6 12. Bxf8 Nxf8 13. Qf4 Bxe5 14. Qxe5 Be6 15. Rad1 Rc8 16. Bxg6)
+(3... c5 4. dxe5 Nxe4 5. Bd3 d5 6. exd6 Nxd6 7. O-O Bf5 8. Re1+ Be7 9. Bxf5 Nxf5
+10. Qxd8+ Kxd8 11. Nc3 Nc6 12. Bf4 Bd6 13. Rad1 Kd7 14. Bxd6 Nxd6 15. Nb5) (3...
+Bb4+ 4. c3 Ba5 5. b4 Bb6 6. dxe5 Nxe4 7. Bd3 d5 8. exd6 Nxd6 9. O-O O-O 10. Bf4
+Re8 11. Nbd2 Nc6 12. Re1 Be6 13. Qc2 g6 14. Bh6) 4. Nxd4 Nxe4 5. f3 Nf6 6. Bc4
+Bc5 7. Nc3 d6 8. Be3 O-O 9. O-O Re8 10. Re1 *: Page.wait_for_selector: Timeout 30000ms exceeded.
 Call log:
 waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
 
-2024-09-11 13:29:42,032 - WARNING - Error processing link [Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2024.09.10"]
-[Round "-"]
-[White "binay12345"]
-[Black "ki1512"]
-[Result "1-0"]
-[CurrentPosition "r1b1kb1r/pp2np1p/2n1p3/1QppP1NB/5P2/2P3P1/PP1P3P/RNB1K2R b KQkq -"]
-[Timezone "UTC"]
-[ECO "C00"]
-[ECOUrl "https://www.chess.com/openings/French-Defense"]
-[UTCDate "2024.09.10"]
-[UTCTime "14:08:04"]
-[WhiteElo "691"]
-[BlackElo "656"]
-[TimeControl "60+1"]
-[Termination "binay12345 won by resignation"]
-[StartTime "14:08:04"]
-[EndDate "2024.09.10"]
-[EndTime "14:09:49"]
-[Link "https://www.chess.com/game/live/119716230527"]
-[WhiteUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
-[WhiteCountry "69"]
-[WhiteTitle ""]
-[BlackUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
-[BlackCountry "2"]
-[BlackTitle ""]
-
-1. e4 {[%clk 0:01:01]} 1... e6 {[%clk 0:01:01]} 2. c3 {[%clk 0:01:01.1]} 2... d5
-{[%clk 0:01:01.9]} 3. e5 {[%clk 0:01:00.8]} 3... c5 {[%clk 0:01:01.7]} 4. Qb3 $6
-{[%clk 0:00:59.3]} 4... Nc6 {[%clk 0:00:58.3]} 5. f4 {[%clk 0:00:58.6]} 5...
-Qh4+ $6 {[%clk 0:00:55.2]} 6. g3 $1 {[%clk 0:00:58.2]} 6... Qg4 {[%clk 0:00:53.8]}
-7. Be2 {[%clk 0:00:56.7]} 7... Qf5 {[%clk 0:00:54.1]} 8. Qb5 $6 {[%clk
-0:00:53.6]} 8... Ne7 $6 {[%clk 0:00:50.4]} 9. Nf3 {[%clk 0:00:53.3]} 9... g5 $6
-{[%clk 0:00:47.3]} 10. Bd3 $6 {[%clk 0:00:41.9]} 10... Qg4 $6 {[%clk 0:00:45.5]}
-11. Be2 $9 {[%clk 0:00:41.1]} 11... Qf5 $9 {[%clk 0:00:45]} 12. Bd3 $6 {[%clk
-0:00:40.8]} 12... Qg4 $6 {[%clk 0:00:44.9]} 13. Be2 $9 {[%clk 0:00:40.6]} 13...
-Qh3 $4 {[%clk 0:00:42.1]} 14. Nxg5 $1 {[%clk 0:00:35.4]} 14... Qf5 {[%clk
-0:00:38.8]} 15. Bd3 $2 {[%clk 0:00:32.6]} 15... Qg4 $6 {[%clk 0:00:37.1]} 16. Be2
-{[%clk 0:00:31.8]} 16... Qf5 {[%clk 0:00:37.4]} 17. Bd3 $6 {[%clk 0:00:31.3]}
-17... Qg4 $6 {[%clk 0:00:37.7]} 18. Be2 $9 {[%clk 0:00:31.2]} 18... Qh5 $4 {[%clk
-0:00:36.7]} 19. Bxh5 $1 {[%clk 0:00:30.6]} 1-0: Page.wait_for_selector: Timeout 30000ms exceeded.
+2024-09-11 08:26:04,938 - INFO - Successfully logged in and saved cookies for robebo010
+2024-09-11 08:26:04,970 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 08:26:05,400 - INFO - 127.0.0.1 - - [11/Sep/2024 08:26:05] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 08:26:40,052 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 08:26:51,646 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 08:26:56,903 - INFO - 127.0.0.1 - - [11/Sep/2024 08:26:56] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 08:29:40,593 - INFO - 127.0.0.1 - - [11/Sep/2024 08:29:40] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:29:40,593 - INFO - Processing link: https://www.chess.com/game/live/119423931782
+2024-09-11 08:29:48,812 - INFO - Successfully processed link: petertadross vs. G_Toilet_40 | Analysis - Chess.com
+2024-09-11 08:30:16,785 - INFO - 127.0.0.1 - - [11/Sep/2024 08:30:16] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:30:16,785 - INFO - Processing link: https://www.chess.com/game/live/119701785461
+2024-09-11 08:30:23,939 - INFO - Successfully processed link: G_Toilet_40 vs. afazza28 | Analysis - Chess.com
+2024-09-11 08:30:31,742 - INFO - 127.0.0.1 - - [11/Sep/2024 08:30:31] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:30:31,742 - INFO - Processing link: https://www.chess.com/analysis/game/live/119437434520?tab=analysis
+2024-09-11 08:30:38,203 - INFO - Successfully processed link: Halfofwatermelon vs. vasilyborgov47 | Analysis - Chess.com
+2024-09-11 08:30:39,708 - INFO - 127.0.0.1 - - [11/Sep/2024 08:30:39] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:30:39,708 - INFO - Processing link: https://www.chess.com/game/live/119701251651
+2024-09-11 08:30:47,132 - INFO - Successfully processed link: G_Toilet_40 vs. fendraseptianadi | Analysis - Chess.com
+2024-09-11 08:31:11,261 - INFO - 127.0.0.1 - - [11/Sep/2024 08:31:11] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:31:11,261 - INFO - Processing link: https://www.chess.com/game/live/119701242403
+2024-09-11 08:31:18,019 - INFO - Successfully processed link: G_Toilet_40 vs. crsitaino | Analysis - Chess.com
+2024-09-11 08:31:36,443 - INFO - 127.0.0.1 - - [11/Sep/2024 08:31:36] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:31:36,443 - INFO - Processing link: https://www.chess.com/game/live/119628613191
+2024-09-11 08:32:10,298 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119628613191?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
 Call log:
 waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
 
-2024-09-11 13:29:45,253 - INFO - Successfully logged in and saved cookies for robebo010
-2024-09-11 13:29:45,320 - ERROR - Error PGN: expected string or bytes-like object
-2024-09-11 13:29:47,022 - INFO - Successfully logged in and saved cookies for robebo010
-2024-09-11 13:29:47,058 - ERROR - Error PGN: expected string or bytes-like object
-2024-09-11 13:30:07,564 - WARNING - Error processing link [Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2024.09.10"]
-[Round "-"]
-[White "binay12345"]
-[Black "ki1512"]
-[Result "1-0"]
-[CurrentPosition "r1b1kb1r/pp2np1p/2n1p3/1QppP1NB/5P2/2P3P1/PP1P3P/RNB1K2R b KQkq -"]
-[Timezone "UTC"]
-[ECO "C00"]
-[ECOUrl "https://www.chess.com/openings/French-Defense"]
-[UTCDate "2024.09.10"]
-[UTCTime "14:08:04"]
-[WhiteElo "691"]
-[BlackElo "656"]
-[TimeControl "60+1"]
-[Termination "binay12345 won by resignation"]
-[StartTime "14:08:04"]
-[EndDate "2024.09.10"]
-[EndTime "14:09:49"]
-[Link "https://www.chess.com/game/live/119716230527"]
-[WhiteUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
-[WhiteCountry "69"]
-[WhiteTitle ""]
-[BlackUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
-[BlackCountry "2"]
-[BlackTitle ""]
-
-1. e4 {[%clk 0:01:01]} 1... e6 {[%clk 0:01:01]} 2. c3 {[%clk 0:01:01.1]} 2... d5
-{[%clk 0:01:01.9]} 3. e5 {[%clk 0:01:00.8]} 3... c5 {[%clk 0:01:01.7]} 4. Qb3 $6
-{[%clk 0:00:59.3]} 4... Nc6 {[%clk 0:00:58.3]} 5. f4 {[%clk 0:00:58.6]} 5...
-Qh4+ $6 {[%clk 0:00:55.2]} 6. g3 $1 {[%clk 0:00:58.2]} 6... Qg4 {[%clk 0:00:53.8]}
-7. Be2 {[%clk 0:00:56.7]} 7... Qf5 {[%clk 0:00:54.1]} 8. Qb5 $6 {[%clk
-0:00:53.6]} 8... Ne7 $6 {[%clk 0:00:50.4]} 9. Nf3 {[%clk 0:00:53.3]} 9... g5 $6
-{[%clk 0:00:47.3]} 10. Bd3 $6 {[%clk 0:00:41.9]} 10... Qg4 $6 {[%clk 0:00:45.5]}
-11. Be2 $9 {[%clk 0:00:41.1]} 11... Qf5 $9 {[%clk 0:00:45]} 12. Bd3 $6 {[%clk
-0:00:40.8]} 12... Qg4 $6 {[%clk 0:00:44.9]} 13. Be2 $9 {[%clk 0:00:40.6]} 13...
-Qh3 $4 {[%clk 0:00:42.1]} 14. Nxg5 $1 {[%clk 0:00:35.4]} 14... Qf5 {[%clk
-0:00:38.8]} 15. Bd3 $2 {[%clk 0:00:32.6]} 15... Qg4 $6 {[%clk 0:00:37.1]} 16. Be2
-{[%clk 0:00:31.8]} 16... Qf5 {[%clk 0:00:37.4]} 17. Bd3 $6 {[%clk 0:00:31.3]}
-17... Qg4 $6 {[%clk 0:00:37.7]} 18. Be2 $9 {[%clk 0:00:31.2]} 18... Qh5 $4 {[%clk
-0:00:36.7]} 19. Bxh5 $1 {[%clk 0:00:30.6]} 1-0: Page.wait_for_selector: Timeout 30000ms exceeded.
+2024-09-11 08:32:10,306 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119628613191?tab=review
+2024-09-11 08:32:10,669 - INFO - 127.0.0.1 - - [11/Sep/2024 08:32:10] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:32:10,669 - INFO - Processing link: https://www.chess.com/analysis/game/live/119628632365
+2024-09-11 08:32:18,123 - INFO - Successfully processed link: G_Toilet_40 vs. Fernando_ill | Analysis - Chess.com
+2024-09-11 08:32:33,427 - INFO - 127.0.0.1 - - [11/Sep/2024 08:32:33] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:32:33,427 - INFO - Processing link: https://www.chess.com/game/computer/155813119
+2024-09-11 08:32:40,628 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 08:33:59,306 - INFO - 127.0.0.1 - - [11/Sep/2024 08:33:59] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:33:59,306 - INFO - Processing link: https://www.chess.com/game/computer/148054753
+2024-09-11 08:34:09,026 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 08:34:28,320 - INFO - 127.0.0.1 - - [11/Sep/2024 08:34:28] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:34:28,320 - INFO - Processing link: https://www.chess.com/game/live/109060310348
+2024-09-11 08:34:36,099 - INFO - Successfully processed link: ravi9912 vs. G_Toilet_40 | Analysis - Chess.com
+2024-09-11 08:45:12,402 - INFO - 127.0.0.1 - - [11/Sep/2024 08:45:12] "POST /message HTTP/1.1" 200 -
+2024-09-11 08:45:12,402 - INFO - Processing link: https://www.chess.com/game/live/119628613191
+2024-09-11 08:45:46,558 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119628613191?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
 Call log:
 waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
 
-2024-09-11 13:30:08,857 - WARNING - Error processing link [Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2024.09.10"]
-[Round "-"]
-[White "binay12345"]
-[Black "ki1512"]
-[Result "1-0"]
-[CurrentPosition "r1b1kb1r/pp2np1p/2n1p3/1QppP1NB/5P2/2P3P1/PP1P3P/RNB1K2R b KQkq -"]
-[Timezone "UTC"]
-[ECO "C00"]
-[ECOUrl "https://www.chess.com/openings/French-Defense"]
-[UTCDate "2024.09.10"]
-[UTCTime "14:08:04"]
-[WhiteElo "691"]
-[BlackElo "656"]
-[TimeControl "60+1"]
-[Termination "binay12345 won by resignation"]
-[StartTime "14:08:04"]
-[EndDate "2024.09.10"]
-[EndTime "14:09:49"]
-[Link "https://www.chess.com/game/live/119716230527"]
-[WhiteUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
-[WhiteCountry "69"]
-[WhiteTitle ""]
-[BlackUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
-[BlackCountry "2"]
-[BlackTitle ""]
-
-1. e4 {[%clk 0:01:01]} 1... e6 {[%clk 0:01:01]} 2. c3 {[%clk 0:01:01.1]} 2... d5
-{[%clk 0:01:01.9]} 3. e5 {[%clk 0:01:00.8]} 3... c5 {[%clk 0:01:01.7]} 4. Qb3 $6
-{[%clk 0:00:59.3]} 4... Nc6 {[%clk 0:00:58.3]} 5. f4 {[%clk 0:00:58.6]} 5...
-Qh4+ $6 {[%clk 0:00:55.2]} 6. g3 $1 {[%clk 0:00:58.2]} 6... Qg4 {[%clk 0:00:53.8]}
-7. Be2 {[%clk 0:00:56.7]} 7... Qf5 {[%clk 0:00:54.1]} 8. Qb5 $6 {[%clk
-0:00:53.6]} 8... Ne7 $6 {[%clk 0:00:50.4]} 9. Nf3 {[%clk 0:00:53.3]} 9... g5 $6
-{[%clk 0:00:47.3]} 10. Bd3 $6 {[%clk 0:00:41.9]} 10... Qg4 $6 {[%clk 0:00:45.5]}
-11. Be2 $9 {[%clk 0:00:41.1]} 11... Qf5 $9 {[%clk 0:00:45]} 12. Bd3 $6 {[%clk
-0:00:40.8]} 12... Qg4 $6 {[%clk 0:00:44.9]} 13. Be2 $9 {[%clk 0:00:40.6]} 13...
-Qh3 $4 {[%clk 0:00:42.1]} 14. Nxg5 $1 {[%clk 0:00:35.4]} 14... Qf5 {[%clk
-0:00:38.8]} 15. Bd3 $2 {[%clk 0:00:32.6]} 15... Qg4 $6 {[%clk 0:00:37.1]} 16. Be2
-{[%clk 0:00:31.8]} 16... Qf5 {[%clk 0:00:37.4]} 17. Bd3 $6 {[%clk 0:00:31.3]}
-17... Qg4 $6 {[%clk 0:00:37.7]} 18. Be2 $9 {[%clk 0:00:31.2]} 18... Qh5 $4 {[%clk
-0:00:36.7]} 19. Bxh5 $1 {[%clk 0:00:30.6]} 1-0: Page.wait_for_selector: Timeout 30000ms exceeded.
+2024-09-11 08:45:46,566 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119628613191?tab=review
+2024-09-11 08:53:28,182 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 08:53:41,668 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 08:53:45,469 - INFO - 127.0.0.1 - - [11/Sep/2024 08:53:45] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 09:24:48,163 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 09:24:48,164 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 09:24:48,167 - INFO -  * Restarting with stat
+2024-09-11 09:24:49,615 - WARNING -  * Debugger is active!
+2024-09-11 09:24:49,618 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 09:26:21,219 - INFO - Processing link: github
+2024-09-11 09:26:21,219 - INFO - 127.0.0.1 - - [11/Sep/2024 09:26:21] "POST /message HTTP/1.1" 200 -
+2024-09-11 09:30:54,896 - INFO - 127.0.0.1 - - [11/Sep/2024 09:30:54] "POST /message HTTP/1.1" 200 -
+2024-09-11 09:30:54,896 - INFO - Processing link: github
+2024-09-11 09:50:12,925 - INFO - 127.0.0.1 - - [11/Sep/2024 09:50:12] "POST /message HTTP/1.1" 200 -
+2024-09-11 09:50:12,925 - INFO - Processing link: https://www.chess.com/analysis/game/live/119438154858?tab=analysis
+2024-09-11 09:50:26,194 - INFO - Successfully processed link: Ivan_Douglas vs. Halfofwatermelon | Analysis - Chess.com
+2024-09-11 09:53:23,411 - INFO - 127.0.0.1 - - [11/Sep/2024 09:53:23] "POST /message HTTP/1.1" 200 -
+2024-09-11 09:53:23,411 - INFO - Processing link: github
+2024-09-11 09:59:09,240 - INFO - 127.0.0.1 - - [11/Sep/2024 09:59:09] "POST /message HTTP/1.1" 200 -
+2024-09-11 09:59:09,241 - INFO - Processing link: Xem ván c\u1edd #: Toi_Va_Cu_Hanh vs Wumpus - https://www.chess.com/daily/game/156114391
+2024-09-11 09:59:42,701 - WARNING - Error processing link https://www.chess.com/analysis/game/daily/156114391?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
 Call log:
 waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
 
-2024-09-11 13:30:11,331 - INFO - Successfully logged in and saved cookies for robebo010
-2024-09-11 13:30:11,369 - ERROR - Error PGN: expected string or bytes-like object
-2024-09-11 13:30:12,514 - INFO - Successfully logged in and saved cookies for robebo010
-2024-09-11 13:30:12,561 - ERROR - Error PGN: expected string or bytes-like object
-2024-09-11 13:30:16,696 - INFO - Processing link: github
+2024-09-11 09:59:42,721 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/daily/156114391?tab=review
+2024-09-11 10:00:03,910 - INFO - 127.0.0.1 - - [11/Sep/2024 10:00:03] "POST /message HTTP/1.1" 200 -
+2024-09-11 10:00:03,910 - INFO - Processing link: https://www.chess.com/analysis/game/computer/156114391?tab=analysis
+2024-09-11 10:00:11,063 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 10:10:33,223 - INFO - 127.0.0.1 - - [11/Sep/2024 10:10:33] "POST /message HTTP/1.1" 200 -
+2024-09-11 10:10:33,223 - INFO - Processing link: Xem ván c\u1edd #: PabloBondaruk vs Toi_Va_Cu_Hanh - https://www.chess.com/live/game/119762974109
+2024-09-11 10:10:41,054 - INFO - Successfully processed link: PabloBondaruk vs. Toi_Va_Cu_Hanh | Analysis - Chess.com
+2024-09-11 10:16:40,182 - INFO - 127.0.0.1 - - [11/Sep/2024 10:16:40] "POST /message HTTP/1.1" 200 -
+2024-09-11 10:16:40,182 - INFO - Processing link: https://www.chess.com/analysis/game/live/119438423586?tab=analysis
+2024-09-11 10:16:47,505 - INFO - Successfully processed link: BellwetherB vs. Halfofwatermelon | Analysis - Chess.com
+2024-09-11 10:42:05,549 - INFO - 127.0.0.1 - - [11/Sep/2024 10:42:05] "POST /message HTTP/1.1" 200 -
+2024-09-11 10:42:05,549 - INFO - Processing link: https://www.chess.com/analysis/game/live/119438665060?tab=analysis
+2024-09-11 10:42:12,926 - INFO - Successfully processed link: gabriellavami vs. Halfofwatermelon | Analysis - Chess.com
+2024-09-11 10:42:43,272 - INFO - 127.0.0.1 - - [11/Sep/2024 10:42:43] "POST /message HTTP/1.1" 200 -
+2024-09-11 10:42:43,272 - INFO - Processing link: github
+2024-09-11 11:06:18,843 - INFO - 127.0.0.1 - - [11/Sep/2024 11:06:18] "POST /message HTTP/1.1" 200 -
+2024-09-11 11:06:18,843 - INFO - Processing link: https://www.chess.com/analysis/game/live/119765984645?tab=analysis
+2024-09-11 11:06:25,630 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 11:06:27,247 - INFO - Successfully processed link: taixe133 vs. Ramonray-2024 | Analysis - Chess.com
+2024-09-11 11:06:59,954 - ERROR - Error in run function for link dsd: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 11:06:59,955 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 11:07:00,582 - INFO - 127.0.0.1 - - [11/Sep/2024 11:07:00] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 11:15:57,471 - INFO - 127.0.0.1 - - [11/Sep/2024 11:15:57] "POST /message HTTP/1.1" 200 -
+2024-09-11 11:15:57,471 - INFO - Processing link: https://www.chess.com/analysis/game/live/119766629449?tab=analysis
+2024-09-11 11:16:05,754 - INFO - Successfully processed link: Halfofwatermelon vs. AlejandroCN0211 | Analysis - Chess.com
+2024-09-11 11:20:22,838 - INFO - 127.0.0.1 - - [11/Sep/2024 11:20:22] "POST /message HTTP/1.1" 200 -
+2024-09-11 11:20:22,839 - INFO - Processing link: https://www.chess.com/analysis/game/live/119767191415?tab=analysis
+2024-09-11 11:20:23,978 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 11:20:30,275 - INFO - Successfully processed link: Halfofwatermelon vs. PhEs9 | Analysis - Chess.com
+2024-09-11 11:20:52,524 - INFO - 127.0.0.1 - - [11/Sep/2024 11:20:52] "POST /message HTTP/1.1" 200 -
+2024-09-11 11:20:52,524 - INFO - Processing link: github
+2024-09-11 11:20:58,325 - ERROR - Error in run function for link sdsd: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 11:20:58,326 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 11:20:58,705 - INFO - 127.0.0.1 - - [11/Sep/2024 11:20:58] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 11:22:06,331 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 11:22:06,331 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 11:22:06,333 - INFO -  * Restarting with stat
+2024-09-11 11:22:07,295 - WARNING -  * Debugger is active!
+2024-09-11 11:22:07,297 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 11:28:07,721 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 11:28:07,721 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 11:28:07,723 - INFO -  * Restarting with stat
+2024-09-11 11:28:08,646 - WARNING -  * Debugger is active!
+2024-09-11 11:28:08,648 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 11:29:32,783 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 11:29:44,751 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 11:29:49,865 - INFO - 127.0.0.1 - - [11/Sep/2024 11:29:49] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 11:33:07,036 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 11:33:07,036 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 11:33:07,039 - INFO -  * Restarting with stat
+2024-09-11 11:33:07,997 - WARNING -  * Debugger is active!
+2024-09-11 11:33:07,999 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 11:35:04,293 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 11:35:04,294 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 11:35:04,295 - INFO -  * Restarting with stat
+2024-09-11 11:35:05,337 - WARNING -  * Debugger is active!
+2024-09-11 11:35:05,339 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 11:35:21,319 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 11:35:48,306 - INFO - Processing link: github
+2024-09-11 11:35:48,306 - INFO - 127.0.0.1 - - [11/Sep/2024 11:35:48] "POST /message HTTP/1.1" 200 -
+2024-09-11 11:35:55,507 - ERROR - Error in run function for link sdsd: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 11:35:55,507 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 11:35:55,872 - INFO - 127.0.0.1 - - [11/Sep/2024 11:35:55] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 11:36:15,075 - INFO - 127.0.0.1 - - [11/Sep/2024 11:36:15] "POST /message HTTP/1.1" 200 -
+2024-09-11 11:36:15,075 - INFO - Processing link: github
+2024-09-11 11:39:06,777 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 11:39:06,777 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 11:39:06,778 - INFO -  * Restarting with stat
+2024-09-11 11:39:07,791 - WARNING -  * Debugger is active!
+2024-09-11 11:39:07,792 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 11:41:15,999 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 11:41:50,291 - ERROR - Error in run function for link dsds: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 11:41:50,291 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 11:41:50,686 - INFO - 127.0.0.1 - - [11/Sep/2024 11:41:50] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 11:41:52,394 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 11:42:26,435 - ERROR - Error in run function for link sds: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 11:42:26,436 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 11:42:26,808 - INFO - 127.0.0.1 - - [11/Sep/2024 11:42:26] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 11:42:26,972 - INFO - 127.0.0.1 - - [11/Sep/2024 11:42:26] "POST /message HTTP/1.1" 200 -
+2024-09-11 11:42:26,973 - INFO - Processing link: github
+2024-09-11 11:43:06,278 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 11:43:06,278 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 11:43:06,281 - INFO -  * Restarting with stat
+2024-09-11 11:43:07,282 - WARNING -  * Debugger is active!
+2024-09-11 11:43:07,284 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 11:43:12,615 - INFO - Processing link: github
+2024-09-11 11:43:12,615 - INFO - 127.0.0.1 - - [11/Sep/2024 11:43:12] "POST /message HTTP/1.1" 200 -
+2024-09-11 11:44:43,463 - INFO - 127.0.0.1 - - [11/Sep/2024 11:44:43] "POST /message HTTP/1.1" 200 -
+2024-09-11 11:44:43,463 - INFO - Processing link: github
+2024-09-11 11:46:03,824 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 11:46:03,824 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 11:46:03,827 - INFO -  * Restarting with stat
+2024-09-11 11:46:04,774 - WARNING -  * Debugger is active!
+2024-09-11 11:46:04,776 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 11:46:26,721 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 11:46:47,346 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 11:46:47,346 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 11:46:47,347 - INFO -  * Restarting with stat
+2024-09-11 11:46:48,305 - WARNING -  * Debugger is active!
+2024-09-11 11:46:48,306 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 11:55:40,887 - INFO - Processing link: github
+2024-09-11 11:55:40,887 - INFO - 127.0.0.1 - - [11/Sep/2024 11:55:40] "POST /message HTTP/1.1" 200 -
+2024-09-11 11:55:54,145 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 11:56:53,631 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 11:56:53,631 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 11:56:53,634 - INFO -  * Restarting with stat
+2024-09-11 11:56:54,565 - WARNING -  * Debugger is active!
+2024-09-11 11:56:54,566 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 11:58:29,904 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 11:58:29,904 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 11:58:29,907 - INFO -  * Restarting with stat
+2024-09-11 11:58:30,881 - WARNING -  * Debugger is active!
+2024-09-11 11:58:30,884 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 12:12:26,971 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 12:12:26,971 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 12:12:26,974 - INFO -  * Restarting with stat
+2024-09-11 12:12:27,942 - WARNING -  * Debugger is active!
+2024-09-11 12:12:27,944 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 12:15:58,103 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 12:16:26,428 - INFO - Processing link: github
+2024-09-11 12:16:26,429 - INFO - 127.0.0.1 - - [11/Sep/2024 12:16:26] "POST /message HTTP/1.1" 200 -
+2024-09-11 12:16:32,347 - ERROR - Error in run function for link dsds: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 12:16:32,348 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 12:16:32,718 - INFO - 127.0.0.1 - - [11/Sep/2024 12:16:32] "POST /receive-message HTTP/1.1" 200 -
+2024-09-11 12:16:51,895 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 12:16:51,896 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 12:16:51,897 - INFO -  * Restarting with stat
+2024-09-11 12:16:52,882 - WARNING -  * Debugger is active!
+2024-09-11 12:16:52,884 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 12:25:03,614 - INFO - Processing link: https://www.chess.com/game/live/119770833275
+2024-09-11 12:25:03,614 - INFO - 127.0.0.1 - - [11/Sep/2024 12:25:03] "POST /message HTTP/1.1" 200 -
+2024-09-11 12:25:11,587 - INFO - Successfully processed link: G_Toilet_40 vs. depikatom | Analysis - Chess.com
+2024-09-11 12:34:12,155 - INFO - 127.0.0.1 - - [11/Sep/2024 12:34:12] "POST /message HTTP/1.1" 200 -
+2024-09-11 12:34:12,155 - INFO - Processing link: https://www.chess.com/game/live/119439603304
+2024-09-11 12:34:23,759 - INFO - Successfully processed link: Xuanhan2012 vs. Jusim500 | Analysis - Chess.com
+2024-09-11 12:57:39,061 - INFO - 127.0.0.1 - - [11/Sep/2024 12:57:39] "POST /message HTTP/1.1" 200 -
+2024-09-11 12:57:39,061 - INFO - Processing link: github
+2024-09-11 12:57:55,404 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 12:58:43,941 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 12:58:43,941 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 12:58:43,944 - INFO -  * Restarting with stat
+2024-09-11 12:58:45,006 - WARNING -  * Debugger is active!
+2024-09-11 12:58:45,010 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 13:10:00,281 - INFO - Processing link: https://www.chess.com/analysis/game/live/119440217517
+2024-09-11 13:10:00,281 - INFO - 127.0.0.1 - - [11/Sep/2024 13:10:00] "POST /message HTTP/1.1" 200 -
+2024-09-11 13:10:07,499 - INFO - Successfully processed link: ndmanh1209 vs. Zeduky | Analysis - Chess.com
+2024-09-11 13:10:09,770 - INFO - 127.0.0.1 - - [11/Sep/2024 13:10:09] "POST /message HTTP/1.1" 200 -
+2024-09-11 13:10:09,770 - INFO - Processing link: github
+2024-09-11 13:10:14,324 - INFO - 127.0.0.1 - - [11/Sep/2024 13:10:14] "POST /message HTTP/1.1" 200 -
+2024-09-11 13:10:14,324 - INFO - Processing link: https://www.chess.com/analysis/game/live/119440774045
+2024-09-11 13:10:20,101 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 13:10:20,117 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 13:10:20,292 - INFO - Processing link: https://www.chess.com/analysis/game/live/119443203465
+2024-09-11 13:10:20,293 - INFO - 127.0.0.1 - - [11/Sep/2024 13:10:20] "POST /message HTTP/1.1" 200 -
+2024-09-11 13:10:22,800 - INFO - Successfully processed link: Zeduky vs. ndmanh1209 | Analysis - Chess.com
+2024-09-11 13:10:29,779 - INFO - Successfully processed link: PANGANIS vs. ndmanh1209 | Analysis - Chess.com
+2024-09-11 13:11:11,443 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 13:11:11,444 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 13:11:11,445 - INFO -  * Restarting with stat
+2024-09-11 13:11:12,366 - WARNING -  * Debugger is active!
+2024-09-11 13:11:12,367 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 13:11:15,326 - INFO - Processing link: https://www.chess.com/analysis/game/live/119443235077
+2024-09-11 13:11:15,326 - INFO - 127.0.0.1 - - [11/Sep/2024 13:11:15] "POST /message HTTP/1.1" 200 -
+2024-09-11 13:11:18,150 - INFO - Processing link: https://www.chess.com/analysis/game/live/119443235077
+2024-09-11 13:11:18,151 - INFO - 127.0.0.1 - - [11/Sep/2024 13:11:18] "POST /message HTTP/1.1" 200 -
+2024-09-11 13:11:23,039 - INFO - Successfully processed link: ndmanh1209 vs. elade37 | Analysis - Chess.com
+2024-09-11 13:11:24,727 - INFO - Successfully processed link: ndmanh1209 vs. elade37 | Analysis - Chess.com
+2024-09-11 13:16:26,993 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-11 13:16:26,993 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-11 13:16:26,995 - INFO -  * Restarting with stat
+2024-09-11 13:16:27,892 - WARNING -  * Debugger is active!
+2024-09-11 13:16:27,894 - INFO -  * Debugger PIN: 554-958-725
+2024-09-11 13:16:42,605 - INFO - Processing link: github
+2024-09-11 13:16:42,605 - INFO - 127.0.0.1 - - [11/Sep/2024 13:16:42] "POST /message HTTP/1.1" 200 -
+2024-09-11 13:17:24,443 - INFO -  * Detected change in 'd:\\Python\\BsVinh\\Analysis-chess.com\\Webkit Server\\server_process_webkit_not_redis.py', reloading
+2024-09-11 13:17:24,528 - INFO -  * Restarting with stat
+2024-09-11 13:31:57,236 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 13:31:57,278 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 13:32:09,907 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 13:32:10,450 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 13:36:30,252 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 13:36:30,304 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 13:36:45,377 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 13:36:48,205 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 13:39:37,551 - INFO - Processing link: https://www.chess.com/analysis/game/live/119440259074?tab=analysis
+2024-09-11 13:39:45,344 - INFO - Successfully processed link: Yegar_Ayanakoji vs. KingAssassin96 | Analysis - Chess.com
+2024-09-11 13:49:37,040 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 13:49:37,326 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 13:49:52,078 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 13:50:05,338 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 13:50:05,509 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 13:50:19,269 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 13:50:19,509 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 13:51:29,045 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 13:51:29,386 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 13:51:41,899 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 13:51:44,199 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 13:55:20,644 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 13:55:20,727 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 13:55:35,373 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 13:55:37,497 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 13:56:26,568 - INFO - Processing link: https://www.chess.com/game/live/119776217457
+2024-09-11 13:56:34,075 - INFO - Successfully processed link: rraasell vs. Azat007007 | Analysis - Chess.com
+2024-09-11 14:00:26,235 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 14:00:34,230 - ERROR - Error in run function for link openweb: Page.click: Target page, context or browser has been closed
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 14:00:34,231 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 14:01:01,692 - INFO - Processing link: https://www.chess.com/game/live/119776801053
+2024-09-11 14:01:09,702 - INFO - Successfully processed link: rraasell vs. tiniomanuel | Analysis - Chess.com
+2024-09-11 14:01:14,635 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 14:01:27,714 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 14:03:43,173 - INFO - Processing link: https://www.chess.com/game/live/119776211253
+2024-09-11 14:03:50,608 - INFO - Successfully processed link: mikeyelo999 vs. Johnnyk0077 | Analysis - Chess.com
+2024-09-11 14:04:29,313 - INFO - Processing link: https://www.chess.com/game/live/119776237203
+2024-09-11 14:04:37,485 - INFO - Successfully processed link: Darkhan0226 vs. mikeyelo999 | Analysis - Chess.com
+2024-09-11 14:20:27,478 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 14:20:27,630 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 14:20:48,155 - INFO - Processing link: https://www.chess.com/game/live/119440797958
+2024-09-11 14:20:48,732 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 14:20:49,750 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 14:20:55,530 - INFO - Successfully processed link: rajatparmar225 vs. G_Toilet_40 | Analysis - Chess.com
+2024-09-11 14:21:01,716 - ERROR - Error in run function for link Check out this #chess game: Thenics247 vs Aray1558 - https://www.chess.com/live/game/119777973491: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 14:21:01,717 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 14:21:01,793 - ERROR - Error in run function for link Check out this #chess game: Thenics247 vs Aray1558 - https://www.chess.com/live/game/119777973491: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 14:21:01,793 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 14:21:22,934 - ERROR - Error in run function for link Check out this #chess game: Thenics247 vs Aray1558 - https://www.chess.com/live/game/119777973491: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 14:21:22,934 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 14:21:24,159 - ERROR - Error in run function for link Check out this #chess game: Thenics247 vs Aray1558 - https://www.chess.com/live/game/119777973491: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 14:21:24,160 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 14:21:47,557 - INFO - Processing link: Check out this #chess game: Thenics247 vs Aray1558 - https://www.chess.com/live/game/119777973491
+2024-09-11 14:21:55,483 - INFO - Successfully processed link: Thenics247 vs. Aray1558 | Analysis - Chess.com
+2024-09-11 14:29:27,125 - INFO - Processing link: https://www.chess.com/analysis/game/live/119440928250?tab=analysis
+2024-09-11 14:29:34,757 - INFO - Successfully processed link: BaoLong0104 vs. tempik96 | Analysis - Chess.com
+2024-09-11 14:45:31,448 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 14:45:37,435 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 14:45:44,917 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 14:45:50,832 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 14:46:02,533 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 14:46:02,606 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 14:46:18,165 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 14:46:18,807 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 15:08:44,137 - INFO - Processing link: https://www.chess.com/analysis/game/live/119441322454?tab=analysis
+2024-09-11 15:08:50,913 - INFO - Successfully processed link: DadPenry vs. arijitsarkar1234567 | Analysis - Chess.com
+2024-09-11 15:09:01,866 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 15:09:36,293 - ERROR - Error in run function for link s\u0111: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 15:09:36,294 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 15:09:38,575 - INFO - Processing link: github
