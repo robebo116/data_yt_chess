@@ -408,3 +408,50 @@ waiting for locator("button:has-text(\"Review\")")
 
 2024-09-11 15:09:36,294 - ERROR - Error PGN: expected string or bytes-like object
 2024-09-11 15:09:38,575 - INFO - Processing link: github
+2024-09-11 15:11:36,493 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 15:11:48,507 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 15:14:06,006 - INFO - Processing link: https://www.chess.com/game/live/119781017757
+2024-09-11 15:14:13,352 - INFO - Successfully processed link: LongDaoPlayingChess2011 vs. SliceOffline | Analysis - Chess.com
+2024-09-11 15:14:59,108 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 15:15:06,581 - INFO - Processing link: Check out this #chess game: momo1223456 vs Adityak6 - https://www.chess.com/live/game/119781009519
+2024-09-11 15:15:14,001 - INFO - Successfully processed link: momo1223456 vs. Adityak6 | Analysis - Chess.com
+2024-09-11 15:15:33,265 - ERROR - Error in run function for link fd: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-11 15:15:33,267 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-11 15:16:41,123 - INFO - Processing link: Xem ván c\u1edd #: IM-GAY25102011 vs axeldelimelette - https://www.chess.com/live/game/119781579941
+2024-09-11 15:16:47,643 - INFO - Successfully processed link: IM-GAY25102011 vs. axeldelimelette | Analysis - Chess.com
+2024-09-11 15:16:55,308 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 15:17:06,873 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 15:18:29,467 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 15:18:37,547 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 15:18:41,365 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 15:18:51,180 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 15:54:49,274 - INFO - Processing link: https://www.chess.com/analysis/game/live/119783381577
+2024-09-11 15:54:57,269 - INFO - Successfully processed link: Old_seaman vs. ndmanh1209 | Analysis - Chess.com
+2024-09-11 16:01:58,072 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 16:02:07,005 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 16:04:44,682 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 16:04:56,439 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 16:05:46,042 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 16:05:57,994 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 16:06:51,120 - INFO - Processing link: https://www.chess.com/analysis/game/live/119442108652?tab=analysis
+2024-09-11 16:06:58,292 - INFO - Successfully processed link: ArchAngel2151 vs. Puotrixon09 | Analysis - Chess.com
+2024-09-11 16:09:03,510 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 16:09:15,762 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 16:10:08,489 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 16:10:20,158 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 16:11:39,324 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 16:11:50,786 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 16:14:33,386 - INFO - Processing link: https://www.chess.com/analysis/game/live/119442149848?tab=analysis
+2024-09-11 16:14:40,045 - INFO - Successfully processed link: Puotrixon09 vs. 7odA-2050 | Analysis - Chess.com
+2024-09-11 16:14:51,267 - INFO - Processing link: Check out this #chess game: Sanjayxxx4 vs bardiya-sahranavard226 - https://www.chess.com/live/game/119442117404
+2024-09-11 16:14:59,800 - INFO - Successfully processed link: Sanjayxxx4 vs. bardiya-sahranavard226 | Analysis - Chess.com
+2024-09-11 16:15:59,503 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 16:16:11,308 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 16:17:22,939 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 16:17:34,339 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 16:18:04,486 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-11 16:18:16,119 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 16:20:07,120 - INFO - Processing link: github
