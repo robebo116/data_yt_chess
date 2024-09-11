@@ -105,3 +105,24 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-11 09:50:26,194 - INFO - Successfully processed link: Ivan_Douglas vs. Halfofwatermelon | Analysis - Chess.com
 2024-09-11 09:53:23,411 - INFO - 127.0.0.1 - - [11/Sep/2024 09:53:23] "POST /message HTTP/1.1" 200 -
 2024-09-11 09:53:23,411 - INFO - Processing link: github
+2024-09-11 09:59:09,240 - INFO - 127.0.0.1 - - [11/Sep/2024 09:59:09] "POST /message HTTP/1.1" 200 -
+2024-09-11 09:59:09,241 - INFO - Processing link: Xem ván c\u1edd #: Toi_Va_Cu_Hanh vs Wumpus - https://www.chess.com/daily/game/156114391
+2024-09-11 09:59:42,701 - WARNING - Error processing link https://www.chess.com/analysis/game/daily/156114391?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-11 09:59:42,721 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/daily/156114391?tab=review
+2024-09-11 10:00:03,910 - INFO - 127.0.0.1 - - [11/Sep/2024 10:00:03] "POST /message HTTP/1.1" 200 -
+2024-09-11 10:00:03,910 - INFO - Processing link: https://www.chess.com/analysis/game/computer/156114391?tab=analysis
+2024-09-11 10:00:11,063 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-11 10:10:33,223 - INFO - 127.0.0.1 - - [11/Sep/2024 10:10:33] "POST /message HTTP/1.1" 200 -
+2024-09-11 10:10:33,223 - INFO - Processing link: Xem ván c\u1edd #: PabloBondaruk vs Toi_Va_Cu_Hanh - https://www.chess.com/live/game/119762974109
+2024-09-11 10:10:41,054 - INFO - Successfully processed link: PabloBondaruk vs. Toi_Va_Cu_Hanh | Analysis - Chess.com
+2024-09-11 10:16:40,182 - INFO - 127.0.0.1 - - [11/Sep/2024 10:16:40] "POST /message HTTP/1.1" 200 -
+2024-09-11 10:16:40,182 - INFO - Processing link: https://www.chess.com/analysis/game/live/119438423586?tab=analysis
+2024-09-11 10:16:47,505 - INFO - Successfully processed link: BellwetherB vs. Halfofwatermelon | Analysis - Chess.com
+2024-09-11 10:42:05,549 - INFO - 127.0.0.1 - - [11/Sep/2024 10:42:05] "POST /message HTTP/1.1" 200 -
+2024-09-11 10:42:05,549 - INFO - Processing link: https://www.chess.com/analysis/game/live/119438665060?tab=analysis
+2024-09-11 10:42:12,926 - INFO - Successfully processed link: gabriellavami vs. Halfofwatermelon | Analysis - Chess.com
+2024-09-11 10:42:43,272 - INFO - 127.0.0.1 - - [11/Sep/2024 10:42:43] "POST /message HTTP/1.1" 200 -
+2024-09-11 10:42:43,272 - INFO - Processing link: github
