@@ -1867,3 +1867,50 @@ waiting for locator("button:has-text(\"Review\")")
 2024-09-12 17:43:22,370 - INFO - Processing link: https://www.chess.com/game/live/119462468472
 2024-09-12 17:43:29,577 - INFO - Successfully processed link: GamalielMaster vs. RishiKumar013 | Analysis - Chess.com
 2024-09-12 17:43:53,288 - INFO - Processing link: github
+2024-09-12 17:53:55,258 - INFO - Processing link: https://www.chess.com/analysis/game/live/119462609514
+2024-09-12 17:54:03,922 - INFO - Successfully processed link: KhuongMinh2013 vs. the_wat | Analysis - Chess.com
+2024-09-12 18:03:55,742 - INFO - Processing link: https://www.chess.com/analysis/game/live/119876405411?tab=analysis
+2024-09-12 18:04:04,007 - INFO - Successfully processed link: tinygooding vs. PrzemeKChess | Analysis - Chess.com
+2024-09-12 18:08:35,606 - INFO - Processing link: https://www.chess.com/analysis/game/live/119875858401?tab=analysis
+2024-09-12 18:08:43,757 - INFO - Successfully processed link: DMS_83 vs. Anbuoyant | Analysis - Chess.com
+2024-09-12 18:16:27,201 - INFO - Processing link: https://www.chess.com/live/game/119878238675
+2024-09-12 18:16:34,351 - INFO - Successfully processed link: rudranshgoel1 vs. bobfi_chesshop | Analysis - Chess.com
+2024-09-12 18:25:33,140 - INFO - Processing link: https://www.chess.com/analysis/game/live/119463077792?tab=analysis
+2024-09-12 18:25:40,435 - INFO - Successfully processed link: arunodaysinghk vs. Anbuoyant | Analysis - Chess.com
+2024-09-12 18:35:54,367 - INFO - Processing link: https://www.chess.com/game/live/119879466769
+2024-09-12 18:36:03,267 - INFO - Successfully processed link: plmoknijb000 vs. Raumschiff_Orion | Analysis - Chess.com
+2024-09-12 18:37:08,044 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-12 18:37:38,001 - INFO - Processing link: Xem ván c\u1edd #: ThucDarkNo1 vs flolefaux - https://www.chess.com/live/game/119463207786
+2024-09-12 18:37:42,869 - ERROR - Error in run function for link Xem ván c\u1edd #: ThucDarkNo1 vs flolefaux - https://www.chess.com/live/game/119463207786: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-12 18:37:42,870 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-12 18:37:45,333 - INFO - Successfully processed link: ThucDarkNo1 vs. flolefaux | Analysis - Chess.com
+2024-09-12 18:39:44,663 - INFO - Processing link: https://www.chess.com/analysis/game/live/119878780015?tab=analysis
+2024-09-12 18:39:51,433 - INFO - Successfully processed link: charlieinyomama vs. Agadmarino | Analysis - Chess.com
+2024-09-12 18:41:51,431 - INFO - Processing link: https://www.chess.com/game/live/119864393045
+2024-09-12 18:41:58,647 - INFO - Successfully processed link: plmoknijb000 vs. T98rex | Analysis - Chess.com
+2024-09-12 18:42:42,438 - INFO - Processing link: https://www.chess.com/game/live/119863786333
+2024-09-12 18:42:48,653 - INFO - Processing link: https://www.chess.com/game/live/119863238889
+2024-09-12 18:42:50,811 - INFO - Successfully processed link: juiashay vs. plmoknijb000 | Analysis - Chess.com
+2024-09-12 18:42:56,109 - INFO - Processing link: https://www.chess.com/game/live/119863204019
+2024-09-12 18:42:57,529 - INFO - Successfully processed link: plmoknijb000 vs. Dunahw | Analysis - Chess.com
+2024-09-12 18:43:03,830 - INFO - Successfully processed link: gabz29 vs. plmoknijb000 | Analysis - Chess.com
+2024-09-12 18:52:00,506 - INFO - Processing link: https://www.chess.com/game/live/119880630253
+2024-09-12 18:52:09,327 - INFO - Successfully processed link: jowardsatulombon vs. plmoknijb000 | Analysis - Chess.com
+2024-09-12 18:55:59,232 - INFO - Processing link: Check out this #chess game: bardiya-sahranavard226 vs ABHISHEK-261 - https://www.chess.com/live/game/119463487284
+2024-09-12 18:56:07,920 - INFO - Successfully processed link: bardiya-sahranavard226 vs. ABHISHEK-261 | Analysis - Chess.com
+2024-09-12 18:58:28,761 - INFO - Processing link: Xem ván c\u1edd #: cosmicaaky vs ThucDarkNo1 - https://www.chess.com/live/game/119463513408
+2024-09-12 18:58:36,808 - INFO - Successfully processed link: cosmicaaky vs. ThucDarkNo1 | Analysis - Chess.com
+2024-09-12 19:05:39,203 - INFO - Processing link: https://www.chess.com/game/live/119881777325
+2024-09-12 19:05:47,141 - INFO - Successfully processed link: plmoknijb000 vs. misterno4 | Analysis - Chess.com
+2024-09-12 19:14:20,919 - INFO - Processing link: https://www.chess.com/game/live/119463689052
+2024-09-12 19:14:28,628 - INFO - Successfully processed link: Maldinho vs. GamalielMaster | Analysis - Chess.com
+2024-09-12 19:16:21,325 - INFO - Processing link: Xem ván c\u1edd #: ThucDarkNo1 vs noviokli - https://www.chess.com/live/game/119463773024
+2024-09-12 19:16:30,027 - INFO - Successfully processed link: ThucDarkNo1 vs. noviokli | Analysis - Chess.com
+2024-09-12 19:20:25,084 - INFO - Processing link: https://www.chess.com/analysis/game/live/119881780181?tab=analysis
+2024-09-12 19:20:33,934 - INFO - Successfully processed link: kasparito273 vs. vermilion21 | Analysis - Chess.com
+2024-09-12 19:30:58,588 - INFO - Processing link: https://www.chess.com/live/game/119463832908
+2024-09-12 19:31:06,845 - INFO - Successfully processed link: angelnegrisius vs. aserelgendy1 | Analysis - Chess.com
+2024-09-12 19:40:29,190 - INFO - Processing link: github
