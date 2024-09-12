@@ -2157,3 +2157,38 @@ waiting for locator("button:has-text(\"Review\")")
 2024-09-13 00:05:34,338 - INFO - Processing link: https://www.chess.com/analysis/game/live/119898615111?tab=analysis
 2024-09-13 00:05:42,498 - INFO - Successfully processed link: chirkhuth vs. avonick | Analysis - Chess.com
 2024-09-13 00:07:36,718 - INFO - Processing link: github
+2024-09-13 00:07:56,050 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-13 00:08:09,734 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-13 00:08:46,109 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-13 00:08:58,598 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-13 00:09:47,619 - INFO - Processing link: https://www.chess.com/analysis/game/live/119899216117
+2024-09-13 00:09:56,677 - INFO - Successfully processed link: amator9538 vs. pranatpalsingh | Analysis - Chess.com
+2024-09-13 00:10:00,623 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-13 00:10:09,341 - INFO - Processing link: https://www.chess.com/live/game/119469022870
+2024-09-13 00:10:16,853 - INFO - Successfully processed link: ali_herr vs. a9shad | Analysis - Chess.com
+2024-09-13 00:10:24,507 - INFO - Processing link: https://www.chess.com/analysis/game/live/119468932468?tab=analysis
+2024-09-13 00:10:32,546 - INFO - Successfully processed link: pradyumpal vs. luispatasdelana | Analysis - Chess.com
+2024-09-13 00:10:35,413 - ERROR - Error in run function for link 1.e4 e5 2.e1 e6: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-13 00:10:35,414 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-13 00:11:33,529 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-13 00:12:07,931 - ERROR - Error in run function for link 1.e4 e5 2.h3 h7: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-13 00:12:07,932 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-13 00:13:16,745 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-13 00:13:31,276 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-13 00:14:38,253 - INFO - Processing link: https://www.chess.com/analysis/game/live/119469165294?tab=analysis
+2024-09-13 00:14:46,646 - INFO - Successfully processed link: ronyraiter vs. chirkhuth | Analysis - Chess.com
+2024-09-13 00:17:11,586 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-13 00:17:23,528 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-13 00:19:42,273 - INFO - Processing link: https://www.chess.com/analysis/game/live/119899216117?tab=analysis
+2024-09-13 00:19:49,073 - INFO - Successfully processed link: amator9538 vs. pranatpalsingh | Analysis - Chess.com
+2024-09-13 00:37:15,546 - INFO - Processing link: https://www.chess.com/analysis/game/live/119469306138?tab=analysis
+2024-09-13 00:37:23,642 - INFO - Successfully processed link: sare_12 vs. chirkhuth | Analysis - Chess.com
+2024-09-13 00:40:23,090 - INFO - Processing link: https://www.chess.com/analysis/game/live/119469725422?tab=analysis
+2024-09-13 00:40:30,537 - INFO - Successfully processed link: chirkhuth vs. LukaMorovich | Analysis - Chess.com
+2024-09-13 01:03:58,388 - INFO - Processing link: github
