@@ -730,3 +730,70 @@ waiting for locator("button:has-text(\"Review\")")
 2024-09-14 05:49:49,508 - INFO - Processing link: https://www.chess.com/analysis/game/live/120006572237?tab=analysis
 2024-09-14 05:49:56,870 - INFO - Successfully processed link: Ahmed_Elzoghbe vs. babangyan | Analysis - Chess.com
 2024-09-14 05:58:10,368 - INFO - Processing link: github
+2024-09-14 06:08:28,257 - INFO - Processing link: https://www.chess.com/analysis/game/live/120007174835?tab=analysis
+2024-09-14 06:08:36,558 - INFO - Successfully processed link: EverestRaisa vs. Ahmed_Elzoghbe | Analysis - Chess.com
+2024-09-14 06:14:02,826 - INFO - Processing link: Observa esta partida de #chess: DonBerner vs XR69 - https://www.chess.com/live/game/119493857592
+2024-09-14 06:14:10,968 - INFO - Successfully processed link: DonBerner vs. XR69 | Analysis - Chess.com
+2024-09-14 06:39:32,813 - INFO - Processing link: Check out this #chess game: Nyzm05 vs GianLucas20202 - https://www.chess.com/live/game/119494099616
+2024-09-14 06:39:40,141 - INFO - Successfully processed link: Nyzm05 vs. GianLucas20202 | Analysis - Chess.com
+2024-09-14 06:39:54,176 - INFO - Processing link: https://www.chess.com/game/live/120008984081
+2024-09-14 06:40:02,369 - INFO - Successfully processed link: Ahmed_Elzoghbe vs. TemurMakhmarazhapov | Analysis - Chess.com
+2024-09-14 06:40:43,576 - INFO - Processing link: Check out this #chess game: MunyaTheGoat vs Nyzm05 - https://www.chess.com/live/game/119493882490
+2024-09-14 06:40:50,863 - INFO - Successfully processed link: MunyaTheGoat vs. Nyzm05 | Analysis - Chess.com
+2024-09-14 06:42:25,487 - INFO - Processing link: Check out this #chess game: Nyzm05 vs Vis_ram - https://www.chess.com/live/game/119493829788
+2024-09-14 06:42:33,115 - INFO - Successfully processed link: Nyzm05 vs. Vis_ram | Analysis - Chess.com
+2024-09-14 06:43:34,146 - INFO - Processing link: Check out this #chess game: YairG91 vs Nyzm05 - https://www.chess.com/live/game/119491223976
+2024-09-14 06:43:41,564 - INFO - Successfully processed link: YairG91 vs. Nyzm05 | Analysis - Chess.com
+2024-09-14 06:45:02,519 - INFO - Processing link: Check out this #chess game: Nyzm05 vs Allpha11 - https://www.chess.com/live/game/119490669428
+2024-09-14 06:45:14,806 - INFO - Successfully processed link: Nyzm05 vs. Allpha11 | Analysis - Chess.com
+2024-09-14 07:00:29,629 - INFO - Processing link: https://www.chess.com/game/live/119494280204
+2024-09-14 07:00:36,800 - INFO - Successfully processed link: alyssonrocha vs. GamalielMaster | Analysis - Chess.com
+2024-09-14 07:30:47,969 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-14 07:31:22,784 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/120012030529?tab=analysis: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-14 07:31:22,784 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-14 07:45:20,870 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-14 07:45:32,849 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-14 07:55:51,169 - INFO - Processing link: Xem ván c\u1edd #: ozielhora vs Toi_Va_Cu_Hanh - https://www.chess.com/live/game/120013190253
+2024-09-14 07:56:00,212 - INFO - Successfully processed link: ozielhora vs. Toi_Va_Cu_Hanh | Analysis - Chess.com
+2024-09-14 08:02:11,688 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-14 08:02:46,226 - ERROR - Error in run function for link https://www.chess.com/game/live/119866800479?username=lobsterhammer: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-14 08:02:46,226 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-14 08:03:01,177 - INFO - Processing link: https://www.chess.com/game/live/119866800479?username=lobsterhammer
+2024-09-14 08:03:08,637 - INFO - Successfully processed link: LobsterHammer vs. LoseNerd | Analysis - Chess.com
+2024-09-14 08:08:20,331 - INFO - Processing link: Ayo lihat permainan #chess ini: itsmystyle melawan Afdhal354 -https://www.chess.com/live/game/120014414349
+2024-09-14 08:08:29,014 - INFO - Successfully processed link: itsmystyle vs. Afdhal354 | Analysis - Chess.com
+2024-09-14 08:22:55,508 - INFO - Processing link: Xem ván c\u1edd #: Toi_Va_Cu_Hanh vs qoenzyww - https://www.chess.com/live/game/120015008751
+2024-09-14 08:23:04,393 - INFO - Successfully processed link: Toi_Va_Cu_Hanh vs. qoenzyww | Analysis - Chess.com
+2024-09-14 08:40:12,053 - INFO - Processing link: Xem ván c\u1edd #: danesh110 vs Toi_Va_Cu_Hanh - https://www.chess.com/live/game/119975437931
+2024-09-14 08:40:20,648 - INFO - Successfully processed link: danesh110 vs. Toi_Va_Cu_Hanh | Analysis - Chess.com
+2024-09-14 08:41:47,436 - INFO - Processing link: https://www.chess.com/game/live/119495243438
+2024-09-14 08:41:54,956 - INFO - Successfully processed link: uest1234567890 vs. GamalielMaster | Analysis - Chess.com
+2024-09-14 08:43:21,931 - INFO - Processing link: https://www.chess.com/live/119495258318
+2024-09-14 08:43:29,918 - INFO - Successfully processed link: memanpls1 vs. welly2135 | Analysis - Chess.com
+2024-09-14 08:50:52,600 - INFO - Processing link: https://www.chess.com/game/live/120017404495
+2024-09-14 08:50:59,938 - INFO - Successfully processed link: DexterX1965 vs. memanpls1 | Analysis - Chess.com
+2024-09-14 09:03:58,784 - INFO - Processing link: https://www.chess.com/game/live/119495447546
+2024-09-14 09:04:06,311 - INFO - Successfully processed link: oleander1901 vs. memanpls1 | Analysis - Chess.com
+2024-09-14 09:18:05,007 - INFO - Processing link: https://www.chess.com/game/live/120018604065
+2024-09-14 09:18:12,900 - INFO - Successfully processed link: mtlhabfan vs. memanpls1 | Analysis - Chess.com
+2024-09-14 09:28:56,484 - INFO - Processing link: https://www.chess.com/live/game/120019221089
+2024-09-14 09:29:03,548 - INFO - Successfully processed link: aserelgendy1 vs. kmanpro1 | Analysis - Chess.com
+2024-09-14 09:33:31,939 - INFO - Processing link: https://www.chess.com/game/computer/157206315
+2024-09-14 09:33:40,801 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-14 09:55:16,861 - INFO - Processing link: https://www.chess.com/game/live/119495817070
+2024-09-14 09:55:24,782 - INFO - Successfully processed link: GamalielMaster vs. don_limano | Analysis - Chess.com
+2024-09-14 10:10:01,906 - INFO - Processing link: https://www.chess.com/game/live/119496008600
+2024-09-14 10:10:09,924 - INFO - Successfully processed link: arifmolanimolani vs. GamalielMaster | Analysis - Chess.com
+2024-09-14 10:19:48,788 - INFO - Processing link: Observa esta partida de #chess: XR69 vs jrsj_carioca - https://www.chess.com/live/game/119496023014
+2024-09-14 10:19:57,382 - INFO - Successfully processed link: XR69 vs. jrsj_carioca | Analysis - Chess.com
+2024-09-14 10:24:47,984 - INFO - Processing link: https://www.chess.com/game/live/119496148346
+2024-09-14 10:24:55,472 - INFO - Successfully processed link: JinGoYuo vs. GamalielMaster | Analysis - Chess.com
+2024-09-14 10:27:31,061 - INFO - Processing link: sdsdsd https://www.chess.com/analysis/game/live/119480179090?tab=analysis sdsds
+2024-09-14 10:27:38,687 - INFO - Successfully processed link: Lunahuelva vs. ajay_kamaal | Analysis - Chess.com
+2024-09-14 10:39:15,670 - INFO - Processing link: github
