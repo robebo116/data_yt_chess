@@ -3396,3 +3396,35 @@ navigating to "[Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-09-15\
 2024-09-16 00:42:56,106 - INFO - Processing link: PGN PGN PGN PGN
 2024-09-16 00:43:09,029 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
 2024-09-16 00:52:18,612 - INFO - Processing link: github
+2024-09-16 00:52:31,350 - INFO - Processing link: https://www.chess.com/game/live/120159682155
+2024-09-16 00:52:40,030 - INFO - Successfully processed link: ehabess vs. Praveen_Zeus | Analysis - Chess.com
+2024-09-16 00:53:48,744 - INFO - Processing link: https://www.chess.com/analysis/game/live/120161457249
+2024-09-16 00:53:56,234 - INFO - Successfully processed link: secret-gambeet vs. bayoisback | Analysis - Chess.com
+2024-09-16 00:54:07,154 - INFO - Processing link: https://www.chess.com/game/live/120161411027
+2024-09-16 00:54:14,854 - INFO - Successfully processed link: guimezza vs. manias | Analysis - Chess.com
+2024-09-16 00:55:13,239 - INFO - Processing link: https://www.chess.com/analysis/game/live/120160784837
+2024-09-16 00:55:21,998 - INFO - Successfully processed link: bayoisback vs. secret-gambeet | Analysis - Chess.com
+2024-09-16 00:55:41,459 - INFO - Processing link: https://www.chess.com/analysis/game/live/119526471710?tab=analysis
+2024-09-16 00:55:49,484 - INFO - Successfully processed link: Samarth27012002 vs. arijitsarkar1234567 | Analysis - Chess.com
+2024-09-16 01:00:22,884 - INFO - Processing link: https://www.chess.com/game/live/120161449091
+2024-09-16 01:00:56,950 - WARNING - Error processing link https://www.chess.com/analysis/game/live/120161449091?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-16 01:00:56,960 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/120161449091?tab=review
+2024-09-16 01:03:17,604 - INFO - Processing link: https://www.chess.com/game/live/120161433185
+2024-09-16 01:03:25,299 - INFO - Successfully processed link: zulibr vs. Kolasani_vishnu | Analysis - Chess.com
+2024-09-16 01:05:49,697 - INFO - Processing link: https://www.chess.com/analysis/game/live/120161997021
+2024-09-16 01:05:57,155 - INFO - Successfully processed link: bayoisback vs. secret-gambeet | Analysis - Chess.com
+2024-09-16 01:07:22,823 - INFO - Processing link: https://www.chess.com/analysis/game/live/120161997021
+2024-09-16 01:07:31,584 - INFO - Successfully processed link: bayoisback vs. secret-gambeet | Analysis - Chess.com
+2024-09-16 01:07:49,630 - INFO - Processing link: https://www.chess.com/game/live/119525033062
+2024-09-16 01:07:57,595 - INFO - Successfully processed link: BentPot vs. MohamadEidAlaktaa | Analysis - Chess.com
+2024-09-16 01:08:12,772 - INFO - Processing link: Github
+2024-09-16 01:08:13,451 - ERROR - Error in run function for link Github: Page.goto: Protocol error (Playwright.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "Github", waiting until "load"
+
+2024-09-16 01:08:28,024 - INFO - Processing link: https://www.chess.com/analysis/game/live/119526780138?tab=analysis
+2024-09-16 01:08:34,085 - INFO - Processing link: github
+2024-09-16 01:08:35,160 - INFO - Successfully processed link: VivekanandJena vs. abdulazizhodZIC | Analysis - Chess.com
