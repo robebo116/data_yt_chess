@@ -2274,3 +2274,8 @@ waiting for locator("button:has-text(\"Review\")")
 
 2024-09-15 07:12:10,752 - ERROR - Error PGN: expected string or bytes-like object
 2024-09-15 07:16:18,487 - INFO - Processing link: github
+2024-09-15 07:18:12,194 - INFO - Processing link: https://www.chess.com/game/live/120097807201
+2024-09-15 07:18:19,674 - INFO - Successfully processed link: TheFirstCell-1 vs. Frischer111 | Analysis - Chess.com
+2024-09-15 07:19:42,069 - INFO - Processing link: https://www.chess.com/analysis/game/live/119512937570?tab=analysis
+2024-09-15 07:19:49,467 - INFO - Successfully processed link: mobinemoon vs. beusoq | Analysis - Chess.com
+2024-09-15 07:22:18,850 - INFO - Processing link: github
