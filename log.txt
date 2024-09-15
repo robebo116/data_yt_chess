@@ -3436,3 +3436,33 @@ navigating to "Github", waiting until "load"
 2024-09-16 01:12:26,568 - INFO - Processing link: https://www.chess.com/game/live/120162620649
 2024-09-16 01:12:34,240 - INFO - Successfully processed link: HikaruTND vs. TybouToonKappedien | Analysis - Chess.com
 2024-09-16 01:13:42,306 - INFO - Processing link: github
+2024-09-16 01:16:08,879 - INFO - Processing link: https://www.chess.com/analysis/game/live/119526836676?tab=analysis
+2024-09-16 01:16:16,885 - INFO - Successfully processed link: ya7ya44444 vs. Cavalloametano | Analysis - Chess.com
+2024-09-16 01:17:02,894 - INFO - Processing link: https://www.chess.com/analysis/game/live/120162637727
+2024-09-16 01:17:10,664 - INFO - Successfully processed link: secret-gambeet vs. bayoisback | Analysis - Chess.com
+2024-09-16 01:17:57,910 - INFO - Processing link: https://www.chess.com/game/live/120161474979
+2024-09-16 01:18:05,821 - INFO - Successfully processed link: rafah30 vs. flo000000000000 | Analysis - Chess.com
+2024-09-16 01:18:53,135 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-16 01:19:27,952 - WARNING - Error processing link [Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+*: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-16 01:19:27,992 - WARNING - Login element not found for link: [Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+*
+2024-09-16 01:19:28,053 - ERROR - Error PGN: expected string or bytes-like object
+2024-09-16 01:22:01,971 - INFO - Processing link: github
