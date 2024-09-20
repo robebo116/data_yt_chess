@@ -761,3 +761,56 @@ waiting for locator("button:has-text(\"Review\")")
 2024-09-20 10:01:30,972 - INFO - Processing link: Check out this #chess game: BeaverBoy42069 vs Pavanjadhav05 - https://www.chess.com/live/game/119610123474
 2024-09-20 10:01:38,419 - INFO - Successfully processed link: BeaverBoy42069 vs. Pavanjadhav05 | Analysis - Chess.com
 2024-09-20 10:01:54,858 - INFO - Processing link: github
+2024-09-20 10:03:54,916 - INFO - Processing link: Observa esta partida de #chess: XR69 vs Wildy_29 - https://www.chess.com/live/game/119610145992
+2024-09-20 10:04:01,604 - INFO - Successfully processed link: XR69 vs. Wildy_29 | Analysis - Chess.com
+2024-09-20 10:05:37,816 - INFO - Processing link: https://www.chess.com/analysis/game/live/119610112568?tab=analysis
+2024-09-20 10:05:46,524 - INFO - Successfully processed link: KnightVision_69 vs. ANTUMONDOLBD | Analysis - Chess.com
+2024-09-20 10:07:02,551 - INFO - Processing link: https://www.chess.com/analysis/game/live/120540578087?tab=analysis
+2024-09-20 10:07:10,895 - INFO - Successfully processed link: APetrovci vs. Bobby_Fischer-Jr | Analysis - Chess.com
+2024-09-20 10:14:50,954 - INFO - Processing link: https://www.chess.com/analysis/game/live/119610202232?tab=analysis
+2024-09-20 10:14:58,515 - INFO - Successfully processed link: GGMouten vs. KnightVision_69 | Analysis - Chess.com
+2024-09-20 10:17:13,322 - INFO - Processing link: Check out this #chess game: SrihithRaj0001 vs iosmarv - https://www.chess.com/live/game/120540623669
+2024-09-20 10:17:21,430 - INFO - Successfully processed link: SrihithRaj0001 vs. iosmarv | Analysis - Chess.com
+2024-09-20 10:29:01,688 - INFO - Processing link: Check out this #chess game: Erbarmenbarmherzigkeit1 vs Pavanjadhav05 - https://www.chess.com/live/game/119610322018
+2024-09-20 10:29:09,732 - INFO - Successfully processed link: Erbarmenbarmherzigkeit1 vs. Pavanjadhav05 | Analysis - Chess.com
+2024-09-20 10:40:34,172 - INFO - Processing link: Observa esta partida de #chess: Yvan9958 vs XR69 - https://www.chess.com/live/game/119610444622
+2024-09-20 10:40:41,941 - INFO - Successfully processed link: Yvan9958 vs. XR69 | Analysis - Chess.com
+2024-09-20 10:42:23,420 - INFO - Processing link: https://www.chess.com/analysis/game/live/120541818387?tab=analysis
+2024-09-20 10:42:31,904 - INFO - Successfully processed link: skinz201 vs. ndmanh1209 | Analysis - Chess.com
+2024-09-20 10:46:03,877 - INFO - Processing link: https://www.chess.com/analysis/game/live/119610521296?tab=analysis
+2024-09-20 10:46:11,449 - INFO - Successfully processed link: Frassyaab vs. KnightVision_69 | Analysis - Chess.com
+2024-09-20 10:48:11,163 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-20 10:48:25,368 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-20 10:50:23,981 - INFO - Processing link: https://www.chess.com/analysis/game/live/120543021123?tab=analysis
+2024-09-20 10:50:31,376 - INFO - Successfully processed link: TristoneChess vs. banenkosindiweni | Analysis - Chess.com
+2024-09-20 11:03:14,687 - INFO - Processing link: https://www.chess.com/analysis/game/live/120543002301
+2024-09-20 11:03:25,028 - INFO - Successfully processed link: SinCityLegend0025 vs. secret-gambeet | Analysis - Chess.com
+2024-09-20 11:07:30,581 - INFO - Processing link: https://www.chess.com/analysis/game/live/119610735116?tab=analysis
+2024-09-20 11:07:38,275 - INFO - Successfully processed link: brunosantos4539 vs. Sankalpa015 | Analysis - Chess.com
+2024-09-20 11:19:42,655 - INFO - Processing link: https://www.chess.com/game/live/119610857616
+2024-09-20 11:20:05,657 - INFO - Processing link: https://www.chess.com/analysis/game/live/120544794479?tab=analysis
+2024-09-20 11:20:13,437 - INFO - Successfully processed link: anishlukkireddy2001 vs. Halfofwatermelon | Analysis - Chess.com
+2024-09-20 11:20:15,052 - INFO - Processing link: https://www.chess.com/live/119610857616
+2024-09-20 11:20:16,966 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119610857616?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-20 11:20:16,974 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119610857616?tab=review
+2024-09-20 11:20:49,479 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119610857616?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-20 11:20:49,489 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119610857616?tab=review
+2024-09-20 11:21:32,174 - INFO - Processing link: https://www.chess.com/analysis/game/live/120544196987
+2024-09-20 11:21:41,294 - INFO - Successfully processed link: secret-gambeet vs. AlHoly | Analysis - Chess.com
+2024-09-20 11:24:27,956 - INFO - Processing link: https://www.chess.com/game/computer/159440925
+2024-09-20 11:24:35,641 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-09-20 11:25:42,489 - INFO - Processing link: chess.com/analysis/game/live/119610839832?tab=analysis
+2024-09-20 11:25:50,591 - INFO - Successfully processed link: faisaljabar vs. BaoLong0104 | Analysis - Chess.com
+2024-09-20 11:27:10,946 - INFO - Processing link: Check out this #chess game: muurraasss vs RobinRCB - https://www.chess.com/live/game/119610937252
+2024-09-20 11:27:14,286 - INFO - Processing link: https://www.chess.com/live/game/119610922058
+2024-09-20 11:27:18,073 - INFO - Successfully processed link: muurraasss vs. RobinRCB | Analysis - Chess.com
+2024-09-20 11:27:22,581 - INFO - Successfully processed link: J_Srinivas vs. Law007l | Analysis - Chess.com
+2024-09-20 11:27:23,009 - INFO - Processing link: https://www.chess.com/analysis/game/live/120545373865?tab=analysis
+2024-09-20 11:27:32,365 - INFO - Successfully processed link: Halfofwatermelon vs. ciprutwin | Analysis - Chess.com
+2024-09-20 11:30:03,623 - INFO - Processing link: github
