@@ -304,3 +304,11 @@ certainly earned it.} 1-0
 2024-09-25 22:14:47,273 - INFO - Processing link: github
 2024-09-25 22:15:32,793 - INFO - Processing link: https://www.chess.com/analysis/game/live/119716574804?tab=analysis
 2024-09-25 22:15:57,351 - INFO - Processing link: github
+2024-09-25 22:16:04,800 - INFO - Processing link: https://www.chess.com/analysis/game/live/119716574804?tab=analysis
+2024-09-25 22:16:05,470 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119716574804?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-25 22:16:05,488 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119716574804?tab=review
+2024-09-25 22:16:11,775 - INFO - Successfully processed link: kamcios1984 vs. BaoLong0104 | Analysis - Chess.com
+2024-09-25 22:16:25,355 - INFO - Processing link: github
