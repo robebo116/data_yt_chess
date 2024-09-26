@@ -1869,3 +1869,106 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-27 01:09:57,510 - INFO - Processing link: https://www.chess.com/game/live/121112431731
 2024-09-27 01:10:04,850 - INFO - Successfully processed link: Jesuschavez421 vs. nxtexploit0 | Analysis - Chess.com
 2024-09-27 01:10:24,113 - INFO - Processing link: github
+2024-09-27 01:12:46,104 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-27 01:13:39,084 - WARNING - Error processing link [Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.09.26"]
+[Round "-"]
+[White "kienpham1211"]
+[Black "amanpanuli"]
+[Result "0-1"]
+[CurrentPosition "1k6/1n6/1p4np/8/8/7r/5r2/3K4 w - -"]
+[Timezone "UTC"]
+[ECO "D02"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation-2...Bf5"]
+[UTCDate "2024.09.26"]
+[UTCTime "17:27:16"]
+[WhiteElo "529"]
+[BlackElo "571"]
+[TimeControl "600"]
+[Termination "amanpanuli won by resignation"]
+[StartTime "17:27:16"]
+[EndDate "2024.09.26"]
+[EndTime "17:37:16"]
+[Link "https://www.chess.com/analysis/game/live/119738953162?tab=analysis&move=27"]
+[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/252653153.eb63da16.50x50o.32abd9c4cf99.jpg"]
+[WhiteCountry "149"]
+[WhiteTitle ""]
+[BlackUrl "https://images.chesscomfiles.com/uploads/v1/user/345305017.c689e848.50x50o.0b6b4c46c298.png"]
+[BlackCountry "69"]
+[BlackTitle ""]
+
+1. d4 d5 2. Nf3 Bf5 3. h3 e6 4. g4 Be4 5. h4 $6 Nc6 6. Bg5 Qd6 7. Nc3 $6 Be7 $2 8.
+Nb5 $9 Qb4+ $1 9. Nc3 Bxg5 10. hxg5 f6 $6 11. a3 $6 Qxb2 $1 12. Qb1 $4 Qxc3+ 13. Kd1
+Bxc2+ 14. Qxc2 Qxa1+ $1 15. Qc1 Qxc1+ 16. Kxc1 e5 17. dxe5 fxe5 18. Nxe5 $6 Nxe5
+19. Bh3 O-O-O 20. f4 Nc4 21. f5 d4 22. f6 gxf6 23. gxf6 Nxf6 24. g5+ Nd7 25. Rd1
+Nxa3 26. Rxd4 h6 27. g6 Nb5 28. Ra4 $6 Nc3 29. Rxa7 Kb8 30. Ra3 Nxe2+ 31. Kb1 Nf4
+32. Bf1 Nxg6 33. Bg2 Rhf8 34. Rb3 Nc5 35. Rb5 b6 36. Rxb6+ $6 cxb6 37. Bb7 Rf1+
+38. Kb2 Rd3 39. Kc2 Rf2+ 40. Kc1 Rh3 41. Kd1 Nxb7 0-1: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-27 01:13:39,091 - WARNING - Login element not found for link: [Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.09.26"]
+[Round "-"]
+[White "kienpham1211"]
+[Black "amanpanuli"]
+[Result "0-1"]
+[CurrentPosition "1k6/1n6/1p4np/8/8/7r/5r2/3K4 w - -"]
+[Timezone "UTC"]
+[ECO "D02"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation-2...Bf5"]
+[UTCDate "2024.09.26"]
+[UTCTime "17:27:16"]
+[WhiteElo "529"]
+[BlackElo "571"]
+[TimeControl "600"]
+[Termination "amanpanuli won by resignation"]
+[StartTime "17:27:16"]
+[EndDate "2024.09.26"]
+[EndTime "17:37:16"]
+[Link "https://www.chess.com/analysis/game/live/119738953162?tab=analysis&move=27"]
+[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/252653153.eb63da16.50x50o.32abd9c4cf99.jpg"]
+[WhiteCountry "149"]
+[WhiteTitle ""]
+[BlackUrl "https://images.chesscomfiles.com/uploads/v1/user/345305017.c689e848.50x50o.0b6b4c46c298.png"]
+[BlackCountry "69"]
+[BlackTitle ""]
+
+1. d4 d5 2. Nf3 Bf5 3. h3 e6 4. g4 Be4 5. h4 $6 Nc6 6. Bg5 Qd6 7. Nc3 $6 Be7 $2 8.
+Nb5 $9 Qb4+ $1 9. Nc3 Bxg5 10. hxg5 f6 $6 11. a3 $6 Qxb2 $1 12. Qb1 $4 Qxc3+ 13. Kd1
+Bxc2+ 14. Qxc2 Qxa1+ $1 15. Qc1 Qxc1+ 16. Kxc1 e5 17. dxe5 fxe5 18. Nxe5 $6 Nxe5
+19. Bh3 O-O-O 20. f4 Nc4 21. f5 d4 22. f6 gxf6 23. gxf6 Nxf6 24. g5+ Nd7 25. Rd1
+Nxa3 26. Rxd4 h6 27. g6 Nb5 28. Ra4 $6 Nc3 29. Rxa7 Kb8 30. Ra3 Nxe2+ 31. Kb1 Nf4
+32. Bf1 Nxg6 33. Bg2 Rhf8 34. Rb3 Nc5 35. Rb5 b6 36. Rxb6+ $6 cxb6 37. Bb7 Rf1+
+38. Kb2 Rd3 39. Kc2 Rf2+ 40. Kc1 Rh3 41. Kd1 Nxb7 0-1
+2024-09-27 01:14:09,220 - ERROR - Error PGN: 'bool' object is not subscriptable
+2024-09-27 01:14:09,220 - ERROR - Error PGN: 'bool' object is not subscriptable
+2024-09-27 01:14:09,220 - INFO - Successfully processed link: 0
+2024-09-27 01:14:24,957 - INFO - Processing link: https://www.chess.com/game/live/121113074229
+2024-09-27 01:14:58,153 - WARNING - Error processing link https://www.chess.com/analysis/game/live/121113074229?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-27 01:14:58,167 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/121113074229?tab=review
+2024-09-27 01:15:03,013 - INFO - Processing link: https://www.chess.com/analysis/game/live/121113074229?tab=analysis
+2024-09-27 01:15:10,346 - INFO - Successfully processed link: Shaxmat1234567890 vs. amator9538 | Analysis - Chess.com
+2024-09-27 01:15:33,855 - INFO - Processing link: https://www.chess.com/analysis/game/live/121113002583?tab=review
+2024-09-27 01:15:41,105 - INFO - Successfully processed link: mayank_s_ingh vs. BucsFan123 | Analysis - Chess.com
+2024-09-27 01:16:03,352 - INFO - Processing link: https://www.chess.com/game/live/121113007113
+2024-09-27 01:16:28,774 - INFO - Processing link: https://www.chess.com/game/live/121113007113
+2024-09-27 01:16:32,689 - INFO - Successfully processed link: Iwasneverhacking vs. Ostap524 | Analysis - Chess.com
+2024-09-27 01:16:36,103 - INFO - Successfully processed link: Iwasneverhacking vs. Ostap524 | Analysis - Chess.com
+2024-09-27 01:16:57,830 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-27 01:17:45,082 - INFO - Successfully processed link: 12221231
+2024-09-27 01:30:05,929 - INFO - Processing link: https://www.chess.com/analysis/game/live/119721211036?tab=analysis
+2024-09-27 01:30:14,668 - INFO - Successfully processed link: ki1512 vs. drbertov | Analysis - Chess.com
+2024-09-27 01:35:47,677 - INFO - Processing link: https://www.chess.com/game/live/121114202353
+2024-09-27 01:35:54,261 - INFO - Successfully processed link: Stvnarts vs. Iwasneverhacking | Analysis - Chess.com
+2024-09-27 01:36:05,629 - INFO - Processing link: https://www.chess.com/analysis/game/live/119721211036?tab=analysis
+2024-09-27 01:36:12,454 - INFO - Successfully processed link: ki1512 vs. drbertov | Analysis - Chess.com
+2024-09-27 01:37:11,686 - INFO - Processing link: github
+2024-09-27 01:37:26,737 - WARNING - Retrying (GithubRetry(total=9, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001D6C91DB760>, 'Connection to api.github.com timed out. (connect timeout=15)')': /repos/robebo116/data_yt_chess
+2024-09-27 01:37:41,746 - WARNING - Retrying (GithubRetry(total=8, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001D6C9175A00>, 'Connection to api.github.com timed out. (connect timeout=15)')': /repos/robebo116/data_yt_chess
+2024-09-27 01:37:56,747 - WARNING - Retrying (GithubRetry(total=7, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001D6C91CC130>, 'Connection to api.github.com timed out. (connect timeout=15)')': /repos/robebo116/data_yt_chess
