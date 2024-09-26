@@ -1750,3 +1750,6 @@ navigating to "https://www.chess.com/analysis?tab=analysis", waiting until "load
 2024-09-27 00:35:44,370 - ERROR - Error PGN: 'bool' object is not subscriptable
 2024-09-27 00:35:44,370 - ERROR - Error PGN: 'bool' object is not subscriptable
 2024-09-27 00:35:44,370 - INFO - Successfully processed link: 0
+2024-09-27 00:35:46,394 - INFO - Processing link: https://www.chess.com/game/live/119737226304
+2024-09-27 00:35:54,348 - INFO - Successfully logged in and saved cookies for robebo116152
+2024-09-27 00:35:55,877 - INFO - Processing link: github
