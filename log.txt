@@ -2085,3 +2085,76 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-27 05:17:27,442 - INFO - Processing link: PGN PGN PGN PGN
 2024-09-27 05:18:03,072 - INFO - Successfully processed link: 12221757
 2024-09-27 05:18:20,791 - INFO - Processing link: github
+2024-09-27 05:25:13,385 - INFO - Processing link: https://www.chess.com/game/live/121127465385
+2024-09-27 05:25:23,378 - INFO - Successfully processed link: koban11 vs. Angelthad3 | Analysis - Chess.com
+2024-09-27 05:25:48,437 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-27 05:26:35,540 - INFO - Successfully processed link: 12221769
+2024-09-27 05:28:54,046 - INFO - Processing link: Check out this #chess game: FleshyMammal vs muaj3344 - https://www.chess.com/live/game/119743416584
+2024-09-27 05:29:00,764 - INFO - Successfully processed link: FleshyMammal vs. muaj3344 | Analysis - Chess.com
+2024-09-27 05:29:03,231 - INFO - Processing link: https://www.chess.com/analysis/game/live/119739678906?tab=review
+2024-09-27 05:29:10,109 - INFO - Successfully processed link: zhenyadfglvfdrhkohb vs. tharindu12345678 | Analysis - Chess.com
+2024-09-27 05:31:58,368 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-27 05:32:43,879 - INFO - Successfully processed link: 12221789
+2024-09-27 05:35:27,996 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-27 05:36:01,077 - ERROR - Error in run function for link 1. E8 e9: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-27 05:36:01,077 - ERROR - Error PGN: 'bool' object is not subscriptable
+2024-09-27 05:36:01,077 - ERROR - Error PGN: 'bool' object is not subscriptable
+2024-09-27 05:36:01,077 - INFO - Successfully processed link: 0
+2024-09-27 05:36:46,666 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-27 05:37:38,206 - INFO - Successfully processed link: 12221807
+2024-09-27 05:40:34,460 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-27 05:41:19,357 - INFO - Successfully processed link: 12221819
+2024-09-27 05:43:43,200 - INFO - Processing link: https://www.chess.com/analysis/game/live/119739883434?tab=analysis
+2024-09-27 05:43:49,579 - INFO - Successfully processed link: tharindu12345678 vs. ZhafranAlfayis | Analysis - Chess.com
+2024-09-27 05:43:56,783 - INFO - Processing link: https://www.chess.com/analysis/game/live/119739883434?tab=analysis
+2024-09-27 05:44:02,642 - INFO - Successfully processed link: tharindu12345678 vs. ZhafranAlfayis | Analysis - Chess.com
+2024-09-27 05:45:39,310 - INFO - Processing link: https://www.chess.com/live/game/121128614583
+2024-09-27 05:45:48,007 - INFO - Successfully processed link: ltf797 vs. Abobaker58 | Analysis - Chess.com
+2024-09-27 05:48:57,929 - INFO - Processing link: Check out this #chess game: muaj3344 vs neilyoung357 - https://www.chess.com/live/game/121128647103https://www.chess.com/live/game/121129184001
+2024-09-27 05:49:04,138 - INFO - Successfully processed link: muaj3344 vs. neilyoung357 | Analysis - Chess.com
+2024-09-27 05:50:09,653 - INFO - Processing link: https://www.chess.com/live/game/121129184001
+2024-09-27 05:50:16,613 - INFO - Successfully processed link: neilyoung357 vs. muaj3344 | Analysis - Chess.com
+2024-09-27 05:52:03,622 - INFO - Processing link: https://www.chess.com/analysis/game/live/119740014106?tab=analysis
+2024-09-27 05:52:10,421 - INFO - Successfully processed link: CrissThaProd vs. tharindu12345678 | Analysis - Chess.com
+2024-09-27 05:52:17,284 - INFO - Processing link: https://www.chess.com/analysis/game/live/119740014106?tab=analysis
+2024-09-27 05:52:23,109 - INFO - Successfully processed link: CrissThaProd vs. tharindu12345678 | Analysis - Chess.com
+2024-09-27 05:55:08,677 - INFO - Processing link: https://www.chess.com/analysis/game/live/119740044384?tab=review
+2024-09-27 05:55:15,917 - INFO - Successfully processed link: tharindu12345678 vs. Queethan | Analysis - Chess.com
+2024-09-27 05:55:33,429 - INFO - Processing link: https://www.chess.com/analysis/game/live/119740044384?tab=review
+2024-09-27 05:55:39,698 - INFO - Successfully processed link: tharindu12345678 vs. Queethan | Analysis - Chess.com
+2024-09-27 06:09:30,078 - INFO - Processing link: https://www.chess.com/analysis/game/live/119740732820?tab=analysis
+2024-09-27 06:09:39,167 - INFO - Successfully processed link: tharindu12345678 vs. adharsh6969 | Analysis - Chess.com
+2024-09-27 06:12:36,873 - INFO - Processing link: https://www.chess.com/game/live/121130424573
+2024-09-27 06:12:38,507 - INFO - Processing link: https://www.chess.com/analysis/game/live/121124387029?tab=analysis
+2024-09-27 06:12:45,610 - INFO - Successfully processed link: NaeemGoraya vs. cavallinonegro | Analysis - Chess.com
+2024-09-27 06:12:45,783 - INFO - Successfully processed link: guiiiiiiiiiiiii vs. nope23456iehrbdnd | Analysis - Chess.com
+2024-09-27 06:16:23,528 - INFO - Processing link: https://www.chess.com/analysis/game/live/121128636365?tab=analysis
+2024-09-27 06:16:30,498 - INFO - Successfully processed link: Mony_Blade65 vs. nessundorma2 | Analysis - Chess.com
+2024-09-27 06:20:09,385 - INFO - Processing link: https://www.chess.com/analysis/game/live/121127404249?tab=analysis
+2024-09-27 06:20:16,670 - INFO - Successfully processed link: ojalamedepi vs. Mony_Blade65 | Analysis - Chess.com
+2024-09-27 06:23:02,163 - INFO - Processing link: https://www.chess.com/live/game/121131579569
+2024-09-27 06:23:09,701 - INFO - Successfully processed link: FABRICIO-PARAIBA vs. pasku73 | Analysis - Chess.com
+2024-09-27 06:55:50,777 - INFO - Processing link: Observe esta partida de #chess: FABRICIO-PARAIBA vs pasku73 - https://www.chess.com/live/game/121131579569
+2024-09-27 06:55:59,412 - INFO - Successfully processed link: FABRICIO-PARAIBA vs. pasku73 | Analysis - Chess.com
+2024-09-27 06:56:27,127 - INFO - Processing link: https://www.chess.com/live/game/121131579569
+2024-09-27 06:56:32,722 - INFO - Successfully processed link: FABRICIO-PARAIBA vs. pasku73 | Analysis - Chess.com
+2024-09-27 06:56:56,438 - INFO - Processing link: https://www.chess.com/live/game/121133433145
+2024-09-27 06:57:03,107 - INFO - Successfully processed link: FABRICIO-PARAIBA vs. prysss042 | Analysis - Chess.com
+2024-09-27 07:09:49,386 - INFO - Processing link: https://www.chess.com/game/live/119744482130
+2024-09-27 07:10:24,470 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119744482130?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-09-27 07:10:24,498 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119744482130?tab=review
+2024-09-27 07:34:49,555 - INFO - Processing link: https://www.chess.com/analysis/game/live/119744617692?tab=analysis
+2024-09-27 07:34:59,494 - INFO - Successfully processed link: beusoq vs. Geovanicyborg | Analysis - Chess.com
+2024-09-27 07:46:04,133 - INFO - Processing link: https://www.chess.com/game/live/119744816284
+2024-09-27 07:46:07,400 - INFO - Processing link: https://www.chess.com/live/game/121136417613
+2024-09-27 07:46:13,714 - INFO - Successfully processed link: yeotunhsien1 vs. Gav_23 | Analysis - Chess.com
+2024-09-27 07:46:14,329 - INFO - Successfully processed link: FABRICIO-PARAIBA vs. KRESINSK | Analysis - Chess.com
+2024-09-27 07:46:58,865 - INFO - Processing link: https://www.chess.com/live/game/121135207905
+2024-09-27 07:47:06,467 - INFO - Successfully processed link: HBalbuena123 vs. GMNobitaNobi | Analysis - Chess.com
+2024-09-27 07:48:00,098 - INFO - Processing link: github
