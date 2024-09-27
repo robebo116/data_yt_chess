@@ -2177,3 +2177,26 @@ navigating to "https://www.chess.com/analysis/game/computer/162049547?tab=review
 2024-09-27 08:29:05,006 - INFO - Processing link: https://www.chess.com/analysis/game/live/119745177078?tab=analysis&move=22
 2024-09-27 08:29:12,100 - INFO - Successfully processed link: yeotunhsien1 vs. JosePalmaa | Analysis - Chess.com
 2024-09-27 08:29:24,529 - INFO - Processing link: github
+2024-09-27 08:30:11,817 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-27 08:30:45,805 - ERROR - Error in run function for link sdsd: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-27 08:30:45,805 - ERROR - Error PGN: 'bool' object is not subscriptable
+2024-09-27 08:30:45,805 - ERROR - Error PGN: 'bool' object is not subscriptable
+2024-09-27 08:30:45,805 - INFO - Successfully processed link: 0
+2024-09-27 08:32:43,586 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-27 08:33:22,206 - INFO - Successfully processed link: 12222159
+2024-09-27 08:33:48,630 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-27 08:34:21,938 - ERROR - Error in run function for link fgfgf: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-27 08:34:21,948 - ERROR - Error PGN: 'bool' object is not subscriptable
+2024-09-27 08:34:21,948 - ERROR - Error PGN: 'bool' object is not subscriptable
+2024-09-27 08:34:21,948 - INFO - Successfully processed link: 0
+2024-09-27 08:37:47,685 - INFO - Processing link: Check out this #chess game: Nyzm05 vs SigniorEric01 - https://www.chess.com/live/game/119745294972
+2024-09-27 08:37:56,258 - INFO - Successfully processed link: Nyzm05 vs. SigniorEric01 | Analysis - Chess.com
+2024-09-27 08:40:15,069 - INFO - Processing link: https://www.chess.com/analysis/game/live/119745178652?tab=analysis
+2024-09-27 08:40:23,859 - INFO - Successfully processed link: mrsmiggens vs. juniorkarribaa | Analysis - Chess.com
+2024-09-27 08:51:23,956 - INFO - Processing link: github
