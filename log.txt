@@ -607,3 +607,154 @@ navigating to "[Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-09-30\
 2024-09-30 19:29:00,382 - INFO - Processing link: https://www.chess.com/live/game/121437654225
 2024-09-30 19:29:07,213 - INFO - Successfully processed link: Ben_zen_bcn vs. sidjain2108 | Analysis - Chess.com
 2024-09-30 19:29:32,336 - INFO - Processing link: github
+2024-09-30 19:35:08,242 - INFO - Processing link: https://www.chess.com/game/live/119809284820
+2024-09-30 19:35:14,675 - INFO - Successfully processed link: blackboiii16 vs. Winawangz | Analysis - Chess.com
+2024-09-30 19:35:50,113 - INFO - Processing link: https://www.chess.com/game/live/121437643743
+2024-09-30 19:35:56,327 - INFO - Successfully processed link: Giantoknight vs. graduateabsorption | Analysis - Chess.com
+2024-09-30 19:36:53,863 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-30 19:37:26,474 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/119809334504?tab=analysis: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-30 19:40:53,151 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-30 19:41:22,645 - INFO - Processing link: https://www.chess.com/live/game/121438789213
+2024-09-30 19:41:29,582 - INFO - Successfully processed link: sidjain2108 vs. SergeiPlisikov | Analysis - Chess.com
+2024-09-30 19:41:56,264 - INFO - Processing link: https://www.chess.com/live/game/121438233957
+2024-09-30 19:42:02,532 - INFO - Successfully processed link: ltf797 vs. Birkirj | Analysis - Chess.com
+2024-09-30 19:44:14,998 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-30 19:45:08,596 - WARNING - Error processing link 1. e4 {e4 immediately controls the d5 and f5 squares.} 1... e5 2. Nf3 {Move 2
+and my center is already under attack $1} 2... Nc6 3. Bc4 {You seem ready to do
+battle in the Italian Game.} 3... Bc5 4. c3 Nf6 5. d3 {I attack... you defend. 
+Good.} 5... d6 6. O-O {A safe king is a happy king $1} 6... Bb6 7. Re1 {What made
+you first start playing chess $2 My friend David taught me a long time ago.} 7...
+O-O {Now everyone is safe and secure, for the moment.} 8. a4 {Thanks for playing
+with me, it\\\'s always fun to play chess with a friend.} 8... Bxf2+ {This next
+move should be automatic.} 9. Kxf2 {You got it. You can take that, but I\\\'ll be
+back.} 9... Qd7 {Let\\\'s develop my queen.} 10. h4 {I\\\'m so happy to be playing
+chess with you.} 10... Ng4+ {Your king seeks a safer square.} 11. Kg3 {I love
+it $1 Your king moves out of the line of fire.} 11... Nh6 12. d4 {Smart move $1
+Attacking the base of the pawn chain.} 12... Nf5+ {It must be your birthday with
+all these presents I am giving you $1} 13. exf5 {You capture the annoying knight.
+Good stuff.} 13... Qxf5 {Recapturing.} 14. Nbd2 {You\\\'re a lot stronger than I
+thought you were.} 14... Qf4+ {Kings can move one square at a time. Please
+demonstrate.} 15. Kf2 {Exactly. Sometimes you have to move your king - and this
+is one of those times.} 15... a6 16. g3 {You do a good job of attacking and
+creating threats.} 16... Qf5 {Moving my queen to a safer square $1} 17. g4 {Your
+pawn is quite annoying. That\\\'s a smart move.} 17... g6 {Finally, I can breathe $1}
+18. gxf5 {Unpinning your knight.} 18... Bxf5 {And of course I take back $1} 19.
+dxe5 {You\\\'ve got an isolated pawn now. It might become a target later.} 19...
+Kh8 20. b4 dxe5 {I\\\'m hoping my new passed pawn will become a queen one day.} 21.
+Nxe5 Nxe5 {You take. I take...} 22. Nf3 {It looks like you\\\'re offering a
+trade... Let\\\'s see...} 22... Ng4+ {I\\\'ve thought about your trade offer and I\\\'m
+afraid I\\\'ll have to decline. It would only help you.} 23. Kg3 {Sometimes you
+have to move your king - and this is one of those times.} 23... Nf6 24. Nd4 {You
+have a strong advantage. Keep pressing $1} 24... Nh5+ {Check.} 25. Kf2 {You move
+your king to safety, as you must.} 25... Rae8 {I can\\\'t let your rook have that
+file to itself.} 26. Be3 {Have you had that piece the whole time $2} 26... Be4 27.
+Ke2 Bd5 {The dominoes are falling, you gave away more material in a losing
+position.} 28. Bxd5 {Bishops are meant for long diagonals. I like your move.}
+28... Kg8 29. Bxb7 {That is one scary bishop.} 29... Nf4+ {Get going, king.} 30.
+Kf3 {Your king moves out of the line of fire.} 30... Rxe3+ {Smack $1} 31. Kxe3
+{Taking the attacker. I see.} 31... h6 {The dominoes are falling, you gave away
+more material in a losing position.} 32. Kxf4 {That\\\'s an active and aggressive
+king. Good move.} 32... Rd8 33. Nc6 {Careful $1 You lost material in a winning
+position.} 33... Rxd1 {There she goes.} 34. Raxd1 f5 {You better keep an eye on
+my passed pawn.} 35. b5 {This doesn\\\'t look good for me.} 35... axb5 {What am I
+threatening to do $2} 36. axb5 {I\\\'m in big trouble...} 36... Kf7 {Is it safe
+enough to bring my king out $2 I think so $1} 37. Ne5+ {I will not resign. I will go
+down with the ship $1} 37... Kf6 {My king dances out of the way...} 38. h5 {My
+king senses the end.} 38... g5+ {Now I\\\'ve created a passed pawn.} 39. Ke3 {You
+can win now - you\\\'re almost there $1} 39... g4 {You missed a free knight, but the
+position is lost either way.} 40. Rg1 {Your knight is undefended.} 40... g3 {You
+better stop my pawn before it becomes a queen.} 41. Rxg3 {Pieces are more useful
+when they can see more squares. Nice idea.} 41... c5 {I hope we get to talk
+about this game during Game Review afterwards.} 42. bxc6 {Taking en passant $2
+That\\\'s a good idea.} 42... Kxe5 {That\\\'s my knight now.} 43. c7 {This doesn\\\'t
+look good for me.} 43... f4+ {My pawn kicks your rook, forcing it away.} 44. Kf3
+{I should resign, but I won\\\'t.} 44... fxg3 {You\\\'ve been playing wonderfully.}
+45. Kxg3 {I\\\'m in big trouble...} 45... Kf6 46. c8=Q {You\\\'re on the path to
+winning the game.} 46... Kg7 47. Qe6 {I will not resign. I will go down with the
+ship $1} 47... Kf8 48. Qxh6+ {My king senses the end.} 48... Kf7 {My king dances
+out of the way...} 49. Qf4+ {You can win now - you\\\'re almost there $1} 49... Kg7
+50. c4 Kg8 51. c5 {My king senses the end.} 51... Kg7 52. c6 Kh7 53. c7 {I will
+not resign. I will go down with the ship $1} 53... Kg8 54. c8=Q+ {You have an
+overwhelming advantage. Nice work.} 54... Kh7 {It\\\'s clearly time for my king to
+move.} 55. Qcf5+ {My king does not like this.} 55... Kh8 {My king must move out
+of check.} 56. Qf8+ {Checkmate is coming. Good for you.} 56... Kh7 {My king
+dances out of the way...} 57. Rd7# {Well done $1 Let\\\'s go over this game
+together.} 1-0: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-30 19:45:08,604 - WARNING - Login element not found for link: 1. e4 {e4 immediately controls the d5 and f5 squares.} 1... e5 2. Nf3 {Move 2
+and my center is already under attack $1} 2... Nc6 3. Bc4 {You seem ready to do
+battle in the Italian Game.} 3... Bc5 4. c3 Nf6 5. d3 {I attack... you defend. 
+Good.} 5... d6 6. O-O {A safe king is a happy king $1} 6... Bb6 7. Re1 {What made
+you first start playing chess $2 My friend David taught me a long time ago.} 7...
+O-O {Now everyone is safe and secure, for the moment.} 8. a4 {Thanks for playing
+with me, it\\\'s always fun to play chess with a friend.} 8... Bxf2+ {This next
+move should be automatic.} 9. Kxf2 {You got it. You can take that, but I\\\'ll be
+back.} 9... Qd7 {Let\\\'s develop my queen.} 10. h4 {I\\\'m so happy to be playing
+chess with you.} 10... Ng4+ {Your king seeks a safer square.} 11. Kg3 {I love
+it $1 Your king moves out of the line of fire.} 11... Nh6 12. d4 {Smart move $1
+Attacking the base of the pawn chain.} 12... Nf5+ {It must be your birthday with
+all these presents I am giving you $1} 13. exf5 {You capture the annoying knight.
+Good stuff.} 13... Qxf5 {Recapturing.} 14. Nbd2 {You\\\'re a lot stronger than I
+thought you were.} 14... Qf4+ {Kings can move one square at a time. Please
+demonstrate.} 15. Kf2 {Exactly. Sometimes you have to move your king - and this
+is one of those times.} 15... a6 16. g3 {You do a good job of attacking and
+creating threats.} 16... Qf5 {Moving my queen to a safer square $1} 17. g4 {Your
+pawn is quite annoying. That\\\'s a smart move.} 17... g6 {Finally, I can breathe $1}
+18. gxf5 {Unpinning your knight.} 18... Bxf5 {And of course I take back $1} 19.
+dxe5 {You\\\'ve got an isolated pawn now. It might become a target later.} 19...
+Kh8 20. b4 dxe5 {I\\\'m hoping my new passed pawn will become a queen one day.} 21.
+Nxe5 Nxe5 {You take. I take...} 22. Nf3 {It looks like you\\\'re offering a
+trade... Let\\\'s see...} 22... Ng4+ {I\\\'ve thought about your trade offer and I\\\'m
+afraid I\\\'ll have to decline. It would only help you.} 23. Kg3 {Sometimes you
+have to move your king - and this is one of those times.} 23... Nf6 24. Nd4 {You
+have a strong advantage. Keep pressing $1} 24... Nh5+ {Check.} 25. Kf2 {You move
+your king to safety, as you must.} 25... Rae8 {I can\\\'t let your rook have that
+file to itself.} 26. Be3 {Have you had that piece the whole time $2} 26... Be4 27.
+Ke2 Bd5 {The dominoes are falling, you gave away more material in a losing
+position.} 28. Bxd5 {Bishops are meant for long diagonals. I like your move.}
+28... Kg8 29. Bxb7 {That is one scary bishop.} 29... Nf4+ {Get going, king.} 30.
+Kf3 {Your king moves out of the line of fire.} 30... Rxe3+ {Smack $1} 31. Kxe3
+{Taking the attacker. I see.} 31... h6 {The dominoes are falling, you gave away
+more material in a losing position.} 32. Kxf4 {That\\\'s an active and aggressive
+king. Good move.} 32... Rd8 33. Nc6 {Careful $1 You lost material in a winning
+position.} 33... Rxd1 {There she goes.} 34. Raxd1 f5 {You better keep an eye on
+my passed pawn.} 35. b5 {This doesn\\\'t look good for me.} 35... axb5 {What am I
+threatening to do $2} 36. axb5 {I\\\'m in big trouble...} 36... Kf7 {Is it safe
+enough to bring my king out $2 I think so $1} 37. Ne5+ {I will not resign. I will go
+down with the ship $1} 37... Kf6 {My king dances out of the way...} 38. h5 {My
+king senses the end.} 38... g5+ {Now I\\\'ve created a passed pawn.} 39. Ke3 {You
+can win now - you\\\'re almost there $1} 39... g4 {You missed a free knight, but the
+position is lost either way.} 40. Rg1 {Your knight is undefended.} 40... g3 {You
+better stop my pawn before it becomes a queen.} 41. Rxg3 {Pieces are more useful
+when they can see more squares. Nice idea.} 41... c5 {I hope we get to talk
+about this game during Game Review afterwards.} 42. bxc6 {Taking en passant $2
+That\\\'s a good idea.} 42... Kxe5 {That\\\'s my knight now.} 43. c7 {This doesn\\\'t
+look good for me.} 43... f4+ {My pawn kicks your rook, forcing it away.} 44. Kf3
+{I should resign, but I won\\\'t.} 44... fxg3 {You\\\'ve been playing wonderfully.}
+45. Kxg3 {I\\\'m in big trouble...} 45... Kf6 46. c8=Q {You\\\'re on the path to
+winning the game.} 46... Kg7 47. Qe6 {I will not resign. I will go down with the
+ship $1} 47... Kf8 48. Qxh6+ {My king senses the end.} 48... Kf7 {My king dances
+out of the way...} 49. Qf4+ {You can win now - you\\\'re almost there $1} 49... Kg7
+50. c4 Kg8 51. c5 {My king senses the end.} 51... Kg7 52. c6 Kh7 53. c7 {I will
+not resign. I will go down with the ship $1} 53... Kg8 54. c8=Q+ {You have an
+overwhelming advantage. Nice work.} 54... Kh7 {It\\\'s clearly time for my king to
+move.} 55. Qcf5+ {My king does not like this.} 55... Kh8 {My king must move out
+of check.} 56. Qf8+ {Checkmate is coming. Good for you.} 56... Kh7 {My king
+dances out of the way...} 57. Rd7# {Well done $1 Let\\\'s go over this game
+together.} 1-0
+2024-09-30 19:45:39,102 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-30 19:45:45,598 - INFO - Processing link: https://www.chess.com/analysis/game/live/119809507424?tab=review
+2024-09-30 19:45:51,922 - INFO - Successfully processed link: Rilaandriani26 vs. Sanchit_000 | Analysis - Chess.com
+2024-09-30 19:46:36,690 - INFO - Processing link: https://www.chess.com/analysis/game/live/119809310188?tab=analysis
+2024-09-30 19:46:43,078 - INFO - Successfully processed link: Chor05 vs. mqhung9697 | Analysis - Chess.com
+2024-09-30 19:47:49,872 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-30 19:48:10,850 - INFO - Processing link: https://www.chess.com/game/live/119809425148
+2024-09-30 19:48:17,949 - INFO - Successfully processed link: kafka321 vs. blackboiii16 | Analysis - Chess.com
+2024-09-30 19:50:24,260 - INFO - Processing link: Check out this #chess game: hamzaaaaa88 vs sidjain2108 - https://www.chess.com/live/game/121439386687
+2024-09-30 19:50:31,691 - INFO - Successfully processed link: hamzaaaaa88 vs. sidjain2108 | Analysis - Chess.com
+2024-09-30 19:53:22,149 - INFO - Processing link: github
