@@ -1,2 +1,38 @@
-2024-09-30 12:54:43,115 - INFO - Processing link: github
-2024-09-30 12:59:29,722 - INFO - Processing link: github
+2024-09-30 14:37:13,164 - INFO - Processing link: https://www.chess.com/analysis/game/live/121318784415?tab=analysis
+2024-09-30 14:37:19,078 - INFO - Successfully processed link: uithoorn vs. ki1512 | Analysis - Chess.com
+2024-09-30 14:41:56,262 - INFO - Processing link: https://www.chess.com/game/live/119805372678
+2024-09-30 14:42:09,847 - INFO - Processing link: https://www.chess.com/analysis/game/live/121318784415?tab=review
+2024-09-30 14:42:14,765 - INFO - Successfully processed link: uithoorn vs. ki1512 | Analysis - Chess.com
+2024-09-30 14:42:17,193 - INFO - Successfully processed link: Suihay vs. flo000000000000 | Analysis - Chess.com
+2024-09-30 14:42:46,473 - INFO - Processing link: https://www.chess.com/analysis/game/live/121318820325?tab=analysis
+2024-09-30 14:42:53,408 - INFO - Successfully processed link: ajay2608 vs. ki1512 | Analysis - Chess.com
+2024-09-30 14:43:21,726 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-30 14:43:55,360 - ERROR - Error in run function for link 1, e4 e5: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-09-30 14:46:13,675 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-30 14:46:47,606 - WARNING - Error processing link 1. e4 e5: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("#board-layout-sidebar > div > div > div.sidebar-tab-content-component.sidebar-view-content > div.overview-view-container > div > section:nth-child(3) > div > div:nth-child(5) > div.tallies-new-collapse > span")
+
+2024-09-30 14:46:47,617 - WARNING - Login element not found for link: 1. e4 e5
+2024-09-30 14:46:54,707 - INFO - Processing link: https://www.chess.com/analysis/game/live/121318197497?tab=analysis
+2024-09-30 14:47:01,150 - INFO - Successfully processed link: ki1512 vs. LilGoat77 | Analysis - Chess.com
+2024-09-30 14:49:52,320 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-30 14:50:20,892 - INFO - Processing link: https://www.chess.com/live/game/119805434166
+2024-09-30 14:50:27,604 - INFO - Successfully processed link: StriderFilipia vs. pradyumpal | Analysis - Chess.com
+2024-09-30 14:50:38,654 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-30 15:03:47,598 - INFO - Processing link: https://www.chess.com/analysis/game/live/121422048411?tab=review
+2024-09-30 15:03:54,005 - INFO - Successfully processed link: TomHowell2006 vs. Alexander_Weinreich | Analysis - Chess.com
+2024-09-30 15:04:01,811 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-30 15:08:16,049 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-30 15:14:01,532 - INFO - Processing link: https://www.chess.com/analysis/game/live/119805627086?tab=analysis
+2024-09-30 15:14:08,570 - INFO - Successfully processed link: Coolrox123 vs. Winskyyy999 | Analysis - Chess.com
+2024-09-30 15:16:38,493 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-30 15:32:47,844 - INFO - Processing link: PGN PGN PGN PGN
+2024-09-30 15:32:54,808 - INFO - Processing link: https://www.chess.com/analysis/game/live/119805922234?tab=analysis
+2024-09-30 15:33:01,942 - INFO - Successfully processed link: CruzMoj vs. Adnandoci | Analysis - Chess.com
+2024-09-30 15:35:54,301 - INFO - Processing link: https://www.chess.com/analysis/game/live/121318217397?tab=analysis
+2024-09-30 15:36:00,587 - INFO - Successfully processed link: bigfootad88 vs. ki1512 | Analysis - Chess.com
+2024-09-30 15:37:51,445 - INFO - Processing link: github
