@@ -2423,3 +2423,13 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-09-30 12:18:09,082 - ERROR - Error in run function for link 1. e4 e5: Locator.is_visible: Target page, context or browser has been closed
 2024-09-30 12:18:48,185 - INFO - Processing link: github
 2024-09-30 12:22:28,050 - INFO - Processing link: github
+2024-09-30 12:22:48,034 - INFO - Processing link: https://www.chess.com/analysis/game/live/119721211036?tab=analysis
+2024-09-30 12:23:19,029 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/119721211036?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/119721211036?tab=review", waiting until "load"
+
+2024-09-30 12:24:09,280 - INFO - Processing link: https://www.chess.com/analysis/game/live/121319441363?tab=analysis
+2024-09-30 12:24:16,772 - INFO - Successfully processed link: ki1512 vs. AndrewX7C3 | Analysis - Chess.com
+2024-09-30 12:25:20,443 - INFO - Processing link: https://www.chess.com/analysis/game/live/121319441363?tab=analysis
+2024-09-30 12:25:31,089 - INFO - Successfully processed link: ki1512 vs. AndrewX7C3 | Analysis - Chess.com
+2024-09-30 12:40:54,175 - INFO - Processing link: github
