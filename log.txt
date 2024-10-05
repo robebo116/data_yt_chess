@@ -29,3 +29,10 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 
 2024-09-30 14:31:28,058 - INFO - Successfully logged in and saved cookies for robebo116152
 2024-10-05 21:18:57,850 - INFO - Processing link: github
+2024-10-05 21:19:02,100 - INFO - Processing link: https://www.chess.com/live/119907923110
+2024-10-05 21:19:03,220 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/119907923110?tab=review: BrowserType.launch: Failed to launch chromium because executable doesn't exist at C:\Program Files\Google\Chrome\Application\chrome.exe
+2024-10-05 21:19:11,903 - INFO - Processing link: https://www.chess.com/play/computer
+2024-10-05 21:19:12,264 - ERROR - Error in run function for link https://www.chess.com/play/computer: BrowserType.launch: Failed to launch chromium because executable doesn't exist at C:\Program Files\Google\Chrome\Application\chrome.exe
+2024-10-05 21:19:43,270 - INFO - Processing link: https://www.chess.com/live/119907923110
+2024-10-05 21:19:43,609 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/119907923110?tab=review: BrowserType.launch: Failed to launch chromium because executable doesn't exist at C:\Program Files\Google\Chrome\Application\chrome.exe
+2024-10-05 21:21:36,488 - INFO - Processing link: github
