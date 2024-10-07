@@ -522,3 +522,641 @@ navigating to "[Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-10-07\
 2024-10-07 13:21:36,080 - INFO - Processing link: https://www.chess.com/analysis/game/live/122020141051?tab=analysis
 2024-10-07 13:21:42,682 - INFO - Successfully processed link: HanuVerma vs. Deadlyman2024 | Analysis - Chess.com
 2024-10-07 13:43:21,059 - INFO - Processing link: github
+2024-10-07 13:43:36,434 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 13:43:52,293 - WARNING - L\u1ed7i: 'NoneType' object has no attribute 'inner_html'
+2024-10-07 13:43:58,479 - INFO - Processing link: Check out this #chess game: hnfhfs14 vs Arik-arinkisi - https://www.chess.com/live/game/122021952915
+2024-10-07 13:44:04,748 - INFO - Successfully processed link: hnfhfs14 vs. Arik-arinkisi | Analysis - Chess.com
+2024-10-07 13:45:27,556 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 13:45:36,538 - WARNING - L\u1ed7i: 'NoneType' object has no attribute 'inner_html'
+2024-10-07 13:45:49,489 - INFO - Processing link: https://www.chess.com/game/live/119938957342
+2024-10-07 13:45:56,371 - INFO - Successfully processed link: Ahmed_9_9 vs. GamalielMaster | Analysis - Chess.com
+2024-10-07 13:47:04,009 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 13:47:05,166 - INFO - Processing link: Check out this #chess game: Avanish77777 vs Yashwant21 - https://www.chess.com/live/game/119938867154
+2024-10-07 13:47:12,726 - INFO - Successfully processed link: Avanish77777 vs. Yashwant21 | Analysis - Chess.com
+2024-10-07 13:47:13,209 - WARNING - L\u1ed7i: 'NoneType' object has no attribute 'inner_html'
+2024-10-07 13:48:25,329 - INFO - Processing link: https://www.chess.com/game/live/119939012260
+2024-10-07 13:48:31,404 - INFO - Successfully processed link: MUKKAERRE vs. GamalielMaster | Analysis - Chess.com
+2024-10-07 13:49:50,236 - INFO - Processing link: https://www.chess.com/live/game/122021962889
+2024-10-07 13:49:57,559 - INFO - Successfully processed link: pradyumpal1 vs. UNITEDGYM | Analysis - Chess.com
+2024-10-07 13:51:37,796 - INFO - Processing link: https://www.chess.com/analysis/game/live/119938977578?tab=review
+2024-10-07 13:51:44,503 - INFO - Successfully processed link: Anuj124421 vs. dflksdlfasdfasdf | Analysis - Chess.com
+2024-10-07 13:51:44,662 - INFO - Processing link: https://www.chess.com/analysis/game/live/122022537071?tab=analysis
+2024-10-07 13:51:51,002 - INFO - Processing link: https://www.chess.com/game/live/122021386401
+2024-10-07 13:51:51,040 - INFO - Successfully processed link: shaurya146 vs. DampSalmon | Analysis - Chess.com
+2024-10-07 13:51:58,756 - INFO - Successfully processed link: Sathishyenugula vs. F_a_d | Analysis - Chess.com
+2024-10-07 13:52:27,740 - INFO - Processing link: https://www.chess.com/analysis/game/computer/166047511?tab=review
+2024-10-07 13:52:34,903 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-07 13:54:49,249 - INFO - Processing link: Check out this #chess game: aserelgendy1 vs NIRBHAY069 - https://www.chess.com/live/game/119938942760
+2024-10-07 13:54:50,415 - INFO - Processing link: https://www.chess.com/game/live/119939029856
+2024-10-07 13:54:55,932 - INFO - Successfully processed link: aserelgendy1 vs. NIRBHAY069 | Analysis - Chess.com
+2024-10-07 13:54:57,913 - INFO - Successfully processed link: GamalielMaster vs. zpalgh | Analysis - Chess.com
+2024-10-07 13:55:22,613 - INFO - Processing link: https://www.chess.com/live/game/119938998372
+2024-10-07 13:55:30,153 - INFO - Successfully processed link: hedge7222 vs. idk473825 | Analysis - Chess.com
+2024-10-07 13:55:47,671 - INFO - Processing link: www.chess.com/analysis/game/live/122022582983
+2024-10-07 13:55:53,612 - INFO - Successfully processed link: donzzz78 vs. idislikedolphins6 | Analysis - Chess.com
+2024-10-07 13:56:57,339 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 13:57:30,052 - ERROR - Error in run function for link : Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary")
+  -   locator resolved to <button disabled type="button" class="cc-button-component cc-button-primary cc-button-medium cc-button-disabled">…</button>
+  - attempting click action
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #1
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #2
+  -   waiting 20ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #3
+  -   waiting 100ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #4
+  -   waiting 100ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #5
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #6
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #7
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #8
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #9
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #10
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #11
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #12
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #13
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #14
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #15
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #16
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #17
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #18
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #19
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #20
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #21
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #22
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #23
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #24
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #25
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #26
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #27
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #28
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #29
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #30
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #31
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #32
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #33
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #34
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #35
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #36
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #37
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #38
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #39
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #40
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #41
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #42
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #43
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #44
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #45
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #46
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #47
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #48
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #49
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #50
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #51
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #52
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #53
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #54
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #55
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #56
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #57
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #58
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #59
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #60
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #61
+  -   waiting 500ms
+
+2024-10-07 13:57:37,008 - INFO - Processing link: https://www.chess.com/live/game/122021981271
+2024-10-07 13:57:43,770 - INFO - Successfully processed link: mr4XD4mn vs. Abhishek802131 | Analysis - Chess.com
+2024-10-07 13:59:41,605 - INFO - Processing link: Check out this #chess game: Srmgscorpion vs Yashwant21 - https://www.chess.com/live/game/119939041976
+2024-10-07 13:59:48,302 - INFO - Successfully processed link: Srmgscorpion vs. Yashwant21 | Analysis - Chess.com
+2024-10-07 14:01:17,817 - INFO - Processing link: https://www.chess.com/game/live/119939113468
+2024-10-07 14:01:25,049 - INFO - Successfully processed link: GamalielMaster vs. Halmatwo | Analysis - Chess.com
+2024-10-07 14:01:53,970 - INFO - Processing link: https://www.chess.com/analysis/game/live/119939055196?tab=analysis
+2024-10-07 14:02:00,795 - INFO - Successfully processed link: premkumarsdm vs. VinceIsanoob | Analysis - Chess.com
+2024-10-07 14:02:06,434 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 14:02:15,657 - WARNING - L\u1ed7i: 'NoneType' object has no attribute 'inner_html'
+2024-10-07 14:02:58,336 - INFO - Processing link: https://www.chess.com/analysis/game/live/119938227724?tab=analysis
+2024-10-07 14:03:05,626 - INFO - Successfully processed link: ki1512 vs. cokk | Analysis - Chess.com
+2024-10-07 14:09:34,134 - INFO - Processing link: https://www.chess.com/game/live/119939185622
+2024-10-07 14:09:41,196 - INFO - Successfully processed link: stibitzer vs. GamalielMaster | Analysis - Chess.com
+2024-10-07 14:10:55,582 - INFO - Processing link: https://www.chess.com/analysis/game/computer/166050793?tab=analysis
+2024-10-07 14:11:02,890 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-07 14:13:18,426 - INFO - Processing link: https://www.chess.com/live/game/119939191762
+2024-10-07 14:13:25,026 - INFO - Processing link: https://www.chess.com/live/game/119939191762
+2024-10-07 14:13:25,056 - INFO - Successfully processed link: CruzMoj vs. rkrocks03 | Analysis - Chess.com
+2024-10-07 14:13:30,668 - INFO - Successfully processed link: CruzMoj vs. rkrocks03 | Analysis - Chess.com
+2024-10-07 14:14:58,631 - INFO - Processing link: https://www.chess.com/analysis/game/live/122023143911?tab=analysis
+2024-10-07 14:15:04,982 - INFO - Successfully processed link: shivam250727 vs. SL1CKKK | Analysis - Chess.com
+2024-10-07 14:15:56,933 - INFO - Processing link: https://www.chess.com/live/game/122023138525
+2024-10-07 14:16:03,414 - INFO - Successfully processed link: PanchabhaviAkshay vs. chi0036 | Analysis - Chess.com
+2024-10-07 14:17:10,759 - INFO - Processing link: https://www.chess.com/analysis/game/live/122023745199?tab=analysis
+2024-10-07 14:17:18,278 - INFO - Successfully processed link: Govind205 vs. adityavrdhnn | Analysis - Chess.com
+2024-10-07 14:19:25,209 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 14:19:34,787 - WARNING - L\u1ed7i: 'NoneType' object has no attribute 'inner_html'
+2024-10-07 14:21:23,663 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 14:23:03,037 - INFO - Processing link: https://www.chess.com/live/game/121569586589
+2024-10-07 14:23:10,118 - INFO - Successfully processed link: Swaroopkar vs. sanketumarane27 | Analysis - Chess.com
+2024-10-07 14:24:41,358 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 14:25:22,853 - INFO - Processing link: https://www.chess.com/analysis/game/live/119939320514?tab=analysis
+2024-10-07 14:25:30,026 - INFO - Successfully processed link: nolialbertph vs. 123Samue | Analysis - Chess.com
+2024-10-07 14:26:02,778 - INFO - Processing link: https://www.chess.com/live/game/122023791049
+2024-10-07 14:26:09,348 - INFO - Successfully processed link: A7_m_ed_7 vs. ahmednabilzz | Analysis - Chess.com
+2024-10-07 14:27:56,193 - INFO - Processing link: https://www.chess.com/live/game/122022582517
+2024-10-07 14:28:03,533 - INFO - Successfully processed link: ahmednabilzz vs. A7_m_ed_7 | Analysis - Chess.com
+2024-10-07 14:35:49,205 - INFO - Processing link: https://www.chess.com/game/live/119939372312
+2024-10-07 14:35:57,044 - INFO - Successfully processed link: Andrey-K-A vs. Nobilis-Carbon | Analysis - Chess.com
+2024-10-07 14:42:02,935 - INFO - Processing link: https://www.chess.com/game/computer/166048875
+2024-10-07 14:42:10,125 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-07 14:42:52,785 - INFO - Processing link: https://www.chess.com/analysis/game/live/119939515822?tab=review
+2024-10-07 14:43:00,033 - INFO - Successfully processed link: MemoRocky1984 vs. BackD3viL | Analysis - Chess.com
+2024-10-07 14:43:53,842 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 14:48:17,264 - INFO - Processing link: [Event \"?\"] [Site \"?\"] [Date \"????.??.??\"] [Round \"?\"] [White \"?\"] [Black \"?\"] [Result \"1-0\"] [Link \"https://www.chess.com/game/computer/166056527\"] 1. d4 {Not quite best by test, but not bad.} 1... Nf6 {Let\'s make this interesting.} 2. Bf4 Nd5 {Don\'t look now, but I\'m up to something.} 3. e3 Nxf4 4. exf4 d5 5. Bd3 {The blunders are all there on the board, waiting to be made.} 5... Nc6 6. c3 Qd6 7. Nd2 g5 8. Nh3 Bxh3 9. gxh3 Qf6 10. fxg5 Qxg5 11. Qb3 {What are you planning $2} 11... Qg2 12. Qxb7 {You\'re playing well. I\'m going to need to find some tricks.} 12... Qxh1+ {Jaque $1} 13. Ke2 Qxa1 14. Qxa8+ {Oof. I\'ll get that king safe.} 14... Kd7 15. Bb5 a6 16. Qxc6+ {Uh oh. I\'m starting to get worried.} 16... Kd8 {Uh oh. I\'m starting to get worried.} 17. Qd7# {Good game $1 I\'m going to have to study that one. Want to play again $2} 1-0
+2024-10-07 14:48:23,961 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-07 14:55:18,296 - INFO - Processing link: https://www.chess.com/game/live/122026720771
+2024-10-07 14:55:31,841 - INFO - Successfully processed link: Alexander_Weinreich vs. brokenwingsss | Analysis - Chess.com
+2024-10-07 14:58:16,992 - INFO - Processing link: https://www.chess.com/game/live/122026179873
+2024-10-07 14:58:24,244 - INFO - Successfully processed link: baibhav025 vs. ooooooks | Analysis - Chess.com
+2024-10-07 15:00:27,421 - INFO - Processing link: https://www.chess.com/game/computer/165762331
+2024-10-07 15:00:35,193 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-07 15:02:29,836 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 15:06:39,324 - INFO - Processing link: https://www.chess.com/analysis/game/live/119939832168?tab=analysis
+2024-10-07 15:07:11,938 - WARNING - Error processing link https://www.chess.com/analysis/game/live/119939832168?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-10-07 15:07:11,950 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/119939832168?tab=review
+2024-10-07 15:08:38,426 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 15:10:39,797 - INFO - Processing link: https://www.chess.com/game/live/122026771077
+2024-10-07 15:10:46,403 - INFO - Successfully processed link: RainMSX vs. cahtto | Analysis - Chess.com
+2024-10-07 15:12:48,276 - INFO - Processing link: https://www.chess.com/analysis/game/live/119939754860?tab=analysis
+2024-10-07 15:12:56,778 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 15:12:59,599 - INFO - Successfully processed link: DJRATKOV vs. alifameer | Analysis - Chess.com
+2024-10-07 15:16:58,526 - INFO - Processing link: https://www.chess.com/game/live/122021956939
+2024-10-07 15:17:07,287 - INFO - Successfully processed link: game_re_view vs. Gabilchess | Analysis - Chess.com
+2024-10-07 15:17:42,419 - INFO - Processing link: https://www.chess.com/game/live/122027396347
+2024-10-07 15:17:49,168 - INFO - Successfully processed link: RainMSX vs. SubtleBlitz | Analysis - Chess.com
+2024-10-07 15:22:37,988 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 15:23:30,239 - INFO - Processing link: https://www.chess.com/game/live/119939941356
+2024-10-07 15:23:37,068 - INFO - Successfully processed link: Nobilis-Carbon vs. SHR1218 | Analysis - Chess.com
+2024-10-07 15:28:56,162 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 15:33:27,129 - INFO - Processing link: Check out this #chess game: Chandramouleeswara vs Tooilate - https://www.chess.com/live/game/119940067890
+2024-10-07 15:33:33,875 - INFO - Successfully processed link: Chandramouleeswara vs. Tooilate | Analysis - Chess.com
+2024-10-07 15:34:00,413 - INFO - Processing link: Check out this #chess game: jai96_25 vs XoldaJr69 - https://www.chess.com/live/game/119940137704
+2024-10-07 15:34:02,041 - INFO - Processing link: https://www.chess.com/game/live/122028578601
+2024-10-07 15:34:08,514 - INFO - Successfully processed link: jai96_25 vs. XoldaJr69 | Analysis - Chess.com
+2024-10-07 15:34:09,578 - INFO - Successfully processed link: KillerKrAs vs. pharshc | Analysis - Chess.com
+2024-10-07 15:36:03,909 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 15:37:09,877 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 15:39:22,520 - INFO - Processing link: https://www.chess.com/game/live/122029145517
+2024-10-07 15:39:29,616 - INFO - Successfully processed link: pharshc vs. caprays | Analysis - Chess.com
+2024-10-07 15:40:07,727 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 15:42:53,472 - INFO - Processing link: https://www.chess.com/game/live/122028586341
+2024-10-07 15:42:59,512 - INFO - Successfully processed link: game_re_view vs. Vitya_Lomako | Analysis - Chess.com
+2024-10-07 15:45:00,854 - INFO - Processing link: https://www.chess.com/game/live/119940255776
+2024-10-07 15:45:06,890 - INFO - Successfully processed link: nospeakman vs. Tanmay-99 | Analysis - Chess.com
+2024-10-07 15:48:22,641 - INFO - Processing link: https://www.chess.com/game/live/122029123331
+2024-10-07 15:48:29,095 - INFO - Successfully processed link: nachodiezb vs. baibhav025 | Analysis - Chess.com
+2024-10-07 15:49:01,413 - INFO - Processing link: https://www.chess.com/analysis/game/live/122028566941?tab=analysis
+2024-10-07 15:49:07,923 - INFO - Successfully processed link: mirandesuuu vs. RainMSX | Analysis - Chess.com
+2024-10-07 15:56:41,584 - INFO - Processing link: https://www.chess.com/analysis/game/live/121182664999?tab=analysis
+2024-10-07 15:56:57,680 - INFO - Successfully processed link: Kckhhxd vs. im-BearMAN | Analysis - Chess.com
+2024-10-07 15:57:37,264 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 15:58:13,406 - INFO - Processing link: Check out this #chess game: Pavanjadhav05 vs Saugat-9 - https://www.chess.com/live/game/119940409086
+2024-10-07 15:58:19,256 - INFO - Successfully processed link: Pavanjadhav05 vs. Saugat-9 | Analysis - Chess.com
+2024-10-07 16:00:15,717 - INFO - Processing link: https://www.chess.com/analysis/game/live/119753817906?tab=analysis
+2024-10-07 16:00:22,517 - INFO - Successfully processed link: GabaelR vs. im-BearMAN | Analysis - Chess.com
+2024-10-07 16:01:10,172 - INFO - Processing link: https://www.chess.com/analysis/game/live/119909968952?tab=analysis&move=77
+2024-10-07 16:01:16,334 - INFO - Successfully processed link: wazian vs. ay14n | Analysis - Chess.com
+2024-10-07 16:01:17,635 - INFO - Processing link: Check out this #chess game: rb21597 vs aserelgendy1 - https://www.chess.com/live/game/119940165540
+2024-10-07 16:01:24,061 - INFO - Successfully processed link: rb21597 vs. aserelgendy1 | Analysis - Chess.com
+2024-10-07 16:01:34,762 - INFO - Processing link: https://www.chess.com/game/live/119940473008
+2024-10-07 16:01:41,125 - INFO - Successfully processed link: Nobilis-Carbon vs. simran2206 | Analysis - Chess.com
+2024-10-07 16:01:58,820 - INFO - Processing link: Check out this #chess game: Niradhya vs aserelgendy1 - https://www.chess.com/live/game/119940315082
+2024-10-07 16:02:06,131 - INFO - Successfully processed link: Niradhya vs. aserelgendy1 | Analysis - Chess.com
+2024-10-07 16:03:00,568 - INFO - Processing link: https://www.chess.com/game/live/122029139467
+2024-10-07 16:03:06,430 - INFO - Successfully processed link: Luzbel333 vs. SEN_taclaus | Analysis - Chess.com
+2024-10-07 16:04:30,127 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 16:04:55,093 - INFO - Processing link: https://www.chess.com/analysis/game/live/121005033395?tab=analysis
+2024-10-07 16:05:02,034 - INFO - Successfully processed link: Parhatuyghur vs. im-BearMAN | Analysis - Chess.com
+2024-10-07 16:05:34,374 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 16:06:01,555 - INFO - Processing link: https://www.chess.com/game/live/122030396781
+2024-10-07 16:06:08,023 - INFO - Successfully processed link: lennas vs. baibhav025 | Analysis - Chess.com
+2024-10-07 16:06:19,393 - INFO - Processing link: https://www.chess.com/analysis/game/live/122029195279?tab=analysis
+2024-10-07 16:06:25,848 - INFO - Successfully processed link: Tonnyrusm vs. SEN_taclaus | Analysis - Chess.com
+2024-10-07 16:09:17,942 - INFO - Processing link: https://www.chess.com/game/live/122030928231
+2024-10-07 16:09:25,042 - INFO - Successfully processed link: fep17 vs. pharshc | Analysis - Chess.com
+2024-10-07 16:11:09,862 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 16:11:13,062 - INFO - Processing link: https://www.chess.com/game/live/119940578928
+2024-10-07 16:11:19,894 - INFO - Successfully processed link: th_zade vs. Nobilis-Carbon | Analysis - Chess.com
+2024-10-07 16:11:33,578 - INFO - Processing link: https://www.chess.com/game/live/122030975059
+2024-10-07 16:11:39,586 - INFO - Successfully processed link: baibhav025 vs. waarwinner | Analysis - Chess.com
+2024-10-07 16:14:33,029 - INFO - Processing link: https://www.chess.com/game/live/119940636192
+2024-10-07 16:14:39,777 - INFO - Successfully processed link: Kolasani_vishnu vs. grubpot | Analysis - Chess.com
+2024-10-07 16:14:53,094 - INFO - Processing link: https://www.chess.com/analysis/game/live/119940683106?tab=analysis
+2024-10-07 16:14:58,358 - INFO - Successfully processed link: shuvamsherpa vs. adityavrdhnn | Analysis - Chess.com
+2024-10-07 16:15:03,253 - INFO - Processing link: https://www.chess.com/analysis/game/live/119940494194?tab=analysis
+2024-10-07 16:15:04,623 - INFO - Processing link: https://www.chess.com/live/game/119940538972
+2024-10-07 16:15:09,413 - INFO - Successfully processed link: anawfuldark vs. Stanoje-Panic | Analysis - Chess.com
+2024-10-07 16:15:10,991 - INFO - Successfully processed link: Vera_Sevkovslaya vs. INF-VANSH | Analysis - Chess.com
+2024-10-07 16:24:49,452 - INFO - Processing link: https://www.chess.com/analysis/game/live/122030327959?tab=analysis
+2024-10-07 16:25:02,430 - INFO - Successfully processed link: Karanyuugh vs. ori4444 | Analysis - Chess.com
+2024-10-07 16:25:10,677 - INFO - Processing link: https://www.chess.com/game/live/122031549811
+2024-10-07 16:25:16,953 - INFO - Successfully processed link: pharshc vs. TaoikMo | Analysis - Chess.com
+2024-10-07 16:25:30,474 - INFO - Processing link: https://www.chess.com/game/live/122031595835
+2024-10-07 16:25:36,962 - INFO - Successfully processed link: AbdulazizEd vs. KING_krOnoz | Analysis - Chess.com
+2024-10-07 16:26:13,145 - INFO - Processing link: https://www.chess.com/analysis/game/computer/166075813?tab=analysis
+2024-10-07 16:26:19,417 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-07 16:27:37,192 - INFO - Processing link: https://www.chess.com/analysis/game/live/119940744010
+2024-10-07 16:27:43,734 - INFO - Successfully processed link: eligella1008 vs. GlafishIsAnIdiot | Analysis - Chess.com
+2024-10-07 16:28:49,139 - INFO - Processing link: https://www.chess.com/game/live/119940828410
+2024-10-07 16:28:55,746 - INFO - Successfully processed link: ZeusJuoiter vs. Nobilis-Carbon | Analysis - Chess.com
+2024-10-07 16:29:36,001 - INFO - Processing link: https://www.chess.com/analysis/game/live/119940536226?tab=analysis
+2024-10-07 16:29:42,811 - INFO - Successfully processed link: SHRE_MISHRA vs. aaravchpr | Analysis - Chess.com
+2024-10-07 16:33:36,670 - INFO - Processing link: https://www.chess.com/analysis/game/live/119940858034?tab=analysis
+2024-10-07 16:33:43,000 - INFO - Successfully processed link: LTT1227 vs. adityavrdhnn | Analysis - Chess.com
+2024-10-07 16:35:02,886 - INFO - Processing link: https://www.chess.com/analysis/game/live/119940902776?tab=analysis
+2024-10-07 16:35:09,001 - INFO - Successfully processed link: larrywaterson vs. wynkyP | Analysis - Chess.com
+2024-10-07 16:40:11,180 - INFO - Processing link: https://www.chess.com/analysis/game/live/119940970296?tab=review
+2024-10-07 16:40:16,910 - INFO - Successfully processed link: anawfuldark vs. Looka05 | Analysis - Chess.com
+2024-10-07 16:41:28,006 - INFO - Processing link: https://www.chess.com/analysis/game/computer/166079611?tab=analysis
+2024-10-07 16:41:29,340 - INFO - Processing link: https://www.chess.com/game/live/119940900850
+2024-10-07 16:41:34,616 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-07 16:41:36,654 - INFO - Successfully processed link: Nobilis-Carbon vs. marcinkuba | Analysis - Chess.com
+2024-10-07 16:41:49,301 - INFO - Processing link: https://www.chess.com/analysis/game/live/119940977048?tab=analysis
+2024-10-07 16:41:55,716 - INFO - Successfully processed link: PRIMEBUSTER vs. adityavrdhnn | Analysis - Chess.com
+2024-10-07 16:44:00,970 - INFO - Processing link: https://www.chess.com/analysis/game/live/121587651973?tab=analysis&move=11
+2024-10-07 16:44:07,935 - INFO - Successfully processed link: Brilliant-finder22042011 vs. DracoshaNight | Analysis - Chess.com
+2024-10-07 16:46:23,732 - INFO - Processing link: https://www.chess.com/live/game/122032769441
+2024-10-07 16:46:29,634 - INFO - Successfully processed link: KemejaHitam vs. pradyumpal1 | Analysis - Chess.com
+2024-10-07 16:47:21,015 - INFO - Processing link: https://www.chess.com/analysis/game/live/119940733466?tab=analysis
+2024-10-07 16:47:27,767 - INFO - Successfully processed link: haga1980 vs. anawfuldark | Analysis - Chess.com
+2024-10-07 16:48:09,394 - INFO - Processing link: https://www.chess.com/game/live/122032184099
+2024-10-07 16:48:16,214 - INFO - Successfully processed link: Hrenoviu vs. baibhav025 | Analysis - Chess.com
+2024-10-07 16:49:45,853 - INFO - Processing link: https://www.chess.com/game/live/122027374157
+2024-10-07 16:49:52,655 - INFO - Successfully processed link: Eslam_jamal vs. javediqbalchechi | Analysis - Chess.com
+2024-10-07 16:51:58,123 - INFO - Processing link: https://www.chess.com/game/live/119941078164
+2024-10-07 16:52:04,921 - INFO - Successfully processed link: SCOTTlvdr vs. shiva_sing | Analysis - Chess.com
+2024-10-07 16:52:53,111 - INFO - Processing link: https://www.chess.com/analysis/game/live/122033399163?tab=analysis
+2024-10-07 16:52:58,754 - INFO - Successfully processed link: SinayoAAA vs. fratelito69 | Analysis - Chess.com
+2024-10-07 16:54:12,425 - INFO - Processing link: https://www.chess.com/game/computer/166082241
+2024-10-07 16:54:19,004 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-07 16:57:36,551 - INFO - Processing link: https://www.chess.com/live/game/122019548781
+2024-10-07 16:57:42,952 - INFO - Successfully processed link: pradyumpal1 vs. tanishkaajainnnn | Analysis - Chess.com
+2024-10-07 16:58:33,647 - INFO - Processing link: https://www.chess.com/lessons/principeslive-ouverture/mettre-son-roi-a-l-abri?backRedirect=learn
+2024-10-07 16:58:35,840 - INFO - Successfully processed link: Mettre son roi à l'abri | Chess Lessons - Chess.com
+2024-10-07 17:01:06,883 - INFO - Processing link: https://www.chess.com/game/live/119941128218
+2024-10-07 17:01:13,683 - INFO - Successfully processed link: xenos3827 vs. shubhjain66699 | Analysis - Chess.com
+2024-10-07 17:03:10,870 - INFO - Processing link: https://www.chess.com/game/live/122033344657
+2024-10-07 17:03:17,139 - INFO - Successfully processed link: COOLRAWDI vs. game_re_view | Analysis - Chess.com
+2024-10-07 17:05:44,923 - INFO - Processing link: https://www.chess.com/game/live/119941213360
+2024-10-07 17:05:51,744 - INFO - Successfully processed link: SCOTTlvdr vs. bastebbe | Analysis - Chess.com
+2024-10-07 17:08:33,126 - INFO - Processing link: https://www.chess.com/analysis/game/live/119941319284?tab=analysis
+2024-10-07 17:08:39,465 - INFO - Successfully processed link: adityavrdhnn vs. masih_cupu3 | Analysis - Chess.com
+2024-10-07 17:09:58,142 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 17:12:11,702 - INFO - Processing link: https://www.chess.com/game/live/119941399032
+2024-10-07 17:12:17,597 - INFO - Successfully processed link: RaffaeleM96 vs. SCOTTlvdr | Analysis - Chess.com
+2024-10-07 17:13:56,066 - INFO - Processing link: https://www.chess.com/game/live/122032162141
+2024-10-07 17:14:01,693 - INFO - Successfully processed link: tawara92 vs. afility | Analysis - Chess.com
+2024-10-07 17:14:12,211 - INFO - Processing link: https://www.chess.com/live/game/122034588833
+2024-10-07 17:14:18,999 - INFO - Successfully processed link: konstantin888888888888 vs. pradyumpal1 | Analysis - Chess.com
+2024-10-07 17:14:22,134 - INFO - Processing link: https://www.chess.com/analysis/game/live/122035124697?tab=analysis
+2024-10-07 17:14:28,292 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 17:14:28,528 - INFO - Successfully processed link: ALPHA-ECHO vs. Shuvo79 | Analysis - Chess.com
+2024-10-07 17:14:49,854 - INFO - Processing link: https://www.chess.com/analysis/game/live/119941389582?tab=analysis
+2024-10-07 17:14:56,281 - INFO - Successfully processed link: afility vs. ChessmasterDDN | Analysis - Chess.com
+2024-10-07 17:15:07,497 - INFO - Processing link: https://www.chess.com/game/live/122034560225
+2024-10-07 17:15:14,181 - INFO - Successfully processed link: Giantoknight vs. swerty57 | Analysis - Chess.com
+2024-10-07 17:15:17,524 - WARNING - Error processing link [Event "Rated rapid game"]
+[Site "https://lichess.org/vOp710pS"]
+[Date "2024.10.07"]
+[White "Boris09"]
+[Black "ddjmj"]
+[Result "1-0"]
+[UTCDate "2024.10.07"]
+[UTCTime "09:14:19"]
+[WhiteElo "1791"]
+[BlackElo "1764"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-14"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bc4 Nf6 5. d3 { C50 Italian Game: Giuoco Pianissimo, Italian Four Knights Variation } O-O 6. h3 Na5 7. Nxe5 d6 8. Nf3?! { (0.39 \u2192 -0.33) Inaccuracy. Ng4 was best. } (8. Ng4 Nxc4 9. dxc4 Bb4 10. f3 Bxc3+ 11. bxc3 Nh5 12. O-O Qh4) 8... Bb4?! { (-0.33 \u2192 0.67) Inaccuracy. Nxc4 was best. } (8... Nxc4 9. dxc4) 9. O-O? { (0.67 \u2192 -0.83) Mistake. Bb3 was best. } (9. Bb3 Nxb3) 9... Bxc3 10. bxc3 Nxc4 11. dxc4 Nxe4 12. Bb2?! { (-0.72 \u2192 -1.66) Inaccuracy. Re1 was best. } (12. Re1) 12... b6?? { (-1.66 \u2192 2.83) Blunder. Re8 was best. } (12... Re8 13. Re1 Bf5 14. a4 Bg6 15. a5 h6 16. Nd4 c5 17. Nf3 Qf6 18. Qd5) 13. Qd5 Nc5?! { (2.94 \u2192 3.88) Inaccuracy. Bxh3 was best. } (13... Bxh3 14. gxh3 Nf6 15. Qd3 Qd7 16. Kh2 Rfe8 17. Rg1 Ne4 18. Raf1 Re7 19. Bc1) 14. Qxa8 Qf6 15. Rfe1? { (4.79 \u2192 2.64) Mistake. Qd5 was best. } (15. Qd5 Qg6 16. Ba3 Bb7 17. Qg5 Bxf3 18. Qxg6 fxg6 19. gxf3 Rxf3 20. Bxc5 bxc5) 15... Qg6?! { (2.64 \u2192 3.98) Inaccuracy. Bb7 was best. } (15... Bb7 16. Qe8 Ne6 17. Qd7 Bxf3 18. gxf3 Qg6+ 19. Kf1 Qh6 20. Re3 Qxh3+ 21. Kg1) 16. Kh2?! { (3.98 \u2192 2.70) Inaccuracy. Qd5 was best. } (16. Qd5 Bb7 17. Qd1 Ne4 18. Qe2 f5 19. Rad1 h6 20. Rd5 c5 21. Bc1 Nxc3) 16... Bxh3? { (2.70 \u2192 4.35) Mistake. Qxc2 was best. } (16... Qxc2 17. Ba3 Bb7 18. Qxa7 Bxf3 19. Bxc5 bxc5 20. Re3 Qb2 21. Rf1 Qb7 22. Qxb7) 17. Nh4 Qh6 18. Re8 Qf4+?! { (4.82 \u2192 6.64) Inaccuracy. Ne6 was best. } { Black resigns. } (18... Ne6 19. Rxf8+ Nxf8 20. Kxh3 g5 21. Kh2 Qxh4+ 22. Kg1 h5 23. Re1 Kg7 24. Qf3) 1-0: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-07 17:15:17,532 - WARNING - Login element not found for link: [Event "Rated rapid game"]
+[Site "https://lichess.org/vOp710pS"]
+[Date "2024.10.07"]
+[White "Boris09"]
+[Black "ddjmj"]
+[Result "1-0"]
+[UTCDate "2024.10.07"]
+[UTCTime "09:14:19"]
+[WhiteElo "1791"]
+[BlackElo "1764"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-14"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bc4 Nf6 5. d3 { C50 Italian Game: Giuoco Pianissimo, Italian Four Knights Variation } O-O 6. h3 Na5 7. Nxe5 d6 8. Nf3?! { (0.39 \u2192 -0.33) Inaccuracy. Ng4 was best. } (8. Ng4 Nxc4 9. dxc4 Bb4 10. f3 Bxc3+ 11. bxc3 Nh5 12. O-O Qh4) 8... Bb4?! { (-0.33 \u2192 0.67) Inaccuracy. Nxc4 was best. } (8... Nxc4 9. dxc4) 9. O-O? { (0.67 \u2192 -0.83) Mistake. Bb3 was best. } (9. Bb3 Nxb3) 9... Bxc3 10. bxc3 Nxc4 11. dxc4 Nxe4 12. Bb2?! { (-0.72 \u2192 -1.66) Inaccuracy. Re1 was best. } (12. Re1) 12... b6?? { (-1.66 \u2192 2.83) Blunder. Re8 was best. } (12... Re8 13. Re1 Bf5 14. a4 Bg6 15. a5 h6 16. Nd4 c5 17. Nf3 Qf6 18. Qd5) 13. Qd5 Nc5?! { (2.94 \u2192 3.88) Inaccuracy. Bxh3 was best. } (13... Bxh3 14. gxh3 Nf6 15. Qd3 Qd7 16. Kh2 Rfe8 17. Rg1 Ne4 18. Raf1 Re7 19. Bc1) 14. Qxa8 Qf6 15. Rfe1? { (4.79 \u2192 2.64) Mistake. Qd5 was best. } (15. Qd5 Qg6 16. Ba3 Bb7 17. Qg5 Bxf3 18. Qxg6 fxg6 19. gxf3 Rxf3 20. Bxc5 bxc5) 15... Qg6?! { (2.64 \u2192 3.98) Inaccuracy. Bb7 was best. } (15... Bb7 16. Qe8 Ne6 17. Qd7 Bxf3 18. gxf3 Qg6+ 19. Kf1 Qh6 20. Re3 Qxh3+ 21. Kg1) 16. Kh2?! { (3.98 \u2192 2.70) Inaccuracy. Qd5 was best. } (16. Qd5 Bb7 17. Qd1 Ne4 18. Qe2 f5 19. Rad1 h6 20. Rd5 c5 21. Bc1 Nxc3) 16... Bxh3? { (2.70 \u2192 4.35) Mistake. Qxc2 was best. } (16... Qxc2 17. Ba3 Bb7 18. Qxa7 Bxf3 19. Bxc5 bxc5 20. Re3 Qb2 21. Rf1 Qb7 22. Qxb7) 17. Nh4 Qh6 18. Re8 Qf4+?! { (4.82 \u2192 6.64) Inaccuracy. Ne6 was best. } { Black resigns. } (18... Ne6 19. Rxf8+ Nxf8 20. Kxh3 g5 21. Kh2 Qxh4+ 22. Kg1 h5 23. Re1 Kg7 24. Qf3) 1-0
+2024-10-07 17:15:34,678 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 17:15:54,140 - INFO - Processing link: https://www.chess.com/game/live/119941429408?username=shubhjain66699
+2024-10-07 17:16:00,146 - INFO - Successfully processed link: shubhjain66699 vs. reaganfrank | Analysis - Chess.com
+2024-10-07 17:16:24,507 - WARNING - Error processing link [Event "Rated rapid game"]
+[Site "https://lichess.org/vOp710pS"]
+[Date "2024.10.07"]
+[White "Boris09"]
+[Black "ddjmj"]
+[Result "1-0"]
+[UTCDate "2024.10.07"]
+[UTCTime "09:14:19"]
+[WhiteElo "1791"]
+[BlackElo "1764"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-14"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bc4 Nf6 5. d3 { C50 Italian Game: Giuoco Pianissimo, Italian Four Knights Variation } O-O 6. h3 Na5 7. Nxe5 d6 8. Nf3?! { (0.39 \u2192 -0.33) Inaccuracy. Ng4 was best. } (8. Ng4 Nxc4 9. dxc4 Bb4 10. f3 Bxc3+ 11. bxc3 Nh5 12. O-O Qh4) 8... Bb4?! { (-0.33 \u2192 0.67) Inaccuracy. Nxc4 was best. } (8... Nxc4 9. dxc4) 9. O-O? { (0.67 \u2192 -0.83) Mistake. Bb3 was best. } (9. Bb3 Nxb3) 9... Bxc3 10. bxc3 Nxc4 11. dxc4 Nxe4 12. Bb2?! { (-0.72 \u2192 -1.66) Inaccuracy. Re1 was best. } (12. Re1) 12... b6?? { (-1.66 \u2192 2.83) Blunder. Re8 was best. } (12... Re8 13. Re1 Bf5 14. a4 Bg6 15. a5 h6 16. Nd4 c5 17. Nf3 Qf6 18. Qd5) 13. Qd5 Nc5?! { (2.94 \u2192 3.88) Inaccuracy. Bxh3 was best. } (13... Bxh3 14. gxh3 Nf6 15. Qd3 Qd7 16. Kh2 Rfe8 17. Rg1 Ne4 18. Raf1 Re7 19. Bc1) 14. Qxa8 Qf6 15. Rfe1? { (4.79 \u2192 2.64) Mistake. Qd5 was best. } (15. Qd5 Qg6 16. Ba3 Bb7 17. Qg5 Bxf3 18. Qxg6 fxg6 19. gxf3 Rxf3 20. Bxc5 bxc5) 15... Qg6?! { (2.64 \u2192 3.98) Inaccuracy. Bb7 was best. } (15... Bb7 16. Qe8 Ne6 17. Qd7 Bxf3 18. gxf3 Qg6+ 19. Kf1 Qh6 20. Re3 Qxh3+ 21. Kg1) 16. Kh2?! { (3.98 \u2192 2.70) Inaccuracy. Qd5 was best. } (16. Qd5 Bb7 17. Qd1 Ne4 18. Qe2 f5 19. Rad1 h6 20. Rd5 c5 21. Bc1 Nxc3) 16... Bxh3? { (2.70 \u2192 4.35) Mistake. Qxc2 was best. } (16... Qxc2 17. Ba3 Bb7 18. Qxa7 Bxf3 19. Bxc5 bxc5 20. Re3 Qb2 21. Rf1 Qb7 22. Qxb7) 17. Nh4 Qh6 18. Re8 Qf4+?! { (4.82 \u2192 6.64) Inaccuracy. Ne6 was best. } { Black resigns. } (18... Ne6 19. Rxf8+ Nxf8 20. Kxh3 g5 21. Kh2 Qxh4+ 22. Kg1 h5 23. Re1 Kg7 24. Qf3) 1-0: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-07 17:16:24,512 - WARNING - Login element not found for link: [Event "Rated rapid game"]
+[Site "https://lichess.org/vOp710pS"]
+[Date "2024.10.07"]
+[White "Boris09"]
+[Black "ddjmj"]
+[Result "1-0"]
+[UTCDate "2024.10.07"]
+[UTCTime "09:14:19"]
+[WhiteElo "1791"]
+[BlackElo "1764"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-14"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bc4 Nf6 5. d3 { C50 Italian Game: Giuoco Pianissimo, Italian Four Knights Variation } O-O 6. h3 Na5 7. Nxe5 d6 8. Nf3?! { (0.39 \u2192 -0.33) Inaccuracy. Ng4 was best. } (8. Ng4 Nxc4 9. dxc4 Bb4 10. f3 Bxc3+ 11. bxc3 Nh5 12. O-O Qh4) 8... Bb4?! { (-0.33 \u2192 0.67) Inaccuracy. Nxc4 was best. } (8... Nxc4 9. dxc4) 9. O-O? { (0.67 \u2192 -0.83) Mistake. Bb3 was best. } (9. Bb3 Nxb3) 9... Bxc3 10. bxc3 Nxc4 11. dxc4 Nxe4 12. Bb2?! { (-0.72 \u2192 -1.66) Inaccuracy. Re1 was best. } (12. Re1) 12... b6?? { (-1.66 \u2192 2.83) Blunder. Re8 was best. } (12... Re8 13. Re1 Bf5 14. a4 Bg6 15. a5 h6 16. Nd4 c5 17. Nf3 Qf6 18. Qd5) 13. Qd5 Nc5?! { (2.94 \u2192 3.88) Inaccuracy. Bxh3 was best. } (13... Bxh3 14. gxh3 Nf6 15. Qd3 Qd7 16. Kh2 Rfe8 17. Rg1 Ne4 18. Raf1 Re7 19. Bc1) 14. Qxa8 Qf6 15. Rfe1? { (4.79 \u2192 2.64) Mistake. Qd5 was best. } (15. Qd5 Qg6 16. Ba3 Bb7 17. Qg5 Bxf3 18. Qxg6 fxg6 19. gxf3 Rxf3 20. Bxc5 bxc5) 15... Qg6?! { (2.64 \u2192 3.98) Inaccuracy. Bb7 was best. } (15... Bb7 16. Qe8 Ne6 17. Qd7 Bxf3 18. gxf3 Qg6+ 19. Kf1 Qh6 20. Re3 Qxh3+ 21. Kg1) 16. Kh2?! { (3.98 \u2192 2.70) Inaccuracy. Qd5 was best. } (16. Qd5 Bb7 17. Qd1 Ne4 18. Qe2 f5 19. Rad1 h6 20. Rd5 c5 21. Bc1 Nxc3) 16... Bxh3? { (2.70 \u2192 4.35) Mistake. Qxc2 was best. } (16... Qxc2 17. Ba3 Bb7 18. Qxa7 Bxf3 19. Bxc5 bxc5 20. Re3 Qb2 21. Rf1 Qb7 22. Qxb7) 17. Nh4 Qh6 18. Re8 Qf4+?! { (4.82 \u2192 6.64) Inaccuracy. Ne6 was best. } { Black resigns. } (18... Ne6 19. Rxf8+ Nxf8 20. Kxh3 g5 21. Kh2 Qxh4+ 22. Kg1 h5 23. Re1 Kg7 24. Qf3) 1-0
+2024-10-07 17:17:14,923 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 17:20:07,800 - INFO - Processing link: https://www.chess.com/game/live/119940299990
+2024-10-07 17:20:14,087 - INFO - Successfully processed link: M3LSKl vs. IwverNg | Analysis - Chess.com
+2024-10-07 17:20:28,068 - INFO - Processing link: https://www.chess.com/live/119941413332
+2024-10-07 17:20:34,751 - INFO - Successfully processed link: nischals87 vs. cheeseburgergamer46 | Analysis - Chess.com
+2024-10-07 17:26:01,599 - INFO - Processing link: Check out this #chess game: vincenzo_iafelice vs CagbusMarlsen - https://www.chess.com/live/game/122035189559
+2024-10-07 17:26:08,453 - INFO - Successfully processed link: vincenzo_iafelice vs. CagbusMarlsen | Analysis - Chess.com
+2024-10-07 17:28:23,513 - INFO - Processing link: https://www.chess.com/game/live/122034590617
+2024-10-07 17:28:30,428 - INFO - Successfully processed link: Shiv180896 vs. game_re_view | Analysis - Chess.com
+2024-10-07 17:28:48,469 - INFO - Processing link: https://www.chess.com/analysis/game/live/119941635192?tab=analysis
+2024-10-07 17:28:54,488 - INFO - Successfully processed link: dimamarog vs. thenerdwood | Analysis - Chess.com
+2024-10-07 17:29:59,340 - INFO - Processing link: https://www.chess.com/live/119941599422
+2024-10-07 17:30:05,828 - INFO - Successfully processed link: cheeseburgergamer46 vs. Jordan_B_B | Analysis - Chess.com
+2024-10-07 17:31:38,498 - INFO - Processing link: https://www.chess.com/live/game/122035744233
+2024-10-07 17:31:45,542 - INFO - Successfully processed link: pradyumpal1 vs. Ali00mohmmd | Analysis - Chess.com
+2024-10-07 17:31:46,176 - INFO - Processing link: https://www.chess.com/game/live/122035720487
+2024-10-07 17:31:51,992 - INFO - Successfully processed link: Giantoknight vs. oldburt | Analysis - Chess.com
+2024-10-07 17:32:34,390 - INFO - Processing link: https://www.chess.com/analysis/game/live/122035171279?tab=analysis
+2024-10-07 17:32:40,697 - INFO - Successfully processed link: Felsefe62 vs. AgrimTheGOAT | Analysis - Chess.com
+2024-10-07 17:33:25,479 - INFO - Processing link: https://www.chess.comlive/game/119935357854
+2024-10-07 17:33:30,738 - INFO - Successfully processed link: Adham_190 vs. TheFinalOrder509 | Analysis - Chess.com
+2024-10-07 17:34:29,374 - INFO - Processing link: https://www.chess.com/analysis/game/live/119941436384?tab=review
+2024-10-07 17:34:35,118 - INFO - Successfully processed link: Drkeshuuuoo vs. tabrejahamedkhan | Analysis - Chess.com
+2024-10-07 17:34:38,058 - INFO - Processing link: Check out this #chess game: CagbusMarlsen vs AStadium - https://www.chess.com/live/game/122035768325
+2024-10-07 17:34:41,584 - INFO - Processing link: https://www.chess.com/game/live119935357854
+2024-10-07 17:34:44,219 - INFO - Successfully processed link: Play Chess Online for FREE - 2 Player Chess - Chess.com
+2024-10-07 17:34:44,327 - INFO - Successfully processed link: CagbusMarlsen vs. AStadium | Analysis - Chess.com
+2024-10-07 17:36:44,994 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 17:38:26,764 - INFO - Processing link: https://www.chess.com/game/live/119935357854
+2024-10-07 17:38:33,276 - INFO - Successfully processed link: Adham_190 vs. TheFinalOrder509 | Analysis - Chess.com
+2024-10-07 17:40:58,060 - INFO - Processing link: Check out this #chess game: Arik-arinkisi vs echecetmat56 - https://www.chess.com/live/game/122035729419
+2024-10-07 17:41:03,985 - INFO - Successfully processed link: Arik-arinkisi vs. echecetmat56 | Analysis - Chess.com
+2024-10-07 17:41:15,051 - INFO - Processing link: https://www.chess.comlive/game/119935357854
+2024-10-07 17:41:20,720 - INFO - Successfully processed link: Adham_190 vs. TheFinalOrder509 | Analysis - Chess.com
+2024-10-07 17:42:13,982 - INFO - Processing link: https://www.chess.com/analysis/game/live/119941551868?tab=analysis
+2024-10-07 17:42:20,774 - INFO - Successfully processed link: Thelegend-72 vs. Adham_190 | Analysis - Chess.com
+2024-10-07 17:42:45,082 - INFO - Processing link: \"https://www.chess.com/analysis/game/live/119941709610?
+2024-10-07 17:42:51,937 - INFO - Successfully processed link: Siddhant05022013 vs. Jackson_12345678910 | Analysis - Chess.com
+2024-10-07 17:43:29,811 - INFO - Processing link: https://www.chess.com/game/live/122035809813
+2024-10-07 17:43:36,852 - INFO - Successfully processed link: Ahmed_l0tfi vs. shivam2d | Analysis - Chess.com
+2024-10-07 17:43:52,149 - INFO - Processing link: https://www.chess.com/game/live/119900055264
+2024-10-07 17:43:59,203 - INFO - Successfully processed link: Cjz2024 vs. kushatbombay | Analysis - Chess.com
+2024-10-07 17:44:15,618 - INFO - Processing link: https://www.chess.com/live/game/119941843324
+2024-10-07 17:44:21,879 - INFO - Successfully processed link: RKM_007 vs. INF-VANSH | Analysis - Chess.com
+2024-10-07 17:44:42,359 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 17:45:05,740 - INFO - Processing link: https://www.chess.com/analysis/game/computer/166093679?tab=analysis
+2024-10-07 17:45:13,063 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-07 17:46:25,621 - INFO - Processing link: https://www.chess.com/live/game/119940483894
+2024-10-07 17:46:32,006 - INFO - Successfully processed link: INF-VANSH vs. susudancow1 | Analysis - Chess.com
+2024-10-07 17:46:51,192 - INFO - Processing link: https://www.chess.com/live/119941845714
+2024-10-07 17:46:56,905 - INFO - Successfully processed link: Sam47sa vs. cheeseburgergamer46 | Analysis - Chess.com
+2024-10-07 17:49:49,049 - INFO - Processing link: https://www.chess.com/live/game/119940442936
+2024-10-07 17:49:55,431 - INFO - Successfully processed link: ACHILLES_H3RE vs. ringolmarlon14 | Analysis - Chess.com
+2024-10-07 17:51:15,549 - INFO - Processing link: https://www.chess.com/live/game/119940681134
+2024-10-07 17:51:21,913 - INFO - Successfully processed link: sunil756kk vs. ACHILLES_H3RE | Analysis - Chess.com
+2024-10-07 17:52:01,077 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 17:52:58,413 - INFO - Processing link: https://www.chess.com/live/game/122036929113
+2024-10-07 17:53:01,896 - INFO - Processing link: https://www.chess.com/game/live/122036987285
+2024-10-07 17:53:04,691 - INFO - Successfully processed link: pressu_prassi vs. KkGta | Analysis - Chess.com
+2024-10-07 17:53:08,547 - INFO - Successfully processed link: Giantoknight vs. MrSpyc_64 | Analysis - Chess.com
+2024-10-07 17:53:53,459 - INFO - Processing link: https://www.chess.com/live/game/119940792610
+2024-10-07 17:53:59,929 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-07 17:54:00,398 - INFO - Successfully processed link: ACHILLES_H3RE vs. GuillaumeLo | Analysis - Chess.com
+2024-10-07 17:56:12,238 - INFO - Processing link: https://www.chess.com/live/game/119940945148
+2024-10-07 17:56:19,108 - INFO - Successfully processed link: randomplayer1203 vs. ACHILLES_H3RE | Analysis - Chess.com
+2024-10-07 17:57:15,099 - INFO - Processing link: github
