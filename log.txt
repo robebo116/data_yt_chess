@@ -879,3 +879,49 @@ waiting for locator("button:has-text(\"Review\")")
 2024-10-09 13:15:34,127 - INFO - Processing link: github
 2024-10-09 13:15:56,926 - INFO - Processing link: PGN PGN PGN PGN
 2024-10-09 13:16:18,882 - INFO - Processing link: github
+2024-10-09 13:16:25,191 - INFO - Processing link: https://www.chess.com/analysis/game/live/119977709678?tab=analysis
+2024-10-09 13:16:33,296 - INFO - Successfully processed link: nolialbertph vs. han07han | Analysis - Chess.com
+2024-10-09 13:17:20,875 - INFO - Processing link: Check out this #chess game: jonikupunya vs Yashwant21 - https://www.chess.com/live/game/119977727014
+2024-10-09 13:17:27,527 - INFO - Successfully processed link: jonikupunya vs. Yashwant21 | Analysis - Chess.com
+2024-10-09 13:18:22,412 - INFO - Processing link: https://www.chess.com/analysis/game/live/119977781802
+2024-10-09 13:18:29,381 - INFO - Successfully processed link: Ninjin_3005 vs. thepawnedd | Analysis - Chess.com
+2024-10-09 13:19:26,359 - INFO - Processing link: https://www.chess.com/live/game/122187536929
+2024-10-09 13:19:34,676 - INFO - Successfully processed link: Mr-KHUKURI vs. docterstranger | Analysis - Chess.com
+2024-10-09 13:19:51,457 - INFO - Processing link: Check out this #chess game: Impiousme vs Mr-KHUKURI - https://www.chess.com/live/game/122191725317https://www.chess.com/live/game/122192322335Check out this #chess game: Mr-KHUKURI vs mkroeke - https://www.chess.com/live/game/122192384011
+2024-10-09 13:19:58,573 - INFO - Successfully processed link: Impiousme vs. Mr-KHUKURI | Analysis - Chess.com
+2024-10-09 13:20:08,939 - INFO - Processing link: https://www.chess.com/game/live/119977765392
+2024-10-09 13:20:15,403 - INFO - Successfully processed link: Esdiqae vs. yuyo_walls | Analysis - Chess.com
+2024-10-09 13:20:30,891 - INFO - Processing link: Check out this #chess game: Mr-KHUKURI vs mkroeke - https://www.chess.com/live/game/122192384011
+2024-10-09 13:20:38,442 - INFO - Successfully processed link: Mr-KHUKURI vs. mkroeke | Analysis - Chess.com
+2024-10-09 13:20:41,463 - INFO - Processing link: Check out this #chess game: Mr-KHUKURI vs mkroeke - https://www.chess.com/live/game/122192384011
+2024-10-09 13:20:47,736 - INFO - Successfully processed link: Mr-KHUKURI vs. mkroeke | Analysis - Chess.com
+2024-10-09 13:21:25,818 - INFO - Processing link: Check out this #chess game: Mr-KHUKURI vs Neel_0909 - https://www.chess.com/live/game/122192322335
+2024-10-09 13:21:32,498 - INFO - Successfully processed link: Mr-KHUKURI vs. Neel_0909 | Analysis - Chess.com
+2024-10-09 13:23:33,637 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-09 13:24:06,654 - ERROR - Error in run function for link https://www.chess.com/game/119977867460: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-09 13:24:26,484 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-09 13:24:43,370 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-09 13:24:59,313 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/119977867460?tab=review: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-09 13:25:03,876 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-09 13:25:16,516 - WARNING - Error processing link r1b1kbnr/pppp1Npp/8/8/4q3/5n2/PPPPBP1P/RNBQKR2 w Qkq - 2 8: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("#board-layout-sidebar > div > div > div.sidebar-tab-content-component.sidebar-view-content > div.overview-view-container > div > section:nth-child(3) > div > div:nth-child(5) > div.tallies-new-collapse > span")
+
+2024-10-09 13:25:16,550 - WARNING - Login element not found for link: r1b1kbnr/pppp1Npp/8/8/4q3/5n2/PPPPBP1P/RNBQKR2 w Qkq - 2 8
+2024-10-09 13:25:27,729 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-09 13:25:47,698 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-09 13:26:02,088 - INFO - Processing link: https://www.chess.com/live/game/119977779702
+2024-10-09 13:26:09,252 - INFO - Successfully processed link: hoshii12 vs. idk473825 | Analysis - Chess.com
+2024-10-09 13:26:21,235 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/119977867460: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-09 13:28:37,732 - INFO - Processing link: https://www.chess.com/analysis/game/live/119977723510?tab=analysis
+2024-10-09 13:28:44,151 - INFO - Successfully processed link: Sargam_don vs. EnmanuelmejaMaria | Analysis - Chess.com
+2024-10-09 13:29:33,507 - INFO - Processing link: github
