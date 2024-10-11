@@ -3352,3 +3352,8 @@ waiting for locator("button:has-text(\"Review\")")
 
 2024-10-11 13:26:09,716 - INFO - Processing link: PGN PGN PGN PGN
 2024-10-11 13:26:39,018 - INFO - Processing link: github
+2024-10-11 13:27:19,881 - INFO - Processing link: https://www.chess.com/analysis/game/live/120016615300?tab=analysis
+2024-10-11 13:27:28,025 - INFO - Successfully processed link: vincentyak2 vs. giakhangdlk | Analysis - Chess.com
+2024-10-11 13:27:31,697 - INFO - Processing link: [Event \"Live Chess\"] [Site \"Chess.com\"] [Date \"2024.10.11\"] [Round \"-\"] [White \"anuragsingh066\"] [Black \"tejasvino\"] [Result \"1-0\"] [CurrentPosition \"rnbqkbnr/pppppQp1/8/7p/2B1p3/8/PPPP1PPP/RNB1K1NR b KQkq -\"] [Timezone \"UTC\"] [ECO \"B00\"] [ECOUrl \"https://www.chess.com/openings/Kings-Pawn-Opening-Goldsmith-Defense\"] [UTCDate \"2024.10.11\"] [UTCTime \"06:26:34\"] [WhiteElo \"702\"] [BlackElo \"676\"] [TimeControl \"600\"] [Termination \"anuragsingh066 won by checkmate\"] [StartTime \"06:26:34\"] [EndDate \"2024.10.11\"] [EndTime \"06:27:06\"] [Link \"https://www.chess.com/analysis/game/live/120016634774?tab=analysis\"] [WhiteUrl \"https://images.chesscomfiles.com/uploads/v1/user/390947339.17b171f0.50x50o.012f5323d8f9.jpg\"] [WhiteCountry \"69\"] [WhiteTitle \"\"] [BlackUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"] [BlackCountry \"69\"] [BlackTitle \"\"] 1. e4 h5 2. Bc4 f5 3. Qf3 fxe4 4. Qf7# 1-0
+2024-10-11 13:27:38,497 - INFO - Successfully processed link: anuragsingh066 vs. tejasvino | Analysis - Chess.com
+2024-10-11 13:28:10,705 - INFO - Processing link: github
