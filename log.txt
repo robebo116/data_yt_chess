@@ -2913,3 +2913,20 @@ waiting for locator("button:has-text(\"Review\")")
 2024-10-11 11:22:21,837 - INFO - Successfully processed link: Viksyyyyyy vs. kaidnxbd | Analysis - Chess.com
 2024-10-11 11:22:30,185 - INFO - Processing link: github
 2024-10-11 11:22:30,217 - INFO - Processing link: github
+2024-10-11 11:22:32,901 - ERROR - Error in run function for link github: 409 {"message": "is at 3bcb7713906d7b1ea0957e47837c92f7d354d10b but expected d1131744a4b26ebe1bb83adc46ece56d2b5c09f0", "documentation_url": "https://docs.github.com/rest/repos/contents#create-or-update-file-contents", "status": "409"}
+2024-10-11 11:22:40,708 - ERROR - Error in run function for link 1.e2: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-11 11:22:40,858 - ERROR - Error in run function for link 1.e2: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-11 11:24:29,205 - INFO - Processing link: Check out this #chess game: AdanHeinrichs vs mdbagong - https://www.chess.com/live/game/120015171518
+2024-10-11 11:24:29,307 - INFO - Processing link: Check out this #chess game: AdanHeinrichs vs mdbagong - https://www.chess.com/live/game/120015171518
+2024-10-11 11:24:36,617 - INFO - Successfully processed link: AdanHeinrichs vs. mdbagong | Analysis - Chess.com
+2024-10-11 11:24:36,790 - INFO - Successfully processed link: AdanHeinrichs vs. mdbagong | Analysis - Chess.com
+2024-10-11 11:25:42,758 - INFO - Processing link: github
+2024-10-11 11:25:43,076 - INFO - Processing link: https://www.chess.com/game/live/121534884363?username=hikaru
+2024-10-11 11:25:43,090 - INFO - Processing link: github
+2024-10-11 11:25:43,120 - INFO - Processing link: https://www.chess.com/game/live/121534884363?username=hikaru
