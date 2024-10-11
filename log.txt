@@ -2930,3 +2930,11 @@ waiting for locator("button:has-text(\"Review\")")
 2024-10-11 11:25:43,076 - INFO - Processing link: https://www.chess.com/game/live/121534884363?username=hikaru
 2024-10-11 11:25:43,090 - INFO - Processing link: github
 2024-10-11 11:25:43,120 - INFO - Processing link: https://www.chess.com/game/live/121534884363?username=hikaru
+2024-10-11 11:25:45,844 - ERROR - Error in run function for link github: 409 {"message": "log.txt does not match 4ce43d567b01ee9329ddac3096b38fafd5855fd3", "documentation_url": "https://docs.github.com/rest/repos/contents#create-or-update-file-contents", "status": "409"}
+2024-10-11 11:25:49,401 - INFO - Successfully processed link: Saxar85 vs. Hikaru | Analysis - Chess.com
+2024-10-11 11:25:49,860 - INFO - Successfully processed link: Saxar85 vs. Hikaru | Analysis - Chess.com
+2024-10-11 11:26:16,462 - INFO - Processing link: Check out this #chess game: Totoquihua vs Arik-arinkisi - https://www.chess.com/live/game/122356775111
+2024-10-11 11:26:16,464 - INFO - Processing link: Check out this #chess game: Totoquihua vs Arik-arinkisi - https://www.chess.com/live/game/122356775111
+2024-10-11 11:26:24,629 - INFO - Successfully processed link: Totoquihua vs. Arik-arinkisi | Analysis - Chess.com
+2024-10-11 11:26:24,694 - INFO - Successfully processed link: Totoquihua vs. Arik-arinkisi | Analysis - Chess.com
+2024-10-11 11:27:21,538 - INFO - Processing link: github
