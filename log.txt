@@ -3093,3 +3093,43 @@ Call log:
 waiting for locator("button:has-text(\"Review\")")
 
 2024-10-11 12:14:06,552 - INFO - Processing link: github
+2024-10-11 12:14:10,756 - ERROR - Error in run function for link 1. e2 e4: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-11 12:14:25,486 - ERROR - Error in run function for link 1e3e45: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-11 12:14:56,886 - INFO - Processing link: https://www.chess.com/live/game/120015787002
+2024-10-11 12:14:56,969 - INFO - Processing link: https://www.chess.com/live/game/120015787002
+2024-10-11 12:15:03,974 - INFO - Successfully processed link: IAmScorpionKing vs. ziddi7930 | Analysis - Chess.com
+2024-10-11 12:15:04,807 - INFO - Successfully processed link: IAmScorpionKing vs. ziddi7930 | Analysis - Chess.com
+2024-10-11 12:15:18,827 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:15:47,612 - INFO - Processing link: Check out this #chess game: yuyo_walls vs Andrey_credo - https://www.chess.com/live/game/120015644404
+2024-10-11 12:15:54,860 - INFO - Successfully processed link: yuyo_walls vs. Andrey_credo | Analysis - Chess.com
+2024-10-11 12:15:56,684 - INFO - Processing link: Check out this #chess game: mdbagong vs Farhan1442 - https://www.chess.com/live/game/120015709698
+2024-10-11 12:16:03,424 - INFO - Successfully processed link: mdbagong vs. Farhan1442 | Analysis - Chess.com
+2024-10-11 12:17:24,210 - INFO - Processing link: https://www.chess.com/analysis/game/live/119967872532?tab=analysis
+2024-10-11 12:17:31,284 - INFO - Successfully processed link: CK1407TH vs. hp21c7678 | Analysis - Chess.com
+2024-10-11 12:18:14,274 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:18:14,276 - ERROR - illegal san: 'e1' in rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 while parsing <Game at 0x1bb26e3cb80 ('?' vs. '?', '????.??.??' at '?')>
+2024-10-11 12:18:33,960 - INFO - Processing link: Check out this #chess game: Kev_Kev_H vs bhautik264 - https://www.chess.com/live/game/120015798762
+2024-10-11 12:18:40,969 - INFO - Successfully processed link: Kev_Kev_H vs. bhautik264 | Analysis - Chess.com
+2024-10-11 12:18:47,199 - ERROR - Error in run function for link 1. e1: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-11 12:18:50,706 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:18:50,707 - ERROR - illegal san: 'e1' in rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 while parsing <Game at 0x1bb2743e310 ('?' vs. '?', '????.??.??' at '?')>
+2024-10-11 12:18:57,079 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:18:57,080 - ERROR - illegal san: 'e1' in rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 while parsing <Game at 0x1bb26631be0 ('?' vs. '?', '????.??.??' at '?')>
+2024-10-11 12:19:23,567 - ERROR - Error in run function for link 1. e1: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-11 12:19:29,878 - ERROR - Error in run function for link 1. e1: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-11 12:19:31,602 - INFO - Processing link: github
