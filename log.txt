@@ -3309,3 +3309,46 @@ waiting for locator("button:has-text(\"Review\")")
 2024-10-11 13:10:08,034 - INFO - Successfully processed link: Hansaka_Nirash_De_Silva vs. vkvk1020 | Analysis - Chess.com
 2024-10-11 13:11:34,217 - INFO - Processing link: github
 2024-10-11 13:12:36,690 - INFO - Processing link: github
+2024-10-11 13:12:47,497 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 13:16:09,845 - INFO - Processing link: https://www.chess.com/game/computer/167611965
+2024-10-11 13:16:17,506 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-11 13:17:56,788 - INFO - Processing link: https://www.chess.com/live/game/122366083183
+2024-10-11 13:17:56,790 - INFO - Processing link: https://www.chess.com/live/game/122366083183
+2024-10-11 13:18:03,546 - INFO - Successfully processed link: ziddi7930 vs. rcabinci | Analysis - Chess.com
+2024-10-11 13:18:03,560 - INFO - Successfully processed link: ziddi7930 vs. rcabinci | Analysis - Chess.com
+2024-10-11 13:18:17,198 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 13:18:32,574 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 13:18:53,764 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 13:19:00,016 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 13:19:26,504 - ERROR - Error in run function for link sd: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-11 13:19:42,652 - INFO - Processing link: https://www.chess.com/analysis/game/live/120016442680?tab=analysis
+2024-10-11 13:19:49,311 - INFO - Successfully processed link: sntno24 vs. Esiri81 | Analysis - Chess.com
+2024-10-11 13:21:04,629 - INFO - Processing link: https://www.chess.com/game/live/120016342372
+2024-10-11 13:21:12,065 - INFO - Successfully processed link: Reefomoe vs. maulikv2 | Analysis - Chess.com
+2024-10-11 13:21:19,922 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 13:22:07,574 - INFO - Processing link: https://www.chess.com/live/game/120016349022
+2024-10-11 13:22:15,440 - INFO - Successfully processed link: Professor_810 vs. Sam214ah | Analysis - Chess.com
+2024-10-11 13:22:26,461 - INFO - Processing link: https://www.chess.com/analysis/game/live/120016453284?tab=analysis
+2024-10-11 13:22:33,630 - INFO - Successfully processed link: nolialbertph vs. chotu1111111 | Analysis - Chess.com
+2024-10-11 13:22:59,343 - INFO - Processing link: Check out this #chess game: sayam08 vs dkXVII - https://www.chess.com/live/game/120007007688
+2024-10-11 13:23:06,372 - INFO - Successfully processed link: sayam08 vs. dkXVII | Analysis - Chess.com
+2024-10-11 13:23:15,101 - INFO - Processing link: Check out this #chess game: Nayef0007 vs Arik-arinkisi - https://www.chess.com/live/game/122365467743
+2024-10-11 13:23:15,174 - INFO - Processing link: Check out this #chess game: Nayef0007 vs Arik-arinkisi - https://www.chess.com/live/game/122365467743
+2024-10-11 13:23:22,372 - INFO - Successfully processed link: Nayef0007 vs. Arik-arinkisi | Analysis - Chess.com
+2024-10-11 13:23:22,844 - INFO - Successfully processed link: Nayef0007 vs. Arik-arinkisi | Analysis - Chess.com
+2024-10-11 13:23:45,257 - INFO - Processing link: https://www.chess.com/analysis/game/live/121888738077?tab=analysis
+2024-10-11 13:23:53,120 - INFO - Successfully processed link: tabokanjahanam vs. vincentyak2 | Analysis - Chess.com
+2024-10-11 13:24:13,491 - INFO - Processing link: [Event \"Live Chess\"] [Site \"Chess.com\"] [Date \"2024.10.11\"] [Round \"-\"] [White \"bocilefef123\"] [Black \"anuragsingh066\"] [Result \"0-1\"] [CurrentPosition \"r6k/6r1/p4p2/1pp1p3/3pB3/5K2/PP4q1/8 w - -\"] [Timezone \"UTC\"] [ECO \"C42\"] [ECOUrl \"https://www.chess.com/openings/Petrovs-Defense-Urusov-Gambit\"] [UTCDate \"2024.10.11\"] [UTCTime \"06:11:48\"] [WhiteElo \"504\"] [BlackElo \"690\"] [TimeControl \"600\"] [Termination \"anuragsingh066 won by checkmate\"] [StartTime \"06:11:48\"] [EndDate \"2024.10.11\"] [EndTime \"06:23:49\"] [Link \"https://www.chess.com/analysis/game/live/120016462492?tab=analysis\"] [WhiteUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"] [WhiteCountry \"70\"] [WhiteTitle \"\"] [BlackUrl \"https://images.chesscomfiles.com/uploads/v1/user/390947339.17b171f0.50x50o.012f5323d8f9.jpg\"] [BlackCountry \"69\"] [BlackTitle \"\"] 1. e4 e5 2. Bc4 Nf6 3. Nf3 Nc6 4. d3 d6 5. Bg5 Be7 6. Nfd2 Bg4 7. f3 Bd7 8. f4 Bg4 9. Nf3 O-O 10. O-O h6 11. Qd2 hxg5 12. fxg5 Nh5 13. Qe3 Nb4 14. h3 Nxc2 15. hxg4 Nxe3 16. gxh5 Nxf1 17. Kxf1 Bxg5 18. Nc3 a6 19. d4 exd4 20. Nd5 b5 21. Bd3 c6 22. Nb6 Qxb6 23. e5 dxe5 24. Nxg5 c5 25. Bh7+ Kh8 26. Ke2 f6 27. Nf7+ Rxf7 28. Bg6 Rd7 29. Rh1 Qc6 30. h6 Qxg2+ 31. Ke1 Qxh1+ 32. Kf2 Qh2+ 33. Kf3 Qg1 34. hxg7+ Rxg7 35. Be4 Qg3+ 36. Ke2 Qh2+ 37. Kf3 Qg2# 0-1
+2024-10-11 13:24:20,623 - INFO - Successfully processed link: bocilefef123 vs. anuragsingh066 | Analysis - Chess.com
+2024-10-11 13:24:38,910 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 13:24:38,911 - ERROR - illegal san: 'Ke2' in rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 while parsing <Game at 0x1bb265c67c0 ('?' vs. '?', '????.??.??' at '?')>
+2024-10-11 13:24:47,224 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 13:25:12,137 - ERROR - Error in run function for link https://lichess.org/Ke2Wp3Fi/white: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-11 13:26:09,716 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 13:26:39,018 - INFO - Processing link: github
