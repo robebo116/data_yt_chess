@@ -2942,3 +2942,154 @@ waiting for locator("button:has-text(\"Review\")")
 2024-10-11 11:30:19,015 - INFO - Successfully processed link: mustafa_hilal vs. Athishay22 | Analysis - Chess.com
 2024-10-11 11:30:44,289 - INFO - Processing link: github
 2024-10-11 11:30:44,310 - INFO - Processing link: github
+2024-10-11 11:30:47,121 - ERROR - Error in run function for link github: 409 {"message": "is at 6f6b985779f1d8aace4c068c10da316b96670058 but expected 5ebe225f78873505a9d8d1c2153158ac59ff8017", "documentation_url": "https://docs.github.com/rest/repos/contents#create-or-update-file-contents", "status": "409"}
+2024-10-11 11:31:04,562 - INFO - Processing link: Check out this #chess game: mdbagong vs LowkeyyL - https://www.chess.com/live/game/120015316536
+2024-10-11 11:31:04,712 - INFO - Processing link: Check out this #chess game: mdbagong vs LowkeyyL - https://www.chess.com/live/game/120015316536
+2024-10-11 11:31:11,787 - INFO - Successfully processed link: mdbagong vs. LowkeyyL | Analysis - Chess.com
+2024-10-11 11:31:11,894 - INFO - Successfully processed link: mdbagong vs. LowkeyyL | Analysis - Chess.com
+2024-10-11 11:32:52,370 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 11:33:06,765 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 11:33:45,237 - INFO - Processing link: Check out this #chess game: mdbagong vs Patsasrinchan05 - https://www.chess.com/live/game/120015382396
+2024-10-11 11:33:51,336 - INFO - Successfully processed link: mdbagong vs. Patsasrinchan05 | Analysis - Chess.com
+2024-10-11 11:34:17,764 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 11:34:40,888 - INFO - Processing link: Check out this #chess game: mdbagong vs Patsasrinchan05 - https://www.chess.com/live/game/120015382396
+2024-10-11 11:34:43,662 - INFO - Processing link: https://www.chess.com/live/game/120015331388
+2024-10-11 11:34:47,195 - INFO - Successfully processed link: mdbagong vs. Patsasrinchan05 | Analysis - Chess.com
+2024-10-11 11:34:50,736 - INFO - Successfully processed link: James_808 vs. NandaSahib | Analysis - Chess.com
+2024-10-11 11:37:30,764 - INFO - Processing link: Check out this #chess game: miko3l vs mdbagong - https://www.chess.com/live/game/120015419750
+2024-10-11 11:37:36,087 - INFO - Processing link: https://www.chess.com/analysis/game/live/120014005294?tab=analysis
+2024-10-11 11:37:37,606 - INFO - Successfully processed link: miko3l vs. mdbagong | Analysis - Chess.com
+2024-10-11 11:37:42,912 - INFO - Successfully processed link: JimmyZhang2023 vs. ANIMESHBorah | Analysis - Chess.com
+2024-10-11 11:38:08,356 - INFO - Processing link: https://www.chess.com/live/game/120015345744
+2024-10-11 11:38:15,729 - INFO - Successfully processed link: aronbrandchess vs. ACHILLES_H3RE | Analysis - Chess.com
+2024-10-11 11:38:33,134 - INFO - Processing link: https://www.chess.com/game/live/122360337351
+2024-10-11 11:38:35,256 - INFO - Processing link: https://www.chess.com/game/live/120015357746
+2024-10-11 11:38:39,656 - INFO - Successfully processed link: Chelco28 vs. warrior_zone | Analysis - Chess.com
+2024-10-11 11:38:41,670 - INFO - Successfully processed link: Kai-Phy vs. Chandraj1965 | Analysis - Chess.com
+2024-10-11 11:38:54,859 - INFO - Processing link: fdbndbf https://www.chess.com/game/live/122359162091 dmshjh
+2024-10-11 11:39:01,076 - INFO - Successfully processed link: Saran2311 vs. Sojib1996 | Analysis - Chess.com
+2024-10-11 11:39:52,029 - INFO - Processing link: https://www.chess.com/analysis/game/live/119920305524?tab=analysis
+2024-10-11 11:39:59,117 - INFO - Successfully processed link: 0_227ln vs. JimmyZhang2023 | Analysis - Chess.com
+2024-10-11 11:40:19,337 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 11:41:00,628 - INFO - Processing link: https://www.chess.com/game/live/120015242498
+2024-10-11 11:41:02,490 - INFO - Processing link: Check out this #chess game: mdbagong vs kafkaplaychess - https://www.chess.com/live/game/120015442952
+2024-10-11 11:41:07,932 - INFO - Successfully processed link: anto039 vs. ACHILLES_H3RE | Analysis - Chess.com
+2024-10-11 11:41:09,280 - INFO - Successfully processed link: mdbagong vs. kafkaplaychess | Analysis - Chess.com
+2024-10-11 11:41:30,096 - INFO - Processing link: https://www.chess.com/live/game/122359775711
+2024-10-11 11:41:37,737 - INFO - Successfully processed link: pradyumpal1 vs. Hidubainovip | Analysis - Chess.com
+2024-10-11 11:42:45,550 - INFO - Processing link: https://www.chess.com/live/game/120015180016
+2024-10-11 11:42:52,756 - INFO - Successfully processed link: ACHILLES_H3RE vs. Kapatano | Analysis - Chess.com
+2024-10-11 11:43:24,437 - INFO - Processing link: https://www.chess.com/live/game/120015147168
+2024-10-11 11:43:31,450 - INFO - Successfully processed link: ACHILLES_H3RE vs. jeffriebuchanan | Analysis - Chess.com
+2024-10-11 11:44:57,470 - INFO - Processing link: https://www.chess.com/game/live/120014907002
+2024-10-11 11:45:05,242 - INFO - Successfully processed link: geeman777 vs. ACHILLES_H3RE | Analysis - Chess.com
+2024-10-11 11:45:28,261 - INFO - Processing link: https://www.chess.com/analysis/game/computer/167594257?tab=analysis
+2024-10-11 11:45:35,077 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-11 11:45:44,743 - INFO - Processing link: https://www.chess.com/game/live/122167144953?username=gothamchess
+2024-10-11 11:45:51,195 - INFO - Successfully processed link: GothamChess vs. ozates | Analysis - Chess.com
+2024-10-11 11:46:00,810 - INFO - Processing link: Check out this #chess game: Arik-arinkisi vs Artocillokeven - https://www.chess.com/live/game/122360360919
+2024-10-11 11:46:00,837 - INFO - Processing link: Check out this #chess game: Arik-arinkisi vs Artocillokeven - https://www.chess.com/live/game/122360360919
+2024-10-11 11:46:07,681 - INFO - Successfully processed link: Arik-arinkisi vs. Artocillokeven | Analysis - Chess.com
+2024-10-11 11:46:08,555 - INFO - Successfully processed link: Arik-arinkisi vs. Artocillokeven | Analysis - Chess.com
+2024-10-11 11:47:34,842 - INFO - Processing link: Check out this #chess game: Bender177 vs mdbagong - https://www.chess.com/live/game/120015479606
+2024-10-11 11:47:41,672 - INFO - Successfully processed link: Bender177 vs. mdbagong | Analysis - Chess.com
+2024-10-11 11:50:31,494 - INFO - Processing link: https://www.chess.com/live/game/122360952427
+2024-10-11 11:50:37,633 - INFO - Successfully processed link: ssmjalsubham vs. PanchabhaviAkshay | Analysis - Chess.com
+2024-10-11 11:51:29,842 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 11:51:47,902 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 11:51:50,944 - INFO - Processing link: Check out this #chess game: jinpachikazuya vs bhautik264 - https://www.chess.com/live/game/120015370630
+2024-10-11 11:52:00,261 - INFO - Successfully processed link: jinpachikazuya vs. bhautik264 | Analysis - Chess.com
+2024-10-11 11:52:20,545 - INFO - Processing link: https://www.chess.com/game/live/122360936083
+2024-10-11 11:52:27,532 - INFO - Successfully processed link: Babumoshaichess vs. Jescaz10 | Analysis - Chess.com
+2024-10-11 11:53:00,729 - INFO - Processing link: https://www.chess.com/live/game/122360930527
+2024-10-11 11:53:08,037 - INFO - Successfully processed link: pradyumpal1 vs. bole1992 | Analysis - Chess.com
+2024-10-11 11:53:22,430 - INFO - Processing link: https://www.chess.com/live/game/120015551574
+2024-10-11 11:53:28,769 - INFO - Successfully processed link: Electronic_EXE vs. mop666376 | Analysis - Chess.com
+2024-10-11 11:56:34,250 - INFO - Processing link: https://www.chess.com/live/game/120015293504
+2024-10-11 11:56:42,804 - INFO - Successfully processed link: Professor_810 vs. nolantaitano | Analysis - Chess.com
+2024-10-11 11:57:23,041 - INFO - Processing link: https://www.chess.com/analysis/game/computer/167596663?tab=analysis
+2024-10-11 11:57:28,307 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-11 11:58:35,471 - INFO - Processing link: https://www.chess.com/game/live/122360360683
+2024-10-11 11:58:42,949 - INFO - Successfully processed link: aswin711 vs. kaidnxbd | Analysis - Chess.com
+2024-10-11 11:58:52,465 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 11:58:56,487 - INFO - Processing link: https://www.chess.com/analysis/game/live/120015624688?tab=analysis
+2024-10-11 11:59:02,940 - INFO - Successfully processed link: suraj_jadav9 vs. rabin0282 | Analysis - Chess.com
+2024-10-11 11:59:17,021 - INFO - Processing link: https://www.chess.com/live/game/120015341994
+2024-10-11 11:59:25,118 - INFO - Successfully processed link: AQuynh001 vs. Ru5hHour | Analysis - Chess.com
+2024-10-11 11:59:48,772 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:00:27,201 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:01:14,626 - INFO - Processing link: https://www.chess.com/analysis/game/live/120015593824?tab=analysis
+2024-10-11 12:01:21,390 - INFO - Successfully processed link: waterbottlefromcube vs. ins_Aragami | Analysis - Chess.com
+2024-10-11 12:01:43,815 - INFO - Processing link: https://www.chess.com/analysis/game/computer/167597467?tab=analysis
+2024-10-11 12:01:51,511 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-11 12:02:49,059 - INFO - Processing link: https://www.chess.com/live/game/120015501288
+2024-10-11 12:02:56,271 - INFO - Successfully processed link: nolantaitano vs. Professor_810 | Analysis - Chess.com
+2024-10-11 12:03:12,796 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:03:19,347 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:07:34,121 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:07:43,998 - INFO - Processing link: https://www.chess.com/analysis/game/live/120015666764?tab=analysis
+2024-10-11 12:07:52,044 - INFO - Successfully processed link: rabin0282 vs. Myaser251 | Analysis - Chess.com
+2024-10-11 12:07:54,499 - INFO - Processing link: https://www.chess.com/game/live/122360382387
+2024-10-11 12:07:56,388 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:08:01,790 - INFO - Successfully processed link: miShivanshm vs. bhupendra0777 | Analysis - Chess.com
+2024-10-11 12:09:11,409 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:09:11,460 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:09:44,553 - ERROR - Error in run function for link rgrg: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-11 12:09:44,729 - ERROR - Error in run function for link rgrg: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-11 12:09:45,212 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:09:45,213 - ERROR - illegal san: 'e2' in rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 while parsing <Game at 0x1bb26049580 ('?' vs. '?', '????.??.??' at '?')>
+2024-10-11 12:09:45,287 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:09:45,288 - ERROR - illegal san: 'e2' in rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 while parsing <Game at 0x1bb264c1100 ('?' vs. '?', '????.??.??' at '?')>
+2024-10-11 12:09:57,491 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:09:57,510 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:10:18,431 - ERROR - Error in run function for link 1. e2 e5: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-11 12:10:18,480 - ERROR - Error in run function for link 1. e2 e5: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-11 12:10:23,078 - INFO - Processing link: https://www.chess.com/live/game/120015727888
+2024-10-11 12:10:23,107 - INFO - Processing link: https://www.chess.com/live/game/120015727888
+2024-10-11 12:10:29,855 - INFO - Successfully processed link: ziddi7930 vs. BPete | Analysis - Chess.com
+2024-10-11 12:10:30,185 - INFO - Successfully processed link: ziddi7930 vs. BPete | Analysis - Chess.com
+2024-10-11 12:12:05,980 - INFO - Processing link: https://www.chess.com/analysis/game/computer/167599601?tab=analysis
+2024-10-11 12:12:12,450 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-11 12:12:12,976 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:12:12,977 - ERROR - illegal san: 'e1' in rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1 while parsing <Game at 0x1bb26aa79a0 ('?' vs. '?', '????.??.??' at '?')>
+2024-10-11 12:12:14,634 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:12:14,635 - ERROR - illegal san: 'e1' in rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1 while parsing <Game at 0x1bb265c6ac0 ('?' vs. '?', '????.??.??' at '?')>
+2024-10-11 12:12:26,402 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:12:26,404 - ERROR - illegal san: 'e1' in rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1 while parsing <Game at 0x1bb25dc2df0 ('?' vs. '?', '????.??.??' at '?')>
+2024-10-11 12:12:45,984 - ERROR - Error in run function for link 1. e4 e1: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-11 12:12:47,674 - ERROR - Error in run function for link 1. e4 e1: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-11 12:12:59,528 - ERROR - Error in run function for link 1. e4 e1: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-11 12:13:23,029 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:13:23,030 - ERROR - illegal san: 'e2' in rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 while parsing <Game at 0x1bb2674bca0 ('?' vs. '?', '????.??.??' at '?')>
+2024-10-11 12:13:23,145 - INFO - Processing link: https://www.chess.com/analysis/game/live/120015686342?tab=review
+2024-10-11 12:13:30,947 - INFO - Successfully processed link: nolialbertph vs. ksparks_13 | Analysis - Chess.com
+2024-10-11 12:13:37,844 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:13:37,845 - ERROR - illegal san: 'e2' in rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 while parsing <Game at 0x1bb266c2850 ('?' vs. '?', '????.??.??' at '?')>
+2024-10-11 12:13:52,545 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-11 12:13:52,546 - ERROR - illegal san: '1e3' in rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 while parsing <Game at 0x1bb2612cdf0 ('?' vs. '?', '????.??.??' at '?')>
+2024-10-11 12:13:56,010 - ERROR - Error in run function for link 1. e2 e4: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button:has-text(\"Review\")")
+
+2024-10-11 12:14:06,552 - INFO - Processing link: github
