@@ -909,3 +909,163 @@ waiting for locator("button:has-text(\"Review\")")
 2024-10-12 06:11:18,901 - INFO - Processing link: https://www.chess.com/analysis/game/live/120031776824?tab=analysis
 2024-10-12 06:11:25,975 - INFO - Successfully processed link: Hollow_Corrupted vs. Jonathan119 | Analysis - Chess.com
 2024-10-12 06:11:29,465 - INFO - Processing link: github
+2024-10-12 06:15:35,958 - INFO - Processing link: https://www.chess.com/analysis/game/live/122426685257?tab=analysis
+2024-10-12 06:15:42,844 - INFO - Successfully processed link: Achamenn vs. meshooo | Analysis - Chess.com
+2024-10-12 06:17:09,719 - INFO - Processing link: https://www.chess.com/analysis/game/live/120031827824?tab=analysis
+2024-10-12 06:17:16,861 - INFO - Successfully processed link: BetoChess6 vs. a_name_again | Analysis - Chess.com
+2024-10-12 06:17:37,689 - INFO - Processing link: https://www.chess.com/analysis/game/live/120031827824?tab=analysis
+2024-10-12 06:17:39,198 - INFO - Processing link: https://www.chess.com/analysis/game/live/122427261487?tab=analysis
+2024-10-12 06:17:43,932 - INFO - Successfully processed link: BetoChess6 vs. a_name_again | Analysis - Chess.com
+2024-10-12 06:17:45,568 - INFO - Successfully processed link: lucas_259 vs. poikloworiginal | Analysis - Chess.com
+2024-10-12 06:18:26,316 - INFO - Processing link: [Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-10-11\"] [White \"aserelgendy1\"] [Black \"Hafu\"] [Result \"0-1\"] [WhiteElo \"711\"] [BlackElo \"1500\"] [TimeControl \"-\"] [Termination \"Hafu won by checkmate\"] 1. d3 d5 2. d4 b6 3. e3 Ba6 4. Bxa6 Nxa6 5. Nf3 e5 6. Nxe5 Qg5 7. Qf3 f6 8. Nc6 Kd7 9. Ne5+ fxe5 10. Qxd5+ Bd6 11. Qxa8 exd4 12. Qxa7 dxe3 13. Bxe3 Qb5 14. b3 Be5 15. c4 Qa5+ 16. Nd2 Nf6 17. Bxb6 Qxb6 18. Qxb6 cxb6 19. Rc1 Bb2 20. Rd1 Kc6 21. O-O Nb4 22. a4 Rd8 23. Nf3 Rd3 24. Ne5+ Bxe5 25. Rfe1 Bf4 26. Re6+ Bd6 27. c5 Rxd1+ 28. Re1 Rxe1# 0-1
+2024-10-12 06:18:27,300 - ERROR - Error in run function for link [Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-10-11\"] [White \"aserelgendy1\"] [Black \"Hafu\"] [Result \"0-1\"] [WhiteElo \"711\"] [BlackElo \"1500\"] [TimeControl \"-\"] [Termination \"Hafu won by checkmate\"] 1. d3 d5 2. d4 b6 3. e3 Ba6 4. Bxa6 Nxa6 5. Nf3 e5 6. Nxe5 Qg5 7. Qf3 f6 8. Nc6 Kd7 9. Ne5+ fxe5 10. Qxd5+ Bd6 11. Qxa8 exd4 12. Qxa7 dxe3 13. Bxe3 Qb5 14. b3 Be5 15. c4 Qa5+ 16. Nd2 Nf6 17. Bxb6 Qxb6 18. Qxb6 cxb6 19. Rc1 Bb2 20. Rd1 Kc6 21. O-O Nb4 22. a4 Rd8 23. Nf3 Rd3 24. Ne5+ Bxe5 25. Rfe1 Bf4 26. Re6+ Bd6 27. c5 Rxd1+ 28. Re1 Rxe1# 0-1: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "[Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-10-11\"] [White \"aserelgendy1\"] [Black \"Hafu\"] [Result \"0-1\"] [WhiteElo \"711\"] [BlackElo \"1500\"] [TimeControl \"-\"] [Termination \"Hafu won by checkmate\"] 1. d3 d5 2. d4 b6 3. e3 Ba6 4. Bxa6 Nxa6 5. Nf3 e5 6. Nxe5 Qg5 7. Qf3 f6 8. Nc6 Kd7 9. Ne5+ fxe5 10. Qxd5+ Bd6 11. Qxa8 exd4 12. Qxa7 dxe3 13. Bxe3 Qb5 14. b3 Be5 15. c4 Qa5+ 16. Nd2 Nf6 17. Bxb6 Qxb6 18. Qxb6 cxb6 19. Rc1 Bb2 20. Rd1 Kc6 21. O-O Nb4 22. a4 Rd8 23. Nf3 Rd3 24. Ne5+ Bxe5 25. Rfe1 Bf4 26. Re6+ Bd6 27. c5 Rxd1+ 28. Re1 Rxe1# 0-1", waiting until "load"
+
+2024-10-12 06:21:29,524 - INFO - Processing link: https://www.chess.com/analysis/game/live/120031891078?tab=review
+2024-10-12 06:21:36,084 - INFO - Successfully processed link: Kacenka0 vs. Hollow_Corrupted | Analysis - Chess.com
+2024-10-12 06:21:56,883 - INFO - Processing link: https://www.chess.com/analysis/game/live/120031812894?tab=analysis
+2024-10-12 06:22:03,960 - INFO - Successfully processed link: prashantwitty vs. FREDLIGHTYOUTUBE | Analysis - Chess.com
+2024-10-12 06:23:15,598 - INFO - Processing link: https://www.chess.com/analysis/game/live/120031865396?tab=analysis
+2024-10-12 06:23:23,362 - INFO - Successfully processed link: Fausto_Toscano vs. gproboy | Analysis - Chess.com
+2024-10-12 06:25:08,944 - INFO - Processing link: https://www.chess.com/analysis/game/computer/167923369?tab=analysis
+2024-10-12 06:25:15,792 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-12 06:27:59,505 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-12 06:33:07,870 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-12 06:33:52,880 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-12 06:33:54,551 - INFO - Processing link: https://www.chess.com/analysis/game/live/122215135689?tab=analysis
+2024-10-12 06:34:02,634 - INFO - Successfully processed link: murilo23212 vs. The-Juice-Is-Loose | Analysis - Chess.com
+2024-10-12 06:36:08,647 - INFO - Processing link: https://www.chess.com/analysis/game/live/120032087594?tab=analysis
+2024-10-12 06:36:15,410 - INFO - Successfully processed link: Nigelyou vs. iigor-los | Analysis - Chess.com
+2024-10-12 06:37:38,075 - INFO - Processing link: https://www.chess.com/game/live/122164757713?username=murilo23212
+2024-10-12 06:37:44,658 - INFO - Successfully processed link: soloshots vs. murilo23212 | Analysis - Chess.com
+2024-10-12 06:38:40,847 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-12 06:39:56,687 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-12 06:41:59,441 - INFO - Processing link: https://www.chess.com/analysis/game/live/122425447221?tab=analysis
+2024-10-12 06:42:07,233 - INFO - Successfully processed link: miami111 vs. karinniee | Analysis - Chess.com
+2024-10-12 06:45:48,367 - INFO - Processing link: https://www.chess.com/analysis/game/live/122381051607?tab=analysis
+2024-10-12 06:45:55,381 - INFO - Successfully processed link: karinniee vs. Gemonieva | Analysis - Chess.com
+2024-10-12 06:46:41,273 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-12 06:48:39,289 - INFO - Processing link: https://www.chess.com/analysis/game/live/77445159979?tab=analysis
+2024-10-12 06:48:47,329 - INFO - Successfully processed link: karinniee vs. slh-1 | Analysis - Chess.com
+2024-10-12 06:50:51,497 - INFO - Processing link: https://www.chess.com/analysis/game/live/77044249715?tab=analysis
+2024-10-12 06:50:57,881 - INFO - Successfully processed link: superPanda17 vs. karinniee | Analysis - Chess.com
+2024-10-12 06:51:19,014 - INFO - Processing link: https://www.chess.com/analysis/game/live/122429082237?tab=analysis
+2024-10-12 06:51:26,030 - INFO - Successfully processed link: Nelsown vs. fatihzubair | Analysis - Chess.com
+2024-10-12 06:53:02,350 - INFO - Processing link: https://www.chess.com/analysis/game/live/120032241824?tab=review
+2024-10-12 06:53:08,696 - INFO - Successfully processed link: Hollow_Corrupted vs. el_picho | Analysis - Chess.com
+2024-10-12 06:53:29,521 - INFO - Processing link: https://www.chess.com/analysis/game/live/120032238466?tab=analysis
+2024-10-12 06:53:36,347 - INFO - Successfully processed link: iigor-los vs. noved2112 | Analysis - Chess.com
+2024-10-12 06:53:51,390 - INFO - Processing link: https://www.chess.com/analysis/live/?tab=analysis
+2024-10-12 06:53:54,134 - INFO - Processing link: https://www.chess.com/analysis/game/live/76891884961?tab=analysis&move=28
+2024-10-12 06:54:00,893 - INFO - Successfully processed link: Rookieboy14 vs. karinniee | Analysis - Chess.com
+2024-10-12 06:54:01,479 - INFO - Processing link: https://www.chess.com/game/live/122429634767
+2024-10-12 06:54:23,659 - WARNING - Error processing link https://www.chess.com/analysis/live/?tab=analysis: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-10-12 06:54:23,669 - WARNING - Login element not found for link: https://www.chess.com/analysis/live/?tab=analysis
+2024-10-12 06:54:32,578 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/122429634767?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/122429634767?tab=review", waiting until "load"
+
+2024-10-12 07:00:25,582 - INFO - Processing link: https://www.chess.com/analysis/game/live/120032273852?tab=analysis
+2024-10-12 07:00:32,736 - INFO - Successfully processed link: Opossumsz vs. ricepicker13 | Analysis - Chess.com
+2024-10-12 07:02:02,264 - INFO - Processing link: https://www.chess.com/analysis/game/live/120031827824?tab=analysis
+2024-10-12 07:02:09,462 - INFO - Successfully processed link: BetoChess6 vs. a_name_again | Analysis - Chess.com
+2024-10-12 07:04:19,853 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-12 07:05:38,324 - INFO - Processing link: https://www.chess.com/analysis/game/live/120032278834?tab=review
+2024-10-12 07:05:46,782 - INFO - Successfully processed link: dflksdlfasdfasdf vs. CallMeMK22 | Analysis - Chess.com
+2024-10-12 07:08:10,518 - INFO - Processing link: https://www.chess.com/analysis/game/live/122430263429?tab=analysis
+2024-10-12 07:08:16,917 - INFO - Successfully processed link: gauthamz18 vs. Nelsown | Analysis - Chess.com
+2024-10-12 07:08:59,556 - INFO - Processing link: https://www.chess.com/analysis/game/live/122429062883?tab=analysis
+2024-10-12 07:09:06,705 - INFO - Successfully processed link: jc329 vs. shakkaaja95 | Analysis - Chess.com
+2024-10-12 07:10:52,144 - INFO - Processing link: https://www.chess.com/analysis/game/live/107367213491?tab=analysis
+2024-10-12 07:10:59,060 - INFO - Successfully processed link: raivalk vs. gioacchino1 | Analysis - Chess.com
+2024-10-12 07:15:02,331 - INFO - Processing link: https://www.chess.com/game/computer/167908365
+2024-10-12 07:15:09,471 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-12 07:16:02,919 - INFO - Processing link: https://www.chess.com/analysis/game/live/120032418766?tab=analysis
+2024-10-12 07:16:09,085 - INFO - Successfully processed link: dflksdlfasdfasdf vs. emrizy | Analysis - Chess.com
+2024-10-12 07:18:20,865 - INFO - Processing link: https://www.chess.com/analysis/game/live/120032438026?tab=review
+2024-10-12 07:18:25,476 - INFO - Processing link: https://www.chess.com/analysis/game/live/107364724833?tab=analysis
+2024-10-12 07:18:27,753 - INFO - Successfully processed link: JaneCobb vs. Hollow_Corrupted | Analysis - Chess.com
+2024-10-12 07:18:32,893 - INFO - Successfully processed link: Sichov vs. gioacchino1 | Analysis - Chess.com
+2024-10-12 07:22:49,531 - INFO - Processing link: https://www.chess.com/analysis/game/live/120032410628?tab=review
+2024-10-12 07:22:56,629 - INFO - Successfully processed link: FaminiaKean vs. Marsan41 | Analysis - Chess.com
+2024-10-12 07:37:17,909 - INFO - Processing link: Check out this #chess game: ruffattila vs Kerisbali - https://www.chess.com/live/game/120032146800
+2024-10-12 07:37:26,005 - INFO - Successfully processed link: ruffattila vs. Kerisbali | Analysis - Chess.com
+2024-10-12 07:37:36,832 - INFO - Processing link: https://www.chess.com/analysis/game/live/120032567042?tab=analysis
+2024-10-12 07:37:44,011 - INFO - Successfully processed link: dsamek2 vs. Adham_190 | Analysis - Chess.com
+2024-10-12 07:38:16,043 - INFO - Processing link: Check out this #chess game: dependscounterattact vs Kerisbali - https://www.chess.com/live/game/120032200618
+2024-10-12 07:38:23,618 - INFO - Successfully processed link: dependscounterattact vs. Kerisbali | Analysis - Chess.com
+2024-10-12 07:38:42,523 - INFO - Processing link: https://www.chess.com/game/live/122429655197
+2024-10-12 07:38:49,313 - INFO - Successfully processed link: irwinreiss vs. cavallinonegro | Analysis - Chess.com
+2024-10-12 07:43:14,846 - INFO - Processing link: https://www.chess.com/analysis/game/live/120032435834?tab=analysis
+2024-10-12 07:43:21,446 - INFO - Successfully processed link: coolerdave vs. kaito616 | Analysis - Chess.com
+2024-10-12 07:45:04,454 - INFO - Processing link: https://www.chess.com/analysis/game/live/122431486685?tab=analysis
+2024-10-12 07:45:11,806 - INFO - Successfully processed link: shakkaaja95 vs. Ben57980 | Analysis - Chess.com
+2024-10-12 07:46:16,108 - INFO - Processing link: Check out this #chess game: CallJarry vs djamellllllllll - https://www.chess.com/live/game/120032600402
+2024-10-12 07:46:23,247 - INFO - Successfully processed link: CallJarry vs. djamellllllllll | Analysis - Chess.com
+2024-10-12 07:46:36,378 - INFO - Processing link: https://www.chess.com/analysis/game/live/120032687384?tab=analysis
+2024-10-12 07:46:43,067 - INFO - Successfully processed link: Adham_190 vs. Madhava2020 | Analysis - Chess.com
+2024-10-12 07:55:24,331 - INFO - Processing link: https://www.chess.com/analysis/game/live/122432687997?tab=analysis
+2024-10-12 07:55:30,872 - INFO - Successfully processed link: Wisssnu vs. HeshaM_1973 | Analysis - Chess.com
+2024-10-12 08:01:32,507 - INFO - Processing link: https://www.chess.com/game/live/120032732474
+2024-10-12 08:01:38,990 - INFO - Successfully processed link: Marsan41 vs. Yaoselot | Analysis - Chess.com
+2024-10-12 08:03:51,154 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-12 08:12:23,217 - INFO - Processing link: Check out this #chess game: LeonZaa vs Asuna2034 - https://www.chess.com/live/game/122433256225
+2024-10-12 08:12:30,596 - INFO - Successfully processed link: LeonZaa vs. Asuna2034 | Analysis - Chess.com
+2024-10-12 08:13:25,903 - INFO - Processing link: https://www.chess.com/analysis/game/live/120032868960?tab=analysis
+2024-10-12 08:13:32,513 - INFO - Successfully processed link: SurajMhatre vs. Adham_190 | Analysis - Chess.com
+2024-10-12 08:15:19,600 - INFO - Processing link: https://www.chess.com/game/live/120032948566
+2024-10-12 08:15:25,805 - INFO - Successfully processed link: blank-e1 vs. Marsan41 | Analysis - Chess.com
+2024-10-12 08:23:49,823 - INFO - Processing link: https://www.chess.com/analysis/game/live/120033059350?tab=analysis
+2024-10-12 08:23:55,331 - INFO - Successfully processed link: prashantwitty vs. MrMoju | Analysis - Chess.com
+2024-10-12 08:24:49,654 - INFO - Processing link: https://www.chess.com/game/live/122435060105
+2024-10-12 08:24:55,989 - INFO - Successfully processed link: SVID27 vs. AponGope | Analysis - Chess.com
+2024-10-12 08:26:03,975 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-12 08:27:06,039 - INFO - Processing link: https://www.chess.com/analysis/game/computer/167951167?tab=analysis
+2024-10-12 08:27:13,873 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-12 08:31:37,317 - INFO - Processing link: https://www.chess.com/game/live/122435638813
+2024-10-12 08:31:44,084 - INFO - Successfully processed link: SVID27 vs. chico24628 | Analysis - Chess.com
+2024-10-12 08:39:10,062 - INFO - Processing link: https://www.chess.com/play/computer
+2024-10-12 08:39:12,409 - INFO - Successfully processed link: Play Chess Online Against the Computer - Chess.com
+2024-10-12 08:39:29,623 - INFO - Processing link: https://www.chess.com/game/live/122435685159
+2024-10-12 08:39:35,993 - INFO - Successfully processed link: JStrength1 vs. SVID27 | Analysis - Chess.com
+2024-10-12 08:39:59,490 - INFO - Processing link: https://www.chess.com/analysis/game/computer/167954091?tab=analysis
+2024-10-12 08:40:01,823 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-12 08:40:06,518 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-12 08:41:56,851 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-12 08:44:35,058 - INFO - Processing link: https://www.chess.com/live/game/122436237795
+2024-10-12 08:44:41,667 - INFO - Successfully processed link: Oyeseyo vs. tobiiassxx | Analysis - Chess.com
+2024-10-12 08:44:50,653 - INFO - Processing link: Check out this #chess game: Hotrod1611 vs LHS22 - https://www.chess.com/live/game/122435672863
+2024-10-12 08:44:58,176 - INFO - Successfully processed link: Hotrod1611 vs. LHS22 | Analysis - Chess.com
+2024-10-12 08:46:23,320 - INFO - Processing link: https://www.chess.com/analysis/game/live/120032952456?tab=analysis
+2024-10-12 08:46:30,550 - INFO - Successfully processed link: wayny78 vs. 6ixty9ine8oi | Analysis - Chess.com
+2024-10-12 08:46:53,513 - INFO - Processing link: https://www.chess.com/live/game/122435074415
+2024-10-12 08:47:01,400 - INFO - Successfully processed link: tobiiassxx vs. Oyeseyo | Analysis - Chess.com
+2024-10-12 08:48:14,352 - INFO - Processing link: https://www.chess.com/game/live/122436278689
+2024-10-12 08:48:21,187 - INFO - Successfully processed link: Julie_Marques vs. SVID27 | Analysis - Chess.com
+2024-10-12 08:48:51,405 - INFO - Processing link: https://www.chess.com/game/computer/167956185
+2024-10-12 08:48:57,764 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-12 08:50:30,131 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-12 08:51:24,522 - INFO - Processing link: https://www.chess.com/analysis/game/live/120033229818?tab=analysis
+2024-10-12 08:51:32,081 - INFO - Successfully processed link: elieedgar vs. CruzMoj | Analysis - Chess.com
+2024-10-12 08:52:24,465 - INFO - Processing link: https://www.chess.com/game/live/122436262235
+2024-10-12 08:52:30,760 - INFO - Successfully processed link: ChessAtoms vs. Ann-Sarah | Analysis - Chess.com
+2024-10-12 08:52:40,612 - INFO - Processing link: https://www.chess.com/analysis/game/live/120033137514?tab=analysis
+2024-10-12 08:52:47,489 - INFO - Successfully processed link: kislermate vs. IM-HELL65 | Analysis - Chess.com
+2024-10-12 08:54:55,546 - INFO - Processing link: https://www.chess.com/live/game/120033336552
+2024-10-12 08:55:01,616 - INFO - Successfully processed link: Priywrat7 vs. Putspeedy000 | Analysis - Chess.com
+2024-10-12 08:56:07,291 - INFO - Processing link: Check out this #chess game: Hotrod1611 vs CamiloAtkinson - https://www.chess.com/live/game/122436831555
+2024-10-12 08:56:13,657 - INFO - Successfully processed link: Hotrod1611 vs. CamiloAtkinson | Analysis - Chess.com
+2024-10-12 08:56:33,588 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-12 08:57:16,437 - INFO - Processing link: https://www.chess.com/analysis/game/live/122436834691?tab=review
+2024-10-12 08:57:22,684 - INFO - Successfully processed link: chowchowlovers vs. kaidnxbd | Analysis - Chess.com
+2024-10-12 09:00:45,593 - INFO - Processing link: https://www.chess.com/game/live/122437431373
+2024-10-12 09:00:50,593 - INFO - Processing link: https://www.chess.com/game/live/122416533743
+2024-10-12 09:00:52,347 - INFO - Successfully processed link: SVID27 vs. ash_58 | Analysis - Chess.com
+2024-10-12 09:00:57,662 - INFO - Successfully processed link: harshullodha vs. yehuiyu | Analysis - Chess.com
+2024-10-12 09:02:18,992 - INFO - Processing link: https://www.chess.com/game/computer/167959221
+2024-10-12 09:02:25,247 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-12 09:04:02,509 - INFO - Processing link: github
