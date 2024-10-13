@@ -1670,3 +1670,58 @@ navigating to "https://www.chess.com/analysis/game/live/120060459532?tab=review"
 2024-10-13 20:08:46,763 - INFO - Successfully processed link: GrandChart vs. PetrukSenyim | Analysis - Chess.com
 2024-10-13 20:09:00,847 - INFO - Processing link: https://www.chess.com/analysis/game/live/120060387442?tab=analysis
 2024-10-13 20:09:07,029 - INFO - Processing link: github
+2024-10-13 20:09:09,686 - INFO - Successfully processed link: NinniBoy vs. MrMan626 | Analysis - Chess.com
+2024-10-13 20:09:26,602 - INFO - Processing link: https://www.chess.com/analysis/game/daily/707092539?tab=analysis
+2024-10-13 20:09:37,454 - INFO - Successfully processed link: voanhhung2012 vs. tavion_eatsdogs | Analysis - Chess.com
+2024-10-13 20:09:47,326 - INFO - Processing link: https://www.chess.com/analysis/game/live/122563465849?tab=analysis
+2024-10-13 20:10:02,211 - INFO - Successfully processed link: UCOPL vs. ShinjiLoser | Analysis - Chess.com
+2024-10-13 20:10:14,870 - INFO - Processing link: https://www.chess.com/analysis/game/live/122563465849
+2024-10-13 20:10:19,920 - INFO - Processing link: [Event \"Live Chess\"] [Site \"Chess.com\"] [Date \"2024.10.13\"] [Round \"-\"] [White \"Cronajoe2002\"] [Black \"dai-9\"] [Result \"0-1\"] [CurrentPosition \"5rk1/pq3p1p/1p2p1p1/2p2n2/2P5/1P2P2P/P1Q2PP1/3R1K2 w - -\"] [Timezone \"UTC\"] [ECO \"E60\"] [ECOUrl \"https://www.chess.com/openings/Kings-Indian-Defense\"] [UTCDate \"2024.10.13\"] [UTCTime \"13:06:50\"] [WhiteElo \"1058\"] [BlackElo \"1069\"] [TimeControl \"300\"] [Termination \"dai-9 won - game abandoned\"] [StartTime \"13:06:50\"] [EndDate \"2024.10.13\"] [EndTime \"13:09:54\"] [Link \"https://www.chess.com/analysis/game/live/120060549470?tab=analysis\"] [WhiteUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"] [WhiteCountry \"2\"] [WhiteTitle \"\"] [BlackUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"] [BlackCountry \"149\"] [BlackTitle \"\"] 1. d4 Nf6 2. c4 g6 3. e3 Bg7 4. Nf3 O-O 5. Be2 d6 6. O-O Nc6 7. h3 e6 8. Nc3 Ne7 9. b3 b6 10. Nd2 c5 11. Bf3 Rb8 12. dxc5 dxc5 13. Bb2 Qc7 14. Qc2 Bb7 15. Bxb7 Qxb7 16. Nce4 Nxe4 17. Bxg7 Nxd2 18. Bxf8 Nxf1 19. Kxf1 Rxf8 20. Rd1 Nf5 0-1
+2024-10-13 20:10:20,614 - INFO - Processing link: https://www.chess.com/analysis/game/live/122562288859?tab=analysis
+2024-10-13 20:10:22,751 - INFO - Successfully processed link: UCOPL vs. ShinjiLoser | Analysis - Chess.com
+2024-10-13 20:10:28,763 - INFO - Successfully processed link: Cronajoe2002 vs. dai-9 | Analysis - Chess.com
+2024-10-13 20:10:30,082 - INFO - Successfully processed link: Greifswaldsinger1974 vs. turt_le420 | Analysis - Chess.com
+2024-10-13 20:10:55,606 - INFO - Processing link: https://www.chess.com/analysis/game/live/122556275709?tab=analysis
+2024-10-13 20:11:05,407 - INFO - Processing link: https://www.chess.com/play/computer
+2024-10-13 20:11:08,302 - INFO - Successfully processed link: Nik-43-1 vs. GrandChart | Analysis - Chess.com
+2024-10-13 20:11:09,637 - INFO - Successfully processed link: Play Chess Online Against the Computer - Chess.com
+2024-10-13 20:11:26,854 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-13 20:11:41,712 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-13 20:11:43,279 - INFO - Processing link: https://www.chess.com/game/120060552280live
+2024-10-13 20:11:55,896 - INFO - Successfully processed link: emerson2999 vs. BeaturKing | Analysis - Chess.com
+2024-10-13 20:11:59,434 - INFO - Processing link: https://www.chess.com/analysis/game/live/122552673029?tab=analysis
+2024-10-13 20:12:11,576 - INFO - Successfully processed link: yamtheim vs. GrandChart | Analysis - Chess.com
+2024-10-13 20:12:27,496 - INFO - Processing link: https://www.chess.com/live/game/122563523337
+2024-10-13 20:12:35,025 - INFO - Successfully processed link: edgar57 vs. KkGta | Analysis - Chess.com
+2024-10-13 20:12:40,036 - WARNING - Error processing link [Site Chess.com] [White ki1512] [Black KlgnD272] [Result ] [WhiteElo 978] [BlackElo 970] [TimeControl 180+2] 1. e4 g6 2. Nf3 Bg7 3. d4 d6 4. Be3 a6 5. Bd3 Nf6 6. Nc3 O-O 7. h3 Bd7 8. O-O e5 9. dxe5 dxe5 10. Nxe5 Nc6 11. Nxd7 Nxd7 12. a3 Bxc3 13. bxc3 Nde5 14. Rb1 b5 15. Be2 Na5 16. Bd4 Nac4 17. Bxc4 Nxc4 18. Qf3 Nxa3 19. Bc5 Nc4 20. Bxf8 Qxf8 21. Qf6 Nd2 22. f4 Nxb1 23. Rxb1 Qc5+ 24. Kh1 c6 25. e5 Rd8 26. Qxd8+ Kg7 27. Qf6+ Kg8 28. Rd1 *: Page.click: Timeout 60000ms exceeded.
+Call log:
+waiting for locator("#board-layout-sidebar > div > div > div.sidebar-tab-content-component.sidebar-view-content > div.overview-view-container > div > section:nth-child(3) > div > div:nth-child(5) > div.tallies-new-collapse > span")
+
+2024-10-13 20:12:40,044 - WARNING - Login element not found for link: [Site Chess.com] [White ki1512] [Black KlgnD272] [Result ] [WhiteElo 978] [BlackElo 970] [TimeControl 180+2] 1. e4 g6 2. Nf3 Bg7 3. d4 d6 4. Be3 a6 5. Bd3 Nf6 6. Nc3 O-O 7. h3 Bd7 8. O-O e5 9. dxe5 dxe5 10. Nxe5 Nc6 11. Nxd7 Nxd7 12. a3 Bxc3 13. bxc3 Nde5 14. Rb1 b5 15. Be2 Na5 16. Bd4 Nac4 17. Bxc4 Nxc4 18. Qf3 Nxa3 19. Bc5 Nc4 20. Bxf8 Qxf8 21. Qf6 Nd2 22. f4 Nxb1 23. Rxb1 Qc5+ 24. Kh1 c6 25. e5 Rd8 26. Qxd8+ Kg7 27. Qf6+ Kg8 28. Rd1 *
+2024-10-13 20:12:45,626 - INFO - Processing link: https://www.chess.com/analysis/game/live/120060591442?tab=analysis
+2024-10-13 20:12:53,256 - INFO - Successfully processed link: TheKrispyKween vs. sntno24 | Analysis - Chess.com
+2024-10-13 20:13:09,444 - INFO - Processing link: https://www.chess.com/analysis/game/live/122563455343?tab=analysis
+2024-10-13 20:13:15,051 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-13 20:13:19,227 - INFO - Successfully processed link: ramexh vs. Poojith24 | Analysis - Chess.com
+2024-10-13 20:15:05,588 - INFO - Processing link: https://www.chess.com/analysis/game/live/122473450609?tab=analysis
+2024-10-13 20:15:07,844 - INFO - Processing link: Check out this #chess game: anonymous_user777 vs Ratul_Mondal - https://www.chess.com/live/game/120060340646
+2024-10-13 20:15:22,536 - INFO - Successfully processed link: GrandChart vs. rendi9 | Analysis - Chess.com
+2024-10-13 20:15:27,513 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-13 20:15:32,107 - INFO - Successfully processed link: anonymous_user777 vs. Ratul_Mondal | Analysis - Chess.com
+2024-10-13 20:15:52,992 - INFO - Processing link: https://www.chess.com/game/live/120060494054
+2024-10-13 20:15:56,886 - INFO - Processing link: https://www.chess.com/analysis/game/live/122564061195?tab=review
+2024-10-13 20:16:02,828 - INFO - Processing link: https://www.chess.com/analysis/game/live/122472892887?tab=analysis
+2024-10-13 20:16:06,527 - INFO - Successfully processed link: BlackMask090 vs. UCOPL | Analysis - Chess.com
+2024-10-13 20:16:12,031 - INFO - Processing link: https://www.chess.com/analysis/game/live/122564061195?tab=review
+2024-10-13 20:16:12,332 - INFO - Successfully processed link: hairynga355 vs. HiagoRuis | Analysis - Chess.com
+2024-10-13 20:16:19,178 - INFO - Successfully processed link: leprofessionnel11 vs. GrandChart | Analysis - Chess.com
+2024-10-13 20:16:22,334 - INFO - Successfully processed link: BlackMask090 vs. UCOPL | Analysis - Chess.com
+2024-10-13 20:16:35,310 - INFO - Processing link: https://www.chess.com/game/live/122562935473
+2024-10-13 20:16:45,682 - INFO - Successfully processed link: YoPurpey vs. arfoster99 | Analysis - Chess.com
+2024-10-13 20:17:35,252 - INFO - Processing link: https://www.chess.com/game/live/122462096037?username=grandchart
+2024-10-13 20:17:47,119 - INFO - Successfully processed link: MoustafaHamayed vs. GrandChart | Analysis - Chess.com
+2024-10-13 20:17:49,438 - INFO - Processing link: Xem ván c\u1edd #: trannhatkhanh_1010 vs VUKOPINK - https://www.chess.com/live/game/122563445513
+2024-10-13 20:17:57,163 - INFO - Successfully processed link: trannhatkhanh_1010 vs. VUKOPINK | Analysis - Chess.com
+2024-10-13 20:18:50,084 - INFO - Processing link: https://www.chess.com/analysis/game/live/122468657111?tab=analysis
+2024-10-13 20:19:03,914 - INFO - Successfully processed link: sakur68 vs. GrandChart | Analysis - Chess.com
+2024-10-13 20:19:10,270 - INFO - Processing link: github
