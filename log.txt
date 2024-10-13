@@ -1586,3 +1586,87 @@ navigating to "https://www.chess.com/analysis/game/live/120059308322?tab=review"
 2024-10-13 19:49:52,933 - INFO - Successfully processed link: Tomzz112 vs. KacperPLII | Analysis - Chess.com
 2024-10-13 19:50:17,235 - INFO - Processing link: https://www.chess.com/game/live/120049921108
 2024-10-13 19:50:21,576 - INFO - Processing link: github
+2024-10-13 19:50:29,098 - INFO - Processing link: https://www.chess.com/analysis/game/live/120060160138?tab=analysis
+2024-10-13 19:50:33,612 - INFO - Successfully processed link: Ltros vs. pesmansaid | Analysis - Chess.com
+2024-10-13 19:50:34,781 - INFO - Processing link: https://www.chess.com/live/game/120060060000
+2024-10-13 19:50:43,013 - INFO - Successfully processed link: ChessXvijay vs. KMD15 | Analysis - Chess.com
+2024-10-13 19:50:45,884 - INFO - Successfully processed link: Ujjwalrazz vs. vishummm | Analysis - Chess.com
+2024-10-13 19:50:56,457 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-13 19:51:12,469 - INFO - Processing link: https://www.chess.com/live/game/120060062650
+2024-10-13 19:51:26,040 - INFO - Successfully processed link: abdullah5425 vs. Q-assyifaq | Analysis - Chess.com
+2024-10-13 19:51:40,446 - INFO - Processing link: https://www.chess.com/analysis/game/computer/168477777?tab=analysis
+2024-10-13 19:51:48,138 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-13 19:52:16,192 - INFO - Processing link: https://www.chess.com/analysis/game/live/120060213324?tab=analysis
+2024-10-13 19:52:47,245 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/120060213324?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/120060213324?tab=review", waiting until "load"
+
+2024-10-13 19:53:10,715 - INFO - Processing link: https://www.chess.com/analysis/game/live/120060284258?tab=analysis
+2024-10-13 19:53:14,085 - INFO - Processing link: Check out this #chess game: Vienna1940 vs MohRayyanEk - https://www.chess.com/live/game/120060246712
+2024-10-13 19:53:19,390 - INFO - Processing link: https://www.chess.com/game/live/122561718639
+2024-10-13 19:53:30,603 - INFO - Processing link: https://www.chess.com/analysis/game/live/120060271716?tab=analysis
+2024-10-13 19:53:31,530 - INFO - Successfully processed link: Vienna1940 vs. MohRayyanEk | Analysis - Chess.com
+2024-10-13 19:53:36,200 - INFO - Successfully processed link: Abbassol vs. YoPurpey | Analysis - Chess.com
+2024-10-13 19:53:40,514 - INFO - Successfully processed link: BobetPBZ vs. Aslana12345 | Analysis - Chess.com
+2024-10-13 19:53:41,775 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/120060284258?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/120060284258?tab=review", waiting until "load"
+
+2024-10-13 19:54:38,398 - INFO - Processing link: https://www.chess.com/game/live/122560462407
+2024-10-13 19:54:53,550 - INFO - Successfully processed link: YoPurpey vs. Abbassol | Analysis - Chess.com
+2024-10-13 19:55:04,618 - INFO - Processing link: https://www.chess.com/live/game/122562253569
+2024-10-13 19:55:14,554 - INFO - Successfully processed link: manasrawxt09 vs. Grabak | Analysis - Chess.com
+2024-10-13 19:55:15,971 - INFO - Processing link: https://www.chess.com/analysis/game/live/122553918507
+2024-10-13 19:55:23,861 - INFO - Successfully processed link: TMech68 vs. catscholar | Analysis - Chess.com
+2024-10-13 19:55:44,963 - INFO - Processing link: Check out this #chess game: bhautik264 vs IDK_WHO_U - https://www.chess.com/live/game/120060202510
+2024-10-13 19:55:56,678 - INFO - Successfully processed link: bhautik264 vs. IDK_WHO_U | Analysis - Chess.com
+2024-10-13 19:56:52,768 - INFO - Processing link: https://www.chess.com/analysis/game/live/120060121088?tab=analysis
+2024-10-13 19:57:13,112 - INFO - Successfully processed link: Nren11 vs. tanukiyay | Analysis - Chess.com
+2024-10-13 19:58:12,182 - INFO - Processing link: https://www.chess.com/live/game/120060319630
+2024-10-13 19:58:22,770 - INFO - Successfully processed link: Q-assyifaq vs. pandattack2024 | Analysis - Chess.com
+2024-10-13 19:58:55,952 - INFO - Processing link: https://www.chess.com/game/live/120060265002
+2024-10-13 19:59:10,855 - INFO - Successfully processed link: Yossefwilliam vs. Potataubach | Analysis - Chess.com
+2024-10-13 19:59:11,282 - INFO - Processing link: Check out this #chess game: thechesssterr vs 4444oq - https://www.chess.com/live/game/122562926563
+2024-10-13 19:59:18,167 - INFO - Successfully processed link: thechesssterr vs. 4444oq | Analysis - Chess.com
+2024-10-13 20:00:15,496 - INFO - Processing link: Check out this #chess game: sandeep_349 vs mikee6901 - https://www.chess.com/live/game/120060328944
+2024-10-13 20:00:29,604 - INFO - Successfully processed link: sandeep_349 vs. mikee6901 | Analysis - Chess.com
+2024-10-13 20:01:24,511 - INFO - Processing link: https://www.chess.com/game/live/122553837817
+2024-10-13 20:01:43,536 - INFO - Processing link: https://www.chess.com/game/live/120060337300
+2024-10-13 20:01:55,798 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/122553837817?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/122553837817?tab=review", waiting until "load"
+
+2024-10-13 20:02:00,237 - INFO - Successfully processed link: youssef_elkomyy vs. hairynga355 | Analysis - Chess.com
+2024-10-13 20:02:20,067 - INFO - Processing link: https://www.chess.com/analysis/game/live/122554448417?tab=analysis
+2024-10-13 20:02:35,862 - INFO - Successfully processed link: JoeDepedro vs. turt_le420 | Analysis - Chess.com
+2024-10-13 20:03:15,177 - INFO - Processing link: https://www.chess.com/analysis/game/live/122562244333?tab=analysis
+2024-10-13 20:03:18,102 - INFO - Processing link: https://www.chess.com/game/live/120060369362
+2024-10-13 20:03:37,843 - INFO - Successfully processed link: Tif890 vs. WildLynx777 | Analysis - Chess.com
+2024-10-13 20:03:41,057 - INFO - Successfully processed link: coincar vs. mohdanas1123 | Analysis - Chess.com
+2024-10-13 20:03:48,217 - INFO - Processing link: https://www.chess.com/analysis/game/live/122562875573?tab=analysis
+2024-10-13 20:03:56,056 - INFO - Successfully processed link: trynomial vs. 9KuLiX | Analysis - Chess.com
+2024-10-13 20:04:10,203 - INFO - Processing link: https://www.chess.com/live/game/120060424972
+2024-10-13 20:04:18,845 - INFO - Successfully processed link: leocoolcool vs. Q-assyifaq | Analysis - Chess.com
+2024-10-13 20:04:55,375 - INFO - Processing link: https://www.chess.com/analysis/game/live/120060355266?tab=analysis
+2024-10-13 20:05:21,976 - INFO - Successfully processed link: rasol-16 vs. Aslana12345 | Analysis - Chess.com
+2024-10-13 20:05:40,131 - INFO - Processing link: https://www.chess.com/analysis/game/live/122554517263?tab=analysis
+2024-10-13 20:05:46,363 - INFO - Processing link: https://www.chess.com/game/live/122562314259
+2024-10-13 20:05:48,260 - INFO - Successfully processed link: Burnee_0119 vs. turt_le420 | Analysis - Chess.com
+2024-10-13 20:05:56,185 - INFO - Successfully processed link: LenarHoyt vs. gokul81 | Analysis - Chess.com
+2024-10-13 20:06:49,230 - INFO - Processing link: https://www.chess.com/analysis/game/live/122558121901?tab=analysis
+2024-10-13 20:07:02,657 - INFO - Successfully processed link: turt_le420 vs. tf_rishabbb | Analysis - Chess.com
+2024-10-13 20:07:09,526 - INFO - Processing link: https://www.chess.com/game/live/122562313951
+2024-10-13 20:07:17,941 - INFO - Successfully processed link: Weg_zum_GM vs. Danilo607 | Analysis - Chess.com
+2024-10-13 20:07:26,384 - INFO - Processing link: https://www.chess.com/analysis/game/live/120047650722?tab=analysis
+2024-10-13 20:07:32,335 - INFO - Processing link: https://www.chess.com/analysis/game/live/120060459532?tab=analysis
+2024-10-13 20:07:35,870 - INFO - Successfully processed link: tchitchitayang vs. Arcbound1992 | Analysis - Chess.com
+2024-10-13 20:08:03,225 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/120060459532?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/120060459532?tab=review", waiting until "load"
+
+2024-10-13 20:08:30,077 - INFO - Processing link: https://www.chess.com/analysis/game/live/122558686199?tab=analysis
+2024-10-13 20:08:31,461 - INFO - Processing link: https://www.chess.com/analysis/game/live/122557496791?tab=analysis
+2024-10-13 20:08:38,853 - INFO - Successfully processed link: turt_le420 vs. holdenmanalu | Analysis - Chess.com
+2024-10-13 20:08:46,763 - INFO - Successfully processed link: GrandChart vs. PetrukSenyim | Analysis - Chess.com
+2024-10-13 20:09:00,847 - INFO - Processing link: https://www.chess.com/analysis/game/live/120060387442?tab=analysis
+2024-10-13 20:09:07,029 - INFO - Processing link: github
