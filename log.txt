@@ -4008,3 +4008,59 @@ waiting for locator("button.board-tab-item-component:nth-child(2)")
 2024-10-15 19:24:52,531 - INFO - Processing link: PGN PGN PGN PGN
 2024-10-15 19:25:40,703 - INFO - Processing link: PGN PGN PGN PGN
 2024-10-15 19:27:57,519 - INFO - Processing link: github
+2024-10-15 19:28:09,162 - INFO - Processing link: https://www.chess.com/live/game/122733838243
+2024-10-15 19:28:10,467 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 19:28:17,581 - INFO - Successfully processed link: KkGta vs. yaluhvac | Analysis - Chess.com
+2024-10-15 19:28:53,249 - INFO - Processing link: [Event \"Live Chess\"] [Site \"Chess.com\"] [Date \"2024.10.15\"] [Round \"-\"] [White \"catscholar\"] [Black \"Nishruti\"] [Result \"1-0\"] [CurrentPosition \"rn1q1knr/pp2bQ2/2p1Pp2/3p3p/3P1NpP/2N2P2/PPP5/R1B1K2R b KQ -\"] [Timezone \"UTC\"] [ECO \"B12\"] [ECOUrl \"https://www.chess.com/openings/Caro-Kann-Defense-Advance-Tal-Variation-4...h5-5.Bd3\"] [UTCDate \"2024.10.15\"] [UTCTime \"12:17:31\"] [WhiteElo \"1759\"] [BlackElo \"1747\"] [TimeControl \"600\"] [Termination \"catscholar won by checkmate\"] [StartTime \"12:17:31\"] [EndDate \"2024.10.15\"] [EndTime \"12:22:22\"] [Link \"https://www.chess.com/analysis/game/live/122733830451?tab=analysis\"] [WhiteUrl \"https://images.chesscomfiles.com/uploads/v1/user/271128045.1a1f4b00.50x50o.bb56df737b47.jpg\"] [WhiteCountry \"33\"] [WhiteTitle \"\"] [BlackUrl \"https://images.chesscomfiles.com/uploads/v1/user/146052207.7b9d9920.50x50o.113eed67b61b.jpeg\"] [BlackCountry \"69\"] [BlackTitle \"\"] 1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 6. Ne2 e6 7. f3 Bf5 8. Bxf5 exf5 9. Qd3 g6 10. Nbc3 Be7 11. g3 f6 12. Nf4 Kf7 13. e6+ Kg7 14. g4 fxg4 15. Qxg6+ Kf8 16. Qf7# 1-0
+2024-10-15 19:28:59,912 - INFO - Successfully processed link: catscholar vs. Nishruti | Analysis - Chess.com
+2024-10-15 19:29:13,328 - INFO - Processing link: https://www.chess.com/live/game/120098195058
+2024-10-15 19:29:20,954 - INFO - Successfully processed link: elvandre26 vs. hamoozd | Analysis - Chess.com
+2024-10-15 19:29:30,884 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 19:30:21,579 - INFO - Processing link: [Event \"Live Chess\"] [Site \"Chess.com\"] [Date \"2024.10.15\"] [Round \"-\"] [White \"catscholar\"] [Black \"IXULIXS\"] [Result \"1-0\"] [CurrentPosition \"7r/p5pp/2pk4/5p2/3Q4/3P1B2/P2r2PP/4R1K1 b - -\"] [Timezone \"UTC\"] [ECO \"B02\"] [ECOUrl \"https://www.chess.com/openings/Alekhines-Defense-Scandinavian-Variation-3.exd5\"] [UTCDate \"2024.10.15\"] [UTCTime \"09:36:40\"] [WhiteElo \"1751\"] [BlackElo \"1715\"] [TimeControl \"600\"] [Termination \"catscholar won by resignation\"] [StartTime \"09:36:40\"] [EndDate \"2024.10.15\"] [EndTime \"09:41:15\"] [Link \"https://www.chess.com/analysis/game/live/122723711335?tab=analysis\"] [WhiteUrl \"https://images.chesscomfiles.com/uploads/v1/user/271128045.1a1f4b00.50x50o.bb56df737b47.jpg\"] [WhiteCountry \"33\"] [WhiteTitle \"\"] [BlackUrl \"https://images.chesscomfiles.com/uploads/v1/user/173775557.61eec81f.50x50o.192deed53acc.jpg\"] [BlackCountry \"203\"] [BlackTitle \"\"] 1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nxd5 Qxd5 5. Nf3 Bg4 6. Be2 Nc6 7. d3 e5 8. Be3 f5 9. c4 Qa5+ 10. Bd2 Bb4 11. O-O Bxf3 12. Bxb4 Qxb4 13. Bxf3 Nd4 14. Re1 Qd6 15. Bxb7 Rb8 16. Qa4+ Kf7 17. Bd5+ Kf6 18. Rac1 Rxb2 19. f4 c6 20. fxe5+ Qxe5 21. Rxe5 Kxe5 22. Re1+ Kd6 23. Bf3 Rd2 24. c5+ Kxc5 25. Qc4+ Kd6 26. Qxd4+ 1-0
+2024-10-15 19:30:27,956 - INFO - Successfully processed link: catscholar vs. IXULIXS | Analysis - Chess.com
+2024-10-15 19:34:42,389 - INFO - Processing link: Check out this #chess game: Rohit_75 vs cheto99 - https://www.chess.com/live/game/120098260508
+2024-10-15 19:34:49,371 - INFO - Successfully processed link: Rohit_75 vs. cheto99 | Analysis - Chess.com
+2024-10-15 19:36:11,804 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 19:36:42,047 - INFO - Processing link: fgfdgdf https://www.chess.com/analysis/game/computer/169216963?tab=analysis jhjgh
+2024-10-15 19:36:49,594 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-15 19:36:53,450 - INFO - Processing link: https://www.chess.com/game/live/122576147131
+2024-10-15 19:37:00,114 - INFO - Successfully processed link: al5656 vs. polasaad | Analysis - Chess.com
+2024-10-15 19:37:03,662 - INFO - Processing link: Check out this #chess game: karimxxxuhbl vs tushardeb00000007 - https://www.chess.com/live/game/120098325224
+2024-10-15 19:37:10,247 - INFO - Successfully processed link: karimxxxuhbl vs. tushardeb00000007 | Analysis - Chess.com
+2024-10-15 19:37:30,694 - INFO - Processing link: https://www.chess.com/game/live/122576147131
+2024-10-15 19:37:36,270 - INFO - Successfully processed link: al5656 vs. polasaad | Analysis - Chess.com
+2024-10-15 19:39:50,456 - INFO - Processing link: https://www.chess.com/live/game/120098347148
+2024-10-15 19:39:56,632 - INFO - Successfully processed link: ChessSoccer40 vs. Ghilas726 | Analysis - Chess.com
+2024-10-15 19:43:11,087 - INFO - Processing link: https://www.chess.com/live/game/122734494451
+2024-10-15 19:43:18,926 - INFO - Successfully processed link: SlothofFury vs. KkGta | Analysis - Chess.com
+2024-10-15 19:44:41,137 - INFO - Processing link: https://www.chess.com/analysis/game/computer/169219227?tab=analysis
+2024-10-15 19:44:48,373 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-15 19:47:00,017 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 19:47:21,500 - INFO - Processing link: https://www.chess.com/game/live/120098598344
+2024-10-15 19:47:30,132 - INFO - Successfully processed link: Banos_Abd vs. Abd9810 | Analysis - Chess.com
+2024-10-15 19:47:39,199 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 19:47:46,355 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 19:50:37,905 - INFO - Processing link: https://www.chess.com/analysis/game/live/120098556740?tab=analysis
+2024-10-15 19:50:45,182 - INFO - Successfully processed link: nguyentienthanh124 vs. RealNom | Analysis - Chess.com
+2024-10-15 19:52:50,076 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 19:53:16,206 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 19:54:38,733 - INFO - Processing link: gfhfgh https://www.chess.com/analysis/game/computer/169222165?tab=analysis hjgj
+2024-10-15 19:54:45,438 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-15 19:54:47,130 - INFO - Processing link: Check out this #chess game: bhautik264 vs 8erta - https://www.chess.com/live/game/120098403212
+2024-10-15 19:54:51,673 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 19:54:55,192 - INFO - Successfully processed link: bhautik264 vs. 8erta | Analysis - Chess.com
+2024-10-15 19:55:48,669 - INFO - Processing link: Check out this #chess game: ki1512 vs KlimVladimir - https://www.chess.com/live/game/120073690012
+2024-10-15 19:55:56,902 - INFO - Successfully processed link: ki1512 vs. KlimVladimir | Analysis - Chess.com
+2024-10-15 19:56:42,529 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 19:57:44,417 - INFO - Processing link: Check out this #chess game: Rohit_75 vs Ayush-Choudhary-07 - https://www.chess.com/live/game/120098465936
+2024-10-15 19:57:52,665 - INFO - Successfully processed link: Rohit_75 vs. Ayush-Choudhary-07 | Analysis - Chess.com
+2024-10-15 19:59:07,812 - INFO - Processing link: fgdfgf https://www.chess.com/analysis/game/computer/169223449?tab=analysis jhgh
+2024-10-15 19:59:14,184 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-15 20:04:02,824 - INFO - Processing link: Check out this #chess game: ki1512 vs KuruTheGuru - https://www.chess.com/live/game/120073343468
+2024-10-15 20:04:13,193 - INFO - Successfully processed link: ki1512 vs. KuruTheGuru | Analysis - Chess.com
+2024-10-15 20:04:59,196 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 20:05:24,678 - INFO - Processing link: https://www.chess.com/analysis/game/computer/169225113?tab=analysis
+2024-10-15 20:05:32,460 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-15 20:10:13,417 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 20:11:18,588 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 20:12:24,651 - INFO - Processing link: github
