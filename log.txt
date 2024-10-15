@@ -3246,3 +3246,77 @@ navigating to "[Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-10-15\
 2024-10-15 07:42:38,439 - INFO - Successfully processed link: Abt68 vs. StofeI | Analysis - Chess.com
 2024-10-15 07:43:18,288 - INFO - Processing link: PGN PGN PGN PGN
 2024-10-15 07:45:35,898 - INFO - Processing link: github
+2024-10-15 07:51:27,108 - INFO - Processing link: https://www.chess.com/game/live/122691876551
+2024-10-15 07:51:27,688 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 07:51:33,436 - INFO - Successfully processed link: 4ValChu5 vs. ArthurReviso | Analysis - Chess.com
+2024-10-15 07:52:18,279 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 07:56:42,169 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 07:57:51,313 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 08:01:52,048 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 08:02:25,706 - INFO - Processing link: Check out this #chess game: the07asc vs Orangejuice3241 - https://www.chess.com/live/game/122692482225
+2024-10-15 08:02:32,473 - INFO - Successfully processed link: the07asc vs. Orangejuice3241 | Analysis - Chess.com
+2024-10-15 08:04:46,712 - INFO - Processing link: https://www.chess.com/game/live/122692474041
+2024-10-15 08:04:53,217 - INFO - Successfully processed link: Villaln101 vs. Luhks | Analysis - Chess.com
+2024-10-15 08:07:27,133 - INFO - Processing link: https://www.chess.com/game/live/120090297162
+2024-10-15 08:07:59,722 - WARNING - Error processing link https://www.chess.com/analysis/game/live/120090297162?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-10-15 08:07:59,732 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/120090297162?tab=review
+2024-10-15 08:08:12,240 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 08:11:08,149 - INFO - Processing link: https://www.chess.com/game/live/120090297162
+2024-10-15 08:11:40,652 - WARNING - Error processing link https://www.chess.com/analysis/game/live/120090297162?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-10-15 08:11:40,682 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/120090297162?tab=review
+2024-10-15 08:12:30,700 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 08:12:52,412 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 08:14:16,499 - INFO - Processing link: https://www.chess.com/analysis/game/computer/169074909?tab=analysis
+2024-10-15 08:14:23,011 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-15 08:17:32,010 - INFO - Processing link: https://www.chess.com/analysis/game/live/122691278021?tab=analysis
+2024-10-15 08:17:39,505 - INFO - Successfully processed link: cavallinonegro vs. Mariocejas | Analysis - Chess.com
+2024-10-15 08:18:13,872 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 08:19:06,739 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 08:19:19,622 - INFO - Processing link: https://www.chess.com/live/game/120090376706
+2024-10-15 08:19:27,460 - INFO - Successfully processed link: GothamCheeseaa vs. ChessXvijay | Analysis - Chess.com
+2024-10-15 08:22:41,499 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 08:29:16,156 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 08:30:28,559 - INFO - Processing link: https://www.chess.com/analysis/game/live/122692426227?tab=analysis
+2024-10-15 08:30:35,930 - INFO - Successfully processed link: Illidge-Alarcon vs. Slavoljub-DJokic552 | Analysis - Chess.com
+2024-10-15 08:33:01,579 - INFO - Processing link: https://www.chess.com/analysis/game/live/122692426227?tab=analysis
+2024-10-15 08:33:06,684 - INFO - Successfully processed link: Illidge-Alarcon vs. Slavoljub-DJokic552 | Analysis - Chess.com
+2024-10-15 08:33:09,210 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 08:34:53,304 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 08:36:56,594 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 08:40:38,229 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 08:43:08,486 - INFO - Processing link: Check out this #chess game: shmuck105 vs bhautik264 - https://www.chess.com/live/game/120090521774
+2024-10-15 08:43:15,442 - INFO - Successfully processed link: shmuck105 vs. bhautik264 | Analysis - Chess.com
+2024-10-15 08:45:09,614 - INFO - Processing link: https://www.chess.com/live/game/120090641000
+2024-10-15 08:45:15,509 - INFO - Successfully processed link: MustafaNvm0 vs. sandroyunixddd | Analysis - Chess.com
+2024-10-15 08:47:12,533 - INFO - Processing link: https://www.chess.com/live/game/120090641000
+2024-10-15 08:47:17,863 - INFO - Successfully processed link: MustafaNvm0 vs. sandroyunixddd | Analysis - Chess.com
+2024-10-15 08:49:45,951 - INFO - Processing link: https://www.chess.com/analysis/game/computer/169083513?tab=analysis
+2024-10-15 08:49:52,685 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-15 08:51:00,829 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 08:51:09,843 - INFO - Processing link: Check out this #chess game: Mahdy54 vs Hope_Of_The_Universe1 - https://www.chess.com/live/game/122686471529
+2024-10-15 08:51:17,789 - INFO - Successfully processed link: Mahdy54 vs. Hope_Of_The_Universe1 | Analysis - Chess.com
+2024-10-15 08:51:40,428 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 08:52:02,112 - INFO - Processing link: Check out this #chess game: Mahdy54 vs Hope_Of_The_Universe1 - https://www.chess.com/live/game/122685267031
+2024-10-15 08:52:08,597 - INFO - Successfully processed link: Mahdy54 vs. Hope_Of_The_Universe1 | Analysis - Chess.com
+2024-10-15 08:54:26,916 - INFO - Processing link: Check out this #chess game: Hope_Of_The_Universe1 vs Anatoni - https://www.chess.com/live/game/122649235979
+2024-10-15 08:54:33,096 - INFO - Successfully processed link: Hope_Of_The_Universe1 vs. Anatoni | Analysis - Chess.com
+2024-10-15 08:55:23,716 - INFO - Processing link: Check out this #chess game: Amitkumar05344 vs Hope_Of_The_Universe1 - https://www.chess.com/live/game/122621042643
+2024-10-15 08:55:30,637 - INFO - Successfully processed link: Amitkumar05344 vs. Hope_Of_The_Universe1 | Analysis - Chess.com
+2024-10-15 08:57:45,127 - INFO - Processing link: Check out this #chess game: Xuriel00 vs danielstan100 - https://www.chess.com/live/game/122656550221
+2024-10-15 08:57:52,213 - INFO - Successfully processed link: Xuriel00 vs. danielstan100 | Analysis - Chess.com
+2024-10-15 08:58:26,931 - INFO - Processing link: Check out this #chess game: 42I5 vs Hope_Of_The_Universe1 - https://www.chess.com/live/game/122648127511
+2024-10-15 08:58:33,921 - INFO - Successfully processed link: 42I5 vs. Hope_Of_The_Universe1 | Analysis - Chess.com
+2024-10-15 08:58:35,094 - INFO - Processing link: Check out this #chess game: MustafaNvm0 vs Musumemon - https://www.chess.com/live/game/119950494196
+2024-10-15 08:58:41,647 - INFO - Successfully processed link: MustafaNvm0 vs. Musumemon | Analysis - Chess.com
+2024-10-15 09:00:12,705 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 09:07:31,304 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 09:08:06,869 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 09:09:59,893 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-15 09:12:54,053 - INFO - Processing link: https://www.chess.com/analysis/game/live/120090793174?tab=review
+2024-10-15 09:12:55,488 - INFO - Processing link: github
