@@ -5276,3 +5276,153 @@ waiting for locator("button.board-tab-item-component:nth-child(2)")
 2024-10-16 10:00:23,603 - INFO - Successfully processed link: Shugiryu vs. chinnuwxwx | Analysis - Chess.com
 2024-10-16 17:36:45,927 - INFO - Processing link: https://www.chess.com/live/game/120112301970
 2024-10-16 17:36:55,503 - INFO - Processing link: github
+2024-10-16 17:37:25,879 - WARNING - Error processing link https://www.chess.com/analysis/game/live/120112301970?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-10-16 17:37:29,362 - INFO - Successfully logged in and saved cookies for robebo116152
+2024-10-16 17:38:10,473 - INFO - Processing link: https://www.chess.com/live/game/120112301970
+2024-10-16 17:38:14,172 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-16 17:38:18,812 - INFO - Successfully processed link: ACHILLES_H3RE vs. Puuuupok | Analysis - Chess.com
+2024-10-16 17:39:46,023 - INFO - Processing link: https://www.chess.com/live/game/120112097218
+2024-10-16 17:39:52,938 - INFO - Successfully processed link: sacha2787 vs. ACHILLES_H3RE | Analysis - Chess.com
+2024-10-16 17:40:31,607 - INFO - Processing link: Check out this #chess game: ki1512 vs Valengarag - https://www.chess.com/live/game/120104090944
+2024-10-16 17:40:37,827 - INFO - Successfully processed link: ki1512 vs. Valengarag | Analysis - Chess.com
+2024-10-16 17:40:57,311 - INFO - Processing link: https://www.chess.com/live/game/120116118496
+2024-10-16 17:41:04,677 - INFO - Successfully processed link: Shugiryu vs. PDyankov | Analysis - Chess.com
+2024-10-16 17:41:40,119 - INFO - Processing link: Check out this #chess game: wentot vs Mynk_Jn - https://www.chess.com/live/game/120116093776
+2024-10-16 17:41:47,465 - INFO - Successfully processed link: wentot vs. Mynk_Jn | Analysis - Chess.com
+2024-10-16 17:43:27,790 - INFO - Processing link: https://www.chess.com/game/live/122813710457
+2024-10-16 17:43:34,344 - INFO - Successfully processed link: EvanGODSONJoy vs. Regis666999br | Analysis - Chess.com
+2024-10-16 17:45:35,386 - INFO - Processing link: https://www.chess.com/game/live/122813710457
+2024-10-16 17:45:40,905 - INFO - Successfully processed link: EvanGODSONJoy vs. Regis666999br | Analysis - Chess.com
+2024-10-16 17:46:52,026 - INFO - Processing link: Check out this #chess game: Mynk_Jn vs mhsn1z - https://www.chess.com/live/game/120116264326
+2024-10-16 17:46:57,936 - INFO - Successfully processed link: Mynk_Jn vs. mhsn1z | Analysis - Chess.com
+2024-10-16 17:47:19,029 - INFO - Processing link: Check out this #chess game: SillyBalloon vs bhautik264 - https://www.chess.com/live/game/120116041318
+2024-10-16 17:47:26,292 - INFO - Successfully processed link: SillyBalloon vs. bhautik264 | Analysis - Chess.com
+2024-10-16 17:47:42,285 - INFO - Processing link: Check out this #chess game: lalchu_da_004 vs Ratul_Mondal - https://www.chess.com/live/game/122787839213
+2024-10-16 17:47:48,755 - INFO - Successfully processed link: lalchu_da_004 vs. Ratul_Mondal | Analysis - Chess.com
+2024-10-16 17:49:36,754 - INFO - Processing link: Check out this #chess game: Ratul_Mondal vs lalchu_da_004 - https://www.chess.com/live/game/122786680173
+2024-10-16 17:49:43,205 - INFO - Successfully processed link: Ratul_Mondal vs. lalchu_da_004 | Analysis - Chess.com
+2024-10-16 17:49:59,366 - INFO - Processing link: https://www.chess.com/live/game/120116112854
+2024-10-16 17:50:06,403 - INFO - Successfully processed link: YAZHIT vs. Mugiwar_ya | Analysis - Chess.com
+2024-10-16 17:50:50,309 - INFO - Processing link: Check out this #chess game: lalchu_da_004 vs Ratul_Mondal - https://www.chess.com/live/game/122789053551
+2024-10-16 17:50:58,397 - INFO - Successfully processed link: lalchu_da_004 vs. Ratul_Mondal | Analysis - Chess.com
+2024-10-16 17:53:26,568 - INFO - Processing link: Check out this #chess game: stolhaj vs Mynk_Jn - https://www.chess.com/live/game/120116354010
+2024-10-16 17:53:33,601 - INFO - Successfully processed link: stolhaj vs. Mynk_Jn | Analysis - Chess.com
+2024-10-16 17:55:20,916 - INFO - Processing link: Check out this #chess game: SURESH_143K vs Ratul_Mondal - https://www.chess.com/live/game/120112670282
+2024-10-16 17:55:27,566 - INFO - Successfully processed link: SURESH_143K vs. Ratul_Mondal | Analysis - Chess.com
+2024-10-16 17:57:20,843 - INFO - Processing link: https://www.chess.com/game/live/122814867165
+2024-10-16 17:57:28,352 - INFO - Successfully processed link: duszeczeekk vs. Sathishyenugula | Analysis - Chess.com
+2024-10-16 17:57:32,692 - INFO - Processing link: https://www.chess.com/game/live/120116343908
+2024-10-16 17:57:39,311 - INFO - Successfully processed link: arngaladiyar vs. Elolo76 | Analysis - Chess.com
+2024-10-16 17:57:55,706 - INFO - Processing link: Check out this #chess game: Ratul_Mondal vs GabrielGTRES - https://www.chess.com/live/game/120112609796
+2024-10-16 17:58:02,325 - INFO - Successfully processed link: Ratul_Mondal vs. GabrielGTRES | Analysis - Chess.com
+2024-10-16 17:58:56,129 - INFO - Processing link: Check out this #chess game: Ratul_Mondal vs turjo12tu - https://www.chess.com/live/game/120113623030
+2024-10-16 17:59:02,773 - INFO - Successfully processed link: Ratul_Mondal vs. turjo12tu | Analysis - Chess.com
+2024-10-16 17:59:32,531 - INFO - Processing link: https://www.chess.com/analysis/game/live/122814897549?tab=analysis
+2024-10-16 17:59:39,373 - INFO - Successfully processed link: craic853 vs. RelaxFlavio | Analysis - Chess.com
+2024-10-16 18:02:04,900 - INFO - Processing link: Check out this #chess game: Ratul_Mondal vs ColbyMakaba - https://www.chess.com/live/game/120114242712
+2024-10-16 18:02:12,534 - INFO - Successfully processed link: Ratul_Mondal vs. ColbyMakaba | Analysis - Chess.com
+2024-10-16 18:03:12,936 - INFO - Processing link: Check out this #chess game: Skenderbeg99 vs Ratul_Mondal - https://www.chess.com/live/game/120114472744
+2024-10-16 18:03:20,640 - INFO - Successfully processed link: Skenderbeg99 vs. Ratul_Mondal | Analysis - Chess.com
+2024-10-16 18:03:41,800 - INFO - Processing link: https://www.chess.com/analysis/game/live/122815474935?tab=analysis
+2024-10-16 18:03:48,803 - INFO - Successfully processed link: RelaxFlavio vs. amarjena | Analysis - Chess.com
+2024-10-16 18:06:02,468 - INFO - Processing link: //www.chess.com/live/game/122811915767
+2024-10-16 18:06:10,192 - INFO - Successfully processed link: yusuf38383 vs. Vishnu000 | Analysis - Chess.com
+2024-10-16 18:06:22,972 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-16 18:07:22,716 - INFO - Processing link: https://www.chess.com/live/game/122815432229
+2024-10-16 18:07:29,461 - INFO - Successfully processed link: Mahmoudfb vs. tobiiassxx | Analysis - Chess.com
+2024-10-16 18:08:06,606 - INFO - Processing link: Check out this #chess game: Ratul_Mondal vs alfredo110566 - https://www.chess.com/live/game/120115892924
+2024-10-16 18:08:12,634 - INFO - Successfully processed link: Ratul_Mondal vs. alfredo110566 | Analysis - Chess.com
+2024-10-16 18:08:22,060 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-16 18:09:36,552 - INFO - Processing link: Check out this #chess game: Sujit92sil vs Ratul_Mondal - https://www.chess.com/live/game/120115949548
+2024-10-16 18:09:43,049 - INFO - Successfully processed link: Sujit92sil vs. Ratul_Mondal | Analysis - Chess.com
+2024-10-16 18:10:36,935 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-16 18:10:55,695 - INFO - Processing link: Check out this #chess game: Bepo-One vs FakeSasuke_plays_chess - https://www.chess.com/live/game/120116453096
+2024-10-16 18:11:04,320 - INFO - Successfully processed link: Bepo-One vs. FakeSasuke_plays_chess | Analysis - Chess.com
+2024-10-16 18:11:43,859 - INFO - Processing link: Check out this #chess game: Ratul_Mondal vs MickEvans2910 - https://www.chess.com/live/game/120116235310
+2024-10-16 18:11:50,360 - INFO - Successfully processed link: Ratul_Mondal vs. MickEvans2910 | Analysis - Chess.com
+2024-10-16 18:12:16,470 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-16 18:12:18,611 - INFO - Processing link: https://www.chess.com/live/game/120116433772
+2024-10-16 18:12:26,105 - INFO - Successfully processed link: NuArtisan vs. ahmad_r008 | Analysis - Chess.com
+2024-10-16 18:12:37,884 - INFO - Processing link: https://www.chess.com/analysis/game/live/120116591414?tab=analysis
+2024-10-16 18:12:44,963 - INFO - Successfully processed link: Gold-Tyson vs. Onabean123 | Analysis - Chess.com
+2024-10-16 18:13:02,100 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-16 18:13:22,819 - INFO - Processing link: https://www.chess.com/live/game/120116438086
+2024-10-16 18:13:24,687 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-16 18:13:31,131 - INFO - Successfully processed link: Ghilas726 vs. id-Palocsay | Analysis - Chess.com
+2024-10-16 18:14:07,845 - INFO - Processing link: https://www.chess.com/game/live/122815517643
+2024-10-16 18:14:15,171 - INFO - Successfully processed link: GetRoyalForkedBozo vs. viktornomer1 | Analysis - Chess.com
+2024-10-16 18:15:54,183 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-16 18:16:01,255 - INFO - Processing link: https://www.chess.com/analysis/game/live/122816099067?tab=analysis
+2024-10-16 18:16:09,374 - INFO - Successfully processed link: RelaxFlavio vs. zmrs | Analysis - Chess.com
+2024-10-16 18:16:59,310 - INFO - Processing link: https://www.chess.com/live/game/120116325252
+2024-10-16 18:17:05,278 - INFO - Successfully processed link: Ghilas726 vs. Kashwin0 | Analysis - Chess.com
+2024-10-16 18:20:42,095 - INFO - Processing link: Check out this #chess game: jacks9876 vs Mynk_Jn - https://www.chess.com/live/game/120116478882
+2024-10-16 18:20:49,614 - INFO - Successfully processed link: jacks9876 vs. Mynk_Jn | Analysis - Chess.com
+2024-10-16 18:21:07,231 - INFO - Processing link: https://www.chess.com/live/game/120116609320
+2024-10-16 18:21:15,329 - INFO - Successfully processed link: noobJC vs. Shugiryu | Analysis - Chess.com
+2024-10-16 18:21:29,444 - INFO - Processing link: https://www.chess.com/analysis/game/computer/169544211?tab=analysis
+2024-10-16 18:21:31,577 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-16 18:21:35,270 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-16 18:22:26,081 - INFO - Processing link: https://www.chess.com/analysis/game/live/120116628150?tab=analysis
+2024-10-16 18:22:33,898 - INFO - Successfully processed link: alifameer vs. appledub | Analysis - Chess.com
+2024-10-16 18:22:37,556 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-16 18:23:03,739 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-16 18:23:12,998 - INFO - Processing link: https://www.chess.com/analysis/game/live/122811883653?tab=analysis
+2024-10-16 18:23:23,548 - INFO - Successfully processed link: PajaronBRILLIANT vs. Homma1 | Analysis - Chess.com
+2024-10-16 18:23:39,162 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-16 18:24:52,941 - INFO - Processing link: https://www.chess.com/analysis/game/live/122815496769?tab=analysis
+2024-10-16 18:25:00,248 - INFO - Successfully processed link: Sanu9128 vs. Wladimir1974 | Analysis - Chess.com
+2024-10-16 18:27:34,941 - INFO - Processing link: https://www.chess.com/analysis/game/live/120116767240?tab=analysis
+2024-10-16 18:27:41,838 - INFO - Successfully processed link: kotoyomo vs. darkangelwee | Analysis - Chess.com
+2024-10-16 18:28:16,355 - INFO - Processing link: Check out this #chess game: GTRmessi vs kardomril - https://www.chess.com/live/game/122805251583
+2024-10-16 18:28:23,686 - INFO - Successfully processed link: GTRmessi vs. kardomril | Analysis - Chess.com
+2024-10-16 18:28:30,329 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-16 18:30:35,020 - INFO - Processing link: Check out this #chess game: kardomril vs Vedantchouhan - https://www.chess.com/live/game/122804046607
+2024-10-16 18:30:41,687 - INFO - Successfully processed link: kardomril vs. Vedantchouhan | Analysis - Chess.com
+2024-10-16 18:31:11,147 - INFO - Processing link: https://www.chess.com/analysis/game/live/120116879646?tab=analysis
+2024-10-16 18:31:17,314 - INFO - Successfully processed link: Ramsjag1 vs. IlyshaGoryachev | Analysis - Chess.com
+2024-10-16 18:32:41,892 - INFO - Processing link: https://www.chess.com/analysis/game/live/120116850622?tab=analysis
+2024-10-16 18:32:48,715 - INFO - Successfully processed link: EzhilP vs. Ansari332 | Analysis - Chess.com
+2024-10-16 18:33:04,996 - INFO - Processing link: https://www.chess.com/analysis/game/live/120116850978?tab=analysis
+2024-10-16 18:33:11,825 - INFO - Successfully processed link: harmaierik vs. Poojith24 | Analysis - Chess.com
+2024-10-16 18:33:54,299 - INFO - Processing link: Check out this #chess game: Emperorkenobi vs kardomril - https://www.chess.com/live/game/122799897887
+2024-10-16 18:34:00,339 - INFO - Successfully processed link: Emperorkenobi vs. kardomril | Analysis - Chess.com
+2024-10-16 18:34:51,535 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-16 18:35:50,699 - INFO - Processing link: Check out this #chess game: agimula vs kardomril - https://www.chess.com/live/game/122796848825
+2024-10-16 18:35:57,235 - INFO - Successfully processed link: agimula vs. kardomril | Analysis - Chess.com
+2024-10-16 18:35:57,667 - INFO - Processing link: https://www.chess.com/analysis/game/live/122809450617?tab=review
+2024-10-16 18:36:04,120 - INFO - Successfully processed link: AlDeek96 vs. CrazySiergiej | Analysis - Chess.com
+2024-10-16 18:39:34,263 - INFO - Processing link: https://www.chess.com/live/game/120116986436
+2024-10-16 18:39:40,816 - INFO - Successfully processed link: Fayed3050 vs. Nesso17 | Analysis - Chess.com
+2024-10-16 18:40:47,025 - INFO - Processing link: https://www.chess.com/analysis/game/daily/712762677?tab=analysis
+2024-10-16 18:40:53,087 - INFO - Successfully processed link: IHI13 vs. Amazingzizo | Analysis - Chess.com
+2024-10-16 18:40:58,067 - INFO - Processing link: Check out this #chess game: Vishnu000 vs au2mi - https://www.chess.com/live/game/122817287271
+2024-10-16 18:41:05,346 - INFO - Successfully processed link: Vishnu000 vs. au2mi | Analysis - Chess.com
+2024-10-16 18:41:20,991 - INFO - Processing link: Check out this #chess game: kardomril vs Farrel28ni - https://www.chess.com/live/game/122799276655
+2024-10-16 18:41:28,108 - INFO - Successfully processed link: kardomril vs. Farrel28ni | Analysis - Chess.com
+2024-10-16 18:43:50,244 - INFO - Processing link: https://www.chess.com/live/game/120117122708
+2024-10-16 18:43:56,532 - INFO - Successfully processed link: Mugiwar_ya vs. checkplayer99 | Analysis - Chess.com
+2024-10-16 18:44:43,595 - INFO - Processing link: Check out this #chess game: alekseiM1973 vs kardomril - https://www.chess.com/live/game/122729098367
+2024-10-16 18:44:47,169 - INFO - Processing link: https://www.chess.com/analysis/game/live/120116927688?tab=analysis
+2024-10-16 18:44:50,701 - INFO - Successfully processed link: alekseiM1973 vs. kardomril | Analysis - Chess.com
+2024-10-16 18:44:54,499 - INFO - Successfully processed link: qirzx vs. bangjangggg | Analysis - Chess.com
+2024-10-16 18:45:29,730 - INFO - Processing link: https://www.chess.com/analysis/game/live/122817886279?tab=review
+2024-10-16 18:45:36,978 - INFO - Successfully processed link: RelaxFlavio vs. bazola | Analysis - Chess.com
+2024-10-16 18:46:13,963 - INFO - Processing link: https://www.chess.com/live/game/120117145368
+2024-10-16 18:46:14,768 - INFO - Processing link: https://www.chess.com/analysis/game/live/120117062118?tab=analysis
+2024-10-16 18:46:20,901 - INFO - Successfully processed link: Roninlondon vs. Fayed3050 | Analysis - Chess.com
+2024-10-16 18:46:22,412 - INFO - Successfully processed link: Sudhanshu_1256 vs. nobody2557 | Analysis - Chess.com
+2024-10-16 18:46:50,298 - INFO - Processing link: https://www.chess.com/game/live/122817835341
+2024-10-16 18:46:56,842 - INFO - Successfully processed link: chesslege_1 vs. Dantes2100 | Analysis - Chess.com
+2024-10-16 18:48:58,488 - INFO - Processing link: Check out this #chess game: uran202 vs 4444oq - https://www.chess.com/live/game/122817245207
+2024-10-16 18:49:06,560 - INFO - Successfully processed link: uran202 vs. 4444oq | Analysis - Chess.com
+2024-10-16 18:49:37,543 - INFO - Processing link: https://www.chess.com/game/live/122817296209
+2024-10-16 18:49:44,284 - INFO - Successfully processed link: alleswasser vs. Miki_02 | Analysis - Chess.com
+2024-10-16 18:50:05,723 - INFO - Processing link: Check out this #chess game: Serologe vs Vishnu000 - https://www.chess.com/live/game/122750148301
+2024-10-16 18:50:13,076 - INFO - Successfully processed link: Serologe vs. Vishnu000 | Analysis - Chess.com
+2024-10-16 18:53:01,181 - INFO - Processing link: https://www.chess.com/live/game/120117201502
+2024-10-16 18:53:08,279 - INFO - Successfully processed link: Mugiwar_ya vs. anzorrooo | Analysis - Chess.com
+2024-10-16 18:56:06,166 - INFO - Processing link: github
