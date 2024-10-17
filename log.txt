@@ -1721,3 +1721,1343 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-10-17 14:09:19,986 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/122887429905?tab=review
 2024-10-17 14:09:25,011 - INFO - Processing link: https://www.chess.com/game/live/122887429905
 2024-10-17 14:09:31,579 - INFO - Processing link: github
+2024-10-17 14:09:40,255 - WARNING - Error processing link https://www.chess.com/analysis/game/live/120122267902?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-10-17 14:09:40,266 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/120122267902?tab=review
+2024-10-17 14:09:56,483 - WARNING - Error processing link [Event "Live Chess"] [Site "Chess.com"] [Date "2024.10.17"] [Round "-"] [White "Cavid329"] [Black "SaifAlfifi"] [Result "1-0"] [CurrentPosition "2k1Q3/ppp2ppp/3b4/8/8/8/PPqN1K1P/R1B5 b - -"] [Timezone "UTC"] [ECO "C22"] [ECOUrl "https://www.chess.com/openings/Center-Game-Accepted-Paulsen-Attack"] [UTCDate "2024.10.17"] [UTCTime "06:36:20"] [WhiteElo "993"] [BlackElo "963"] [TimeControl "300"] [Termination "Cavid329 won by checkmate"] [StartTime "06:36:20"] [EndDate "2024.10.17"] [EndTime "06:39:31"] [Link "https://www.chess.com/analysis/game/live/120132658672?tab=analysis"] [WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/392483017.ff249173.50x50o.afa834e75c9d.jpg"] [WhiteCountry "156"] [WhiteTitle ""] [BlackUrl "https://images.chesscomfiles.com/uploads/v1/user/226117799.0aa05c26.50x50o.d7cc2121e663.jpg"] [BlackCountry "123"] [BlackTitle ""] 1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 d6 5. Qf3 Qf6 6. Qd1 Be6 7. f4 O-O-O 8. Nf3 Bg4 9. e5 dxe5 10. fxe5 Nxe5 11. Qe2 Bxf3 12. gxf3 Nxf3+ 13. Kf2 Qh4+ 14. Kxf3 Bd6 15. Bg2 Nf6 16. Qb5 Qg4+ 17. Kf2 Ne4+ 18. Bxe4 Qxe4 19. Re1 Qxc2+ 20. Nd2 Rhe8 21. Rxe8 Rxe8 22. Qxe8# 1-0: Page.click: Timeout 60000ms exceeded.
+Call log:
+waiting for locator(".chevron-down")
+
+2024-10-17 14:09:56,493 - WARNING - Login element not found for link: [Event "Live Chess"] [Site "Chess.com"] [Date "2024.10.17"] [Round "-"] [White "Cavid329"] [Black "SaifAlfifi"] [Result "1-0"] [CurrentPosition "2k1Q3/ppp2ppp/3b4/8/8/8/PPqN1K1P/R1B5 b - -"] [Timezone "UTC"] [ECO "C22"] [ECOUrl "https://www.chess.com/openings/Center-Game-Accepted-Paulsen-Attack"] [UTCDate "2024.10.17"] [UTCTime "06:36:20"] [WhiteElo "993"] [BlackElo "963"] [TimeControl "300"] [Termination "Cavid329 won by checkmate"] [StartTime "06:36:20"] [EndDate "2024.10.17"] [EndTime "06:39:31"] [Link "https://www.chess.com/analysis/game/live/120132658672?tab=analysis"] [WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/392483017.ff249173.50x50o.afa834e75c9d.jpg"] [WhiteCountry "156"] [WhiteTitle ""] [BlackUrl "https://images.chesscomfiles.com/uploads/v1/user/226117799.0aa05c26.50x50o.d7cc2121e663.jpg"] [BlackCountry "123"] [BlackTitle ""] 1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 d6 5. Qf3 Qf6 6. Qd1 Be6 7. f4 O-O-O 8. Nf3 Bg4 9. e5 dxe5 10. fxe5 Nxe5 11. Qe2 Bxf3 12. gxf3 Nxf3+ 13. Kf2 Qh4+ 14. Kxf3 Bd6 15. Bg2 Nf6 16. Qb5 Qg4+ 17. Kf2 Ne4+ 18. Bxe4 Qxe4 19. Re1 Qxc2+ 20. Nd2 Rhe8 21. Rxe8 Rxe8 22. Qxe8# 1-0
+2024-10-17 14:09:59,116 - WARNING - Error processing link https://www.chess.com/analysis/game/live/122887429905?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-10-17 14:09:59,125 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/122887429905?tab=review
+2024-10-17 14:10:16,079 - WARNING - Error processing link 1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. c3 Qf6 5. f3 Qe7 6. Nh3 Nf6 7. O-O d5 8. e5 Nfd7 9. f4 f6 10. f5 exf5 11. Bxf5 g6 12. exf6 Nxf6 13. Re1 Ne4 14. Bxe4 Kd8 15. Bxd5 Qe6 16. Bxe6 1-0: Page.click: Timeout 60000ms exceeded.
+Call log:
+waiting for locator(".chevron-down")
+
+2024-10-17 14:10:16,088 - WARNING - Login element not found for link: 1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. c3 Qf6 5. f3 Qe7 6. Nh3 Nf6 7. O-O d5 8. e5 Nfd7 9. f4 f6 10. f5 exf5 11. Bxf5 g6 12. exf6 Nxf6 13. Re1 Ne4 14. Bxe4 Kd8 15. Bxd5 Qe6 16. Bxe6 1-0
+2024-10-17 14:10:44,609 - INFO - Processing link: https://www.chess.com/live/game/120132961004
+2024-10-17 14:11:18,208 - WARNING - Error processing link https://www.chess.com/analysis/game/live/120132961004?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-10-17 14:11:18,218 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/120132961004?tab=review
+2024-10-17 14:11:18,641 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 14:12:05,984 - INFO - Processing link: https://www.chess.com/game/live/122887429905
+2024-10-17 14:12:11,871 - INFO - Processing link: https://www.chess.com/game/live/120132908030
+2024-10-17 14:12:22,736 - WARNING - Error processing link 1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. c3 Qf6 5. f3 Qe7 6. Nh3 Nf6 7. O-O d5 8. e5 Nfd7 9. f4 f6 10. f5 exf5 11. Bxf5 g6 12. exf6 Nxf6 13. Re1 Ne4 14. Bxe4 Kd8 15. Bxd5 Qe6 16. Bxe6 1-0: Page.click: Timeout 60000ms exceeded.
+Call log:
+waiting for locator(".chevron-down")
+
+2024-10-17 14:12:22,744 - WARNING - Login element not found for link: 1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. c3 Qf6 5. f3 Qe7 6. Nh3 Nf6 7. O-O d5 8. e5 Nfd7 9. f4 f6 10. f5 exf5 11. Bxf5 g6 12. exf6 Nxf6 13. Re1 Ne4 14. Bxe4 Kd8 15. Bxd5 Qe6 16. Bxe6 1-0
+2024-10-17 14:12:39,531 - WARNING - Error processing link https://www.chess.com/analysis/game/live/122887429905?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-10-17 14:12:39,544 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/122887429905?tab=review
+2024-10-17 14:12:45,035 - WARNING - Error processing link https://www.chess.com/analysis/game/live/120132908030?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-10-17 14:12:45,048 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/120132908030?tab=review
+2024-10-17 14:14:06,753 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 14:14:16,962 - INFO - Processing link: https://www.chess.com/analysis/game/live/120132940132?tab=analysis
+2024-10-17 14:14:50,422 - WARNING - Error processing link https://www.chess.com/analysis/game/live/120132940132?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-10-17 14:14:50,429 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/120132940132?tab=review
+2024-10-17 14:14:59,749 - INFO - Processing link: https://www.chess.com/analysis/game/live/120132940132?tab=analysis
+2024-10-17 14:15:05,129 - INFO - Processing link: https://www.chess.com/game/live/120267025921
+2024-10-17 14:15:09,795 - WARNING - Error processing link 1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. c3 Qf6 5. f3 Qe7 6. Nh3 Nf6 7. O-O d5 8. e5 Nfd7 9. f4 f6 10. f5 exf5 11. Bxf5 g6 12. exf6 Nxf6 13. Re1 Ne4 14. Bxe4 Kd8 15. Bxd5 Qe6 16. Bxe6 1-0: Page.click: Timeout 60000ms exceeded.
+Call log:
+waiting for locator(".chevron-down")
+
+2024-10-17 14:15:09,806 - WARNING - Login element not found for link: 1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. c3 Qf6 5. f3 Qe7 6. Nh3 Nf6 7. O-O d5 8. e5 Nfd7 9. f4 f6 10. f5 exf5 11. Bxf5 g6 12. exf6 Nxf6 13. Re1 Ne4 14. Bxe4 Kd8 15. Bxd5 Qe6 16. Bxe6 1-0
+2024-10-17 14:15:33,107 - WARNING - Error processing link https://www.chess.com/analysis/game/live/120132940132?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-10-17 14:15:33,118 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/120132940132?tab=review
+2024-10-17 14:15:38,732 - WARNING - Error processing link https://www.chess.com/analysis/game/live/120267025921?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-10-17 14:15:38,742 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/120267025921?tab=review
+2024-10-17 14:16:03,742 - INFO - Processing link: Check out this #chess game: Vishnu000 vs wandi1210 - https://www.chess.com/live/game/122888037531
+2024-10-17 14:16:10,306 - INFO - Processing link: https://www.chess.com/live/game/122887441529
+2024-10-17 14:16:29,787 - INFO - Processing link: restart:robebo018,Dinhvanvinh116
+2024-10-17 14:16:33,831 - INFO - Successfully logged in and saved cookies for robebo018
+2024-10-17 14:16:35,751 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 14:16:35,951 - INFO - Processing link: Check out this #chess game: Vishnu000 vs wandi1210 - https://www.chess.com/live/game/122888037531
+2024-10-17 14:16:36,594 - WARNING - Error processing link https://www.chess.com/analysis/game/live/122888037531?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-10-17 14:16:36,608 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/122888037531?tab=review
+2024-10-17 14:16:40,780 - INFO - Successfully processed link: Vishnu000 vs. wandi1210 | Analysis - Chess.com
+2024-10-17 14:16:43,875 - WARNING - Error processing link https://www.chess.com/analysis/game/live/122887441529?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-10-17 14:16:43,885 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/122887441529?tab=review
+2024-10-17 14:16:55,744 - INFO - Processing link: https://www.chess.com/analysis/game/live/120132940132?tab=analysis
+2024-10-17 14:17:04,012 - INFO - Successfully processed link: SakethVemula_1905 vs. Raju9515867009 | Analysis - Chess.com
+2024-10-17 14:17:06,408 - INFO - Processing link: https://www.chess.com/analysis/game/live/120133041580?tab=analysis
+2024-10-17 14:17:12,641 - INFO - Successfully processed link: berg381 vs. bsycho | Analysis - Chess.com
+2024-10-17 14:17:15,617 - INFO - Processing link: Check out this #chess game: Vishnu000 vs wandi1210 - https://www.chess.com/live/game/122888037531
+2024-10-17 14:17:22,339 - INFO - Successfully processed link: Vishnu000 vs. wandi1210 | Analysis - Chess.com
+2024-10-17 14:17:24,337 - INFO - Processing link: https://www.chess.com/analysis/game/live/120122267902?tab=analysis
+2024-10-17 14:17:31,016 - INFO - Successfully processed link: dumbLittleJared vs. ki1512 | Analysis - Chess.com
+2024-10-17 14:17:39,914 - ERROR - Error in run function for link 1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. c3 Qf6 5. f3 Qe7 6. Nh3 Nf6 7. O-O d5 8. e5 Nfd7 9. f4 f6 10. f5 exf5 11. Bxf5 g6 12. exf6 Nxf6 13. Re1 Ne4 14. Bxe4 Kd8 15. Bxd5 Qe6 16. Bxe6 1-0: Page.click: Timeout 60000ms exceeded.
+Call log:
+waiting for locator("button.board-tab-item-component:nth-child(2)")
+
+2024-10-17 14:17:45,861 - INFO - Processing link: https://www.chess.com/live/game/120133071142
+2024-10-17 14:17:51,548 - INFO - Processing link: https://www.chess.com/game/live/120267025921
+2024-10-17 14:17:51,773 - INFO - Successfully processed link: Sergio199424 vs. ahmad_r008 | Analysis - Chess.com
+2024-10-17 14:17:58,212 - INFO - Successfully processed link: ilikechessandyou2 vs. MARKOVICj | Analysis - Chess.com
+2024-10-17 14:18:28,796 - INFO - Processing link: Check out this #chess game: heheIAmSattu vs MisterZhu - https://www.chess.com/live/game/120132940710
+2024-10-17 14:18:35,546 - INFO - Successfully processed link: heheIAmSattu vs. MisterZhu | Analysis - Chess.com
+2024-10-17 14:20:33,738 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 14:21:20,786 - INFO - Processing link: https://www.chess.com/live/game/120133082370
+2024-10-17 14:21:28,385 - INFO - Successfully processed link: JasperNorlander vs. guimell0w | Analysis - Chess.com
+2024-10-17 14:21:40,607 - INFO - Processing link: https://www.chess.com/analysis/game/live/120133100958?tab=analysis
+2024-10-17 14:21:48,046 - INFO - Successfully processed link: Gagahaba vs. Yoga_1437 | Analysis - Chess.com
+2024-10-17 14:22:19,722 - INFO - Processing link: https://www.chess.com/analysis/game/live/120133102720?tab=analysis
+2024-10-17 14:22:26,412 - INFO - Successfully processed link: Eaarlzx vs. mamoradi96 | Analysis - Chess.com
+2024-10-17 14:23:44,882 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 14:24:01,849 - INFO - Processing link: https://www.chess.com/analysis/game/live/120133149954?tab=analysis
+2024-10-17 14:24:09,601 - INFO - Successfully processed link: bsycho vs. its_me2525 | Analysis - Chess.com
+2024-10-17 14:24:13,139 - INFO - Processing link: https://www.chess.com/analysis/game/live/120133054530
+2024-10-17 14:24:20,761 - INFO - Successfully processed link: mamoradi96 vs. Eaarlzx | Analysis - Chess.com
+2024-10-17 14:24:53,139 - INFO - Processing link: https://www.chess.com/analysis/game/live/120132983244?tab=analysis
+2024-10-17 14:25:00,074 - INFO - Successfully processed link: Eaarlzx vs. mamoradi96 | Analysis - Chess.com
+2024-10-17 14:25:12,538 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 14:26:11,065 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 14:27:38,693 - WARNING - Error processing link 1. e4 e5 2. Nf3 d6 3. h3 Be7 4. d4 exd4 5. Nxd4 Nf6 6. Bd3 O-O 7. Qf3 Nbd7 8. Nc3 Ne5 9. Qg3 Nh5 10. Qh2 Nxd3+ 11. cxd3 Bf6 12. Nde2 Be5 13. Qg1 Qf6 14. Nd5 Qd8 15. d4 c6 16. Ndc3 Bf6 17. g4 Qb6 18. gxh5 Bxd4 19. Nxd4 Qxd4 20. h6 g6 21. Be3 Qb4 22. O-O-O 1-0: Page.click: Timeout 60000ms exceeded.
+Call log:
+waiting for locator("span.game-controls-secondary-button-icon.icon-font-chess.share")
+  -   locator resolved to <span class="game-controls-secondary-button-icon icon-font-chess share"></span>
+  - attempting click action
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #1
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #2
+  -   waiting 20ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #3
+  -   waiting 100ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #4
+  -   waiting 100ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #5
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #6
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #7
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #8
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #9
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #10
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #11
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #12
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #13
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #14
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #15
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #16
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #17
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #18
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #19
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #20
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #21
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #22
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #23
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #24
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #25
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #26
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #27
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #28
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #29
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #30
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #31
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #32
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #33
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #34
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #35
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #36
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #37
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #38
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #39
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #40
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #41
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #42
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #43
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #44
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #45
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #46
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #47
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #48
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #49
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #50
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #51
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #52
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #53
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #54
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #55
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #56
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #57
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #58
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #59
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #60
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #61
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #62
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #63
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #64
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #65
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #66
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #67
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #68
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #69
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #70
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #71
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #72
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #73
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #74
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #75
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #76
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #77
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #78
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #79
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #80
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #81
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #82
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #83
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #84
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #85
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #86
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #87
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #88
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #89
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #90
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #91
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #92
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #93
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #94
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #95
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #96
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #97
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #98
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #99
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #100
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #101
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #102
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #103
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #104
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #105
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #106
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #107
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #108
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #109
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #110
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #111
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #112
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #113
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #114
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <span class="">1</span> from <div data-v-app="" id="toaster-center">…</div> subtree intercepts pointer events
+  - retrying click action, attempt #115
+  -   waiting 500ms
+
+2024-10-17 14:27:38,701 - WARNING - Login element not found for link: 1. e4 e5 2. Nf3 d6 3. h3 Be7 4. d4 exd4 5. Nxd4 Nf6 6. Bd3 O-O 7. Qf3 Nbd7 8. Nc3 Ne5 9. Qg3 Nh5 10. Qh2 Nxd3+ 11. cxd3 Bf6 12. Nde2 Be5 13. Qg1 Qf6 14. Nd5 Qd8 15. d4 c6 16. Ndc3 Bf6 17. g4 Qb6 18. gxh5 Bxd4 19. Nxd4 Qxd4 20. h6 g6 21. Be3 Qb4 22. O-O-O 1-0
+2024-10-17 14:28:25,800 - INFO - Processing link: https://www.chess.com/analysis/game/live/120132979440?tab=analysis
+2024-10-17 14:28:33,485 - INFO - Successfully processed link: freddy_123456 vs. CoupledWithSheerIndefatig | Analysis - Chess.com
+2024-10-17 14:28:50,056 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 14:28:54,420 - INFO - Processing link: https://www.chess.com/live/game/122888083271
+2024-10-17 14:29:01,648 - INFO - Processing link: https://www.chess.com/live/game/122888663775
+2024-10-17 14:29:02,842 - INFO - Successfully processed link: PanchabhaviAkshay vs. Swaroopkar | Analysis - Chess.com
+2024-10-17 14:29:09,993 - INFO - Successfully processed link: FL1 vs. ziddi7930 | Analysis - Chess.com
+2024-10-17 14:29:43,527 - INFO - Processing link: https://www.chess.com/live/game/120133139422
+2024-10-17 14:29:50,151 - INFO - Successfully processed link: kjuygnk vs. ahmad_r008 | Analysis - Chess.com
+2024-10-17 14:30:34,858 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 14:32:21,857 - INFO - Processing link: https://www.chess.com/analysis/game/computer/169918317?tab=analysis
+2024-10-17 14:32:30,279 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-17 14:32:36,813 - INFO - Processing link: https://www.chess.com/game/live/122888640331
+2024-10-17 14:32:44,793 - INFO - Successfully processed link: ilikechessandyou2 vs. ABORGONIO | Analysis - Chess.com
+2024-10-17 14:37:23,491 - INFO - Processing link: https://www.chess.com/live/game/122889260045
+2024-10-17 14:37:31,308 - INFO - Successfully processed link: ziddi7930 vs. Koekoek3 | Analysis - Chess.com
+2024-10-17 14:38:37,650 - INFO - Processing link: Check out this #chess game: aserelgendy1 vs DannyDitto - https://www.chess.com/live/game/120114881842
+2024-10-17 14:38:44,382 - INFO - Successfully processed link: aserelgendy1 vs. DannyDitto | Analysis - Chess.com
+2024-10-17 14:42:43,414 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 14:43:05,548 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 14:45:39,281 - INFO - Processing link: https://www.chess.com/analysis/game/live/122888050173?tab=analysis
+2024-10-17 14:45:46,294 - INFO - Successfully processed link: Bouin420 vs. Karanyuugh | Analysis - Chess.com
+2024-10-17 14:46:15,750 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 14:46:17,625 - INFO - Processing link: https://www.chess.com/game/live/122889858863
+2024-10-17 14:46:24,273 - INFO - Successfully processed link: baibhav025 vs. mohammadBhrchess | Analysis - Chess.com
+2024-10-17 14:47:57,759 - INFO - Processing link: Check out this #chess game: TtdaROOK vs berdzena33 - https://www.chess.com/live/game/120093513110
+2024-10-17 14:48:05,504 - INFO - Successfully processed link: TtdaROOK vs. berdzena33 | Analysis - Chess.com
+2024-10-17 14:50:40,402 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 14:51:08,466 - INFO - Processing link: https://www.chess.com/live/game/122889288659
+2024-10-17 14:51:15,546 - INFO - Successfully processed link: PanchabhaviAkshay vs. Swaroopkar | Analysis - Chess.com
+2024-10-17 14:51:22,706 - INFO - Processing link: https://www.chess.com/live/game/122886857285
+2024-10-17 14:51:24,057 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 14:51:29,731 - INFO - Successfully processed link: KikiS73 vs. GreatGothamChess | Analysis - Chess.com
+2024-10-17 14:52:32,174 - INFO - Processing link: https://www.chess.com/live/game/120133462784
+2024-10-17 14:52:39,059 - INFO - Successfully processed link: krishrs1234 vs. ChessXvijay | Analysis - Chess.com
+2024-10-17 14:52:46,471 - INFO - Processing link: Check out this #chess game: adiearjuna vs melvinbaon - https://www.chess.com/live/game/122889888943
+2024-10-17 14:52:54,056 - INFO - Successfully processed link: adiearjuna vs. melvinbaon | Analysis - Chess.com
+2024-10-17 14:52:55,347 - INFO - Processing link: https://www.chess.com/game/live/120132960100
+2024-10-17 14:53:02,139 - INFO - Successfully processed link: Tanmay-99 vs. Aftab1999 | Analysis - Chess.com
+2024-10-17 14:55:16,485 - INFO - Processing link: Check out this #chess game: BotakBerjubah1 vs Ratul_Mondal - https://www.chess.com/live/game/120133429874
+2024-10-17 14:55:23,824 - INFO - Successfully processed link: BotakBerjubah1 vs. Ratul_Mondal | Analysis - Chess.com
+2024-10-17 14:55:51,549 - INFO - Processing link: https://www.chess.com/game/live/120133495856
+2024-10-17 14:55:58,525 - INFO - Successfully processed link: RAMGIBAZZ vs. hyamknu | Analysis - Chess.com
+2024-10-17 14:56:56,938 - INFO - Processing link: https://www.chess.com/game/live/120132684012
+2024-10-17 14:57:03,247 - INFO - Successfully processed link: cristinel1986 vs. Tanmay-99 | Analysis - Chess.com
+2024-10-17 14:57:24,627 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 14:58:37,213 - INFO - Processing link: https://www.chess.com/game/live/120132527040
+2024-10-17 14:58:43,810 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 14:58:43,816 - INFO - Successfully processed link: Tanmay-99 vs. lomelii28 | Analysis - Chess.com
+2024-10-17 15:00:26,634 - INFO - Processing link: https://www.chess.com/analysis/game/live/120133112488?tab=analysis
+2024-10-17 15:00:33,312 - INFO - Successfully processed link: johnneros vs. zainhussain12345 | Analysis - Chess.com
+2024-10-17 15:00:51,395 - INFO - Processing link: https://www.chess.com/game/live/120132340542
+2024-10-17 15:00:57,971 - INFO - Successfully processed link: Ephrawilliams vs. Tanmay-99 | Analysis - Chess.com
+2024-10-17 15:01:30,175 - INFO - Processing link: https://www.chess.com/analysis/game/live/120133407856?tab=analysis
+2024-10-17 15:01:38,549 - INFO - Successfully processed link: CoupledWithSheerIndefatig vs. Ignaciodi1 | Analysis - Chess.com
+2024-10-17 15:01:57,918 - INFO - Processing link: https://www.chess.com/game/live/122889847821
+2024-10-17 15:02:04,678 - INFO - Successfully processed link: super_dumb_boy vs. Checkmate19951 | Analysis - Chess.com
+2024-10-17 15:02:55,859 - INFO - Processing link: Check out this #chess game: AslanVadisi vs Anaf78 - https://www.chess.com/live/game/122890503513
+2024-10-17 15:03:09,049 - INFO - Successfully processed link: AslanVadisi vs. Anaf78 | Analysis - Chess.com
+2024-10-17 15:03:15,489 - INFO - Processing link: https://www.chess.com/analysis/game/live/120133440276?tab=analysis
+2024-10-17 15:03:22,485 - INFO - Successfully processed link: avinash1234555 vs. zainhussain12345 | Analysis - Chess.com
+2024-10-17 15:03:23,767 - INFO - Processing link: Check out this #chess game: Ratul_Mondal vs lucho288 - https://www.chess.com/live/game/120133629856
+2024-10-17 15:03:30,442 - INFO - Successfully processed link: Ratul_Mondal vs. lucho288 | Analysis - Chess.com
+2024-10-17 15:05:13,632 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 15:06:27,936 - INFO - Processing link: https://www.chess.com/live/game/120133568826
+2024-10-17 15:06:34,238 - INFO - Processing link: Jetez un coup d\'œil à cette partie #chess #échecs : RickShow7 contre WarlordAshish - https://www.chess.com/live/game/120133593990
+2024-10-17 15:06:35,430 - INFO - Successfully processed link: ChessXvijay vs. Isaacenzo | Analysis - Chess.com
+2024-10-17 15:06:41,305 - INFO - Processing link: https://www.chess.com/analysis/game/live/120133611752?tab=analysis
+2024-10-17 15:06:41,944 - INFO - Successfully processed link: RickShow7 vs. WarlordAshish | Analysis - Chess.com
+2024-10-17 15:06:48,507 - INFO - Successfully processed link: BadDavva vs. 0Salty0 | Analysis - Chess.com
+2024-10-17 15:07:03,291 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 15:07:05,282 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 15:07:45,483 - INFO - Processing link: https://www.chess.com/live/game/120133501600
+2024-10-17 15:07:56,191 - INFO - Successfully processed link: Rishaaann vs. sugandh707 | Analysis - Chess.com
+2024-10-17 15:08:21,755 - INFO - Processing link: Check out this #chess game: aserelgendy1 vs RubenGee - https://www.chess.com/live/game/120133646330
+2024-10-17 15:08:29,397 - INFO - Successfully processed link: aserelgendy1 vs. RubenGee | Analysis - Chess.com
+2024-10-17 15:08:53,235 - INFO - Processing link: https://www.chess.com/game/live/120133631016
+2024-10-17 15:09:00,754 - INFO - Successfully processed link: RAMGIBAZZ vs. Heisohaib | Analysis - Chess.com
+2024-10-17 15:09:27,338 - INFO - Processing link: https://www.chess.com/live/game/120133626906
+2024-10-17 15:09:35,139 - INFO - Successfully processed link: ChessXvijay vs. GABOTARZAN21 | Analysis - Chess.com
+2024-10-17 15:10:14,285 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 15:10:34,708 - INFO - Processing link: https://www.chess.com/analysis/game/computer/169925011?tab=analysis
+2024-10-17 15:10:42,048 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-17 15:11:34,947 - INFO - Processing link: https://www.chess.com/live/game/122891031089
+2024-10-17 15:11:41,595 - INFO - Successfully processed link: Gabboiele vs. giogi538 | Analysis - Chess.com
+2024-10-17 15:11:47,060 - INFO - Processing link: https://www.chess.com/live/game/122891031089
+2024-10-17 15:11:52,752 - INFO - Successfully processed link: Gabboiele vs. giogi538 | Analysis - Chess.com
+2024-10-17 15:12:27,363 - INFO - Processing link: https://www.chess.com/game/live/122890461639
+2024-10-17 15:12:34,978 - INFO - Successfully processed link: meh2jjj vs. GurpartapSran | Analysis - Chess.com
+2024-10-17 15:13:02,643 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 15:13:26,991 - INFO - Processing link: https://www.chess.com/live/game/120133760410
+2024-10-17 15:13:37,161 - INFO - Successfully processed link: ChessXvijay vs. Bang_Jack94 | Analysis - Chess.com
+2024-10-17 15:14:51,194 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 15:15:45,542 - INFO - Processing link: https://www.chess.com/live/game/122457255607
+2024-10-17 15:15:52,834 - INFO - Successfully processed link: tanu4851va vs. Arbaz028 | Analysis - Chess.com
+2024-10-17 15:17:01,093 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 15:17:41,685 - INFO - Processing link: https://www.chess.com/game/live/122891048379
+2024-10-17 15:17:48,080 - INFO - Successfully processed link: benedict_snu vs. Saran2311 | Analysis - Chess.com
+2024-10-17 15:18:03,441 - INFO - Processing link: https://www.chess.com/live/game/122457255607
+2024-10-17 15:18:09,047 - INFO - Successfully processed link: tanu4851va vs. Arbaz028 | Analysis - Chess.com
+2024-10-17 15:20:01,132 - INFO - Processing link: https://www.chess.com/live/game/120133803700
+2024-10-17 15:20:08,862 - INFO - Successfully processed link: ChessXvijay vs. Mansur_spd | Analysis - Chess.com
+2024-10-17 15:20:24,879 - INFO - Processing link: https://www.chess.com/live/game/121946959447
+2024-10-17 15:20:32,110 - INFO - Successfully processed link: Arbaz028 vs. tanu4851va | Analysis - Chess.com
+2024-10-17 15:20:39,302 - INFO - Processing link: https://www.chess.com/analysis/game/live/120128221140?tab=analysis
+2024-10-17 15:20:46,195 - INFO - Successfully processed link: JCMougin vs. M1nex_off | Analysis - Chess.com
+2024-10-17 15:21:10,713 - INFO - Processing link: https://www.chess.com/game/live/120133248964
+2024-10-17 15:21:16,015 - INFO - Processing link: https://www.chess.com/game/live/120132176670
+2024-10-17 15:21:16,518 - INFO - Successfully processed link: Prottoy999 vs. nist3x | Analysis - Chess.com
+2024-10-17 15:21:17,906 - INFO - Processing link: https://www.chess.com/game/live/120133747504
+2024-10-17 15:21:23,145 - INFO - Successfully processed link: vineel_69 vs. Tanmay-99 | Analysis - Chess.com
+2024-10-17 15:21:24,810 - INFO - Successfully processed link: Kang_ezi_chess1 vs. RAMGIBAZZ | Analysis - Chess.com
+2024-10-17 15:22:11,427 - INFO - Processing link: https://www.chess.com/game/live/122889259233
+2024-10-17 15:22:19,257 - INFO - Successfully processed link: brunzo71 vs. footskin | Analysis - Chess.com
+2024-10-17 15:22:50,723 - INFO - Processing link: https://www.chess.com/game/live/122890437011
+2024-10-17 15:22:57,601 - INFO - Successfully processed link: Quantamania099 vs. ehabsaid74 | Analysis - Chess.com
+2024-10-17 15:23:07,647 - INFO - Processing link: https://www.chess.com/live/game/121946405953
+2024-10-17 15:23:13,834 - INFO - Successfully processed link: tanu4851va vs. Arbaz028 | Analysis - Chess.com
+2024-10-17 15:23:37,015 - INFO - Processing link: https://www.chess.com/game/live/122891079711
+2024-10-17 15:23:43,822 - INFO - Successfully processed link: tejash1976 vs. footskin | Analysis - Chess.com
+2024-10-17 15:24:01,980 - INFO - Processing link: https://www.chess.com/live/game/122892229311
+2024-10-17 15:24:08,969 - INFO - Successfully processed link: Rand0m_number_generat0r vs. ziddi7930 | Analysis - Chess.com
+2024-10-17 15:24:29,667 - INFO - Processing link: https://www.chess.com/live/game/121945743125
+2024-10-17 15:24:36,672 - INFO - Successfully processed link: Arbaz028 vs. tanu4851va | Analysis - Chess.com
+2024-10-17 15:25:08,375 - INFO - Processing link: https://www.chess.com/analysis/game/live/120133890136?tab=analysis
+2024-10-17 15:25:14,628 - INFO - Successfully processed link: KhnhThin vs. vincentyak2 | Analysis - Chess.com
+2024-10-17 15:25:29,328 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 15:26:02,665 - INFO - Processing link: https://www.chess.com/live/game/120133791914
+2024-10-17 15:26:10,760 - INFO - Successfully processed link: Bananaco5 vs. Rishaaann | Analysis - Chess.com
+2024-10-17 15:26:14,225 - INFO - Processing link: www.chess.com/live/game/122892232835
+2024-10-17 15:26:20,716 - INFO - Successfully processed link: giogi538 vs. Gabboiele | Analysis - Chess.com
+2024-10-17 15:28:09,323 - INFO - Processing link: Check out this #chess game: Anaf78 vs ranj354 - https://www.chess.com/live/game/122891104547
+2024-10-17 15:28:16,526 - INFO - Successfully processed link: Anaf78 vs. ranj354 | Analysis - Chess.com
+2024-10-17 15:30:18,553 - INFO - Processing link: https://www.chess.com/game/live/122892258119
+2024-10-17 15:30:25,104 - INFO - Successfully processed link: CagnotteMoule vs. GurpartapSran | Analysis - Chess.com
+2024-10-17 15:30:55,384 - INFO - Processing link: https://www.chess.com/game/live/122892226697
+2024-10-17 15:31:03,142 - INFO - Successfully processed link: Hope_Of_The_Universe1 vs. Mr_Prabhat_07 | Analysis - Chess.com
+2024-10-17 15:31:50,126 - INFO - Processing link: Check out this #chess game: Mayur_kulkarnii vs Chees_Noob02002 - https://www.chess.com/live/game/122892285755
+2024-10-17 15:31:57,244 - INFO - Successfully processed link: Mayur_kulkarnii vs. Chees_Noob02002 | Analysis - Chess.com
+2024-10-17 15:32:00,113 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 15:32:14,980 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 15:33:09,928 - INFO - Processing link: Jetez un coup d\'œil à cette partie #chess #échecs : Liteshp contre RickShow7 - https://www.chess.com/live/game/120133816628
+2024-10-17 15:33:16,777 - INFO - Successfully processed link: Liteshp vs. RickShow7 | Analysis - Chess.com
+2024-10-17 15:34:03,089 - INFO - Processing link: https://www.chess.com/live/game/120133983378
+2024-10-17 15:34:23,426 - INFO - Successfully processed link: Rishaaann vs. Lokeshlp | Analysis - Chess.com
+2024-10-17 15:34:47,182 - INFO - Processing link: https://www.chess.com/live/game/120133983378
+2024-10-17 15:34:52,847 - INFO - Successfully processed link: Rishaaann vs. Lokeshlp | Analysis - Chess.com
+2024-10-17 15:34:55,921 - INFO - Processing link: https://www.chess.com/live/game/120019563342
+2024-10-17 15:35:02,039 - INFO - Successfully processed link: LM112233 vs. monSter_908 | Analysis - Chess.com
+2024-10-17 15:35:02,073 - INFO - Processing link: https://www.chess.com/analysis/game/live/120133892542?tab=analysis
+2024-10-17 15:35:08,721 - INFO - Successfully processed link: ordonation1 vs. Sargam_don | Analysis - Chess.com
+2024-10-17 15:35:47,113 - INFO - Processing link: https://www.chess.com/game/live/120134028358
+2024-10-17 15:35:50,933 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 15:35:53,838 - INFO - Successfully processed link: nathancrichton vs. RAMGIBAZZ | Analysis - Chess.com
+2024-10-17 15:38:20,102 - INFO - Processing link: Check out this #chess game: Chees_Noob02002 vs alicexvil - https://www.chess.com/live/game/122828108245
+2024-10-17 15:38:26,680 - INFO - Successfully processed link: Chees_Noob02002 vs. alicexvil | Analysis - Chess.com
+2024-10-17 15:38:41,984 - INFO - Processing link: https://www.chess.com/game/live/122892283263
+2024-10-17 15:38:48,796 - INFO - Successfully processed link: Skardam009 vs. Evgeny005 | Analysis - Chess.com
+2024-10-17 15:39:16,343 - INFO - Processing link: Check out this #chess game: Vishnu000 vs nikhilkarnwal1717 - https://www.chess.com/live/game/122892280271
+2024-10-17 15:39:23,795 - INFO - Successfully processed link: Vishnu000 vs. nikhilkarnwal1717 | Analysis - Chess.com
+2024-10-17 15:39:50,304 - INFO - Processing link: Check out this #chess game: UrumeesThamban vs Ratul_Mondal - https://www.chess.com/live/game/120133918388
+2024-10-17 15:39:57,361 - INFO - Successfully processed link: UrumeesThamban vs. Ratul_Mondal | Analysis - Chess.com
+2024-10-17 15:40:09,580 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 15:40:12,067 - INFO - Processing link: https://www.chess.com/live/game/122892855489
+2024-10-17 15:40:19,162 - INFO - Successfully processed link: giogi538 vs. Gabboiele | Analysis - Chess.com
+2024-10-17 15:42:50,455 - INFO - Processing link: https://www.chess.com/live/game/120134064924
+2024-10-17 15:42:57,426 - INFO - Successfully processed link: swissdemon vs. Rishaaann | Analysis - Chess.com
+2024-10-17 15:43:31,489 - INFO - Processing link: https://www.chess.com/game/live/120134085834
+2024-10-17 15:43:38,556 - INFO - Successfully processed link: jkhoud10 vs. RAMGIBAZZ | Analysis - Chess.com
+2024-10-17 15:46:22,912 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 15:47:03,959 - INFO - Processing link: https://www.chess.com/analysis/game/live/120133988950?tab=analysis
+2024-10-17 15:47:10,410 - INFO - Successfully processed link: KhanPai vs. Havefunwsync | Analysis - Chess.com
+2024-10-17 15:48:21,835 - INFO - Processing link: Check out this #chess game: lucho288 vs Ratul_Mondal - https://www.chess.com/live/game/120133590248
+2024-10-17 15:48:28,394 - INFO - Successfully processed link: lucho288 vs. Ratul_Mondal | Analysis - Chess.com
+2024-10-17 15:49:10,811 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 15:49:25,937 - INFO - Processing link: Check out this #chess game: vikgamer98 vs tushardeb00000007 - https://www.chess.com/live/game/120134179124
+2024-10-17 15:49:34,624 - INFO - Successfully processed link: vikgamer98 vs. tushardeb00000007 | Analysis - Chess.com
+2024-10-17 15:50:06,544 - INFO - Processing link: https://www.chess.com/live/game/120134075222
+2024-10-17 15:50:07,451 - INFO - Processing link: https://www.chess.com/game/live/122892870239
+2024-10-17 15:50:14,647 - INFO - Successfully processed link: 100Martinful vs. Hope_Of_The_Universe1 | Analysis - Chess.com
+2024-10-17 15:50:17,901 - INFO - Successfully processed link: ahmad_r008 vs. anvu1987 | Analysis - Chess.com
+2024-10-17 15:52:27,797 - INFO - Processing link: https://www.chess.com/game/live/122893455381
+2024-10-17 15:52:35,790 - INFO - Successfully processed link: grechamail vs. ryanchan186 | Analysis - Chess.com
+2024-10-17 15:52:43,731 - INFO - Processing link: Check out this #chess game: Ratul_Mondal vs luis2736 - https://www.chess.com/live/game/120133859118
+2024-10-17 15:52:52,163 - INFO - Successfully processed link: Ratul_Mondal vs. luis2736 | Analysis - Chess.com
+2024-10-17 15:53:44,977 - INFO - Processing link: https://www.chess.com/live/game/120134253124
+2024-10-17 15:53:51,242 - INFO - Successfully processed link: Beebz21 vs. wtalien | Analysis - Chess.com
+2024-10-17 15:54:51,253 - INFO - Processing link: https://www.chess.com/game/live/122892908979
+2024-10-17 15:54:58,191 - INFO - Successfully processed link: tennineeight26 vs. GurpartapSran | Analysis - Chess.com
+2024-10-17 15:55:28,298 - INFO - Processing link: Check out this #chess game: Frank_Balotelli vs DWN2 - https://www.chess.com/live/game/120133858510
+2024-10-17 15:55:35,691 - INFO - Successfully processed link: Frank_Balotelli vs. DWN2 | Analysis - Chess.com
+2024-10-17 15:57:25,941 - INFO - Processing link: https://www.chess.com/analysis/game/live/122893467499?tab=analysis
+2024-10-17 15:57:32,316 - INFO - Successfully processed link: C00LDEEP1432 vs. Handri_Nugraha | Analysis - Chess.com
+2024-10-17 15:58:13,596 - INFO - Processing link: https://www.chess.com/analysis/game/live/120131840288?tab=analysis
+2024-10-17 15:58:22,782 - INFO - Successfully processed link: MTRazaa vs. chadh43 | Analysis - Chess.com
+2024-10-17 16:00:33,700 - INFO - Processing link: https://www.chess.com/game/live/120134248506
+2024-10-17 16:00:41,526 - INFO - Processing link: https://www.chess.com/live/game/120134200620
+2024-10-17 16:00:41,712 - INFO - Successfully processed link: SplenDidShot vs. RAMGIBAZZ | Analysis - Chess.com
+2024-10-17 16:00:49,287 - INFO - Successfully processed link: DGPLAYSTATION vs. Rishaaann | Analysis - Chess.com
+2024-10-17 16:02:53,669 - INFO - Processing link: https://www.chess.com/analysis/game/live/120134135782?tab=analysis
+2024-10-17 16:03:01,359 - INFO - Successfully processed link: jagdms vs. gsubbarao | Analysis - Chess.com
+2024-10-17 16:03:35,312 - INFO - Processing link: https://www.chess.com/analysis/game/live/120134218206?tab=analysis
+2024-10-17 16:03:42,659 - INFO - Successfully processed link: Yoga_1437 vs. yousseffffag | Analysis - Chess.com
+2024-10-17 16:05:36,336 - INFO - Processing link: Check out this #chess game: divyasekaran2002 vs Vishnu000 - https://www.chess.com/live/game/122893504675
+2024-10-17 16:05:47,817 - INFO - Successfully processed link: divyasekaran2002 vs. Vishnu000 | Analysis - Chess.com
+2024-10-17 16:07:37,728 - INFO - Processing link: https://www.chess.com/analysis/game/live/120134023794?tab=analysis
+2024-10-17 16:07:44,982 - INFO - Successfully processed link: jagdms vs. stivelengkong123 | Analysis - Chess.com
+2024-10-17 16:08:00,734 - INFO - Processing link: https://www.chess.com/analysis/game/live/120134368106?tab=explore
+2024-10-17 16:08:07,259 - INFO - Successfully processed link: sunflaver vs. BaoLong0104 | Analysis - Chess.com
+2024-10-17 16:08:36,500 - INFO - Processing link: https://www.chess.com/live/game/120134413296
+2024-10-17 16:08:42,697 - INFO - Successfully processed link: Rishaaann vs. rogelios | Analysis - Chess.com
+2024-10-17 16:09:17,219 - INFO - Processing link: https://www.chess.com/live/game/120134413296
+2024-10-17 16:09:24,220 - INFO - Successfully processed link: Rishaaann vs. rogelios | Analysis - Chess.com
+2024-10-17 16:09:44,367 - INFO - Processing link: https://www.chess.com/game/live/120114826698
+2024-10-17 16:09:51,727 - INFO - Successfully processed link: shanzau vs. imperialserial911 | Analysis - Chess.com
+2024-10-17 16:10:50,451 - INFO - Processing link: https://www.chess.com/live/game/120134332088
+2024-10-17 16:10:57,887 - INFO - Successfully processed link: anmolsairajmishra vs. ahmad_r008 | Analysis - Chess.com
+2024-10-17 16:11:52,345 - INFO - Processing link: https://www.chess.com/live/game/120134448314
+2024-10-17 16:11:59,137 - INFO - Successfully processed link: arbd90 vs. ChFrancooo | Analysis - Chess.com
+2024-10-17 16:12:29,628 - INFO - Processing link: Check out this #chess game: ProvAcor vs pechka4 - https://www.chess.com/live/game/120134459298
+2024-10-17 16:12:36,107 - INFO - Successfully processed link: ProvAcor vs. pechka4 | Analysis - Chess.com
+2024-10-17 16:14:29,911 - INFO - Processing link: https://www.chess.com/game/live/120134515858
+2024-10-17 16:14:36,925 - INFO - Successfully processed link: Jonibek-Majidov vs. shanzau | Analysis - Chess.com
+2024-10-17 16:15:56,359 - INFO - Processing link: https://www.chess.com/live/game/122895279093
+2024-10-17 16:16:02,838 - INFO - Successfully processed link: BMB-VOOOT vs. Qohhaar | Analysis - Chess.com
+2024-10-17 16:16:39,718 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 16:16:47,907 - INFO - Processing link: Check out this #chess game: Chees_Noob02002 vs AGHA-PATHAN - https://www.chess.com/live/game/122894632455
+2024-10-17 16:16:57,576 - INFO - Successfully processed link: Chees_Noob02002 vs. AGHA-PATHAN | Analysis - Chess.com
+2024-10-17 16:18:49,522 - INFO - Processing link: https://www.chess.com/analysis/game/live/120134541496?tab=analysis
+2024-10-17 16:18:55,285 - INFO - Successfully processed link: zainhussain12345 vs. asoon | Analysis - Chess.com
+2024-10-17 16:18:56,159 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 16:19:36,357 - INFO - Processing link: https://www.chess.com/analysis/game/live/122895300255?tab=analysis
+2024-10-17 16:19:43,145 - INFO - Successfully processed link: SOEDone vs. ChessTry_13 | Analysis - Chess.com
+2024-10-17 16:21:47,067 - INFO - Processing link: https://www.chess.com/live/game/122895249597
+2024-10-17 16:21:54,178 - INFO - Successfully processed link: KambeBadawut vs. GreatGothamChess | Analysis - Chess.com
+2024-10-17 16:22:32,821 - INFO - Processing link: https://www.chess.com/analysis/game/live/120134543448?tab=analysis
+2024-10-17 16:22:39,496 - INFO - Successfully processed link: SWAT_24 vs. Sargam_don | Analysis - Chess.com
+2024-10-17 16:23:16,648 - INFO - Processing link: https://www.chess.com/game/live/120134643516
+2024-10-17 16:23:23,153 - INFO - Successfully processed link: shanzau vs. angarc85 | Analysis - Chess.com
+2024-10-17 16:23:27,638 - INFO - Processing link: https://www.chess.com/game/live/120119883690
+2024-10-17 16:23:35,316 - INFO - Successfully processed link: nickelstack1758 vs. ak251295 | Analysis - Chess.com
+2024-10-17 16:24:39,674 - INFO - Processing link: https://www.chess.com/game/live/122895261279
+2024-10-17 16:24:43,282 - INFO - Processing link: https://www.chess.com/live/game/120134670688
+2024-10-17 16:24:45,834 - INFO - Successfully processed link: GurpartapSran vs. trajxster | Analysis - Chess.com
+2024-10-17 16:24:49,735 - INFO - Successfully processed link: arbd90 vs. RM0189 | Analysis - Chess.com
+2024-10-17 16:26:14,023 - INFO - Processing link: sdsdsd https://www.chess.com/analysis/game/computer/169938141?tab=analysis sdsdsd
+2024-10-17 16:26:21,290 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-17 16:27:05,849 - INFO - Processing link: https://www.chess.com/live/game/120134582650
+2024-10-17 16:27:11,947 - INFO - Successfully processed link: arngaladiyar vs. Lucky69696969696969696969 | Analysis - Chess.com
+2024-10-17 16:27:38,854 - INFO - Processing link: sdsdsd https://www.chess.com/analysis/game/computer/169938141?tab=analysis sdsdsd
+2024-10-17 16:27:44,980 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-17 16:28:27,825 - INFO - Processing link: https://www.chess.com/game/live/122895903947
+2024-10-17 16:28:34,403 - INFO - Successfully processed link: ChessTry_13 vs. sangia02 | Analysis - Chess.com
+2024-10-17 16:28:46,862 - INFO - Processing link: https://www.chess.com/game/live/122894673901
+2024-10-17 16:28:51,522 - INFO - Processing link: https://www.chess.com/analysis/game/live/120132718128?tab=analysis
+2024-10-17 16:28:53,674 - INFO - Successfully processed link: Nadeghda vs. shaurya146 | Analysis - Chess.com
+2024-10-17 16:28:57,007 - INFO - Successfully processed link: larrywaterson vs. dontyou33 | Analysis - Chess.com
+2024-10-17 16:29:29,822 - INFO - Processing link: https://www.chess.com/analysis/game/live/120134548696?tab=analysis
+2024-10-17 16:29:36,358 - INFO - Successfully processed link: larrywaterson vs. andhsw | Analysis - Chess.com
+2024-10-17 16:30:27,438 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 16:32:28,270 - INFO - Processing link: sdsds https://www.chess.com/analysis/game/computer/169938141?tab=analysis sdsds
+2024-10-17 16:32:37,101 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-17 16:32:49,720 - INFO - Processing link: https://www.chess.com/analysis/game/live/120134652240?tab=review
+2024-10-17 16:32:57,296 - INFO - Successfully processed link: urgae123123123 vs. stanlee7724 | Analysis - Chess.com
+2024-10-17 16:33:15,344 - INFO - Processing link: https://www.chess.com/analysis/game/live/120134678168?tab=analysis
+2024-10-17 16:33:22,982 - INFO - Successfully processed link: Betzyyyy vs. Anubhab_strive | Analysis - Chess.com
+2024-10-17 16:34:57,374 - INFO - Processing link: https://www.chess.com/live/game/120134635086
+2024-10-17 16:35:04,060 - INFO - Successfully processed link: Rishaaann vs. JacaBoro | Analysis - Chess.com
+2024-10-17 16:35:40,217 - INFO - Processing link: https://www.chess.com/game/live/120134684612
+2024-10-17 16:35:47,232 - INFO - Successfully processed link: MCD2478 vs. shanzau | Analysis - Chess.com
+2024-10-17 16:36:34,265 - INFO - Processing link: Check out this #chess game: Chees_Noob02002 vs Dhiaan2013 - https://www.chess.com/live/game/122896436973
+2024-10-17 16:36:41,674 - INFO - Successfully processed link: Chees_Noob02002 vs. Dhiaan2013 | Analysis - Chess.com
+2024-10-17 16:38:30,042 - INFO - Processing link: Check out this #chess game: Estarrona vs Frank_Balotelli - https://www.chess.com/live/game/120134671074
+2024-10-17 16:38:37,519 - INFO - Successfully processed link: Estarrona vs. Frank_Balotelli | Analysis - Chess.com
+2024-10-17 16:39:46,845 - INFO - Processing link: https://www.chess.com/analysis/game/live/120134800036?tab=analysis
+2024-10-17 16:39:54,032 - INFO - Successfully processed link: Sampra77 vs. itsJATAN2205 | Analysis - Chess.com
+2024-10-17 16:43:25,811 - INFO - Processing link: https://www.chess.com/live/game/120134894840
+2024-10-17 16:43:32,547 - INFO - Successfully processed link: Kedar_1123 vs. ChessXvijay | Analysis - Chess.com
+2024-10-17 16:44:00,645 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 16:45:56,986 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 16:46:32,178 - INFO - Processing link: https://www.chess.com/analysis/game/live/120134735742?tab=analysis
+2024-10-17 16:46:39,884 - INFO - Successfully processed link: CruzMoj vs. MrMatraka | Analysis - Chess.com
+2024-10-17 16:46:58,298 - INFO - Processing link: Check out this #chess game: Charu_G vs Sasandorote - https://www.chess.com/live/game/122896432819
+2024-10-17 16:47:05,484 - INFO - Successfully processed link: Charu_G vs. Sasandorote | Analysis - Chess.com
+2024-10-17 16:47:57,891 - INFO - Processing link: Check out this #chess game: aserelgendy1 vs Naisam127 - https://www.chess.com/live/game/120134894606
+2024-10-17 16:48:04,897 - INFO - Successfully processed link: aserelgendy1 vs. Naisam127 | Analysis - Chess.com
+2024-10-17 16:48:54,080 - INFO - Processing link: Check out this #chess game: ASIF2004 vs Agent_sus47 - https://www.chess.com/live/game/120134829896
+2024-10-17 16:48:56,148 - INFO - Processing link: https://www.chess.com/live/game/120134865680
+2024-10-17 16:49:01,032 - INFO - Successfully processed link: ASIF2004 vs. Agent_sus47 | Analysis - Chess.com
+2024-10-17 16:49:01,477 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 16:49:03,813 - INFO - Successfully processed link: soullking00 vs. Chapieeeee | Analysis - Chess.com
+2024-10-17 16:49:37,387 - INFO - Processing link: https://www.chess.com/analysis/game/live/122896477273
+2024-10-17 16:49:43,767 - INFO - Successfully processed link: Riteshreddy6315 vs. venkateshrane1 | Analysis - Chess.com
+2024-10-17 16:51:52,599 - INFO - Processing link: https://www.chess.com/analysis/game/live/120134785358?tab=analysis
+2024-10-17 16:51:59,186 - INFO - Successfully processed link: aCris1010 vs. larrywaterson | Analysis - Chess.com
+2024-10-17 16:54:18,966 - INFO - Processing link: https://www.chess.com/analysis/game/live/120134948140?tab=review
+2024-10-17 16:54:27,424 - INFO - Successfully processed link: Waldpferd vs. sthepanhawkins6969 | Analysis - Chess.com
+2024-10-17 16:54:28,073 - INFO - Processing link: Check out this #chess game: aserelgendy1 vs Corky42 - https://www.chess.com/live/game/120135010994
+2024-10-17 16:54:34,748 - INFO - Successfully processed link: aserelgendy1 vs. Corky42 | Analysis - Chess.com
+2024-10-17 16:55:20,202 - INFO - Processing link: https://www.chess.com/game/live/122897040669
+2024-10-17 16:55:26,787 - INFO - Successfully processed link: Road-To_GM123 vs. airorkr | Analysis - Chess.com
+2024-10-17 16:55:53,802 - INFO - Processing link: https://www.chess.com/live/game/120134958264
+2024-10-17 16:56:00,402 - INFO - Successfully processed link: Ru5hHour vs. Millicent-Mistwalker | Analysis - Chess.com
+2024-10-17 16:57:46,884 - INFO - Processing link: https://www.chess.com/analysis/game/live/120134741544?tab=analysis
+2024-10-17 16:57:54,258 - INFO - Successfully processed link: sthepanhawkins6969 vs. advait-kulkarni | Analysis - Chess.com
+2024-10-17 16:58:41,296 - INFO - Processing link: https://www.chess.com/analysis/game/live/120132396422?tab=analysis
+2024-10-17 16:58:49,138 - INFO - Successfully processed link: Vivek12998 vs. sthepanhawkins6969 | Analysis - Chess.com
+2024-10-17 16:59:24,465 - INFO - Processing link: https://www.chess.com/live/game/122897689557
+2024-10-17 16:59:30,921 - INFO - Successfully processed link: ziddi7930 vs. Cals239 | Analysis - Chess.com
+2024-10-17 17:01:19,205 - INFO - Processing link: https://www.chess.com/game/live/122896441855
+2024-10-17 17:01:24,575 - INFO - Processing link: https://www.chess.com/game/live/122897637623
+2024-10-17 17:01:25,900 - INFO - Successfully processed link: GurpartapSran vs. Podbielcu123 | Analysis - Chess.com
+2024-10-17 17:01:31,632 - INFO - Successfully processed link: Saran2311 vs. Saken7007 | Analysis - Chess.com
+2024-10-17 17:01:49,414 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 17:01:56,395 - INFO - Processing link: https://www.chess.com/analysis/game/live/122897686915?tab=analysis
+2024-10-17 17:02:04,296 - INFO - Successfully processed link: chessforthecontent vs. ahmadkhant60 | Analysis - Chess.com
+2024-10-17 17:02:49,116 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 17:04:04,952 - INFO - Processing link: Check out this #chess game: Ratul_Mondal vs GreysR - https://www.chess.com/live/game/120135071666
+2024-10-17 17:04:07,188 - INFO - Processing link: Check out this #chess game: Ratul_Mondal vs GreysR - https://www.chess.com/live/game/120135071666
+2024-10-17 17:04:07,583 - INFO - Processing link: https://www.chess.com/live/game/120135030014
+2024-10-17 17:04:12,348 - INFO - Successfully processed link: Ratul_Mondal vs. GreysR | Analysis - Chess.com
+2024-10-17 17:04:13,937 - INFO - Successfully processed link: Ratul_Mondal vs. GreysR | Analysis - Chess.com
+2024-10-17 17:04:15,565 - INFO - Successfully processed link: Rishaaann vs. NurlanAbdullayevv | Analysis - Chess.com
+2024-10-17 17:04:36,011 - INFO - Processing link: https://www.chess.com/live/120135062622
+2024-10-17 17:04:42,981 - INFO - Successfully processed link: veeru4998 vs. Riteshreddy6315 | Analysis - Chess.com
+2024-10-17 17:05:57,099 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 17:06:12,147 - INFO - Processing link: https://www.chess.com/live/game/122898245207
+2024-10-17 17:06:19,841 - INFO - Successfully processed link: KamaUmirtu vs. Pawan-Adhikariii | Analysis - Chess.com
+2024-10-17 17:08:39,427 - INFO - Processing link: [Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-10-17\"] [White \"Charu_G\"] [Black \"Nelson\"] [Result \"1-0\"] [WhiteElo \"1726\"] [BlackElo \"1300\"] [TimeControl \"-\"] [Termination \"Charu_G won by checkmate\"] 1. e4 e5 2. Nc3 Qh4 3. g3 Qe7 4. Bg2 Qd8 5. Nge2 Be7 6. O-O Bc5 7. d3 Na6 8. Kh1 d6 9. Be3 Qd7 10. Qd2 Bxe3 11. fxe3 h6 12. d4 exd4 13. exd4 Ne7 14. Rf2 O-O 15. Rd1 c5 16. d5 b5 17. a3 Rd8 18. b4 cxb4 19. axb4 Nxb4 20. h3 Na6 21. Rf4 f6 22. Rg4 Kf7 23. Nf4 g5 24. Nh5 Qe8 25. Rf1 Qd7 26. Rxf6+ Kg8 27. Rxh6 Nf5 28. Rxg5+ Ng7 29. Nxg7 Qxg7 30. Rxg7+ Kxg7 31. Qg5+ Kf8 32. Qxd8+ Kf7 33. Qf6+ Ke8 34. Rh7 Nb8 35. Qe7# 1-0
+2024-10-17 17:08:40,195 - ERROR - Error in run function for link [Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-10-17\"] [White \"Charu_G\"] [Black \"Nelson\"] [Result \"1-0\"] [WhiteElo \"1726\"] [BlackElo \"1300\"] [TimeControl \"-\"] [Termination \"Charu_G won by checkmate\"] 1. e4 e5 2. Nc3 Qh4 3. g3 Qe7 4. Bg2 Qd8 5. Nge2 Be7 6. O-O Bc5 7. d3 Na6 8. Kh1 d6 9. Be3 Qd7 10. Qd2 Bxe3 11. fxe3 h6 12. d4 exd4 13. exd4 Ne7 14. Rf2 O-O 15. Rd1 c5 16. d5 b5 17. a3 Rd8 18. b4 cxb4 19. axb4 Nxb4 20. h3 Na6 21. Rf4 f6 22. Rg4 Kf7 23. Nf4 g5 24. Nh5 Qe8 25. Rf1 Qd7 26. Rxf6+ Kg8 27. Rxh6 Nf5 28. Rxg5+ Ng7 29. Nxg7 Qxg7 30. Rxg7+ Kxg7 31. Qg5+ Kf8 32. Qxd8+ Kf7 33. Qf6+ Ke8 34. Rh7 Nb8 35. Qe7# 1-0: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "[Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-10-17\"] [White \"Charu_G\"] [Black \"Nelson\"] [Result \"1-0\"] [WhiteElo \"1726\"] [BlackElo \"1300\"] [TimeControl \"-\"] [Termination \"Charu_G won by checkmate\"] 1. e4 e5 2. Nc3 Qh4 3. g3 Qe7 4. Bg2 Qd8 5. Nge2 Be7 6. O-O Bc5 7. d3 Na6 8. Kh1 d6 9. Be3 Qd7 10. Qd2 Bxe3 11. fxe3 h6 12. d4 exd4 13. exd4 Ne7 14. Rf2 O-O 15. Rd1 c5 16. d5 b5 17. a3 Rd8 18. b4 cxb4 19. axb4 Nxb4 20. h3 Na6 21. Rf4 f6 22. Rg4 Kf7 23. Nf4 g5 24. Nh5 Qe8 25. Rf1 Qd7 26. Rxf6+ Kg8 27. Rxh6 Nf5 28. Rxg5+ Ng7 29. Nxg7 Qxg7 30. Rxg7+ Kxg7 31. Qg5+ Kf8 32. Qxd8+ Kf7 33. Qf6+ Ke8 34. Rh7 Nb8 35. Qe7# 1-0", waiting until "load"
+
+2024-10-17 17:09:14,040 - INFO - Processing link: https://www.chess.com/game/live/122897677875
+2024-10-17 17:09:20,769 - INFO - Successfully processed link: filtders vs. shaurya146 | Analysis - Chess.com
+2024-10-17 17:10:08,386 - INFO - Processing link: Check out this #chess game: Muhannadm0863 vs heheIAmSattu - https://www.chess.com/live/game/120135112916
+2024-10-17 17:10:15,210 - INFO - Successfully processed link: Muhannadm0863 vs. heheIAmSattu | Analysis - Chess.com
+2024-10-17 17:10:24,486 - INFO - Processing link: [Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-10-17\"] [White \"Charu_G\"] [Black \"Nelson\"] [Result \"1-0\"] [WhiteElo \"1726\"] [BlackElo \"1300\"] [TimeControl \"-\"] [Termination \"Charu_G won by checkmate\"] 1. e4 e5 2. Nc3 Qh4 3. g3 Qe7 4. Bg2 Qd8 5. Nge2 Be7 6. O-O Bc5 7. d3 Na6 8. Kh1 d6 9. Be3 Qd7 10. Qd2 Bxe3 11. fxe3 h6 12. d4 exd4 13. exd4 Ne7 14. Rf2 O-O 15. Rd1 c5 16. d5 b5 17. a3 Rd8 18. b4 cxb4 19. axb4 Nxb4 20. h3 Na6 21. Rf4 f6 22. Rg4 Kf7 23. Nf4 g5 24. Nh5 Qe8 25. Rf1 Qd7 26. Rxf6+ Kg8 27. Rxh6 Nf5 28. Rxg5+ Ng7 29. Nxg7 Qxg7 30. Rxg7+ Kxg7 31. Qg5+ Kf8 32. Qxd8+ Kf7 33. Qf6+ Ke8 34. Rh7 Nb8 35. Qe7# 1-0
+2024-10-17 17:10:25,278 - ERROR - Error in run function for link [Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-10-17\"] [White \"Charu_G\"] [Black \"Nelson\"] [Result \"1-0\"] [WhiteElo \"1726\"] [BlackElo \"1300\"] [TimeControl \"-\"] [Termination \"Charu_G won by checkmate\"] 1. e4 e5 2. Nc3 Qh4 3. g3 Qe7 4. Bg2 Qd8 5. Nge2 Be7 6. O-O Bc5 7. d3 Na6 8. Kh1 d6 9. Be3 Qd7 10. Qd2 Bxe3 11. fxe3 h6 12. d4 exd4 13. exd4 Ne7 14. Rf2 O-O 15. Rd1 c5 16. d5 b5 17. a3 Rd8 18. b4 cxb4 19. axb4 Nxb4 20. h3 Na6 21. Rf4 f6 22. Rg4 Kf7 23. Nf4 g5 24. Nh5 Qe8 25. Rf1 Qd7 26. Rxf6+ Kg8 27. Rxh6 Nf5 28. Rxg5+ Ng7 29. Nxg7 Qxg7 30. Rxg7+ Kxg7 31. Qg5+ Kf8 32. Qxd8+ Kf7 33. Qf6+ Ke8 34. Rh7 Nb8 35. Qe7# 1-0: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+navigating to "[Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-10-17\"] [White \"Charu_G\"] [Black \"Nelson\"] [Result \"1-0\"] [WhiteElo \"1726\"] [BlackElo \"1300\"] [TimeControl \"-\"] [Termination \"Charu_G won by checkmate\"] 1. e4 e5 2. Nc3 Qh4 3. g3 Qe7 4. Bg2 Qd8 5. Nge2 Be7 6. O-O Bc5 7. d3 Na6 8. Kh1 d6 9. Be3 Qd7 10. Qd2 Bxe3 11. fxe3 h6 12. d4 exd4 13. exd4 Ne7 14. Rf2 O-O 15. Rd1 c5 16. d5 b5 17. a3 Rd8 18. b4 cxb4 19. axb4 Nxb4 20. h3 Na6 21. Rf4 f6 22. Rg4 Kf7 23. Nf4 g5 24. Nh5 Qe8 25. Rf1 Qd7 26. Rxf6+ Kg8 27. Rxh6 Nf5 28. Rxg5+ Ng7 29. Nxg7 Qxg7 30. Rxg7+ Kxg7 31. Qg5+ Kf8 32. Qxd8+ Kf7 33. Qf6+ Ke8 34. Rh7 Nb8 35. Qe7# 1-0", waiting until "load"
+
+2024-10-17 17:11:02,925 - INFO - Processing link: https://www.chess.com/game/live/120135168654
+2024-10-17 17:11:07,487 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 17:11:10,079 - INFO - Successfully processed link: Zanintro vs. gunes75 | Analysis - Chess.com
+2024-10-17 17:11:58,382 - INFO - Processing link: https://www.chess.com/live/game/120135236688
+2024-10-17 17:12:05,279 - INFO - Successfully processed link: bruh12313224 vs. arbd90 | Analysis - Chess.com
+2024-10-17 17:12:07,967 - INFO - Processing link: https://www.chess.com/game/live/122898316381
+2024-10-17 17:12:14,537 - INFO - Successfully processed link: cadvih vs. Hope_Of_The_Universe1 | Analysis - Chess.com
+2024-10-17 17:12:24,261 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 17:12:56,944 - INFO - Processing link: Check out this #chess game: heheIAmSattu vs Hallasgo - https://www.chess.com/live/game/120135314538
+2024-10-17 17:13:02,655 - INFO - Successfully processed link: heheIAmSattu vs. Hallasgo | Analysis - Chess.com
+2024-10-17 17:14:10,401 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 17:14:24,214 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 17:19:40,092 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 17:19:45,023 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 17:19:45,276 - INFO - Processing link: https://www.chess.com/game/live/120135369378
+2024-10-17 17:19:47,920 - INFO - Processing link: Xem ván c\u1edd #: AnadiAshique vs RoadToNoobPlayer - https://www.chess.com/live/game/122898882845
+2024-10-17 17:19:49,220 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/122898882845?tab=review: Expecting value: line 1 column 1 (char 0)
+2024-10-17 17:19:52,949 - INFO - Successfully processed link: KorbenDaIllas vs. Zanintro | Analysis - Chess.com
+2024-10-17 17:21:16,579 - INFO - Processing link: https://www.chess.com/analysis/game/live/122896447919?tab=analysis
+2024-10-17 17:21:24,158 - INFO - Successfully processed link: Gladiator_II vs. Anuj_1080 | Analysis - Chess.com
+2024-10-17 17:23:59,488 - INFO - Processing link: https://www.chess.com/analysis/game/live/120135423204?tab=analysis
+2024-10-17 17:24:06,175 - INFO - Successfully processed link: TriNguyen2690 vs. JaakkoPitkanen | Analysis - Chess.com
+2024-10-17 17:24:20,840 - INFO - Processing link: https://www.chess.com/live/game/122898885093
+2024-10-17 17:24:27,292 - INFO - Successfully processed link: Jay4weak vs. TMXHansoy | Analysis - Chess.com
+2024-10-17 17:25:13,116 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 17:25:20,503 - INFO - Processing link: https://www.chess.com/live/game/122898910977
+2024-10-17 17:25:28,160 - INFO - Successfully processed link: TMXHansoy vs. Jay4weak | Analysis - Chess.com
+2024-10-17 17:25:38,969 - INFO - Processing link: https://www.chess.com/live/game/120135257270
+2024-10-17 17:25:46,549 - INFO - Successfully processed link: ELSVRAKA vs. Rishaaann | Analysis - Chess.com
+2024-10-17 17:26:44,013 - INFO - Processing link: https://www.chess.com/analysis/game/live/120135355742?tab=review
+2024-10-17 17:26:50,803 - INFO - Successfully processed link: oqocha vs. thor10022005thunder | Analysis - Chess.com
+2024-10-17 17:27:07,353 - INFO - Processing link: https://www.chess.com/game/computer/169952191
+2024-10-17 17:27:13,785 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-17 17:27:56,259 - INFO - Processing link: https://www.chess.com/live/game/122899462701
+2024-10-17 17:28:02,369 - INFO - Successfully processed link: Jay4weak vs. TMXHansoy | Analysis - Chess.com
+2024-10-17 17:28:48,944 - INFO - Processing link: Check out this #chess game: KhaledWaleed403 vs heinthetzan - https://www.chess.com/live/game/120135508774
+2024-10-17 17:28:54,964 - INFO - Successfully processed link: KhaledWaleed403 vs. heinthetzan | Analysis - Chess.com
+2024-10-17 17:29:13,131 - INFO - Processing link: https://www.chess.com/live/game/120135469638
+2024-10-17 17:29:19,140 - INFO - Successfully processed link: OZU59 vs. ahmad_r008 | Analysis - Chess.com
+2024-10-17 17:29:44,174 - INFO - Processing link: Xem ván c\u1edd #: RoadToNoobPlayer vs robber2341 - https://www.chess.com/live/game/122900029515
+2024-10-17 17:29:50,646 - INFO - Successfully processed link: RoadToNoobPlayer vs. robber2341 | Analysis - Chess.com
+2024-10-17 17:30:09,535 - INFO - Processing link: https://www.chess.com/live/game/122898893501
+2024-10-17 17:30:17,171 - INFO - Successfully processed link: Pawan-Adhikariii vs. AK6741 | Analysis - Chess.com
+2024-10-17 17:32:09,622 - INFO - Processing link: https://www.chess.com/analysis/game/live/120104503216?tab=analysis
+2024-10-17 17:32:16,705 - INFO - Successfully processed link: ABOD_AR vs. Jatin_025 | Analysis - Chess.com
+2024-10-17 17:32:45,754 - INFO - Processing link: https://www.chess.com/analysis/game/live/120135606366?tab=analysis
+2024-10-17 17:32:46,686 - INFO - Processing link: https://www.chess.com/live/game/122898876419
+2024-10-17 17:32:51,490 - INFO - Successfully processed link: KumaiLali2113 vs. Rithwik0100 | Analysis - Chess.com
+2024-10-17 17:32:52,574 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 17:32:53,739 - INFO - Successfully processed link: pavan0196 vs. KkGta | Analysis - Chess.com
+2024-10-17 17:33:13,259 - INFO - Processing link: https://www.chess.com/game/live/122898919691
+2024-10-17 17:33:21,810 - INFO - Successfully processed link: xx_xx_tt vs. natehigus | Analysis - Chess.com
+2024-10-17 17:33:33,381 - INFO - Processing link: Check out this #chess game: VictorA330 vs KhaledWaleed403 - https://www.chess.com/live/game/120135450260
+2024-10-17 17:33:40,128 - INFO - Successfully processed link: VictorA330 vs. KhaledWaleed403 | Analysis - Chess.com
+2024-10-17 17:34:13,041 - INFO - Processing link: https://www.chess.com/analysis/game/live/122899497355?tab=analysis
+2024-10-17 17:34:20,094 - INFO - Successfully processed link: taixe141 vs. trebagege2 | Analysis - Chess.com
+2024-10-17 17:37:20,548 - INFO - Processing link: PGN PGN PGN PGN
+2024-10-17 17:39:27,533 - INFO - Processing link: https://www.chess.com/live/game/122896490557
+2024-10-17 17:39:35,483 - INFO - Successfully processed link: Atulthakur05 vs. Master_Biff | Analysis - Chess.com
+2024-10-17 17:40:15,627 - INFO - Processing link: https://www.chess.com/live/game/122900043655
+2024-10-17 17:40:22,071 - INFO - Successfully processed link: TMXHansoy vs. Jay4weak | Analysis - Chess.com
+2024-10-17 17:42:27,784 - INFO - Processing link: Check out this #chess game: Atulthakur05 vs Paul_Groebler - https://www.chess.com/live/game/122897694451
+2024-10-17 17:42:35,454 - INFO - Successfully processed link: Atulthakur05 vs. Paul_Groebler | Analysis - Chess.com
+2024-10-17 17:42:59,118 - INFO - Processing link: https://www.chess.com/analysis/game/live/122897080709?tab=analysis&move=2
+2024-10-17 17:43:05,414 - INFO - Successfully processed link: aurocker vs. ccdaxida | Analysis - Chess.com
+2024-10-17 17:44:34,064 - INFO - Processing link: https://www.chess.com/live/game/122900084757
+2024-10-17 17:44:40,528 - INFO - Successfully processed link: delpil vs. Pawan-Adhikariii | Analysis - Chess.com
+2024-10-17 17:45:04,855 - INFO - Processing link: github
