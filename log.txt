@@ -4278,3 +4278,33 @@ navigating to "[Event \"Vs. Computer\"] [Site \"Chess.com\"] [Date \"2024-10-24\
 2024-10-25 06:30:06,812 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
 2024-10-25 18:07:18,942 - INFO - Processing link: https://www.chess.com/game/computer/173039277
 2024-10-25 18:07:36,950 - INFO - Processing link: github
+2024-10-25 18:07:52,350 - INFO - Processing link: https://www.chess.com/live/game/120293141402
+2024-10-25 18:08:02,103 - WARNING - Error processing link https://www.chess.com/analysis/game/computer/173039277?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-10-25 18:08:06,258 - INFO - Successfully logged in and saved cookies for robebo018
+2024-10-25 18:08:25,503 - WARNING - Error processing link https://www.chess.com/analysis/game/live/120293141402?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-10-25 18:08:28,697 - INFO - Successfully logged in and saved cookies for robebo018
+2024-10-25 18:08:33,867 - INFO - Processing link: https://www.chess.com/game/computer/173039277
+2024-10-25 18:08:40,569 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-10-25 18:08:41,563 - INFO - Processing link: https://www.chess.com/analysis/game/live/120293192226?tab=analysis
+2024-10-25 18:08:48,007 - INFO - Successfully processed link: topper-12 vs. sharmaji0522 | Analysis - Chess.com
+2024-10-25 18:11:41,412 - INFO - Processing link: Check out this #chess game: MarkAPG vs Idk_Pro_yt - https://www.chess.com/live/game/120280532592
+2024-10-25 18:11:48,107 - INFO - Successfully processed link: MarkAPG vs. Idk_Pro_yt | Analysis - Chess.com
+2024-10-25 18:12:03,716 - INFO - Processing link: https://www.chess.com/analysis/game/live/123518452727?tab=analysis
+2024-10-25 18:12:10,839 - INFO - Successfully processed link: SamiMitro vs. zobryblmhlbya | Analysis - Chess.com
+2024-10-25 18:13:47,737 - INFO - Processing link: [Event \"Live Chess\"] [Site \"Chess.com\"] [Date \"2024.10.25\"] [Round \"-\"] [White \"dgovann\"] [Black \"Nguyen_Tan_Loi_Chess\"] [Result \"0-1\"] [CurrentPosition \"1k1r4/pp5Q/1p6/1P6/P1P5/8/5nPP/6RK w - -\"] [Timezone \"UTC\"] [ECO \"C21\"] [ECOUrl \"https://www.chess.com/openings/Center-Game-Accepted-Halasz-McDonnell-Gambit\"] [UTCDate \"2024.10.25\"] [UTCTime \"10:18:18\"] [WhiteElo \"1588\"] [BlackElo \"1585\"] [TimeControl \"600\"] [Termination \"Nguyen_Tan_Loi_Chess won by checkmate\"] [StartTime \"10:18:18\"] [EndDate \"2024.10.25\"] [EndTime \"10:33:12\"] [Link \"https://www.chess.com/analysis/game/live/123590427659?tab=analysis\"] [WhiteUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"] [WhiteCountry \"116\"] [WhiteTitle \"\"] [BlackUrl \"https://images.chesscomfiles.com/uploads/v1/user/289713775.df9f7139.50x50o.9dc7c84e5993.png\"] [BlackCountry \"149\"] [BlackTitle \"\"] 1. e4 e5 2. d4 exd4 3. f4 Nc6 4. Nf3 Qe7 5. Bd3 d5 6. e5 Bg4 7. O-O Bxf3 8. Qxf3 O-O-O 9. Nd2 f6 10. a3 fxe5 11. fxe5 Nxe5 12. Qf5+ Nd7 13. Qxd5 Ngf6 14. Qxd4 Nb6 15. Qc3 Qe3+ 16. Kh1 Kb8 17. Nc4 Qc5 18. Be3 Qc6 19. Bxb6 cxb6 20. b4 Bd6 21. Qb2 Rhe8 22. b5 Qc5 23. Rf5 Qc7 24. Nxd6 Qxd6 25. Raf1 Ng4 26. R5f4 Ne5 27. Be4 Ng6 28. Rf7 Rxe4 29. Qxg7 Re7 30. Qxh7 Rxf7 31. Qxf7 Ne5 32. Qh7 Ng4 33. a4 Nf2+ 34. Kg1 Ng4 35. c4 Qd4+ 36. Kh1 Nf2+ 37. Kg1 Nh3+ 38. Kh1 Qg1+ 39. Rxg1 Nf2# 0-1
+2024-10-25 18:13:55,013 - INFO - Successfully processed link: dgovann vs. Nguyen_Tan_Loi_Chess | Analysis - Chess.com
+2024-10-25 18:13:57,898 - INFO - Processing link: https://www.chess.com/analysis/game/live/123522608795?tab=analysis
+2024-10-25 18:14:04,794 - INFO - Successfully processed link: zobryblmhlbya vs. VITOardianto | Analysis - Chess.com
+2024-10-25 18:15:43,606 - INFO - Processing link: https://chess.com/game/live/120292436828
+2024-10-25 18:15:46,812 - INFO - Processing link: https://www.chess.com/analysis/game/live/123518396309?tab=analysis
+2024-10-25 18:15:50,825 - INFO - Successfully processed link: wisward22 vs. SHIV3609 | Analysis - Chess.com
+2024-10-25 18:15:53,938 - INFO - Successfully processed link: zobryblmhlbya vs. SamiMitro | Analysis - Chess.com
+2024-10-25 18:16:55,708 - INFO - Processing link: https://www.chess.com/analysis/game/live/123592857817?tab=analysis
+2024-10-25 18:17:02,404 - INFO - Successfully processed link: nikhilspoilbrat vs. grechamail | Analysis - Chess.com
+2024-10-25 18:17:12,321 - INFO - Processing link: github
