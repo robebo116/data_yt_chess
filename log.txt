@@ -10517,3 +10517,64 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 
 2024-12-10 23:08:31,822 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/127585270211?tab=review
 2024-12-10 23:08:41,228 - INFO - Processing link: github
+2024-12-10 23:08:42,527 - INFO - Processing link: https://www.chess.com/live/game/121385260834
+2024-12-10 23:08:49,683 - WARNING - Error processing link https://www.chess.com/analysis/game/live/127585270211?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-12-10 23:08:49,696 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/127585270211?tab=review
+2024-12-10 23:08:50,445 - INFO - Successfully processed link: Loransss22 vs. UselessBrat | Analysis - Chess.com
+2024-12-10 23:09:05,591 - INFO - Processing link: https://www.chess.com/game/live/127585270211
+2024-12-10 23:09:12,687 - INFO - Successfully processed link: simedlaarbi vs. oussamaaaith | Analysis - Chess.com
+2024-12-10 23:09:24,063 - INFO - Processing link: https://www.chess.com/analysis/game/live/121385072346
+2024-12-10 23:09:31,443 - INFO - Successfully processed link: SigmaGiovani vs. aakif_118 | Analysis - Chess.com
+2024-12-10 23:09:34,047 - INFO - Processing link: Check out this #chess game: pYn01 vs iamsourabhsharma - https://www.chess.com/live/game/121383136282
+2024-12-10 23:09:42,644 - INFO - Successfully processed link: pYn01 vs. iamsourabhsharma | Analysis - Chess.com
+2024-12-10 23:10:58,815 - INFO - Processing link: https://www.chess.com/live/game/121385243946
+2024-12-10 23:11:31,967 - WARNING - Error processing link https://www.chess.com/analysis/game/live/121385243946?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-12-10 23:11:31,979 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/121385243946?tab=review
+2024-12-10 23:11:57,040 - INFO - Processing link: Schauen Sie sich dieses #Schttps://www.chess.com/live/game/121385243946
+2024-12-10 23:12:04,987 - INFO - Successfully processed link: kickimili vs. Christosxo | Analysis - Chess.com
+2024-12-10 23:12:23,551 - INFO - Processing link: https://www.chess.com/analysis/game/live/121385077634?tab=analysis
+2024-12-10 23:12:31,976 - INFO - Successfully processed link: Jorshenko vs. l_spark_l | Analysis - Chess.com
+2024-12-10 23:13:11,317 - INFO - Processing link: https://www.chess.com/live/game/121385039706
+2024-12-10 23:13:11,352 - INFO - Processing link: https://www.chess.com/live/game/127585774121
+2024-12-10 23:13:18,788 - INFO - Processing link: https://www.chess.com/live/game/121385284860
+2024-12-10 23:13:19,348 - INFO - Successfully processed link: KMS8597 vs. ChessXvijay | Analysis - Chess.com
+2024-12-10 23:13:20,356 - INFO - Successfully processed link: Antonio_Carias_PET vs. AAAtroush | Analysis - Chess.com
+2024-12-10 23:13:22,058 - INFO - Processing link: https://www.chess.com/analysis/game/live/121385163396?tab=review
+2024-12-10 23:13:26,620 - INFO - Successfully processed link: the_mushfiq vs. Pedro_Jordao | Analysis - Chess.com
+2024-12-10 23:13:38,149 - INFO - Processing link: https://www.chess.com/live/game/127585166801
+2024-12-10 23:13:39,449 - INFO - Processing link: https://www.chess.com/analysis/game/live/121385163396?tab=review
+2024-12-10 23:13:48,095 - INFO - Successfully processed link: soumyajit_GM vs. pyrrha108 | Analysis - Chess.com
+2024-12-10 23:13:48,448 - INFO - Successfully processed link: NAKIB098 vs. Adityarudy | Analysis - Chess.com
+2024-12-10 23:13:50,322 - INFO - Processing link: https://www.chess.com/live/game/127585166801
+2024-12-10 23:13:55,770 - WARNING - Error processing link https://www.chess.com/analysis/game/live/121385163396?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-12-10 23:13:55,779 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/121385163396?tab=review
+2024-12-10 23:13:57,913 - INFO - Successfully processed link: soumyajit_GM vs. pyrrha108 | Analysis - Chess.com
+2024-12-10 23:14:11,062 - INFO - Processing link: https://www.chess.com/analysis/game/live/121385278646?tab=review
+2024-12-10 23:14:18,763 - INFO - Processing link: https://www.chess.com/analysis/game/live/127584651819?tab=analysis
+2024-12-10 23:14:19,833 - INFO - Successfully processed link: Ahmedelking13 vs. zendom2011 | Analysis - Chess.com
+2024-12-10 23:14:26,698 - INFO - Successfully processed link: flymen2908 vs. Hitarth0968 | Analysis - Chess.com
+2024-12-10 23:14:34,332 - INFO - Processing link: https://www.chess.com/analysis/game/live/121384251760?tab=analysis
+2024-12-10 23:14:37,804 - INFO - Processing link: https://www.chess.com/analysis/game/live/121378828836
+2024-12-10 23:14:41,715 - INFO - Successfully processed link: mohamedkamil vs. shyamahir1408 | Analysis - Chess.com
+2024-12-10 23:14:47,037 - INFO - Successfully processed link: Bala_INDIAN vs. Saman_11 | Analysis - Chess.com
+2024-12-10 23:14:51,322 - INFO - Processing link: https://www.chess.com/analysis/game/live/121379255468
+2024-12-10 23:14:51,406 - INFO - Processing link: https://www.chess.com/analysis/game/live/121379345346
+2024-12-10 23:14:51,406 - INFO - Processing link: https://www.chess.com/analysis/game/live/121378908718
+2024-12-10 23:14:51,437 - INFO - Processing link: https://www.chess.com/analysis/game/live/121378991286
+2024-12-10 23:14:57,998 - INFO - Processing link: https://www.chess.com/analysis/game/live/121379390360
+2024-12-10 23:15:00,016 - INFO - Successfully processed link: Bala_INDIAN vs. nitinhariyani07 | Analysis - Chess.com
+2024-12-10 23:15:00,994 - INFO - Successfully processed link: glennkoole vs. Bala_INDIAN | Analysis - Chess.com
+2024-12-10 23:15:01,155 - INFO - Successfully processed link: shad1343 vs. Bala_INDIAN | Analysis - Chess.com
+2024-12-10 23:15:01,627 - INFO - Successfully processed link: Bala_INDIAN vs. wrongmov | Analysis - Chess.com
+2024-12-10 23:15:06,222 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-10 23:15:10,957 - INFO - Successfully processed link: Bala_INDIAN vs. kamphuis21 | Analysis - Chess.com
+2024-12-10 23:15:19,653 - INFO - Processing link: github
