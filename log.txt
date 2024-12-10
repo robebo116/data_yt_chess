@@ -10471,3 +10471,49 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-12-10 22:58:03,329 - INFO - Processing link: https://www.chess.com/live/game/121384812824
 2024-12-10 22:58:11,624 - INFO - Successfully processed link: ARSLAN_Ansari vs. gm_goog | Analysis - Chess.com
 2024-12-10 22:58:12,085 - INFO - Processing link: github
+2024-12-10 22:58:31,775 - INFO - Processing link: https://www.chess.com/analysis/game/live/127584661151?tab=analysis
+2024-12-10 22:58:39,690 - INFO - Successfully processed link: dralbour vs. shawon825 | Analysis - Chess.com
+2024-12-10 23:00:04,666 - INFO - Processing link: https://www.chess.com/analysis/game/live/121385136116?tab=analysis
+2024-12-10 23:00:13,980 - INFO - Successfully processed link: der_echte_Rudi vs. JashBhalara | Analysis - Chess.com
+2024-12-10 23:00:22,176 - INFO - Processing link: https://www.chess.com/game/121385145022live
+2024-12-10 23:00:45,218 - INFO - Processing link: https://www.chess.com/game/121385145022live
+2024-12-10 23:00:49,396 - INFO - Processing link: https://www.chess.com/live/game/127584680195
+2024-12-10 23:00:53,984 - INFO - Successfully processed link: trickster1337 vs. SamarthSadaphal | Analysis - Chess.com
+2024-12-10 23:00:56,483 - WARNING - Error processing link https://www.chess.com/analysis/game/live/121385145022?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-12-10 23:00:56,493 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/121385145022?tab=review
+2024-12-10 23:00:58,073 - INFO - Successfully processed link: h_chx0 vs. dod011240 | Analysis - Chess.com
+2024-12-10 23:01:06,732 - INFO - Processing link: https://www.chess.com/live/game/127584076777
+2024-12-10 23:01:09,943 - INFO - Processing link: https://www.chess.com/analysis/game/live/121385101434?tab=analysis
+2024-12-10 23:01:15,316 - INFO - Successfully processed link: ChessXvijay vs. Alik1372 | Analysis - Chess.com
+2024-12-10 23:01:17,268 - INFO - Processing link: Check out this #chess game: SOCKMYBALLZZ vs Devid_Tesla - https://www.chess.com/live/game/121384760484
+2024-12-10 23:01:18,152 - INFO - Successfully processed link: marini00 vs. Ahmedelking13 | Analysis - Chess.com
+2024-12-10 23:01:27,539 - INFO - Successfully processed link: SOCKMYBALLZZ vs. Devid_Tesla | Analysis - Chess.com
+2024-12-10 23:03:07,273 - INFO - Processing link: https://www.chess.com/live/game/121382543890
+2024-12-10 23:03:15,190 - INFO - Successfully processed link: Ayanokoji_0l vs. mebeez123 | Analysis - Chess.com
+2024-12-10 23:04:17,593 - INFO - Processing link: https://www.chess.com/game/live/121385169642
+2024-12-10 23:04:25,180 - INFO - Successfully processed link: dio44444 vs. CryingMan83 | Analysis - Chess.com
+2024-12-10 23:04:34,687 - INFO - Processing link: https://www.chess.com/game/live/127585199645
+2024-12-10 23:04:40,005 - INFO - Processing link: https://www.chess.com/game/live/127585275983
+2024-12-10 23:04:43,718 - INFO - Successfully processed link: aniljnv vs. Zwalenty | Analysis - Chess.com
+2024-12-10 23:04:49,289 - INFO - Successfully processed link: BrightFutureAhead vs. TUA-NONNA-ZOCCOLA | Analysis - Chess.com
+2024-12-10 23:05:48,030 - INFO - Processing link: https://www.chess.com/analysis/game/live/127583460779?tab=analysis
+2024-12-10 23:05:51,947 - INFO - Processing link: https://www.chess.com/game/live/121384851338
+2024-12-10 23:05:57,795 - INFO - Successfully processed link: Anuj_1080 vs. TheCynophilist | Analysis - Chess.com
+2024-12-10 23:06:00,266 - INFO - Processing link: https://www.chess.com/analysis/game/computer/190762979?tab=analysis
+2024-12-10 23:06:02,274 - INFO - Successfully processed link: Tanmay-99 vs. 245dal | Analysis - Chess.com
+2024-12-10 23:06:08,171 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-12-10 23:06:10,405 - INFO - Processing link: https://www.chess.com/analysis/game/live/127585246563?tab=review
+2024-12-10 23:06:19,105 - INFO - Successfully processed link: ahmedbedair12 vs. narendrasingh9521 | Analysis - Chess.com
+2024-12-10 23:07:44,749 - INFO - Processing link: Jetez un coup d\'œil à cette partie #chess #échecs : v_8bbl contre DrYassIne34 - https://www.chess.com/live/game/121369068772
+2024-12-10 23:07:51,906 - INFO - Successfully processed link: v_8bbl vs. DrYassIne34 | Analysis - Chess.com
+2024-12-10 23:07:58,728 - INFO - Processing link: https://www.chess.com/game/live/127585270211
+2024-12-10 23:08:15,957 - INFO - Processing link: https://www.chess.com/game/live/127585270211
+2024-12-10 23:08:31,809 - WARNING - Error processing link https://www.chess.com/analysis/game/live/127585270211?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-12-10 23:08:31,822 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/127585270211?tab=review
+2024-12-10 23:08:41,228 - INFO - Processing link: github
