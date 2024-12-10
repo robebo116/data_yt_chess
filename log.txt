@@ -10454,3 +10454,20 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-12-10 22:55:31,777 - INFO - Successfully processed link: MELVIN3111 vs. godvinilon | Analysis - Chess.com
 2024-12-10 22:55:48,843 - INFO - Processing link: extension https://www.chess.com/analysis/game/live/121384757808?tab=review&move=26
 2024-12-10 22:56:04,475 - INFO - Processing link: github
+2024-12-10 22:56:19,441 - INFO - Processing link: https://www.chess.com/analysis/game/live/127584653867?tab=review
+2024-12-10 22:56:38,043 - INFO - Processing link: https://www.chess.com/analysis/game/live/127584653867?tab=review
+2024-12-10 22:56:42,070 - INFO - Processing link: https://www.chess.com/game/121385034504live
+2024-12-10 22:56:46,937 - INFO - Successfully processed link: Leothebest124 vs. Laconic_138 | Analysis - Chess.com
+2024-12-10 22:56:51,175 - INFO - Successfully processed link: Naevius20 vs. SamarthSadaphal | Analysis - Chess.com
+2024-12-10 22:56:53,322 - WARNING - Error processing link https://www.chess.com/analysis/game/live/127584653867?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-12-10 22:56:53,332 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/127584653867?tab=review
+2024-12-10 22:57:07,634 - INFO - Processing link: https://www.chess.com/game/live/127584601205
+2024-12-10 22:57:15,574 - INFO - Successfully processed link: Herusbw vs. BrightFutureAhead | Analysis - Chess.com
+2024-12-10 22:57:24,101 - INFO - Processing link: https://www.chess.com/live/game/121385047410
+2024-12-10 22:57:31,629 - INFO - Successfully processed link: iamdec vs. DevaVishwakama | Analysis - Chess.com
+2024-12-10 22:58:03,329 - INFO - Processing link: https://www.chess.com/live/game/121384812824
+2024-12-10 22:58:11,624 - INFO - Successfully processed link: ARSLAN_Ansari vs. gm_goog | Analysis - Chess.com
+2024-12-10 22:58:12,085 - INFO - Processing link: github
