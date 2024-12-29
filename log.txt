@@ -1313,3 +1313,490 @@ navigating to "https://www.chess.com/analysis/game/live/129188540979?tab=review"
 
 2024-12-29 12:25:17,022 - ERROR - ------User Bad Link-------: 3vZkI57oTkBq|Check out this #chess game: shihab12341 vs Megas16 - https://www.chess.com/live/game/121776698420
 2024-12-29 12:25:18,873 - INFO - Processing link: vAKYhH6ya5pN|github
+2024-12-29 12:25:30,242 - ERROR - ------User Bad Link-------: 3vZkI57oTkBq|Check out this #chess game: shihab12341 vs Megas16 - https://www.chess.com/live/game/121776698420
+2024-12-29 12:26:20,931 - INFO - Processing link: R9SbqEZalVec|Check out this #chess game: antoune22 vs Duckinneed - https://www.chess.com/live/game/121776852054
+2024-12-29 12:26:27,560 - INFO - Successfully processed link: antoune22 vs. Duckinneed | Analysis - Chess.com
+2024-12-29 12:26:46,801 - INFO - Processing link: qcUaXzmWdIC9|Check out this #chess game: Ronald_38 vs shihab12341 - https://www.chess.com/live/game/121776491868
+2024-12-29 12:27:01,051 - INFO - Processing link: 5hypQVtsztUR|Check out this #chess game: rok499 vs TuanAn2018 - https://www.chess.com/live/game/129186778531
+2024-12-29 12:27:06,706 - ERROR - ------User Bad Link-------: qcUaXzmWdIC9|Check out this #chess game: Ronald_38 vs shihab12341 - https://www.chess.com/live/game/121776491868
+2024-12-29 12:27:11,125 - ERROR - ------User Bad Link-------: qcUaXzmWdIC9|Check out this #chess game: Ronald_38 vs shihab12341 - https://www.chess.com/live/game/121776491868
+2024-12-29 12:27:17,600 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121776491868?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121776491868?tab=review", waiting until "load"
+
+2024-12-29 12:27:20,633 - ERROR - ------User Bad Link-------: qcUaXzmWdIC9|Check out this #chess game: Ronald_38 vs shihab12341 - https://www.chess.com/live/game/121776491868
+2024-12-29 12:27:24,713 - ERROR - ------User Bad Link-------: qcUaXzmWdIC9|Check out this #chess game: Ronald_38 vs shihab12341 - https://www.chess.com/live/game/121776491868
+2024-12-29 12:27:31,879 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/129186778531?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/129186778531?tab=review", waiting until "load"
+
+2024-12-29 12:28:10,480 - INFO - Processing link: XAeFoPzlQSLN|https://www.chess.com/game/live/129052400229
+2024-12-29 12:28:17,561 - INFO - Successfully processed link: pehesalachamantha vs. ROH1TSHARMA | Analysis - Chess.com
+2024-12-29 12:28:21,341 - INFO - Processing link: 3kX2Nf2tu3SN|Check out this #chess game: monmaus vs chinu0528 - https://www.chess.com/live/game/129188607905
+2024-12-29 12:28:21,695 - INFO - Processing link: 25Vw7yDwksXi|Check out this #chess game: Ronald_38 vs shihab12341 - https://www.chess.com/live/game/121776491868
+2024-12-29 12:28:27,936 - INFO - Successfully processed link: Ronald_38 vs. shihab12341 | Analysis - Chess.com
+2024-12-29 12:28:52,215 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/129188607905?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/129188607905?tab=review", waiting until "load"
+
+2024-12-29 12:29:46,792 - INFO - Processing link: mthmgzgL51n8|https://www.chess.com/game/live/121776762040
+2024-12-29 12:29:53,488 - INFO - Successfully processed link: Jenspa_s vs. Slayer_Chess10 | Analysis - Chess.com
+2024-12-29 12:30:13,287 - INFO - Processing link: 14dPNCEKEkCs|Check out this #chess game: suryanshorai vs shihab12341 - https://www.chess.com/live/game/121776529270
+2024-12-29 12:30:20,726 - INFO - Successfully processed link: suryanshorai vs. shihab12341 | Analysis - Chess.com
+2024-12-29 12:31:03,302 - INFO - Processing link: fDpcFhvAvEV6|https://www.chess.com/analysis/game/live/129188580723?tab=analysis
+2024-12-29 12:31:11,213 - INFO - Successfully processed link: coachxgumbo vs. kmaker2013 | Analysis - Chess.com
+2024-12-29 12:31:25,139 - INFO - Processing link: uJ6t2xzQapiv|https://www.chess.com/game/computer/199092831
+2024-12-29 12:31:27,870 - INFO - Processing link: cH32fbm4TzoW|Check out this #chess game: shihab12341 vs Megas16 - https://www.chess.com/live/game/121776698420
+2024-12-29 12:31:33,562 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-29 12:31:39,610 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-29 12:31:45,015 - ERROR - ------User Bad Link-------: cH32fbm4TzoW|Check out this #chess game: shihab12341 vs Megas16 - https://www.chess.com/live/game/121776698420
+2024-12-29 12:31:47,188 - ERROR - ------User Bad Link-------: uJ6t2xzQapiv|https://www.chess.com/game/computer/199092831
+2024-12-29 12:31:49,431 - ERROR - ------User Bad Link-------: uJ6t2xzQapiv|https://www.chess.com/game/computer/199092831
+2024-12-29 12:31:51,917 - ERROR - ------User Bad Link-------: uJ6t2xzQapiv|https://www.chess.com/game/computer/199092831
+2024-12-29 12:31:56,001 - ERROR - Error in run function for link https://www.chess.com/analysis/game/computer/199092831?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/computer/199092831?tab=review", waiting until "load"
+
+2024-12-29 12:31:57,280 - INFO - Processing link: 4zaTjQt4vsUT|https://www.chess.com/analysis/game/live/129187348309?tab=analysis
+2024-12-29 12:31:58,869 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121776698420?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121776698420?tab=review", waiting until "load"
+
+2024-12-29 12:32:05,416 - INFO - Processing link: ngareLj9HCV9|https://www.chess.com/game/computer/199092831
+2024-12-29 12:32:07,135 - INFO - Successfully processed link: underattack_BVRMK vs. I-Tweets | Analysis - Chess.com
+2024-12-29 12:32:12,760 - INFO - Processing link: v5X8pUBcbKrl|https://www.chess.com/analysis/game/live/129187960299?tab=analysis
+2024-12-29 12:32:21,458 - INFO - Successfully processed link: Ghostman2007 vs. ceganesakumar | Analysis - Chess.com
+2024-12-29 12:32:22,966 - ERROR - ------User Bad Link-------: ngareLj9HCV9|https://www.chess.com/game/computer/199092831
+2024-12-29 12:32:28,434 - INFO - Processing link: ewWcwiGEXooP|https://www.chess.com/analysis/game/live/121776866674?tab=analysis
+2024-12-29 12:32:34,609 - INFO - https://www.chess.com/analysis/game/pgn/5goiqeiSa2?tab=review
+2024-12-29 12:32:36,518 - INFO - Successfully processed link: ShahadTesla369 vs. Sevada1996 | Analysis - Chess.com
+2024-12-29 12:32:37,633 - ERROR - Error in run function for link https://www.chess.com/analysis/game/computer/199092831?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/computer/199092831?tab=review", waiting until "load"
+
+2024-12-29 12:32:39,323 - INFO - https://www.chess.com/analysis/game/pgn/49A3EDohwC?tab=review
+2024-12-29 12:33:06,256 - INFO - Processing link: ETH0JjwX7dRl|https://www.chess.com/game/live/121776959502
+2024-12-29 12:33:37,117 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121776959502?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121776959502?tab=review", waiting until "load"
+
+2024-12-29 12:33:50,002 - INFO - Processing link: MKGjFJTfARap|https://www.chess.com/game/live/121776959502
+2024-12-29 12:33:55,227 - INFO - Successfully processed link: Denil_S vs. tusharan23 | Analysis - Chess.com
+2024-12-29 12:34:25,582 - INFO - Processing link: mXPJ7EJkcIMN|Check out this #chess game: Ghost0703 vs RohailShakeel88 - https://www.chess.com/live/game/121776845732
+2024-12-29 12:34:43,762 - INFO - Processing link: lySr4VBXdDAn|https://www.chess.com/game/121776809376/live
+2024-12-29 12:34:56,381 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121776845732?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121776845732?tab=review", waiting until "load"
+
+2024-12-29 12:35:00,949 - ERROR - ------User Bad Link-------: lySr4VBXdDAn|https://www.chess.com/game/121776809376/live
+2024-12-29 12:35:01,767 - ERROR - ------User Bad Link-------: lySr4VBXdDAn|https://www.chess.com/game/121776809376/live
+2024-12-29 12:35:02,805 - ERROR - ------User Bad Link-------: lySr4VBXdDAn|https://www.chess.com/game/121776809376/live
+2024-12-29 12:35:14,590 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121776809376?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121776809376?tab=review", waiting until "load"
+
+2024-12-29 12:35:20,330 - INFO - Processing link: CQEgJLw2ymsJ|https://www.chess.com/game/121776809376/live
+2024-12-29 12:35:26,994 - INFO - Successfully processed link: Bhavylathiya vs. bahaashakra | Analysis - Chess.com
+2024-12-29 12:35:27,429 - INFO - Processing link: F6WpsQvwxoW4|Check out this #chess game: Harshil241 vs zeek-oni - https://www.chess.com/live/game/121777008858
+2024-12-29 12:35:58,248 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121777008858?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121777008858?tab=review", waiting until "load"
+
+2024-12-29 12:36:48,094 - INFO - Processing link: bJCHPPKM3grT|https://www.chess.com/analysis/game/live/121775921240?tab=analysis
+2024-12-29 12:36:54,226 - INFO - Successfully processed link: busranurbb vs. TA-Gamerz | Analysis - Chess.com
+2024-12-29 12:38:12,166 - INFO - Processing link: 34jftmPSVIrH|https://www.chess.com/analysis/game/live/121776850846?tab=analysis
+2024-12-29 12:38:30,002 - ERROR - ------User Bad Link-------: 34jftmPSVIrH|https://www.chess.com/analysis/game/live/121776850846?tab=analysis
+2024-12-29 12:38:32,235 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-29 12:38:43,015 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121776850846?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121776850846?tab=review", waiting until "load"
+
+2024-12-29 12:39:16,147 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-29 12:39:33,086 - ERROR - Error in run function for link [Event "Live Chess"] [Site "Chess.com"] [Date "2024.12.29"] [Round ""] [White "Guest1406890709"] [Black "Guest1206092527"] [Result "0-1"] [TimeControl "600"] [WhiteElo "400"] [BlackElo "400"] [Termination "Guest1206092527 won by resignation"] [Link "https://www.chess.com/game/121776943058"] 1. d4 d5 2. Bf4 Bf5 3. e3 e6 4. Nf3 Nf6 5. Bd3 Bg6 6. c3 Bxd3 7. Qxd3 a6 8. Nbd2 Nc6 9. Nb3 h6 10. O-O-O Be7 11. Nbd2 a5 12. h4 Ne4 13. Nxe4 dxe4 14. Qxe4 O-O 15. Ne5 Nxe5 16. Bxe5 Bf6 17. Bxf6 Qxf6 18. g4 Qxf2 19. Rde1 b5 20. a3 b4 21. cxb4 axb4 22. g5 bxa3 23. bxa3 Rxa3 24. Rhf1 Ra1+ 25. Qb1 Rxb1+ 26. Kxb1 Qxh4 27. Rc1 Rc8 28. Rc4 Qxg5 29. Rfc1 Qxe3 30. R4c3 Qxd4 31. Rxc7 Rxc7 32. Rxc7 Qb6+ 0-1: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis?tab=analysis", waiting until "load"
+
+2024-12-29 12:39:57,519 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-29 12:40:16,981 - ERROR - Error in run function for link [Site "Chess.com"] [White "KINGjekkk"] [Black "divakarblunder"] [Result "0-1"] [WhiteElo "427"] [BlackElo "389"] [TimeControl "120+1"] [Termination "divakarblunder won by checkmate"] 1. g3 c6 2. Bg2 d5 3. Nf3 f5 4. O-O e6 5. Ne5 Nf6 6. e3 g5 7. b3 Bd6 8. Bb2 Bxe5 9. Bxe5 Nbd7 10. Bb2 e5 11. h4 gxh4 12. gxh4 f4 13. exf4 exf4 14. Qf3 Rg8 15. Qxf4 Qe7 16. Nc3 Rg4 17. Qf3 Ne5 18. Qf5 Bxf5 19. d4 Nf3+ 20. Kh1 Rxh4+ 21. Bh3 Rxh3+ 22. Kg2 Qg7# 0-1: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis?tab=analysis", waiting until "load"
+
+2024-12-29 12:40:36,705 - INFO - https://www.chess.com/analysis/game/pgn/3eK71qbHki?tab=review
+2024-12-29 12:41:05,263 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-29 12:41:30,582 - ERROR - ------User Bad Link-------: WiZZ3NXuIdVo|https://www.chess.com/analysis/game/live/129189192481?tab=analysis
+2024-12-29 12:41:40,888 - INFO - https://www.chess.com/analysis/game/pgn/3PKkJqBZGa?tab=review
+2024-12-29 12:41:49,398 - INFO - Processing link: HlFXVSh7qpQE|https://www.chess.com/analysis/game/live/121777015132?tab=analysis
+2024-12-29 12:41:56,326 - INFO - Successfully processed link: brajesh043 vs. PersonKid | Analysis - Chess.com
+2024-12-29 12:41:57,768 - INFO - Processing link: 5VoGMtmm1wVa|Check out this #chess game: Unsworthz vs scottm32 - https://www.chess.com/live/game/121776925596
+2024-12-29 12:42:05,594 - INFO - Successfully processed link: Unsworthz vs. scottm32 | Analysis - Chess.com
+2024-12-29 12:42:23,573 - INFO - Processing link: QESkQqXUEKQM|https://www.chess.com/analysis/game/live/129189192481?tab=analysis
+2024-12-29 12:42:32,208 - INFO - Successfully processed link: Jos2105 vs. players_xn | Analysis - Chess.com
+2024-12-29 12:43:23,208 - INFO - Processing link: ImszpctY54O9|https://www.chess.com/analysis/game/live/121777037832?tab=analysis
+2024-12-29 12:43:29,674 - INFO - Successfully processed link: Takeheed31 vs. ShahadTesla369 | Analysis - Chess.com
+2024-12-29 12:44:11,109 - INFO - Processing link: YRQ1EZYIo2Ma|Check out this #chess game: chinu0528 vs henshaian - https://www.chess.com/live/game/129189184021
+2024-12-29 12:44:41,932 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/129189184021?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/129189184021?tab=review", waiting until "load"
+
+2024-12-29 12:44:51,043 - INFO - Processing link: aTOTBfb4zZA2|sdsd https://www.chess.com/analysis/game/live/121777045608?tab=analysis sdsd
+2024-12-29 12:45:08,500 - ERROR - ------User Bad Link-------: aTOTBfb4zZA2|sdsd https://www.chess.com/analysis/game/live/121777045608?tab=analysis sdsd
+2024-12-29 12:45:20,017 - INFO - Processing link: WsbRYsr7TQZE|sdsd https://www.chess.com/analysis/game/live/121777045608?tab=analysis sdsd
+2024-12-29 12:45:21,852 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121777045608?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121777045608?tab=review", waiting until "load"
+
+2024-12-29 12:45:25,901 - INFO - Successfully processed link: mohammadzartan vs. hkh4ngg | Analysis - Chess.com
+2024-12-29 12:45:29,144 - INFO - Processing link: TJoTUKuj9BWB|Check out this #chess game: BHG8025 vs THEAUTUMNLEAF86 - https://www.chess.com/live/game/121777139084
+2024-12-29 12:45:34,997 - INFO - Successfully processed link: BHG8025 vs. THEAUTUMNLEAF86 | Analysis - Chess.com
+2024-12-29 12:45:50,026 - INFO - Processing link: b5IkVybmM3oz|https://www.chess.com/live/game/121776678972
+2024-12-29 12:45:53,770 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-29 12:46:20,808 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121776678972?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121776678972?tab=review", waiting until "load"
+
+2024-12-29 12:46:25,930 - INFO - https://www.chess.com/analysis/game/pgn/uB1TicykJ?tab=review
+2024-12-29 12:46:32,139 - INFO - Processing link: 3MeGpsFDyK5H|https://www.chess.com/game/live/129189188747
+2024-12-29 12:46:39,129 - INFO - Successfully processed link: AnkitKumarLaha56 vs. Requimlei | Analysis - Chess.com
+2024-12-29 12:46:54,007 - INFO - Processing link: DrXjpSTmf635|https://www.chess.com/analysis/game/live/129188563619?tab=analysis
+2024-12-29 12:47:01,463 - INFO - Successfully processed link: uwhdheje vs. ranakhandekar | Analysis - Chess.com
+2024-12-29 12:48:23,679 - INFO - Processing link: OOkpVVFani4K|https://www.chess.com/analysis/game/live/121777055754?tab=analysis
+2024-12-29 12:48:41,135 - ERROR - ------User Bad Link-------: OOkpVVFani4K|https://www.chess.com/analysis/game/live/121777055754?tab=analysis
+2024-12-29 12:48:42,808 - ERROR - ------User Bad Link-------: OOkpVVFani4K|https://www.chess.com/analysis/game/live/121777055754?tab=analysis
+2024-12-29 12:48:44,299 - ERROR - ------User Bad Link-------: OOkpVVFani4K|https://www.chess.com/analysis/game/live/121777055754?tab=analysis
+2024-12-29 12:48:45,711 - ERROR - ------User Bad Link-------: OOkpVVFani4K|https://www.chess.com/analysis/game/live/121777055754?tab=analysis
+2024-12-29 12:48:54,546 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121777055754?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121777055754?tab=review", waiting until "load"
+
+2024-12-29 12:48:55,697 - INFO - Processing link: 7Tn3cH3lZpOv|https://www.chess.com/analysis/game/live/121777055754?tab=analysis
+2024-12-29 12:48:58,671 - INFO - Processing link: sjgmLcQbf8WW|https://www.chess.com/analysis/game/live/121776908870?tab=review
+2024-12-29 12:49:02,047 - INFO - Successfully processed link: nikfury37 vs. iO_Neptune | Analysis - Chess.com
+2024-12-29 12:49:05,925 - INFO - Successfully processed link: Hamestolem vs. NaveenKumar1905 | Analysis - Chess.com
+2024-12-29 12:49:46,267 - INFO - Processing link: i3lUl1ZlfBnS|https://www.chess.com/analysis/game/live/129189801987?tab=analysis
+2024-12-29 12:49:53,939 - INFO - Successfully processed link: giannhsorfanos94a vs. martinez276 | Analysis - Chess.com
+2024-12-29 12:50:08,349 - INFO - Processing link: fWCEkQeO3EIY|https://www.chess.com/analysis/game/live/121777132310?tab=review
+2024-12-29 12:50:30,903 - ERROR - ------User Bad Link-------: fWCEkQeO3EIY|https://www.chess.com/analysis/game/live/121777132310?tab=review
+2024-12-29 12:50:35,674 - INFO - Processing link: lAlzPW6AswWU|https://www.chess.com/game/live/121777147264
+2024-12-29 12:50:37,981 - INFO - Processing link: EJnNIxDzX61F|https://www.chess.com/analysis/game/live/121777132310?tab=review
+2024-12-29 12:50:39,152 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121777132310?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121777132310?tab=review", waiting until "load"
+
+2024-12-29 12:50:40,185 - INFO - Processing link: VfqytIEVtAqx|https://www.chess.com/analysis/game/live/129133443863?tab=analysishttps://www.chess.com/analysis/game/live/129133443863?tab=analysishttps://www.chess.com/analysis/game/live/129133443863?tab=analysis
+2024-12-29 12:50:41,785 - INFO - Successfully processed link: Kamil-T vs. Arshad0511 | Analysis - Chess.com
+2024-12-29 12:50:44,884 - INFO - Successfully processed link: PersonKid vs. Sakir102 | Analysis - Chess.com
+2024-12-29 12:50:57,689 - INFO - Processing link: cs7e3fZwIUmP|https://www.chess.com/game/live/121777067426
+2024-12-29 12:51:05,396 - INFO - Processing link: bbejLSSprqmK|https://www.chess.com/analysis/game/live/129133443863?tab=analysis
+2024-12-29 12:51:05,609 - INFO - Successfully processed link: dennislaresma vs. Kamil-T | Analysis - Chess.com
+2024-12-29 12:51:11,416 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/129133443863?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/129133443863?tab=review", waiting until "load"
+
+2024-12-29 12:51:25,901 - INFO - Processing link: zTJhfY2Sop7b|https://www.chess.com/game/live/121776975598
+2024-12-29 12:51:29,649 - INFO - Processing link: 1V67ozlcznXw|https://www.chess.com/analysis/game/live/129133443863?tab=analysis
+2024-12-29 12:51:36,179 - INFO - Successfully processed link: S-Karan007 vs. twomon | Analysis - Chess.com
+2024-12-29 12:51:36,296 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/129133443863?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/129133443863?tab=review", waiting until "load"
+
+2024-12-29 12:51:44,830 - ERROR - ------User Bad Link-------: zTJhfY2Sop7b|https://www.chess.com/game/live/121776975598
+2024-12-29 12:51:47,023 - ERROR - ------User Bad Link-------: zTJhfY2Sop7b|https://www.chess.com/game/live/121776975598
+2024-12-29 12:51:53,620 - ERROR - ------User Bad Link-------: zTJhfY2Sop7b|https://www.chess.com/game/live/121776975598
+2024-12-29 12:51:56,716 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121776975598?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121776975598?tab=review", waiting until "load"
+
+2024-12-29 12:52:07,453 - INFO - Processing link: aS8IW0APgtAj|https://www.chess.com/analysis/game/live/129146011127?tab=analysis
+2024-12-29 12:52:08,218 - INFO - Processing link: ONwwMjL7RqUe|https://www.chess.com/game/live/121776975598
+2024-12-29 12:52:14,515 - INFO - Successfully processed link: Kamil-T vs. Emeshh | Analysis - Chess.com
+2024-12-29 12:52:27,642 - INFO - Processing link: 0SKuLj0Bmy7T|https://www.chess.com/analysis/game/live/121777112426?tab=analysis
+2024-12-29 12:52:33,412 - INFO - Processing link: iudbSDDgs4uC|https://www.chess.com/analysis/game/live/129146011127?tab=analysis
+2024-12-29 12:52:34,869 - INFO - Successfully processed link: squashod vs. MrJavascript | Analysis - Chess.com
+2024-12-29 12:52:38,249 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/129146011127?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/129146011127?tab=review", waiting until "load"
+
+2024-12-29 12:52:39,570 - INFO - Processing link: 367lLBIllht4|https://www.chess.com/game/live/121777183636
+2024-12-29 12:52:40,501 - INFO - Successfully processed link: S-Karan007 vs. Davasco48 | Analysis - Chess.com
+2024-12-29 12:52:47,115 - INFO - Successfully processed link: pojiratelPLAVA vs. Denil_S | Analysis - Chess.com
+2024-12-29 12:52:52,756 - INFO - Processing link: aCj07C2T1jLK|https://www.chess.com/analysis/game/computer/199098363?tab=analysis
+2024-12-29 12:53:15,201 - ERROR - ------User Bad Link-------: aCj07C2T1jLK|https://www.chess.com/analysis/game/computer/199098363?tab=analysis
+2024-12-29 12:53:23,598 - ERROR - Error in run function for link https://www.chess.com/analysis/game/computer/199098363?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/computer/199098363?tab=review", waiting until "load"
+
+2024-12-29 12:53:26,602 - INFO - Processing link: AIoLXKgQQMyv|https://www.chess.com/analysis/game/live/129147823997?tab=analysis
+2024-12-29 12:53:34,114 - INFO - Successfully processed link: S-Karan007 vs. Tusharligade10 | Analysis - Chess.com
+2024-12-29 12:54:03,782 - INFO - Processing link: exiG8ICovCm4|https://www.chess.com/analysis/game/live/121777177612?tab=analysis
+2024-12-29 12:54:06,966 - INFO - Processing link: Ype3TPPkouYc|https://www.chess.com/analysis/game/live/129151986773?tab=analysis
+2024-12-29 12:54:10,212 - INFO - Successfully processed link: ShahadTesla369 vs. Ravichess2818 | Analysis - Chess.com
+2024-12-29 12:54:31,013 - INFO - Processing link: Nu8bum8Oi3HL|https://www.chess.com/analysis/game/live/129151986773?tab=analysis
+2024-12-29 12:54:37,110 - INFO - Successfully processed link: Eldiabloazul vs. S-Karan007 | Analysis - Chess.com
+2024-12-29 12:54:38,014 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/129151986773?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/129151986773?tab=review", waiting until "load"
+
+2024-12-29 12:55:10,795 - INFO - Processing link: 1lG2nXT195Tc|https://www.chess.com/analysis/game/live/129152644939?tab=analysis
+2024-12-29 12:55:17,922 - INFO - Successfully processed link: S-Karan007 vs. Eldiabloazul | Analysis - Chess.com
+2024-12-29 12:55:48,174 - INFO - Processing link: 50htmJmxqPaT|https://www.chess.com/analysis/game/live/121777081294?tab=analysis
+2024-12-29 12:55:56,476 - INFO - Successfully processed link: Tetraze4 vs. FuadM2017 | Analysis - Chess.com
+2024-12-29 12:56:31,101 - INFO - Processing link: WKokqBrZs1r7|https://www.chess.com/live/game/121777251102
+2024-12-29 12:56:38,209 - INFO - Successfully processed link: Tejasvsaini vs. blunderpanda009 | Analysis - Chess.com
+2024-12-29 12:57:09,850 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-29 12:57:45,579 - INFO - Processing link: adpVXFwPDwhl|https://www.chess.com/analysis/game/live/121777126050?tab=analysis
+2024-12-29 12:58:05,480 - INFO - Processing link: OvBLMqlG2Nc7|Check out this #chess game: nbPierre24 vs THEAUTUMNLEAF86 - https://www.chess.com/live/game/121777191574
+2024-12-29 12:58:10,599 - INFO - Processing link: D7ywlNmBmemf|https://www.chess.com/analysis/game/live/121777126050?tab=analysis
+2024-12-29 12:58:10,671 - ERROR - Error in run function for link [Event "Vs. Computer"] [Site "Chess.com"] [Date "2024-12-29"] [White "JD_The_Master"] [Black "Gordon Hayward"] [Result "1-0"] [WhiteElo "706"] [BlackElo "1350"] [TimeControl "600"] [Termination "JD_The_Master won by checkmate"] 1. e4 c5 2. c3 d6 3. d4 Nf6 4. e5 dxe5 5. dxe5 Nc6 6. Qxd8+ Kxd8 7. exf6 exf6 8. Nf3 Bd6 9. Bb5 Re8+ 10. Be3 a6 11. Bxc6 bxc6 12. O-O Bf5 13. Nbd2 Bd3 14. Rfe1 Rxe3 15. fxe3 Rb8 16. b3 Kc8 17. Nc4 Bxc4 18. bxc4 Kc7 19. Re2 Kd8 20. Rd1 Kc7 21. Red2 Be5 22. Nxe5 fxe5 23. Rd7+ Kc8 24. Rxf7 Rb2 25. Rdd7 Rxa2 26. Ra7 Ra1+ 27. Kf2 Kb8 28. Rae7 Ra2+ 29. Kg3 Rxg2+ 30. Kxg2 h5 31. Rf8# 1-0: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis?tab=analysis", waiting until "load"
+
+2024-12-29 12:58:12,743 - INFO - Successfully processed link: nbPierre24 vs. THEAUTUMNLEAF86 | Analysis - Chess.com
+2024-12-29 12:58:16,372 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121777126050?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121777126050?tab=review", waiting until "load"
+
+2024-12-29 12:58:16,754 - INFO - Successfully processed link: Ghost_8209 vs. mitch-96 | Analysis - Chess.com
+2024-12-29 12:58:20,353 - INFO - Processing link: bxoiw8AR9gz1|https://www.chess.com/analysis/game/live/121776996342?tab=explore839383aa
+2024-12-29 12:58:22,277 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-29 12:58:27,236 - INFO - Successfully processed link: 1Air1 vs. ubeisya | Analysis - Chess.com
+2024-12-29 12:58:52,129 - INFO - Processing link: mlQUQHsavYs1|https://www.chess.com/live/game/129188008467
+2024-12-29 12:59:01,108 - INFO - https://www.chess.com/analysis/game/pgn/3awekWcDDg?tab=review
+2024-12-29 12:59:02,356 - INFO - Successfully processed link: Derekramsy84 vs. pikage | Analysis - Chess.com
+2024-12-29 12:59:44,620 - ERROR - ------User Bad Link-------: ngareLj9HCV9|https://www.chess.com/game/computer/199100025
+2024-12-29 12:59:46,842 - ERROR - ------User Bad Link-------: ngareLj9HCV9|https://www.chess.com/game/computer/199100025
+2024-12-29 12:59:59,282 - INFO - Processing link: r3EOyR5qWnuP|https://www.chess.com/game/computer/199100025
+2024-12-29 13:00:06,433 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-12-29 13:00:15,120 - INFO - Processing link: CQWkYVfYTFQU|https://www.chess.com/analysis/game/live/121777229950?tab=analysis
+2024-12-29 13:00:22,013 - INFO - Successfully processed link: nimadhu vs. Crekz13 | Analysis - Chess.com
+2024-12-29 13:00:42,093 - INFO - Processing link: MU1H1WYPRvyv|https://www.chess.com/analysis/game/live/121776894542?tab=analysis&move=42jejehehe
+2024-12-29 13:00:53,407 - INFO - Processing link: Q6LRYtEnTVOU|https://www.chess.com/analysis/game/live/121777246116?tab=review
+2024-12-29 13:01:01,001 - ERROR - ------User Bad Link-------: MU1H1WYPRvyv|https://www.chess.com/analysis/game/live/121776894542?tab=analysis&move=42jejehehe
+2024-12-29 13:01:12,926 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121776894542?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121776894542?tab=review", waiting until "load"
+
+2024-12-29 13:01:17,885 - INFO - Processing link: SdluPNIMwFUa|https://www.chess.com/analysis/game/live/121777246116?tab=review
+2024-12-29 13:01:23,796 - INFO - Successfully processed link: sahi_rao vs. NaveenKumar1905 | Analysis - Chess.com
+2024-12-29 13:01:24,198 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121777246116?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121777246116?tab=review", waiting until "load"
+
+2024-12-29 13:01:35,451 - INFO - Processing link: Rmqhqz6ozYby|https://www.chess.com/analysis/game/live/121776894542?tab=analysishahahw
+2024-12-29 13:01:55,161 - INFO - Processing link: BtubnwXminlx|https://www.chess.com/analysis/game/live/121777308692?tab=analysis
+2024-12-29 13:01:59,125 - ERROR - ------User Bad Link-------: Rmqhqz6ozYby|https://www.chess.com/analysis/game/live/121776894542?tab=analysishahahw
+2024-12-29 13:02:00,884 - ERROR - ------User Bad Link-------: Rmqhqz6ozYby|https://www.chess.com/analysis/game/live/121776894542?tab=analysishahahw
+2024-12-29 13:02:02,188 - INFO - Successfully processed link: JashBhalara vs. ghosttr07 | Analysis - Chess.com
+2024-12-29 13:02:04,360 - INFO - Processing link: heGKua7DOQFm|https://www.chess.com/game/live/129190395101?username=pranavchessz
+2024-12-29 13:02:06,350 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121776894542?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121776894542?tab=review", waiting until "load"
+
+2024-12-29 13:02:10,490 - INFO - Successfully processed link: Abhinavv001 vs. pranavchessz | Analysis - Chess.com
+2024-12-29 13:02:23,639 - INFO - Processing link: qRgqemLD0IDn|https://www.chess.com/analysis/game/live/121776894542?tab=analysisieje8
+2024-12-29 13:02:29,541 - INFO - Successfully processed link: ubeisya vs. 1Air1 | Analysis - Chess.com
+2024-12-29 13:02:44,754 - INFO - Processing link: NWtDr8PrS9vE|Check out this #chess game: Tag1911 vs THEAUTUMNLEAF86 - https://www.chess.com/live/game/121777328446
+2024-12-29 13:03:07,507 - INFO - Processing link: rwcoX0qSvZZi|Check out this #chess game: Tag1911 vs THEAUTUMNLEAF86 - https://www.chess.com/live/game/121777328446
+2024-12-29 13:03:14,371 - INFO - Successfully processed link: Tag1911 vs. THEAUTUMNLEAF86 | Analysis - Chess.com
+2024-12-29 13:03:15,582 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121777328446?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121777328446?tab=review", waiting until "load"
+
+2024-12-29 13:03:41,977 - INFO - Processing link: JheRXb1TJxJ9|https://www.chess.com/analysis/game/live/121776817794?tab=analysis8383udu
+2024-12-29 13:03:47,969 - INFO - Successfully processed link: 1Air1 vs. naitik45 | Analysis - Chess.com
+2024-12-29 13:04:29,378 - INFO - Processing link: qjGblo26OCi7|https://www.chess.com/analysis/game/live/121776529934?tab=analysishdhe
+2024-12-29 13:05:00,187 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121776529934?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121776529934?tab=review", waiting until "load"
+
+2024-12-29 13:05:02,061 - INFO - Processing link: bBfs9yGdGTRd|https://www.chess.com/analysis/game/live/121776529934?tab=analysisdjdjdje
+2024-12-29 13:05:09,827 - INFO - Successfully processed link: 1Air1 vs. akashselva | Analysis - Chess.com
+2024-12-29 13:05:16,108 - ERROR - ------User Bad Link-------: hM5UaRW95ddc|https://www.chess.com/analysis/game/live/129190401291?tab=analysis
+2024-12-29 13:05:18,941 - INFO - Processing link: hM5UaRW95ddc|https://www.chess.com/analysis/game/live/129190401291?tab=analysis
+2024-12-29 13:05:26,315 - INFO - Successfully processed link: martinez276 vs. pawnbreak | Analysis - Chess.com
+2024-12-29 13:06:19,954 - INFO - Processing link: 30fn6CYdnM55|Check out this #chess game: shushh696969 vs Happymouth - https://www.chess.com/live/game/121777347950
+2024-12-29 13:06:27,047 - INFO - Processing link: GhQp7mIAMpQ2|https://www.chess.com/game/live/121777096970
+2024-12-29 13:06:40,849 - ERROR - ------User Bad Link-------: 30fn6CYdnM55|Check out this #chess game: shushh696969 vs Happymouth - https://www.chess.com/live/game/121777347950
+2024-12-29 13:06:46,757 - INFO - Processing link: uwAcQqn3IpPm|Check out this #chess game: THEAUTUMNLEAF86 vs kamalanathanchess - https://www.chess.com/live/game/121777390794
+2024-12-29 13:06:49,087 - ERROR - ------User Bad Link-------: GhQp7mIAMpQ2|https://www.chess.com/game/live/121777096970
+2024-12-29 13:06:50,337 - INFO - Processing link: QgvAS1eZH6wu|Check out this #chess game: shushh696969 vs Happymouth - https://www.chess.com/live/game/121777347950
+2024-12-29 13:06:50,787 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121777347950?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121777347950?tab=review", waiting until "load"
+
+2024-12-29 13:06:53,681 - INFO - Successfully processed link: THEAUTUMNLEAF86 vs. kamalanathanchess | Analysis - Chess.com
+2024-12-29 13:06:56,264 - INFO - Successfully processed link: shushh696969 vs. Happymouth | Analysis - Chess.com
+2024-12-29 13:06:57,904 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121777096970?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121777096970?tab=review", waiting until "load"
+
+2024-12-29 13:07:35,439 - INFO - Processing link: VMAokq5EXnmp|https://www.chess.com/game/live/121777096970
+2024-12-29 13:08:06,277 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121777096970?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121777096970?tab=review", waiting until "load"
+
+2024-12-29 13:08:30,683 - INFO - Processing link: lhAEozbB63pS|\u0634\u0627\u0647\u062f \u0647\u0630\u0647 \u0627\u0644\u0645\u0628\u0627\u0631\u0627\u0629: MuMMD0 \u0636\u062f abvilla - https://www.chess.com/live/game/129190946607
+2024-12-29 13:08:37,490 - INFO - Successfully processed link: MuMMD0 vs. abvilla | Analysis - Chess.com
+2024-12-29 13:08:44,078 - INFO - Processing link: 46SJRZC95PPM|https://www.chess.com/analysis/game/live/121777296830?tab=analysis
+2024-12-29 13:08:49,311 - INFO - Processing link: aJgM7oItaN90|https://www.chess.com/game/live/121777369140
+2024-12-29 13:08:50,879 - INFO - Successfully processed link: DronzerR4Y vs. bhargavsingha19 | Analysis - Chess.com
+2024-12-29 13:08:56,024 - INFO - Successfully processed link: Tatcaladothai vs. Strategic-Sovereign | Analysis - Chess.com
+2024-12-29 13:09:00,887 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-29 13:09:13,617 - INFO - Processing link: brgRzZiF0wbX|https://www.chess.com/live/game/129190395397
+2024-12-29 13:09:22,056 - INFO - Successfully processed link: ChessXvijay vs. kamlasingha | Analysis - Chess.com
+2024-12-29 13:09:52,211 - INFO - Processing link: McOPPHpImkue|https://www.chess.com/game/live/121777096970
+2024-12-29 13:09:58,801 - INFO - Successfully processed link: deimian13 vs. smdi1 | Analysis - Chess.com
+2024-12-29 13:10:10,607 - INFO - https://www.chess.com/analysis/game/pgn/2qvfoseouG?tab=review
+2024-12-29 13:10:14,993 - INFO - Processing link: g9yKjxxRtPUb|https://www.chess.com/analysis/game/live/121777386676?tab=review
+2024-12-29 13:10:20,687 - INFO - Successfully processed link: viciouswizard6 vs. PikachusPeepers | Analysis - Chess.com
+2024-12-29 13:10:21,973 - INFO - Processing link: jyGoqL9ehqde|Check out this #chess game: mohamedkamil vs valiokostov - https://www.chess.com/live/game/129191001687
+2024-12-29 13:10:28,894 - INFO - Successfully processed link: mohamedkamil vs. valiokostov | Analysis - Chess.com
+2024-12-29 13:10:40,564 - INFO - Processing link: s2b0IO0Q6dvY|https://www.chess.com/live/game/121777287942
+2024-12-29 13:10:49,587 - INFO - Successfully processed link: hannan1995 vs. enyowww | Analysis - Chess.com
+2024-12-29 13:14:24,161 - INFO - Processing link: Te9bghHSfCO7|Check out this #chess game: shihab12341 vs MADHAV7789 - https://www.chess.com/live/game/121777376380
+2024-12-29 13:14:31,578 - INFO - Successfully processed link: shihab12341 vs. MADHAV7789 | Analysis - Chess.com
+2024-12-29 13:16:26,182 - INFO - Processing link: 6P3FzQfZTqBC|https://www.chess.com/analysis/game/live/129189779443?tab=analysis
+2024-12-29 13:16:43,747 - ERROR - ------User Bad Link-------: 6P3FzQfZTqBC|https://www.chess.com/analysis/game/live/129189779443?tab=analysis
+2024-12-29 13:16:44,654 - INFO - Processing link: jbWmxTTDvPkv|Check out this #chess game: airellz vs Whiteeagle4real - https://www.chess.com/game/live/121777478956
+2024-12-29 13:16:51,529 - INFO - Successfully processed link: airellz vs. Whiteeagle4real | Analysis - Chess.com
+2024-12-29 13:16:57,045 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/129189779443?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/129189779443?tab=review", waiting until "load"
+
+2024-12-29 13:17:02,657 - INFO - Processing link: ALOXDqo3nC3m|https://www.chess.com/analysis/game/live/129189779443?tab=analysis
+2024-12-29 13:17:08,625 - INFO - Successfully processed link: kmaker2013 vs. o142857 | Analysis - Chess.com
+2024-12-29 13:17:15,846 - INFO - Processing link: Fv8a1c7rqAZB|https://www.chess.com/analysis/game/live/121777373880?tab=analysis
+2024-12-29 13:17:16,611 - INFO - Processing link: OVRApc1PjowY|https://www.chess.com/analysis/game/live/129191546623?tab=analysis
+2024-12-29 13:17:17,697 - INFO - Processing link: sCYLoW2PQC5P|Check out this #chess game: echo_bunny vs THEAUTUMNLEAF86 - https://www.chess.com/live/game/121777448254
+2024-12-29 13:17:20,435 - INFO - Processing link: fZdRqNfGGvyp|https://www.chess.com/game/live/129190375683
+2024-12-29 13:17:23,034 - INFO - Successfully processed link: 4ngeI666 vs. DOCTOR_YUNUS | Analysis - Chess.com
+2024-12-29 13:17:23,559 - INFO - Successfully processed link: KDLaster1957 vs. martinez276 | Analysis - Chess.com
+2024-12-29 13:17:48,802 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121777448254?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121777448254?tab=review", waiting until "load"
+
+2024-12-29 13:17:51,578 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/129190375683?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/129190375683?tab=review", waiting until "load"
+
+2024-12-29 13:17:57,426 - INFO - Processing link: DptM5shz0cIF|https://www.chess.com/game/live/129190375683
+2024-12-29 13:18:03,004 - INFO - Successfully processed link: KKnight000 vs. Romeo_07KBR | Analysis - Chess.com
+2024-12-29 13:18:15,547 - INFO - Processing link: 3nfCdTpAFiXx|Check out this #chess game: echo_bunny vs THEAUTUMNLEAF86 - https://www.chess.com/live/game/121777448254
+2024-12-29 13:18:46,390 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121777448254?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121777448254?tab=review", waiting until "load"
+
+2024-12-29 13:18:48,894 - INFO - Processing link: CJ09x1lgOOhN|https://www.chess.com/analysis/game/live/121777366398?tab=review
+2024-12-29 13:19:06,123 - ERROR - ------User Bad Link-------: CJ09x1lgOOhN|https://www.chess.com/analysis/game/live/121777366398?tab=review
+2024-12-29 13:19:08,107 - ERROR - ------User Bad Link-------: CJ09x1lgOOhN|https://www.chess.com/analysis/game/live/121777366398?tab=review
+2024-12-29 13:19:11,636 - ERROR - ------User Bad Link-------: CJ09x1lgOOhN|https://www.chess.com/analysis/game/live/121777366398?tab=review
+2024-12-29 13:19:19,925 - INFO - Successfully processed link: SHIkamaru_8806 vs. Crekz13 | Analysis - Chess.com
+2024-12-29 13:19:55,661 - INFO - Processing link: 40FVoZXxz0Vx|https://www.chess.com/analysis/game/live/121777366398?tab=review
+2024-12-29 13:20:01,672 - INFO - Successfully processed link: SHIkamaru_8806 vs. Crekz13 | Analysis - Chess.com
+2024-12-29 13:21:25,850 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-29 13:21:58,936 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-29 13:22:01,531 - INFO - Processing link: rRzVgqIJQG5J|https://www.chess.com/analysis/game/live/129192145307?tab=analysis6jrur
+2024-12-29 13:22:05,540 - ERROR - ------User Bad PGN-------: OkKbafq29e4Q|[Event \"Live Chess\"]
+[Site \"Chess.com\"]
+[Date \"2024.12.29\"]
+[Round \"-\"]
+[White \"kalulut62\"]
+[Black \"GM_MiiKey\"]
+[Result \"1-0\"]
+[CurrentPosition \"1k6/8/1PK5/5P2/8/1P5p/7P/8 b - -\"]
+[Timezone \"UTC\"]
+[ECO \"B20\"]
+[ECOUrl \"https://www.chess.com/openings/Sicilian-Defense-Staunton-Cochrane-Variation-2...e6\"]
+[UTCDate \"2024.12.29\"]
+[UTCTime \"06:02:09\"]
+[WhiteElo \"1646\"]
+[BlackElo \"1848\"]
+[TimeControl \"180\"]
+[Termination \"kalulut62 won on time\"]
+[StartTime \"06:02:09\"]
+[EndDate \"2024.12.29\"]
+[EndTime \"06:07:40\"]
+[Link \"https://www.chess.com/analysis/game/live/129190986365?tab=analysis\"]
+[WhiteUrl \"https://images.chesscomfiles.com/uploads/v1/user/335401989.17bc73ab.50x50o.c24c622d96e1.jpg\"]
+[WhiteCountry \"70\"]
+[WhiteTitle \"\"]
+[BlackUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"]
+[BlackCountry \"149\"]
+[BlackTitle \"\"]
+
+1. e4 {[%clk 0:02:58.8]} 1... c5 {[%clk 0:02:59]} 2. c4 {[%clk 0:02:57.7]} 2...
+e6 {[%clk 0:02:54.7]} 3. Nc3 {[%clk 0:02:57.2]} 3... Nc6 {[%clk 0:02:51.8]} 4.
+Nf3 {[%clk 0:02:56.4]} 4... Nf6 {[%clk 0:02:43.6]} 5. d4 {[%clk 0:02:54.6]} 5...
+d5 {[%clk 0:02:34.9]} 6. exd5 {[%clk 0:02:50.6]} 6... Nxd5 {[%clk 0:02:31.8]} 7.
+cxd5 {[%clk 0:02:50.5]} 7... exd5 {[%clk 0:02:31]} 8. Nxd5 {[%clk 0:02:44.1]}
+8... Qxd5 {[%clk 0:02:25.7]} 9. Bb5 {[%clk 0:02:43.3]} 9... cxd4 {[%clk
+0:02:20]} 10. Bxc6+ {[%clk 0:02:39.3]} 10... bxc6 {[%clk 0:02:16.5]} 11. Qxd4
+{[%clk 0:02:34.6]} 11... Ba6 {[%clk 0:02:07.8]} 12. Be3 {[%clk 0:02:29.7]} 12...
+Qxd4 {[%clk 0:01:56.1]} 13. Nxd4 {[%clk 0:02:29.6]} 13... Bb4+ {[%clk
+0:01:52.2]} 14. Kd1 {[%clk 0:02:25]} 14... O-O-O {[%clk 0:01:46.9]} 15. Kc2
+{[%clk 0:02:21.3]} 15... Kc7 {[%clk 0:01:40.9]} 16. Rac1 {[%clk 0:02:16]} 16...
+Kb7 {[%clk 0:01:36.8]} 17. Kb1 {[%clk 0:02:10.2]} 17... c5 {[%clk 0:01:31.8]}
+18. Nf3 {[%clk 0:02:07.1]} 18... Bd3+ {[%clk 0:01:28.1]} 19. Ka1 {[%clk
+0:02:04.4]} 19... Rhe8 {[%clk 0:01:23.1]} 20. a3 {[%clk 0:01:59.3]} 20... Ba5
+{[%clk 0:01:15.2]} 21. Rxc5 {[%clk 0:01:58.8]} 21... Bb6 {[%clk 0:01:10.6]} 22.
+Rc3 {[%clk 0:01:57.8]} 22... Be4 {[%clk 0:01:01.4]} 23. Bxb6 {[%clk 0:01:53.2]}
+23... axb6 {[%clk 0:00:59]} 24. Re3 {[%clk 0:01:51]} 24... Bxf3 {[%clk 0:00:56]}
+25. Rxf3 {[%clk 0:01:47.7]} 25... f6 {[%clk 0:00:51.6]} 26. Rh3 {[%clk
+0:01:46.4]} 26... h6 {[%clk 0:00:48.7]} 27. Rg3 {[%clk 0:01:42.9]} 27... g5
+{[%clk 0:00:47.9]} 28. f4 {[%clk 0:01:39.7]} 28... gxf4 {[%clk 0:00:44.4]} 29.
+Rg7+ {[%clk 0:01:38.1]} 29... Ka6 {[%clk 0:00:40]} 30. Rf1 {[%clk 0:01:36]}
+30... Rg8 {[%clk 0:00:36.1]} 31. Rxg8 {[%clk 0:01:32.1]} 31... Rxg8 {[%clk
+0:00:36]} 32. Rf2 {[%clk 0:01:29.2]} 32... h5 {[%clk 0:00:33.2]} 33. Kb1 {[%clk
+0:01:26.4]} 33... Kb5 {[%clk 0:00:25.4]} 34. Kc2 {[%clk 0:01:23.7]} 34... h4
+{[%clk 0:00:23.2]} 35. Kd3 {[%clk 0:01:20.8]} 35... f3 {[%clk 0:00:18.9]} 36.
+gxf3 {[%clk 0:01:18.5]} 36... Ka4 {[%clk 0:00:15.8]} 37. Re2 {[%clk 0:01:15.4]}
+37... h3 {[%clk 0:00:13]} 38. Re4+ {[%clk 0:01:12.5]} 38... Ka5 {[%clk
+0:00:11.4]} 39. Rg4 {[%clk 0:01:09.4]} 39... Rxg4 {[%clk 0:00:10.3]} 40. fxg4
+{[%clk 0:01:09.3]} 40... Ka4 {[%clk 0:00:04.1]} 41. Kc4 {[%clk 0:01:06.6]} 41...
+Ka5 {[%clk 0:00:03.2]} 42. b3 {[%clk 0:01:03.6]} 42... b5+ {[%clk 0:00:03.1]}
+43. Kc5 {[%clk 0:01:00.7]} 43... b4 {[%clk 0:00:02]} 44. axb4+ {[%clk
+0:00:59.4]} 44... Ka6 {[%clk 0:00:01.9]} 45. b5+ {[%clk 0:00:57.4]} 45... Kb7
+{[%clk 0:00:01.2]} 46. b6 {[%clk 0:00:55.9]} 46... Kb8 {[%clk 0:00:00.3]} 47.
+Kc6 {[%clk 0:00:54.3]} 47... f5 {[%clk 0:00:00.2]} 48. gxf5 {[%clk
+0:00:53.2][%c_effect c6;square;c6;type;Winner,b8;square;b8;type;TimeoutBlack]}
+1-0
+2024-12-29 13:22:20,845 - ERROR - ------User Bad Link-------: rRzVgqIJQG5J|https://www.chess.com/analysis/game/live/129192145307?tab=analysis6jrur
+2024-12-29 13:22:26,665 - ERROR - Error in run function for link 1. h4 h5 2. e4 e5 3. c4 c5 4. g4 g5 5. f4 f5 6. d4 d5 7. b4 b5 8. a4 a5 9. Nc3 Nc6 10. Nf3 Nf6 11. Bb2 Bb7 12. Bg2 Bg7 13. Qe2 Qe7 14. O-O O-O 15. Rad1 Rad8: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis?tab=analysis", waiting until "load"
+
+2024-12-29 13:22:28,720 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-29 13:22:32,728 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/129192145307?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/129192145307?tab=review", waiting until "load"
+
+2024-12-29 13:22:38,078 - INFO - Processing link: Bo4gVU1eRLHN|Check out this #chess game: ahnafsulaiman10 vs yamin_abrar103 - https://www.chess.com/live/game/129187992095
+2024-12-29 13:22:38,765 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-29 13:22:44,432 - INFO - Processing link: NlI2VkZAQhuO|https://www.chess.com/analysis/game/live/129192145307?tab=analysis
+2024-12-29 13:22:44,775 - INFO - https://www.chess.com/analysis/game/pgn/3f2wPCjKsU?tab=review
+2024-12-29 13:22:47,159 - INFO - Successfully processed link: ahnafsulaiman10 vs. yamin_abrar103 | Analysis - Chess.com
+2024-12-29 13:22:58,953 - INFO - Processing link: Gbvv3Sl3KCf9|https://www.chess.com/game/live/12918854097945
+2024-12-29 13:23:09,254 - INFO - Processing link: 5fYrpQOkxKmX|https://www.chess.com/analysis/game/live/129192145307?tab=analysishdheheh
+2024-12-29 13:23:15,294 - INFO - Successfully processed link: lyy0124 vs. 1Air1 | Analysis - Chess.com
+2024-12-29 13:23:15,884 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/129192145307?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/129192145307?tab=review", waiting until "load"
+
+2024-12-29 13:23:16,318 - INFO - Processing link: H0gd4wWDocPo|https://www.chess.com/analysis/game/live/121777569420?tab=analysis
+2024-12-29 13:23:22,499 - INFO - https://www.chess.com/analysis/game/pgn/NyWCAsBqp?tab=review
+2024-12-29 13:23:23,424 - INFO - Successfully processed link: imadalden vs. demoderby401k | Analysis - Chess.com
+2024-12-29 13:23:29,739 - ERROR - Error in run function for link [Event "Live Chess"] [Site "Chess.com"] [Date "2024.12.29"] [Round "-"] [White "kalulut62"] [Black "GM_MiiKey"] [Result "1-0"] [CurrentPosition "1k6/8/1PK5/5P2/8/1P5p/7P/8 b - -"] [Timezone "UTC"] [ECO "B20"] [ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Staunton-Cochrane-Variation-2...e6"] [UTCDate "2024.12.29"] [UTCTime "06:02:09"] [WhiteElo "1646"] [BlackElo "1848"] [TimeControl "180"] [Termination "kalulut62 won on time"] [StartTime "06:02:09"] [EndDate "2024.12.29"] [EndTime "06:07:40"] [Link "https://www.chess.com/analysis/game/live/129190986365tab=analysis"] [WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/335401989.17bc73ab.50x50o.c24c622d96e1.jpg"] [WhiteCountry "70"] [WhiteTitle ""] [BlackUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"] [BlackCountry "149"] [BlackTitle ""] 1. e4 1... c5 2. c4 2... e6 3. Nc3 3... Nc6 4. Nf3 4... Nf6 5. d4 5... d5 6. exd5 6... Nxd5 7. cxd5 7... exd5 8. Nxd5 8... Qxd5 9. Bb5 9... cxd4 10. Bxc6+ 10... bxc6 11. Qxd4 11... Ba6 12. Be3 12... Qxd4 13. Nxd4 13... Bb4+ 14. Kd1 14... O-O-O 15. Kc2 15... Kc7 16. Rac1 16... Kb7 17. Kb1 17... c5 18. Nf3 18... Bd3+ 19. Ka1 19... Rhe8 20. a3 20... Ba5 21. Rxc5 21... Bb6 22. Rc3 22... Be4 23. Bxb6 23... axb6 24. Re3 24... Bxf3 25. Rxf3 25... f6 26. Rh3 26... h6 27. Rg3 27... g5 28. f4 28... gxf4 29. Rg7+ 29... Ka6 30. Rf1 30... Rg8 31. Rxg8 31... Rxg8 32. Rf2 32... h5 33. Kb1 33... Kb5 34. Kc2 34... h4 35. Kd3 35... f3 36. gxf3 36... Ka4 37. Re2 37... h3 38. Re4+ 38... Ka5 39. Rg4 39... Rxg4 40. fxg4 40... Ka4 41. Kc4 41... Ka5 42. b3 42... b5+ 43. Kc5 43... b4 44. axb4+ 44... Ka6 45. b5+ 45... Kb7 46. b6 46... Kb8 47. Kc6 47... f5 48. gxf5 1-0: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis?tab=analysis", waiting until "load"
+
+2024-12-29 13:23:31,627 - WARNING - Error processing link https://www.chess.com/analysis/game/live/12918854097945?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-12-29 13:23:31,636 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/12918854097945?tab=review
+2024-12-29 13:24:02,208 - ERROR - ------User Bad Link-------: Gbvv3Sl3KCf9|github
+2024-12-29 13:24:10,126 - ERROR - ------User Bad Link-------: Gbvv3Sl3KCf9|github
+2024-12-29 13:24:10,535 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-29 13:24:12,645 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-29 13:24:16,718 - ERROR - ------User Bad Link-------: Gbvv3Sl3KCf9|github
+2024-12-29 13:24:19,113 - ERROR - ------User Bad Link-------: Gbvv3Sl3KCf9|github
+2024-12-29 13:24:35,528 - INFO - Processing link: KQJrOvdADSiM|github
