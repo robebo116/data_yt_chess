@@ -1265,3 +1265,37 @@ navigating to "https://www.chess.com/analysis/game/live/128947366813?tab=review"
 2024-12-29 12:19:11,150 - ERROR - ------User Bad Link-------: YvEUZCZlPOg3|https://www.chess.com/analysis/game/live/128947366813?tab=analysis
 2024-12-29 12:19:23,562 - INFO - Processing link: VciqJuRNVa4v|https://www.chess.com/analysis/game/live/128947366813?tab=analysis
 2024-12-29 12:19:25,608 - INFO - Processing link: YCcsXgnjBFvx|github
+2024-12-29 12:19:28,790 - INFO - Successfully processed link: marcin1_2 vs. Magnuscarpet1211 | Analysis - Chess.com
+2024-12-29 12:19:30,473 - ERROR - ------User Bad PGN-------: t8E8cYVmoI4E|1. e4 Nc6 2. Nc3 e5 3. f4 d6 4. Nf3 Nd4 5. Bc4 Be6 6. Bb3 Nxf3+ 7. Qxf3 Qf6 8.
+d3 O-O-O 9. Nd5 Bxd5 10. Bxd5 h6 11. O-O Be7 12. Qh3+ Kb8 13. fxe5 Qxe5 14. Rxf7
+Nf6 15. d4 Qh5 16. Qxh5 Nxh5 17. Rxe7 g5 18. Rf7 Rhf8 19. Rxf8 Rxf8 20. Be3 c6
+21. Be6 a6 22. Rf1 Re8 23. Bg4 Nf4 24. Bxf4 gxf4 25. Rxf4 Kc7 26. Rf7+ Kb6 27.
+Rf4 c5 28. dxc5+ dxc5 29. Rf6+ Kb5 30. Bd7+ 1-0
+2024-12-29 12:20:18,172 - INFO - Processing link: zfnOXQHsQY2J|https://www.chess.com/live/game/121776771208
+2024-12-29 12:20:31,875 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-29 12:20:34,124 - INFO - Processing link: BN5tHXJ87QfF|Check out this #chess game: PremiumDetroit vs STERLONgaming - https://www.chess.com/live/game/121776812144
+2024-12-29 12:20:41,244 - INFO - Successfully processed link: PremiumDetroit vs. STERLONgaming | Analysis - Chess.com
+2024-12-29 12:20:48,366 - INFO - Processing link: ujx9HFOdTgr3|Check out this #chess game: Lauiu vs golfhck839 - https://www.chess.com/live/game/121776771208
+2024-12-29 12:20:49,056 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121776771208?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121776771208?tab=review", waiting until "load"
+
+2024-12-29 12:20:54,577 - INFO - Successfully processed link: Lauiu vs. golfhck839 | Analysis - Chess.com
+2024-12-29 12:21:02,826 - INFO - Processing link: odQmSSTqMODR|https://www.chess.com/analysis/game/computer/199090353?tab=analysis
+2024-12-29 12:21:12,060 - INFO - Successfully processed link: Chess Analysis Board and PGN Editor - Chess.com
+2024-12-29 12:21:32,780 - ERROR - Error in run function for link 1. e4 Nc6 2. Nc3 e5 3. f4 d6 4. Nf3 Nd4 5. Bc4 Be6 6. Bb3 Nxf3+ 7. Qxf3 Qf6 8. d3 O-O-O 9. Nd5 Bxd5 10. Bxd5 h6 11. O-O Be7 12. Qh3+ Kb8 13. fxe5 Qxe5 14. Rxf7 Nf6 15. d4 Qh5 16. Qxh5 Nxh5 17. Rxe7 g5 18. Rf7 Rhf8 19. Rxf8 Rxf8 20. Be3 c6 21. Be6 a6 22. Rf1 Re8 23. Bg4 Nf4 24. Bxf4 gxf4 25. Rxf4 Kc7 26. Rf7+ Kb6 27. Rf4 c5 28. dxc5+ dxc5 29. Rf6+ Kb5 30. Bd7+ 1-0: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis?tab=analysis", waiting until "load"
+
+2024-12-29 12:21:34,934 - INFO - Processing link: Fdlzi9bB98jm|https://www.chess.com/live/game/129188567657
+2024-12-29 12:21:40,333 - INFO - Processing link: O3cfortHQof4|https://www.chess.com/game/live/121776808838
+2024-12-29 12:21:41,436 - INFO - Successfully processed link: SauronEM vs. jasonb017 | Analysis - Chess.com
+2024-12-29 12:22:12,878 - WARNING - Error processing link https://www.chess.com/analysis/game/live/121776808838?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+
+2024-12-29 12:22:12,888 - WARNING - Login element not found for link: https://www.chess.com/analysis/game/live/121776808838?tab=review
+2024-12-29 12:22:25,014 - INFO - Processing link: 4Mf3YEwzdRUL|https://www.chess.com/game/live/123456789
+2024-12-29 12:22:28,386 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-29 12:22:33,683 - INFO - Successfully processed link: Computer2-MEDIUM vs. muralee23 | Analysis - Chess.com
+2024-12-29 12:23:01,649 - INFO - Processing link: e0ANS9BFPXoQ|github
