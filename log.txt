@@ -1800,3 +1800,63 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-12-29 13:24:16,718 - ERROR - ------User Bad Link-------: Gbvv3Sl3KCf9|github
 2024-12-29 13:24:19,113 - ERROR - ------User Bad Link-------: Gbvv3Sl3KCf9|github
 2024-12-29 13:24:35,528 - INFO - Processing link: KQJrOvdADSiM|github
+2024-12-29 13:24:46,798 - INFO - Processing link: qdKNqaaKXKxR|https://www.chess.com/live/game/129191012891
+2024-12-29 13:24:48,556 - INFO - https://www.chess.com/analysis/game/pgn/33WfTpnRFt?tab=review
+2024-12-29 13:25:06,229 - ERROR - ------User Bad Link-------: qdKNqaaKXKxR|https://www.chess.com/live/game/129191012891
+2024-12-29 13:25:08,981 - INFO - Processing link: 0pguLGK99PAl|Check out this #chess game: yamin_abrar103 vs ahnafsulaiman10 - https://www.chess.com/live/game/129188590439
+2024-12-29 13:25:10,592 - ERROR - ------User Bad Link-------: qdKNqaaKXKxR|https://www.chess.com/live/game/129191012891
+2024-12-29 13:25:11,409 - ERROR - Error in run function for link [Event ""] [Site "365chess.com"] [Date "2024.12.29"] [Round ""] [White "Guest"] [Black "Stockfish "] [Result "1-0"] 1. d4 e6 2. d5 Qh4 3. dxe6 dxe6 4. e3 Nd7 5. Bb5 Qb4+ 6. Nc3 Bd6 7. Bxd7+ Bxd7 8. a3 Qh4 9. Qe2 Bc6 10. Nb5 Bxg2 11. Nxd6+ cxd6 12. Qb5+ Bc6 13. Nf3 Qe4 14. Qe2 O-O-O 15. Rg1 Qf5 16. Nh4 Qe5 17. Nf3 Qd5 18. Bd2 Nf6 19. O-O-O Qxf3 20. Qxf3 Bxf3 21. Rde1 Ng4 22. h3 Nxf2 23. Rxg7 Rd7 24. Rf1 f6 25. Rxd7 Kxd7 26. Rxf2 Be4 27. Rf4 Bf5 28. e4 Bg6 29. Rxf6 Bxe4 30. Rf7+ Ke8 31. Rc7 Rg8 32. Rc8+ Kf7 33. Rc7+ Ke8 34. Rc8+ Kf7 35. Rxg8 Kxg8 36. Bf4 b6 37. Bxd6 h6 38. Bb8 a5 39. Ba7 Kf8 40. Bxb6 a4 41. Bc5+ Kf7 42. Be3 h5 43. c4 Ke7 44. c5 Kd7 45. b4 h4 46. Bf2 Bc6 47. Bxh4 e5 48. Bf6 Be4 49. Bxe5 Bd5 50. Kc2 Kc6 51. Kc3 Bg2 52. h4 Bh3 53. Kc4 Bg4 54. b5+ Kd7 55. c6+ Kd8 56. Kc5 Bf5 57. b6 Be4 58. c7+ Kd7 59. Kb5 Kc8 60. Kxa4 Bd3 61. Kb4 Be4 62. a4 Kb7 63. a5 Bf3 64. Kb5 Bc6+ 65. Kc5 Be4 66. Kb5 Bc6+ 67. Kc5 Be8 68. Kb4 Bg6 69. Kb5 Be8+ 70. Kc5 Bg6 71. c8=Q+ Kxc8 72. a6 Kd8 73. a7 Be4 74. h5 Kd7 75. h6 Ke7 76. h7 Bxh7 77. a8=Q Bg6 78. b7 Be4 79. Qa7 Kf7 80. b8=Q+ Ke6 81. Bc7 Bf5 82. Qbb6+ Kd7 83. Bb8+ Ke8 84. Qg7 Bd3 85. Qg8+ Kd7 86. Qc7# 1-0: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis?tab=analysis", waiting until "load"
+
+2024-12-29 13:25:12,818 - ERROR - ------User Bad Link-------: qdKNqaaKXKxR|https://www.chess.com/live/game/129191012891
+2024-12-29 13:25:15,300 - ERROR - ------User Bad Link-------: qdKNqaaKXKxR|https://www.chess.com/live/game/129191012891
+2024-12-29 13:25:15,956 - INFO - Processing link: mA9bfwiqQ2BS|https://www.chess.com/analysis/game/live/121777617960?tab=analysis
+2024-12-29 13:25:16,393 - INFO - Successfully processed link: yamin_abrar103 vs. ahnafsulaiman10 | Analysis - Chess.com
+2024-12-29 13:25:17,795 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/129191012891?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/129191012891?tab=review", waiting until "load"
+
+2024-12-29 13:25:18,053 - INFO - Processing link: GvtborvXjoOC|https://www.chess.com/game/live/121776517722
+2024-12-29 13:25:21,976 - INFO - Successfully processed link: ThugMridul vs. Qunnecu | Analysis - Chess.com
+2024-12-29 13:25:25,783 - INFO - Successfully processed link: Istoleyourtoastsss vs. joultop | Analysis - Chess.com
+2024-12-29 13:25:31,495 - INFO - Processing link: rihjjALsThFd|https://www.chess.com/analysis/game/live/129191582887?tab=analysis
+2024-12-29 13:25:43,725 - ERROR - ------User Bad PGN-------: 4gpRTqfhAE8T|[Event \"?\"]
+[Site \"365chess.com\"]
+[Date \"2024.12.29\"]
+[Round \"?\"]
+[White \"Guest\"]
+[Black \"Stockfish (Level 1)\"]
+[Result \"1-0\"]
+
+1. d4 e6 2. d5 Qh4 3. dxe6 dxe6 4. e3 Nd7 5. Bb5 Qb4+ 6. Nc3 Bd6 7. Bxd7+ Bxd7 8. a3 Qh4 9. Qe2 Bc6 10. Nb5 Bxg2 11. Nxd6+ cxd6 12. Qb5+ Bc6 13. Nf3 Qe4 14. Qe2 O-O-O 15. Rg1 Qf5 16. Nh4 Qe5 17. Nf3 Qd5 18. Bd2 Nf6 19. O-O-O Qxf3 20. Qxf3 Bxf3 21. Rde1 Ng4 22. h3 Nxf2 23. Rxg7 Rd7 24. Rf1 f6 25. Rxd7 Kxd7 26. Rxf2 Be4 27. Rf4 Bf5 28. e4 Bg6 29. Rxf6 Bxe4 30. Rf7+ Ke8 31. Rc7 Rg8 32. Rc8+ Kf7 33. Rc7+ Ke8 34. Rc8+ Kf7 35. Rxg8 Kxg8 36. Bf4 b6 37. Bxd6 h6 38. Bb8 a5 39. Ba7 Kf8 40. Bxb6 a4 41. Bc5+ Kf7 42. Be3 h5 43. c4 Ke7 44. c5 Kd7 45. b4 h4 46. Bf2 Bc6 47. Bxh4 e5 48. Bf6 Be4 49. Bxe5 Bd5 50. Kc2 Kc6 51. Kc3 Bg2 52. h4 Bh3 53. Kc4 Bg4 54. b5+ Kd7 55. c6+ Kd8 56. Kc5 Bf5 57. b6 Be4 58. c7+ Kd7 59. Kb5 Kc8 60. Kxa4 Bd3 61. Kb4 Be4 62. a4 Kb7 63. a5 Bf3 64. Kb5 Bc6+ 65. Kc5 Be4 66. Kb5 Bc6+ 67. Kc5 Be8 68. Kb4 Bg6 69. Kb5 Be8+ 70. Kc5 Bg6 71. c8=Q+ Kxc8 72. a6 Kd8 73. a7 Be4 74. h5 Kd7 75. h6 Ke7 76. h7 Bxh7 77. a8=Q Bg6 78. b7 Be4 79. Qa7 Kf7 80. b8=Q+ Ke6 81. Bc7 Bf5 82. Qbb6+ Kd7 83. Bb8+ Ke8 84. Qg7 Bd3 85. Qg8+ Kd7 86. Qc7# 1-0
+2024-12-29 13:25:58,529 - ERROR - ------User Bad Link-------: rihjjALsThFd|https://www.chess.com/analysis/game/live/129191582887?tab=analysis
+2024-12-29 13:26:02,337 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/129191582887?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/129191582887?tab=review", waiting until "load"
+
+2024-12-29 13:26:13,511 - ERROR - ------User Bad PGN-------: 4gpRTqfhAE8T|[Event \"?\"]
+[Site \"365chess.com\"]
+[Date \"2024.12.29\"]
+[Round \"?\"]
+[White \"Guest\"]
+[Black \"Stockfish (Level 1)\"]
+[Result \"1-0\"]
+
+1. d4 e6 2. d5 Qh4 3. dxe6 dxe6 4. e3 Nd7 5. Bb5 Qb4+ 6. Nc3 Bd6 7. Bxd7+ Bxd7 8. a3 Qh4 9. Qe2 Bc6 10. Nb5 Bxg2 11. Nxd6+ cxd6 12. Qb5+ Bc6 13. Nf3 Qe4 14. Qe2 O-O-O 15. Rg1 Qf5 16. Nh4 Qe5 17. Nf3 Qd5 18. Bd2 Nf6 19. O-O-O Qxf3 20. Qxf3 Bxf3 21. Rde1 Ng4 22. h3 Nxf2 23. Rxg7 Rd7 24. Rf1 f6 25. Rxd7 Kxd7 26. Rxf2 Be4 27. Rf4 Bf5 28. e4 Bg6 29. Rxf6 Bxe4 30. Rf7+ Ke8 31. Rc7 Rg8 32. Rc8+ Kf7 33. Rc7+ Ke8 34. Rc8+ Kf7 35. Rxg8 Kxg8 36. Bf4 b6 37. Bxd6 h6 38. Bb8 a5 39. Ba7 Kf8 40. Bxb6 a4 41. Bc5+ Kf7 42. Be3 h5 43. c4 Ke7 44. c5 Kd7 45. b4 h4 46. Bf2 Bc6 47. Bxh4 e5 48. Bf6 Be4 49. Bxe5 Bd5 50. Kc2 Kc6 51. Kc3 Bg2 52. h4 Bh3 53. Kc4 Bg4 54. b5+ Kd7 55. c6+ Kd8 56. Kc5 Bf5 57. b6 Be4 58. c7+ Kd7 59. Kb5 Kc8 60. Kxa4 Bd3 61. Kb4 Be4 62. a4 Kb7 63. a5 Bf3 64. Kb5 Bc6+ 65. Kc5 Be4 66. Kb5 Bc6+ 67. Kc5 Be8 68. Kb4 Bg6 69. Kb5 Be8+ 70. Kc5 Bg6 71. c8=Q+ Kxc8 72. a6 Kd8 73. a7 Be4 74. h5 Kd7 75. h6 Ke7 76. h7 Bxh7 77. a8=Q Bg6 78. b7 Be4 79. Qa7 Kf7 80. b8=Q+ Ke6 81. Bc7 Bf5 82. Qbb6+ Kd7 83. Bb8+ Ke8 84. Qg7 Bd3 85. Qg8+ Kd7 86. Qc7# 1-0
+2024-12-29 13:26:16,917 - INFO - Processing link: RqiA5PoNKI4q|https://www.chess.com/analysis/game/live/129191582887?tab=analysis
+2024-12-29 13:26:22,719 - INFO - Successfully processed link: javiermithun vs. JoshSchaefer41 | Analysis - Chess.com
+2024-12-29 13:26:36,643 - INFO - Processing link: PGN PGN PGN PGN
+2024-12-29 13:26:41,966 - INFO - Processing link: dizrnrt1D4uN|https://www.chess.com/game/live/121776617626
+2024-12-29 13:26:59,981 - ERROR - ------User Bad Link-------: dizrnrt1D4uN|https://www.chess.com/game/live/121776617626
+2024-12-29 13:27:13,097 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121776617626?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121776617626?tab=review", waiting until "load"
+
+2024-12-29 13:27:13,872 - INFO - Processing link: yf60wn4U218M|https://www.chess.com/game/live/121776617626
+2024-12-29 13:27:36,406 - INFO - https://www.chess.com/analysis/game/pgn/3VoKEVs5hg?tab=review
+2024-12-29 13:27:45,169 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121776617626?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121776617626?tab=review", waiting until "load"
+
+2024-12-29 13:27:46,196 - INFO - Processing link: IfjkhVSB4aHB|github
