@@ -1256,3 +1256,12 @@ navigating to "https://www.chess.com/analysis/game/live/129187376929?tab=review"
 
 2024-12-29 12:17:26,556 - ERROR - ------User Bad Link-------: 3CX1G1yRmljn|https://www.chess.com/analysis/game/live/129187376929?tab=analysis
 2024-12-29 12:17:35,419 - INFO - Processing link: 2r2UKTvsPvJA|github
+2024-12-29 12:18:38,517 - INFO - Processing link: YvEUZCZlPOg3|https://www.chess.com/analysis/game/live/128947366813?tab=analysis
+2024-12-29 12:18:56,730 - ERROR - ------User Bad Link-------: YvEUZCZlPOg3|https://www.chess.com/analysis/game/live/128947366813?tab=analysis
+2024-12-29 12:19:09,357 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/128947366813?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/128947366813?tab=review", waiting until "load"
+
+2024-12-29 12:19:11,150 - ERROR - ------User Bad Link-------: YvEUZCZlPOg3|https://www.chess.com/analysis/game/live/128947366813?tab=analysis
+2024-12-29 12:19:23,562 - INFO - Processing link: VciqJuRNVa4v|https://www.chess.com/analysis/game/live/128947366813?tab=analysis
+2024-12-29 12:19:25,608 - INFO - Processing link: YCcsXgnjBFvx|github
