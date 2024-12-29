@@ -1299,3 +1299,17 @@ waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-l
 2024-12-29 12:22:28,386 - INFO - Processing link: PGN PGN PGN PGN
 2024-12-29 12:22:33,683 - INFO - Successfully processed link: Computer2-MEDIUM vs. muralee23 | Analysis - Chess.com
 2024-12-29 12:23:01,649 - INFO - Processing link: e0ANS9BFPXoQ|github
+2024-12-29 12:23:06,396 - INFO - https://www.chess.com/analysis/game/pgn/5ifqFNrptN?tab=review
+2024-12-29 12:23:47,679 - ERROR - ------User Bad Link-------: 7cgUsODKkgyg|https://www.chess.com/game/live/129188540979
+2024-12-29 12:23:57,480 - INFO - Processing link: rCFwZOsRj9p7|Check out this #chess game: KarthikDASARI05 vs sidvoker - https://www.chess.com/live/game/121776735974
+2024-12-29 12:23:58,354 - INFO - Processing link: bCRIorKPIfko|https://www.chess.com/game/live/129188540979
+2024-12-29 12:24:28,338 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/121776735974?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/121776735974?tab=review", waiting until "load"
+
+2024-12-29 12:24:29,158 - ERROR - Error in run function for link https://www.chess.com/analysis/game/live/129188540979?tab=review: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://www.chess.com/analysis/game/live/129188540979?tab=review", waiting until "load"
+
+2024-12-29 12:25:17,022 - ERROR - ------User Bad Link-------: 3vZkI57oTkBq|Check out this #chess game: shihab12341 vs Megas16 - https://www.chess.com/live/game/121776698420
+2024-12-29 12:25:18,873 - INFO - Processing link: vAKYhH6ya5pN|github
