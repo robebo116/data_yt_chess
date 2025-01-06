@@ -91,3 +91,307 @@ waiting for locator("input[placeholder=\"Username or Email\"]")
 Call log:
 waiting for locator("input[placeholder=\"Username or Email\"]")
 
+2025-01-06 21:50:20,678 - ERROR - ------User Bad Link-------: 3xmrd66DozCJ|https://www.chess.com/analysis/game/live/129913188775?tab=analysis
+2025-01-06 21:50:20,680 - INFO - total open connections dropped below the connection limit, listening again
+2025-01-06 21:50:20,685 - INFO - Processing link: 7yojCs6Lhp6c|Check out this #chess game: senjuhashirama007 vs COMPLEX_BOY - https://www.chess.com/live/game/121961920738
+2025-01-06 21:50:20,686 - WARNING - Task queue depth is 87
+2025-01-06 21:50:20,689 - WARNING - Task queue depth is 88
+2025-01-06 21:50:20,691 - WARNING - Task queue depth is 89
+2025-01-06 21:50:20,692 - WARNING - total open connections reached the connection limit, no longer accepting new connections
+2025-01-06 21:50:20,693 - WARNING - Task queue depth is 90
+2025-01-06 21:50:22,313 - WARNING - Error processing link https://www.chess.com/analysis/game/live/129913188775?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+
+2025-01-06 21:50:36,243 - WARNING - Error processing link https://www.chess.com/analysis/game/live/121961811884?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+
+2025-01-06 21:50:36,792 - WARNING - Error processing link https://www.chess.com/analysis/game/live/121961920738?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-button-full">…</button>
+
+2025-01-06 21:50:41,641 - INFO - Processing link: 26eIAUzrIepq|https://www.chess.com/analysis/game/live/129911968045?tab=analysis
+2025-01-06 21:50:41,641 - INFO - total open connections dropped below the connection limit, listening again
+2025-01-06 21:50:41,642 - WARNING - total open connections reached the connection limit, no longer accepting new connections
+2025-01-06 21:50:41,642 - WARNING - Task queue depth is 90
+2025-01-06 21:50:43,522 - ERROR - Error during login and cookie saving: Page.fill: Target page, context or browser has been closed
+Call log:
+waiting for locator("input[placeholder=\"Username or Email\"]")
+
+2025-01-06 21:50:44,030 - INFO - total open connections dropped below the connection limit, listening again
+2025-01-06 21:50:44,030 - ERROR - ------User Bad PGN-------: kE1PZCvVo4UJ|[Event \"Live Chess\"]
+[Site \"Chess.com\"]
+[Date \"2025.01.06\"]
+[Round \"-\"]
+[White \"Anuz_AS\"]
+[Black \"Pako-7\"]
+[Result \"1-0\"]
+[CurrentPosition \"r2kr3/pppQ4/3pB3/8/8/8/PPnP2P1/RNB2K2 b - -\"]
+[Timezone \"UTC\"]
+[ECO \"C40\"]
+[ECOUrl \"https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Busch-Gass-Gambit\"]
+[UTCDate \"2025.01.06\"]
+[UTCTime \"12:15:52\"]
+[WhiteElo \"240\"]
+[BlackElo \"227\"]
+[TimeControl \"180\"]
+[Termination \"Anuz_AS won by checkmate\"]
+[StartTime \"12:15:52\"]
+[EndDate \"2025.01.06\"]
+[EndTime \"12:18:35\"]
+[Link \"https://www.chess.com/analysis/game/live/121959338434?tab=analysis\"]
+[WhiteUrl \"https://images.chesscomfiles.com/uploads/v1/user/382005297.b8c43090.50x50o.d13ba8d04849.jpg\"]
+[WhiteCountry \"100\"]
+[WhiteTitle \"\"]
+[BlackUrl \"https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif\"]
+[BlackCountry \"36\"]
+[BlackTitle \"\"]
+
+1. e4 e5 2. Nf3 Bc5 3. Bc4 Nf6 4. Nxe5 Nxe4 5. Nxf7 d6 6. Nxd8 Bxf2+ 7. Kf1 Kxd8
+8. Qf3 Bg4 9. Qxg4 Ng3+ 10. hxg3 Bxg3 11. Qxg7 Re8 12. Qxg3 Nc6 13. Rxh7 Nb4 14.
+Be6 Nxc2 15. Rh8 Rxh8 16. Qg7 Re8 17. Qd7# 1-0
+2025-01-06 21:50:44,030 - WARNING - Task queue depth is 87
+2025-01-06 21:50:44,030 - ERROR - ------User Bad PGN-------: jso0IqCsBbjj|[Event \"Live Chess\"]
+[Site \"Chess.com\"]
+[Date \"2025.01.06\"]
+[Round \"-\"]
+[White \"applespicy\"]
+[Black \"Dimas19222\"]
+[Result \"1-0\"]
+[CurrentPosition \"2rq1bnr/2p1kppp/p1B5/1p2Q3/3Pp3/4P3/PPP2PPP/R1B1K2R b KQ -\"]
+[Timezone \"UTC\"]
+[ECO \"A40\"]
+[ECOUrl \"https://www.chess.com/openings/Englund-Gambit-Declined-Reversed-French-Variation\"]
+[UTCDate \"2025.01.06\"]
+[UTCTime \"14:24:57\"]
+[WhiteElo \"488\"]
+[BlackElo \"477\"]
+[TimeControl \"600\"]
+[Termination \"applespicy won by checkmate\"]
+[StartTime \"14:24:57\"]
+[EndDate \"2025.01.06\"]
+[EndTime \"14:32:16\"]
+[Link \"https://www.chess.com/analysis/game/live/121961779126?tab=analysis\"]
+[WhiteUrl \"https://images.chesscomfiles.com/uploads/v1/user/414737999.00ce0277.50x50o.d3f715d670b0.jpg\"]
+[WhiteCountry \"70\"]
+[WhiteTitle \"\"]
+[BlackUrl \"https://images.chesscomfiles.com/uploads/v1/user/379840849.3cd94356.50x50o.2a131101c9f2.webp\"]
+[BlackCountry \"116\"]
+[BlackTitle \"\"]
+
+1. e3 e5 2. d4 e4 3. Nc3 d5 4. Bb5+ Ke7 5. Qh5 Be6 6. Nh3 a6 7. Ba4 b5 8. Bb3
+Nc6 9. Nf4 Nb4 10. Ncxd5+ Bxd5 11. Nxd5+ Nxd5 12. Bxd5 Rc8 13. Qe5+ Kd7 14. Qf5+
+Ke8 15. Bc6+ Ke7 16. Qe5# 1-0
+2025-01-06 21:50:44,041 - WARNING - Task queue depth is 87
+2025-01-06 21:50:44,042 - INFO - Processing PGN: send_pgn [Event \"Live Chess\"]
+[Site \"Chess.com\"]
+[Date \"2025.01.06\"]
+[Round \"-\"]
+[White \"Girasol_3\"]
+[Black \"boomboxi\"]
+[Result \"1-0\"]
+[CurrentPosition \"8/8/1R6/4krp1/6K1/8/8/8 b - -\"]
+[Timezone \"UTC\"]
+[ECO \"B01\"]
+[ECOUrl \"https://www.chess.com/openings/Scandinavian-Defense\"]
+[UTCDate \"2025.01.06\"]
+[UTCTime \"14:30:25\"]
+[WhiteElo \"1492\"]
+[BlackElo \"1510\"]
+[TimeControl \"120+1\"]
+[Termination \"Girasol_3 won on time\"]
+[StartTime \"14:30:25\"]
+[EndDate \"2025.01.06\"]
+[EndTime \"14:37:07\"]
+[Link \"https://www.chess.com/analysis/game/live/129912627175?tab=analysis&move=100\"]
+[WhiteUrl \"https://images.chesscomfiles.com/uploads/v1/user/414761417.58c739ff.50x50o.7b1d6da5ae6c.jpg\"]
+[WhiteCountry \"223\"]
+[WhiteTitle \"\"]
+[BlackUrl \"https://images.chesscomfiles.com/uploads/v1/user/36108310.9f91882d.50x50o.b4757e80aa1c.jpeg\"]
+[BlackCountry \"141\"]
+[BlackTitle \"\"]
+
+1. e4 d5 2. Qh5 Nf6 3. Qe2 dxe4 4. d3 exd3 5. cxd3 Bg4 6. f3 Bh5 7. g4 Bg6 8. h4
+h5 9. g5 Nd5 10. Bg2 e6 11. Bd2 Bb4 12. Nc3 Nc6 13. Nxd5 Bxd2+ 14. Qxd2 Qxd5 15.
+f4 Qxd3 16. Qxd3 Bxd3 17. Kd2 Bf5 18. Nf3 O-O-O+ 19. Ke3 Rd3+ 20. Kf2 Rhd8 21.
+Bf1 Rd1 22. Bc4 Rxh1 23. Rxh1 Be4 24. Re1 Bxf3 25. Kxf3 Rd2 26. Re3 Rxb2 27. g6
+fxg6 28. Bxe6+ Kd8 29. Bf7 Nd4+ 30. Ke4 Nf5 31. Rd3+ Ke7 32. Bxg6 Nxh4 33. Bxh5
+g6 34. Bg4 Rxa2 35. Rd7+ Kf6 36. Rxc7 b5 37. Rb7 a6 38. Bc8 Ra4+ 39. Kd5 Ng2 40.
+Rb6+ Kf7 41. Bxa6 Nxf4+ 42. Kd6 b4 43. Ke5 Nh5 44. Bd3 Ra5+ 45. Ke4 Nf6+ 46. Kf3
+Nd5 47. Bc4 Kg7 48. Rb7+ Kh6 49. Bxd5 Rxd5 50. Rxb4 Rf5+ 51. Kg4 Rf2 52. Rb1 Kg7
+53. Rb7+ Rf7 54. Rb6 Re7 55. Rb8 Kf6 56. Rb6+ Kf7 57. Rb3 Re4+ 58. Kg3 Kf6 59.
+Rf3+ Kg5 60. Rb3 Re5 61. Rb1 Rf5 62. Rb3 Kh5 63. Rb4 g5 64. Rb8 Kg6 65. Rg8+ Kf7
+66. Rh8 Kf6 67. Rh6+ Ke5 68. Rg6 Ke4 69. Kg4 Ke5 70. Rb6 1-0
+2025-01-06 21:50:44,043 - WARNING - Task queue depth is 87
+2025-01-06 21:50:44,044 - WARNING - Task queue depth is 88
+2025-01-06 21:50:44,052 - WARNING - Task queue depth is 89
+2025-01-06 21:50:44,052 - WARNING - total open connections reached the connection limit, no longer accepting new connections
+2025-01-06 21:50:44,052 - WARNING - Task queue depth is 90
+2025-01-06 21:50:44,115 - ERROR - Error during login and cookie saving: Page.fill: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("input[placeholder=\"Username or Email\"]")
+
+2025-01-06 21:50:45,967 - INFO - Processing link: eRxklCOfJe63|github
+2025-01-06 21:50:45,968 - INFO - total open connections dropped below the connection limit, listening again
+2025-01-06 21:50:45,969 - WARNING - total open connections reached the connection limit, no longer accepting new connections
+2025-01-06 21:50:45,971 - WARNING - Task queue depth is 90
