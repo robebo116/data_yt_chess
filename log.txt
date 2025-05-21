@@ -17,3 +17,19 @@ waiting for locator(".chevron-down")
 2025-05-21 16:13:01,656 - ERROR - Error processing {'message_id': 3, 'from': {'id': 7880397584, 'is_bot': False, 'first_name': 'Vinh', 'last_name': 'Dinh', 'language_code': 'vi'}, 'chat': {'id': 7880397584, 'first_name': 'Vinh', 'last_name': 'Dinh', 'type': 'private'}, 'date': 1747817469, 'text': 'github'}: expected string or bytes-like object
 2025-05-21 16:14:26,530 - INFO - Processing link: github
 2025-05-21 16:14:30,138 - INFO - Successfully logged in and saved cookies for robebo1161
+2025-05-21 16:14:50,854 - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-21 16:14:57,451 - INFO - Running on https://0.0.0.0:8443 (CTRL + C to quit)
+2025-05-21 16:41:20,664 - INFO - Running on https://0.0.0.0:8443 (CTRL + C to quit)
+2025-05-21 16:43:13,340 - INFO - Running on https://0.0.0.0:8443 (CTRL + C to quit)
+2025-05-21 16:55:13,678 - INFO - Running on https://0.0.0.0:8443 (CTRL + C to quit)
+2025-05-21 16:55:46,507 - INFO - Running on https://0.0.0.0:8443 (CTRL + C to quit)
+2025-05-21 16:58:04,464 - INFO - Running on https://0.0.0.0:8443 (CTRL + C to quit)
+2025-05-21 17:04:25,953 - INFO - Running on https://0.0.0.0:8443 (CTRL + C to quit)
+2025-05-21 17:04:32,182 - INFO - Processing link: github
