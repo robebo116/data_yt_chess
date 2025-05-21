@@ -33,3 +33,22 @@ ConnectionResetError: [WinError 10054] An existing connection was forcibly close
 2025-05-21 16:58:04,464 - INFO - Running on https://0.0.0.0:8443 (CTRL + C to quit)
 2025-05-21 17:04:25,953 - INFO - Running on https://0.0.0.0:8443 (CTRL + C to quit)
 2025-05-21 17:04:32,182 - INFO - Processing link: github
+2025-05-21 17:27:45,580 - INFO - Running on https://0.0.0.0:8443 (CTRL + C to quit)
+2025-05-21 17:28:16,814 - INFO - Running on https://0.0.0.0:8443 (CTRL + C to quit)
+2025-05-21 17:33:08,116 - INFO - Processing PGN
+2025-05-21 17:33:12,151 - INFO - Processing PGN
+2025-05-21 17:33:14,484 - INFO - Processing PGN
+2025-05-21 17:33:25,597 - INFO - Processing PGN
+2025-05-21 17:33:26,669 - INFO - --------------------- https://www.chess.com/analysis/game/pgn/3KxyCDAKJe?tab=review ------------------
+2025-05-21 17:33:27,536 - INFO - --------------------- https://www.chess.com/analysis/game/pgn/11GhQk5aW?tab=review ------------------
+2025-05-21 17:33:28,541 - INFO - --------------------- https://www.chess.com/analysis/game/pgn/3DZQY7tbpi?tab=review ------------------
+2025-05-21 17:33:35,912 - INFO - --------------------- https://www.chess.com/analysis/game/pgn/MRbJawPFk?tab=review ------------------
+2025-05-21 17:34:17,590 - INFO - Processing PGN
+2025-05-21 17:34:26,629 - INFO - --------------------- https://www.chess.com/analysis/game/pgn/5MYR91ESqc?tab=review ------------------
+2025-05-21 17:34:53,901 - INFO - Processing link: Check out this #chess game: chespx vs HugoGangGang - https://www.chess.com/live/game/138697282266
+2025-05-21 17:34:55,434 - INFO - Processing link: https://www.chess.com/live/game/138690487990
+2025-05-21 17:34:56,945 - INFO - Processing PGN
+2025-05-21 17:35:01,159 - INFO - Successfully processed link: chespx vs. HugoGangGang | Analysis - Chess.com
+2025-05-21 17:35:04,153 - INFO - Successfully processed link: ANONYMOUS8348 vs. SeraphCherubOfan | Analysis - Chess.com
+2025-05-21 17:35:21,042 - INFO - Processing link: https://www.chess.com/game/live/138697066416
+2025-05-21 17:35:21,307 - INFO - Processing link: github
