@@ -13,3 +13,7 @@ waiting for locator(".chevron-down")
 2025-05-21 16:11:40,734 - INFO - Successfully logged in and saved cookies for bsvinh09
 2025-05-21 16:12:00,746 - INFO - Processing link: github
 2025-05-21 16:12:04,776 - INFO - Successfully logged in and saved cookies for robebo1161
+2025-05-21 16:13:01,656 - INFO - Processing link: {'message_id': 3, 'from': {'id': 7880397584, 'is_bot': False, 'first_name': 'Vinh', 'last_name': 'Dinh', 'language_code': 'vi'}, 'chat': {'id': 7880397584, 'first_name': 'Vinh', 'last_name': 'Dinh', 'type': 'private'}, 'date': 1747817469, 'text': 'github'}
+2025-05-21 16:13:01,656 - ERROR - Error processing {'message_id': 3, 'from': {'id': 7880397584, 'is_bot': False, 'first_name': 'Vinh', 'last_name': 'Dinh', 'language_code': 'vi'}, 'chat': {'id': 7880397584, 'first_name': 'Vinh', 'last_name': 'Dinh', 'type': 'private'}, 'date': 1747817469, 'text': 'github'}: expected string or bytes-like object
+2025-05-21 16:14:26,530 - INFO - Processing link: github
+2025-05-21 16:14:30,138 - INFO - Successfully logged in and saved cookies for robebo1161
