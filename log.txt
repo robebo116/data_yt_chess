@@ -1,500 +1,500 @@
-[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/419279259.efbda4ed.50x50o.ed5c030b82ef.png"]
-[WhiteCountry "149"]
-[WhiteTitle ""]
-[BlackUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
-[BlackCountry "164"]
-[BlackTitle ""]
-
-1. c4 e5 2. e3 d5 3. d4 e4 4. Nc3 Nf6 5. cxd5 Bb4 6. Bd2 Nxd5 7. a3 Bxc3 8. Bxc3
-Nxc3 9. bxc3 O-O 10. Qc2 Bf5 11. Qb2 b6 12. g3 Qd5 13. Bg2 Nd7 14. Ne2 Nf6 15.
-O-O Qe6 16. Nf4 Qd7 17. a4 Nd5 18. Nxd5 Qxd5 19. Qb5 Qxb5 20. axb5 Rfc8 21. Ra3
-c6 22. c4 cxb5 23. cxb5 Rc2 24. Rfa1 h6 25. Bf1 Rc7 26. h3 Bg6 27. Bg2 f5 28. g4
-fxg4 29. hxg4 Bh7 30. Kh2 g5 31. Kg3 Rf7 32. Bf1 Rd7 33. Bc4+ Kh8 34. f4 exf3
-35. Kxf3 Bg8 36. Bd3 Bd5+ 37. Be4 Rf7+ 38. Ke2 Bxe4 39. Rc3 Kg7 40. Rc6 Bxc6 41.
-bxc6 Rc7 42. d5 Kf6 43. e4 Ke5 44. Ke3 Rf8 45. Ra2 a5 46. Rh2 Rh8 47. Rf2 a4 48.
-Rf5+ Kd6 49. Kd4 a3 50. Rf2 Ra8 51. e5+ Ke7 52. d6+ Kd8 53. dxc7+ Kxc7 54. Ra2
-Rd8+ 55. Ke4 Kxc6 56. Rxa3 Re8 57. Kf5 b5 58. Kf6 b4 59. Ra6+ Kc5 60. e6 b3 61.
-Kf7 Rh8 62. Ra1 b2 63. Rb1 Rb8 64. e7 Kc4 65. e8=Q Rxe8 66. Kxe8 Kc3 67. Kf7 Kc2
-68. Rxb2+ Kxb2 69. Kg6 Kc3 70. Kxh6 Kd4 71. Kxg5 Ke5 72. Kh6 Ke6 73. g5 Kf7 74.
-Kh7 Kf8 75. g6 Ke8 76. g7 Kf7 77. g8=Q+ Kf6 78. Qg6+ Ke7 79. Kg7 Kd7 80. Kf7 Kc7
-81. Ke7 Kc8 82. Qc6+ Kb8 83. Kd7 Ka7 84. Qc5+ Ka6 85. Qc1 Kb5 86. Qb1+ Kc4 87.
-Qc1+ Kd4 88. Qd1+ Kc4 89. Kd6 Kc3 90. Qd5 Kc2 91. Kc5 Kc3 92. Qd4+ Kc2 93. Kc4
-Kc1 94. Qd3 Kb2 95. Qc3+ Kb1 96. Kb4 Ka2 97. Qc2+ Ka1 98. Qd2 Kb1 99. Kb3 Ka1
-100. Qb2# 1-0: Page.click: Timeout 30000ms exceeded.
+Nbd2 Nxf3+ 15. Nxf3 Be6 16. h3 d5 17. exd5 Qxd5 18. Qxc7+ Bd7 19. Rfe1+ Kf8 20.
+Rad1 Qxa2 21. Rxd7 Qg8 22. Rd8+ Rxd8 23. Qxd8+ Kg7 24. Qe7+ Qf7 25. Qxf7+ Kxf7
+26. Nd4 Re8 27. Rxe8 Kxe8 28. Nb5 Kd7 29. Nxa7 Kc7 30. Nb5+ Kc6 31. Nd4+ Kc5 32.
+Nf5 b5 33. Ne3 b4 34. Nd1 b3 35. Kh2 Kc4 36. Kg3 Kb4 37. Kh4 Ka3 38. g4 b2 39.
+Nxb2 Kxb2 40. Kh5 Kc3 41. Kh6 Kd4 42. Kxh7 Ke4 43. Kh6 Kf3 44. Kh5 Kxf2 45. h4
+Kg3 46. g5 fxg5 47. hxg5 Kf4 48. g6 Kf5 49. Kh6 Kf6 50. Kh7 Kg5 51. g7 Kf6 52.
+g8=Q Ke7 53. Qg6 Kd8 54. Qg7 Ke8 55. Kg6 Kd8 56. Kf6 Ke8 57. Ke6 Kd8 58. Qd7#
+1-0
+2025-05-25 19:38:47,320 - INFO - Processing PGN
+2025-05-25 19:38:47,589 - INFO - Successfully logged in and saved cookies for chessvinh123
+2025-05-25 19:38:50,713 - WARNING - Error processing link https://www.chess.com/analysis/game/live/138844043362?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
 Call log:
-waiting for locator(".chevron-down")
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
 
-2025-05-25 19:36:10,679 - WARNING - Login element not found for link: [Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2025.05.25"]
-[Round "-"]
-[White "Zhongjian"]
-[Black "Suggs98"]
+2025-05-25 19:38:51,109 - INFO - Processing PGN
+2025-05-25 19:38:51,874 - INFO - Successfully logged in and saved cookies for chessvinh123
+2025-05-25 19:39:03,331 - ERROR - Error during login and cookie saving: Task <Task pending name='Task-33773' coro=<run() running at D:\Python\BsVinh\Chess\Chess Analysis Sever\Chrome Server Deep PGN\.\main.py:1005> cb=[_run_until_complete_cb() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\asyncio\base_events.py:184]> got Future <Future pending> attached to a different loop
+2025-05-25 19:39:05,336 - INFO - Processing link: https://www.chess.com/analysis/game/live/138844249620?tab=analysis
+2025-05-25 19:39:06,409 - INFO - Processing PGN
+2025-05-25 19:39:17,705 - WARNING - Error processing link [Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
 [Result "1-0"]
-[CurrentPosition "8/8/8/8/8/1K6/1Q6/k7 b - - 46 100"]
-[Timezone "UTC"]
-[ECO "A20"]
-[ECOUrl "https://www.chess.com/openings/English-Opening-Kings-English-Variation-2.e3"]
-[UTCDate "2025.05.25"]
-[UTCTime "12:23:38"]
-[WhiteElo "1154"]
-[BlackElo "1153"]
-[TimeControl "300"]
-[Termination "Zhongjian won by checkmate"]
-[StartTime "12:23:38"]
-[EndDate "2025.05.25"]
-[EndTime "12:33:40"]
-[Link "https://www.chess.com/analysis/game/live/138844163644?tab=analysis"]
-[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/419279259.efbda4ed.50x50o.ed5c030b82ef.png"]
-[WhiteCountry "149"]
-[WhiteTitle ""]
-[BlackUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
-[BlackCountry "164"]
-[BlackTitle ""]
+[Link "https://www.chess.com/play/computer"]
 
-1. c4 e5 2. e3 d5 3. d4 e4 4. Nc3 Nf6 5. cxd5 Bb4 6. Bd2 Nxd5 7. a3 Bxc3 8. Bxc3
-Nxc3 9. bxc3 O-O 10. Qc2 Bf5 11. Qb2 b6 12. g3 Qd5 13. Bg2 Nd7 14. Ne2 Nf6 15.
-O-O Qe6 16. Nf4 Qd7 17. a4 Nd5 18. Nxd5 Qxd5 19. Qb5 Qxb5 20. axb5 Rfc8 21. Ra3
-c6 22. c4 cxb5 23. cxb5 Rc2 24. Rfa1 h6 25. Bf1 Rc7 26. h3 Bg6 27. Bg2 f5 28. g4
-fxg4 29. hxg4 Bh7 30. Kh2 g5 31. Kg3 Rf7 32. Bf1 Rd7 33. Bc4+ Kh8 34. f4 exf3
-35. Kxf3 Bg8 36. Bd3 Bd5+ 37. Be4 Rf7+ 38. Ke2 Bxe4 39. Rc3 Kg7 40. Rc6 Bxc6 41.
-bxc6 Rc7 42. d5 Kf6 43. e4 Ke5 44. Ke3 Rf8 45. Ra2 a5 46. Rh2 Rh8 47. Rf2 a4 48.
-Rf5+ Kd6 49. Kd4 a3 50. Rf2 Ra8 51. e5+ Ke7 52. d6+ Kd8 53. dxc7+ Kxc7 54. Ra2
-Rd8+ 55. Ke4 Kxc6 56. Rxa3 Re8 57. Kf5 b5 58. Kf6 b4 59. Ra6+ Kc5 60. e6 b3 61.
-Kf7 Rh8 62. Ra1 b2 63. Rb1 Rb8 64. e7 Kc4 65. e8=Q Rxe8 66. Kxe8 Kc3 67. Kf7 Kc2
-68. Rxb2+ Kxb2 69. Kg6 Kc3 70. Kxh6 Kd4 71. Kxg5 Ke5 72. Kh6 Ke6 73. g5 Kf7 74.
-Kh7 Kf8 75. g6 Ke8 76. g7 Kf7 77. g8=Q+ Kf6 78. Qg6+ Ke7 79. Kg7 Kd7 80. Kf7 Kc7
-81. Ke7 Kc8 82. Qc6+ Kb8 83. Kd7 Ka7 84. Qc5+ Ka6 85. Qc1 Kb5 86. Qb1+ Kc4 87.
-Qc1+ Kd4 88. Qd1+ Kc4 89. Kd6 Kc3 90. Qd5 Kc2 91. Kc5 Kc3 92. Qd4+ Kc2 93. Kc4
-Kc1 94. Qd3 Kb2 95. Qc3+ Kb1 96. Kb4 Ka2 97. Qc2+ Ka1 98. Qd2 Kb1 99. Kb3 Ka1
-100. Qb2# 1-0
-2025-05-25 19:36:15,830 - INFO - Processing PGN
-2025-05-25 19:36:18,528 - INFO - Processing link: Check out this #chess game: Mourad938 vs inSky64 - https://www.chess.com/live/game/138844431174
-2025-05-25 19:36:28,523 - INFO - Processing PGN
-2025-05-25 19:36:40,534 - WARNING - Error processing link https://www.chess.com/analysis/game/live/138843781704?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
-Call log:
-waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-
-2025-05-25 19:36:41,419 - INFO - Processing PGN
-2025-05-25 19:36:44,805 - INFO - Successfully logged in and saved cookies for chessvinh123
-2025-05-25 19:36:45,128 - INFO - Processing link: Check out this #chess game: Mourad938 vs inSky64 - https://www.chess.com/live/game/138844431174
-2025-05-25 19:36:49,765 - WARNING - Error processing link [Event "rahul-islam1 vs. Deadlyviper_ash"]
-[Site "Chess.com"]
-[Date "2025-05-25"]
-[White "rahul-islam1"]
-[Black "Deadlyviper_ash"]
-[Result "0-1"]
-[WhiteElo "830"]
-[BlackElo "876"]
-[TimeControl "600"]
-[Termination "Deadlyviper_ash won by resignation"]
-1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 a6 5. Bxc6 dxc6 6. Nxe5 Nxe4 7. Nxe4 Qe7
-8. d4 f6 9. Qh5+ g6 10. Nxg6 Qxe4+ 11. Be3 Bg4 12. Nxh8+ Bxh5 13. f3 0-1: Page.click: Timeout 30000ms exceeded.
+1. e4 g6 2. d4  2... Bg7 3. Nc3 d6  4. Nf3  4... Nf6 5. Bd3  5... O-O 6. O-O 
+6... Kh8 7. e5  7... dxe5 8. dxe5  8... Nd5  9. Bd2  9... Bg4  10. Re1  10... Na6 11. h3
+ 11... Kg8 12. hxg4
+ 12... Nxc3  13.
+Bxc3  13... b5  14. Bxb5  14... Nc5 15. Ng5  15... Nd7 16. e6  16... Ne5 17. exf7+  17... Nxf7  18. Nxf7  18... Rxf7 19. Bc4  19... Qxd1 20. Raxd1  20... Bxc3 21. bxc3  21... a5  22. Bxf7+  22... Kxf7 23. Rd7  23... c5 24.
+Rdxe7+  24...
+Kf6 25. R1e6+ 
+25... Kg5  26. Rxh7 Rd8  27. f3 Rd1+ 28. Kh2  28...
+Rd7  29. Rxd7 Kh6 30. Rd5 Kh7
+31. f4 c4 32. f5 Kg7 33. Rd7+ Kf8 34. Rd8+ Kf7 35. Rde8 gxf5 36. gxf5  36... a4 37. R8e7+ Kf8 38. f6 Kg8 39. f7+ Kf8 40.
+g4 Kg7 41. f8=Q+  41... Kxf8 42. g5
+Kg8 43. g6 Kh8 44. g7+ Kg8 45. Rg6 a3 46. Re4 Kh7 47. Reg4 Kg8 48. Kg3 Kf7 49.
+g8=Q+  49... Ke7  50. Re4+ Kd7  51. Qd5+  51... Kc7 52. Re7+  52... Kb8 53. Qg8#  1-0: Page.click: Timeout 30000ms exceeded.
 Call log:
 waiting for locator(".chevron-down")
 
-2025-05-25 19:36:49,858 - WARNING - Login element not found for link: [Event "rahul-islam1 vs. Deadlyviper_ash"]
-[Site "Chess.com"]
-[Date "2025-05-25"]
-[White "rahul-islam1"]
-[Black "Deadlyviper_ash"]
-[Result "0-1"]
-[WhiteElo "830"]
-[BlackElo "876"]
-[TimeControl "600"]
-[Termination "Deadlyviper_ash won by resignation"]
-1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 a6 5. Bxc6 dxc6 6. Nxe5 Nxe4 7. Nxe4 Qe7
-8. d4 f6 9. Qh5+ g6 10. Nxg6 Qxe4+ 11. Be3 Bg4 12. Nxh8+ Bxh5 13. f3 0-1
-2025-05-25 19:36:52,556 - WARNING - Error processing link https://www.chess.com/analysis/game/live/138844431174?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
-Call log:
-waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-
-2025-05-25 19:36:56,982 - INFO - Successfully logged in and saved cookies for chessvinh123
-2025-05-25 19:37:02,335 - WARNING - Error processing link [Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2025.05.25"]
-[Round "-"]
-[White "ramzibeltaif"]
-[Black "amazonplay"]
-[Result "0-1"]
-[CurrentPosition "6k1/p1p2pp1/7p/2b1pK2/4Bq1P/5P2/P3n3/8 w - - 4 26"]
-[Timezone "UTC"]
-[ECO "C46"]
-[ECOUrl "https://www.chess.com/openings/Three-Knights-Opening-3...Bc5"]
-[UTCDate "2025.05.25"]
-[UTCTime "12:19:42"]
-[WhiteElo "1303"]
-[BlackElo "1329"]
-[TimeControl "600"]
-[Termination "amazonplay won by checkmate"]
-[StartTime "12:19:42"]
-[EndDate "2025.05.25"]
-[EndTime "12:27:09"]
-[Link "https://www.chess.com/analysis/game/live/138844043362?tab=analysis&move=49"]
-[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/91597846.b48a8958.50x50o.9f8c2357031f.jpeg"]
-[WhiteCountry "219"]
-[WhiteTitle ""]
-[BlackUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
-[BlackCountry "149"]
-[BlackTitle ""]
-
-1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bc4 h6 5. Nd5 Nf6 6. Nxf6+ Qxf6 7. O-O d6 8.
-Bd5 Bg4 9. c3 O-O 10. d4 exd4 11. cxd4 Nxd4 12. e5 dxe5 13. Bxb7 Bxf3 14. gxf3
-Rab8 15. Be4 Rfd8 16. Bd2 Rxb2 17. Rb1 Rxd2 18. Rb8 Rxd1 19. Rxd8+ Qxd8 20. Rxd1
-Ne2+ 21. Kg2 Qxd1 22. h4 Qg1+ 23. Kh3 Qxf2 24. Kg4 Qg3+ 25. Kf5 Qf4# 0-1: Page.click: Timeout 30000ms exceeded.
-Call log:
-waiting for locator(".chevron-down")
-
-2025-05-25 19:37:02,380 - WARNING - Login element not found for link: [Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2025.05.25"]
-[Round "-"]
-[White "ramzibeltaif"]
-[Black "amazonplay"]
-[Result "0-1"]
-[CurrentPosition "6k1/p1p2pp1/7p/2b1pK2/4Bq1P/5P2/P3n3/8 w - - 4 26"]
-[Timezone "UTC"]
-[ECO "C46"]
-[ECOUrl "https://www.chess.com/openings/Three-Knights-Opening-3...Bc5"]
-[UTCDate "2025.05.25"]
-[UTCTime "12:19:42"]
-[WhiteElo "1303"]
-[BlackElo "1329"]
-[TimeControl "600"]
-[Termination "amazonplay won by checkmate"]
-[StartTime "12:19:42"]
-[EndDate "2025.05.25"]
-[EndTime "12:27:09"]
-[Link "https://www.chess.com/analysis/game/live/138844043362?tab=analysis&move=49"]
-[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/91597846.b48a8958.50x50o.9f8c2357031f.jpeg"]
-[WhiteCountry "219"]
-[WhiteTitle ""]
-[BlackUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
-[BlackCountry "149"]
-[BlackTitle ""]
-
-1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bc4 h6 5. Nd5 Nf6 6. Nxf6+ Qxf6 7. O-O d6 8.
-Bd5 Bg4 9. c3 O-O 10. d4 exd4 11. cxd4 Nxd4 12. e5 dxe5 13. Bxb7 Bxf3 14. gxf3
-Rab8 15. Be4 Rfd8 16. Bd2 Rxb2 17. Rb1 Rxd2 18. Rb8 Rxd1 19. Rxd8+ Qxd8 20. Rxd1
-Ne2+ 21. Kg2 Qxd1 22. h4 Qg1+ 23. Kh3 Qxf2 24. Kg4 Qg3+ 25. Kf5 Qf4# 0-1
-2025-05-25 19:37:04,619 - INFO - Processing link: https://www.chess.com/analysis/game/live/138844237436?tab=analysis
-2025-05-25 19:37:15,747 - WARNING - Error processing link [Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2025.05.25"]
-[Round "-"]
-[White "Zhongjian"]
-[Black "Suggs98"]
+2025-05-25 19:39:17,795 - WARNING - Login element not found for link: [Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
 [Result "1-0"]
-[CurrentPosition "8/8/8/8/8/1K6/1Q6/k7 b - - 46 100"]
-[Timezone "UTC"]
-[ECO "A20"]
-[ECOUrl "https://www.chess.com/openings/English-Opening-Kings-English-Variation-2.e3"]
-[UTCDate "2025.05.25"]
-[UTCTime "12:23:38"]
-[WhiteElo "1154"]
-[BlackElo "1153"]
-[TimeControl "300"]
-[Termination "Zhongjian won by checkmate"]
-[StartTime "12:23:38"]
-[EndDate "2025.05.25"]
-[EndTime "12:33:40"]
-[Link "https://www.chess.com/analysis/game/live/138844163644?tab=analysis"]
-[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/419279259.efbda4ed.50x50o.ed5c030b82ef.png"]
-[WhiteCountry "149"]
-[WhiteTitle ""]
-[BlackUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
-[BlackCountry "164"]
-[BlackTitle ""]
+[Link "https://www.chess.com/play/computer"]
 
-1. c4 e5 2. e3 d5 3. d4 e4 4. Nc3 Nf6 5. cxd5 Bb4 6. Bd2 Nxd5 7. a3 Bxc3 8. Bxc3
-Nxc3 9. bxc3 O-O 10. Qc2 Bf5 11. Qb2 b6 12. g3 Qd5 13. Bg2 Nd7 14. Ne2 Nf6 15.
-O-O Qe6 16. Nf4 Qd7 17. a4 Nd5 18. Nxd5 Qxd5 19. Qb5 Qxb5 20. axb5 Rfc8 21. Ra3
-c6 22. c4 cxb5 23. cxb5 Rc2 24. Rfa1 h6 25. Bf1 Rc7 26. h3 Bg6 27. Bg2 f5 28. g4
-fxg4 29. hxg4 Bh7 30. Kh2 g5 31. Kg3 Rf7 32. Bf1 Rd7 33. Bc4+ Kh8 34. f4 exf3
-35. Kxf3 Bg8 36. Bd3 Bd5+ 37. Be4 Rf7+ 38. Ke2 Bxe4 39. Rc3 Kg7 40. Rc6 Bxc6 41.
-bxc6 Rc7 42. d5 Kf6 43. e4 Ke5 44. Ke3 Rf8 45. Ra2 a5 46. Rh2 Rh8 47. Rf2 a4 48.
-Rf5+ Kd6 49. Kd4 a3 50. Rf2 Ra8 51. e5+ Ke7 52. d6+ Kd8 53. dxc7+ Kxc7 54. Ra2
-Rd8+ 55. Ke4 Kxc6 56. Rxa3 Re8 57. Kf5 b5 58. Kf6 b4 59. Ra6+ Kc5 60. e6 b3 61.
-Kf7 Rh8 62. Ra1 b2 63. Rb1 Rb8 64. e7 Kc4 65. e8=Q Rxe8 66. Kxe8 Kc3 67. Kf7 Kc2
-68. Rxb2+ Kxb2 69. Kg6 Kc3 70. Kxh6 Kd4 71. Kxg5 Ke5 72. Kh6 Ke6 73. g5 Kf7 74.
-Kh7 Kf8 75. g6 Ke8 76. g7 Kf7 77. g8=Q+ Kf6 78. Qg6+ Ke7 79. Kg7 Kd7 80. Kf7 Kc7
-81. Ke7 Kc8 82. Qc6+ Kb8 83. Kd7 Ka7 84. Qc5+ Ka6 85. Qc1 Kb5 86. Qb1+ Kc4 87.
-Qc1+ Kd4 88. Qd1+ Kc4 89. Kd6 Kc3 90. Qd5 Kc2 91. Kc5 Kc3 92. Qd4+ Kc2 93. Kc4
-Kc1 94. Qd3 Kb2 95. Qc3+ Kb1 96. Kb4 Ka2 97. Qc2+ Ka1 98. Qd2 Kb1 99. Kb3 Ka1
-100. Qb2# 1-0: Page.click: Timeout 30000ms exceeded.
+1. e4 g6 2. d4  2... Bg7 3. Nc3 d6  4. Nf3  4... Nf6 5. Bd3  5... O-O 6. O-O 
+6... Kh8 7. e5  7... dxe5 8. dxe5  8... Nd5  9. Bd2  9... Bg4  10. Re1  10... Na6 11. h3
+ 11... Kg8 12. hxg4
+ 12... Nxc3  13.
+Bxc3  13... b5  14. Bxb5  14... Nc5 15. Ng5  15... Nd7 16. e6  16... Ne5 17. exf7+  17... Nxf7  18. Nxf7  18... Rxf7 19. Bc4  19... Qxd1 20. Raxd1  20... Bxc3 21. bxc3  21... a5  22. Bxf7+  22... Kxf7 23. Rd7  23... c5 24.
+Rdxe7+  24...
+Kf6 25. R1e6+ 
+25... Kg5  26. Rxh7 Rd8  27. f3 Rd1+ 28. Kh2  28...
+Rd7  29. Rxd7 Kh6 30. Rd5 Kh7
+31. f4 c4 32. f5 Kg7 33. Rd7+ Kf8 34. Rd8+ Kf7 35. Rde8 gxf5 36. gxf5  36... a4 37. R8e7+ Kf8 38. f6 Kg8 39. f7+ Kf8 40.
+g4 Kg7 41. f8=Q+  41... Kxf8 42. g5
+Kg8 43. g6 Kh8 44. g7+ Kg8 45. Rg6 a3 46. Re4 Kh7 47. Reg4 Kg8 48. Kg3 Kf7 49.
+g8=Q+  49... Ke7  50. Re4+ Kd7  51. Qd5+  51... Kc7 52. Re7+  52... Kb8 53. Qg8#  1-0
+2025-05-25 19:39:28,672 - INFO - Processing PGN
+2025-05-25 19:39:33,437 - WARNING - Error processing link [Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.25"]
+[Round "?"]
+[White "RazmanOfSweden"]
+[Black "dangminhhai1"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "352"]
+[BlackElo "351"]
+[Termination "dangminhhai1 th\u1eafng b\u1edfi chi\u1ebfu h\u1ebft"]
+[Link "https://www.chess.com/game/138844488432"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 Nh6 4. Qxf7+ Nxf7 5. Bxf7+ Kxf7 6. Ne2 Nd4 7. Nxd4
+exd4 8. O-O Bc5 9. c3 Rg8 10. cxd4 Bxd4 11. Nc3 Rf8 12. Nd5 Kg8 13. d3 c6 14.
+Nf4 Qf6 15. g3 g5 16. Nh5 Bxf2+ 17. Rxf2 Qxf2+ 18. Kh1 Qf1# 0-1: Page.click: Timeout 30000ms exceeded.
 Call log:
 waiting for locator(".chevron-down")
 
-2025-05-25 19:37:15,803 - WARNING - Login element not found for link: [Event "Live Chess"]
+2025-05-25 19:39:33,498 - WARNING - Login element not found for link: [Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.25"]
+[Round "?"]
+[White "RazmanOfSweden"]
+[Black "dangminhhai1"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "352"]
+[BlackElo "351"]
+[Termination "dangminhhai1 th\u1eafng b\u1edfi chi\u1ebfu h\u1ebft"]
+[Link "https://www.chess.com/game/138844488432"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 Nh6 4. Qxf7+ Nxf7 5. Bxf7+ Kxf7 6. Ne2 Nd4 7. Nxd4
+exd4 8. O-O Bc5 9. c3 Rg8 10. cxd4 Bxd4 11. Nc3 Rf8 12. Nd5 Kg8 13. d3 c6 14.
+Nf4 Qf6 15. g3 g5 16. Nh5 Bxf2+ 17. Rxf2 Qxf2+ 18. Kh1 Qf1# 0-1
+2025-05-25 19:39:33,536 - WARNING - Error processing link [Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.25"]
+[Round "?"]
+[White "Plaer12"]
+[Black "dog-gd"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "666"]
+[BlackElo "668"]
+[Termination "dog-gd th\u1eafng b\u1edfi chi\u1ebfu h\u1ebft"]
+[Link "https://www.chess.com/game/138844486642"]
+
+1. e4 c5 2. d4 d6 3. d5 e5 4. f3 Be7 5. Be3 Nf6 6. Nd2 Bd7 7. a3 O-O 8. Be2 Nh5
+9. g4 Nf6 10. f4 Nxg4 11. fxe5 Bh4+ 12. Kf1 Nxe3# 0-1: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator(".chevron-down")
+
+2025-05-25 19:39:33,614 - WARNING - Login element not found for link: [Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.25"]
+[Round "?"]
+[White "Plaer12"]
+[Black "dog-gd"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "666"]
+[BlackElo "668"]
+[Termination "dog-gd th\u1eafng b\u1edfi chi\u1ebfu h\u1ebft"]
+[Link "https://www.chess.com/game/138844486642"]
+
+1. e4 c5 2. d4 d6 3. d5 e5 4. f3 Be7 5. Be3 Nf6 6. Nd2 Bd7 7. a3 O-O 8. Be2 Nh5
+9. g4 Nf6 10. f4 Nxg4 11. fxe5 Bh4+ 12. Kf1 Nxe3# 0-1
+2025-05-25 19:39:41,603 - INFO - Processing link: Check out this #chess game: MANAV_THE_SACRIFICER vs kabidatt - https://www.chess.com/live/game/138844315444
+2025-05-25 19:39:42,455 - WARNING - Error processing link https://www.chess.com/analysis/game/live/138844249620?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+
+2025-05-25 19:39:45,676 - WARNING - Error processing link [Event "Rated blitz game"]
+[Site "https://lichess.org/LO7YWwpr"]
+[Date "2025.05.25"]
+[White "Etherluminifer"]
+[Black "vhgb273"]
+[Result "0-1"]
+[GameId "LO7YWwpr"]
+[UTCDate "2025.05.25"]
+[UTCTime "12:32:11"]
+[WhiteElo "1386"]
+[BlackElo "1384"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+30"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "C50"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4  1... e5  2. Nf3  2... Nc6  3. Bc4  3... h6   4. d3  4... Bc5  5. O-O  5... d6  6. Nc3  6... Nge7  7. Nd5  7... Nxd5  8. Bxd5  8... O-O  9. Re1  9... Re8  10. a3  10... a5  11. Bxc6  11... bxc6  12. d4?!   (12. Be3 Bb6) 12... Bxd4?!   (12... exd4 13. Nxd4) 13. Nxd4  13... exd4  14. Qxd4  14... d5  15. e5  15... Bb7  16. c3  16... Qe7  17. Bf4  17... Rad8?!   (17... c5) 18. Re3?!   (18. Qa7 Bc8) 18... c5  19. Qxc5??   (19. Qd1 Qh4 20. Bg3 Qc4 21. Qe2 Ba6 22. Qxc4 Bxc4 23. e6 fxe6 24. Bxc7 Rd7) 19... Qxc5  20. Rae1  20... Qc6  21. Rg3  21... f6  22. Bxh6  22... Rd7  23. Bf4  23... d4  24. h3  24... dxc3  25. bxc3  25... Rd3  26. h4??   (26. Rg4 Rxh3 27. f3 f5 28. Rg5 Rh6 29. Kf2 Rg6 30. Rxg6 Qxg6 31. Rd1 Bxf3) 26... Rxg3  27. Bxg3  27... Qxg2#   0-1: Page.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator(".chevron-down")
+
+2025-05-25 19:39:45,728 - WARNING - Login element not found for link: [Event "Rated blitz game"]
+[Site "https://lichess.org/LO7YWwpr"]
+[Date "2025.05.25"]
+[White "Etherluminifer"]
+[Black "vhgb273"]
+[Result "0-1"]
+[GameId "LO7YWwpr"]
+[UTCDate "2025.05.25"]
+[UTCTime "12:32:11"]
+[WhiteElo "1386"]
+[BlackElo "1384"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+30"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "C50"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4  1... e5  2. Nf3  2... Nc6  3. Bc4  3... h6   4. d3  4... Bc5  5. O-O  5... d6  6. Nc3  6... Nge7  7. Nd5  7... Nxd5  8. Bxd5  8... O-O  9. Re1  9... Re8  10. a3  10... a5  11. Bxc6  11... bxc6  12. d4?!   (12. Be3 Bb6) 12... Bxd4?!   (12... exd4 13. Nxd4) 13. Nxd4  13... exd4  14. Qxd4  14... d5  15. e5  15... Bb7  16. c3  16... Qe7  17. Bf4  17... Rad8?!   (17... c5) 18. Re3?!   (18. Qa7 Bc8) 18... c5  19. Qxc5??   (19. Qd1 Qh4 20. Bg3 Qc4 21. Qe2 Ba6 22. Qxc4 Bxc4 23. e6 fxe6 24. Bxc7 Rd7) 19... Qxc5  20. Rae1  20... Qc6  21. Rg3  21... f6  22. Bxh6  22... Rd7  23. Bf4  23... d4  24. h3  24... dxc3  25. bxc3  25... Rd3  26. h4??   (26. Rg4 Rxh3 27. f3 f5 28. Rg5 Rh6 29. Kf2 Rg6 30. Rxg6 Qxg6 31. Rd1 Bxf3) 26... Rxg3  27. Bxg3  27... Qxg2#   0-1
+2025-05-25 19:39:45,963 - WARNING - Error processing link [Event "Live Chess"]
 [Site "Chess.com"]
 [Date "2025.05.25"]
 [Round "-"]
-[White "Zhongjian"]
-[Black "Suggs98"]
+[White "Kayi1105"]
+[Black "SaponMixCoillotte"]
 [Result "1-0"]
-[CurrentPosition "8/8/8/8/8/1K6/1Q6/k7 b - - 46 100"]
+[CurrentPosition "3k4/3Q4/4K3/8/8/8/8/8 b - - 12 58"]
 [Timezone "UTC"]
-[ECO "A20"]
-[ECOUrl "https://www.chess.com/openings/English-Opening-Kings-English-Variation-2.e3"]
+[ECO "C51"]
+[ECOUrl "https://www.chess.com/openings/Giuoco-Piano-Game-Evans-Accepted-McDonnell-Defense-6.d4-exd4-7.O-O"]
 [UTCDate "2025.05.25"]
-[UTCTime "12:23:38"]
-[WhiteElo "1154"]
-[BlackElo "1153"]
-[TimeControl "300"]
-[Termination "Zhongjian won by checkmate"]
-[StartTime "12:23:38"]
+[UTCTime "12:27:26"]
+[WhiteElo "427"]
+[BlackElo "402"]
+[TimeControl "180"]
+[Termination "Kayi1105 won by checkmate"]
+[StartTime "12:27:26"]
 [EndDate "2025.05.25"]
-[EndTime "12:33:40"]
-[Link "https://www.chess.com/analysis/game/live/138844163644?tab=analysis"]
-[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/419279259.efbda4ed.50x50o.ed5c030b82ef.png"]
+[EndTime "12:32:19"]
+[Link "https://www.chess.com/analysis/game/live/138844272660?tab=analysis"]
+[WhiteUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
 [WhiteCountry "149"]
 [WhiteTitle ""]
-[BlackUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
-[BlackCountry "164"]
+[BlackUrl "https://images.chesscomfiles.com/uploads/v1/user/98674718.941d8a83.50x50o.70c00f0830d9.jpg"]
+[BlackCountry "77"]
 [BlackTitle ""]
 
-1. c4 e5 2. e3 d5 3. d4 e4 4. Nc3 Nf6 5. cxd5 Bb4 6. Bd2 Nxd5 7. a3 Bxc3 8. Bxc3
-Nxc3 9. bxc3 O-O 10. Qc2 Bf5 11. Qb2 b6 12. g3 Qd5 13. Bg2 Nd7 14. Ne2 Nf6 15.
-O-O Qe6 16. Nf4 Qd7 17. a4 Nd5 18. Nxd5 Qxd5 19. Qb5 Qxb5 20. axb5 Rfc8 21. Ra3
-c6 22. c4 cxb5 23. cxb5 Rc2 24. Rfa1 h6 25. Bf1 Rc7 26. h3 Bg6 27. Bg2 f5 28. g4
-fxg4 29. hxg4 Bh7 30. Kh2 g5 31. Kg3 Rf7 32. Bf1 Rd7 33. Bc4+ Kh8 34. f4 exf3
-35. Kxf3 Bg8 36. Bd3 Bd5+ 37. Be4 Rf7+ 38. Ke2 Bxe4 39. Rc3 Kg7 40. Rc6 Bxc6 41.
-bxc6 Rc7 42. d5 Kf6 43. e4 Ke5 44. Ke3 Rf8 45. Ra2 a5 46. Rh2 Rh8 47. Rf2 a4 48.
-Rf5+ Kd6 49. Kd4 a3 50. Rf2 Ra8 51. e5+ Ke7 52. d6+ Kd8 53. dxc7+ Kxc7 54. Ra2
-Rd8+ 55. Ke4 Kxc6 56. Rxa3 Re8 57. Kf5 b5 58. Kf6 b4 59. Ra6+ Kc5 60. e6 b3 61.
-Kf7 Rh8 62. Ra1 b2 63. Rb1 Rb8 64. e7 Kc4 65. e8=Q Rxe8 66. Kxe8 Kc3 67. Kf7 Kc2
-68. Rxb2+ Kxb2 69. Kg6 Kc3 70. Kxh6 Kd4 71. Kxg5 Ke5 72. Kh6 Ke6 73. g5 Kf7 74.
-Kh7 Kf8 75. g6 Ke8 76. g7 Kf7 77. g8=Q+ Kf6 78. Qg6+ Ke7 79. Kg7 Kd7 80. Kf7 Kc7
-81. Ke7 Kc8 82. Qc6+ Kb8 83. Kd7 Ka7 84. Qc5+ Ka6 85. Qc1 Kb5 86. Qb1+ Kc4 87.
-Qc1+ Kd4 88. Qd1+ Kc4 89. Kd6 Kc3 90. Qd5 Kc2 91. Kc5 Kc3 92. Qd4+ Kc2 93. Kc4
-Kc1 94. Qd3 Kb2 95. Qc3+ Kb1 96. Kb4 Ka2 97. Qc2+ Ka1 98. Qd2 Kb1 99. Kb3 Ka1
-100. Qb2# 1-0
-2025-05-25 19:37:19,559 - WARNING - Error processing link https://www.chess.com/analysis/game/live/138844431174?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. d4 exd4 7. O-O dxc3 8.
+Bxf7+ Kxf7 9. Qd5+ Ke7 10. Bg5+ Nf6 11. Bxf6+ gxf6 12. Qxc5+ d6 13. Qxc3 Ne5 14.
+Nbd2 Nxf3+ 15. Nxf3 Be6 16. h3 d5 17. exd5 Qxd5 18. Qxc7+ Bd7 19. Rfe1+ Kf8 20.
+Rad1 Qxa2 21. Rxd7 Qg8 22. Rd8+ Rxd8 23. Qxd8+ Kg7 24. Qe7+ Qf7 25. Qxf7+ Kxf7
+26. Nd4 Re8 27. Rxe8 Kxe8 28. Nb5 Kd7 29. Nxa7 Kc7 30. Nb5+ Kc6 31. Nd4+ Kc5 32.
+Nf5 b5 33. Ne3 b4 34. Nd1 b3 35. Kh2 Kc4 36. Kg3 Kb4 37. Kh4 Ka3 38. g4 b2 39.
+Nxb2 Kxb2 40. Kh5 Kc3 41. Kh6 Kd4 42. Kxh7 Ke4 43. Kh6 Kf3 44. Kh5 Kxf2 45. h4
+Kg3 46. g5 fxg5 47. hxg5 Kf4 48. g6 Kf5 49. Kh6 Kf6 50. Kh7 Kg5 51. g7 Kf6 52.
+g8=Q Ke7 53. Qg6 Kd8 54. Qg7 Ke8 55. Kg6 Kd8 56. Kf6 Ke8 57. Ke6 Kd8 58. Qd7#
+1-0: Page.click: Target page, context or browser has been closed
+Call log:
+waiting for locator(".chevron-down")
+
+2025-05-25 19:39:45,963 - WARNING - Error processing link https://www.chess.com/analysis/game/live/138844315444?tab=review: Page.wait_for_selector: Target page, context or browser has been closed
 Call log:
 waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
 
-2025-05-25 19:37:23,276 - INFO - Successfully logged in and saved cookies for chessvinh123
-2025-05-25 19:37:35,680 - INFO - Processing link: https://www.chess.com/analysis/game/live/138844272660?tab=analysis
-2025-05-25 19:37:38,020 - WARNING - Error processing link https://www.chess.com/analysis/game/live/138844237436?tab=review: Page.wait_for_selector: Timeout 30000ms exceeded.
-Call log:
-waiting for locator("button.cc-button-component.cc-button-primary.cc-button-xx-large") to be visible
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
-  -   locator resolved to 2 elements. Proceeding with the first one: <button type="button" class="cc-button-component cc-button-primary cc-button-xx-large cc-bg-primary cc-button-full"></button>
+2025-05-25 20:41:54,661 - INFO - Serving on http://0.0.0.0:8000
+2025-05-25 20:57:04,940 - INFO - Processing link: https://www.chess.com/analysis/game/live/138846652028?tab=analysis
+2025-05-25 20:57:05,746 - INFO - Processing link: https://www.chess.com/analysis/game/computer/291933578?tab=review
+2025-05-25 20:57:07,453 - INFO - Processing link: https://www.chess.com/live/game/138846542318
+2025-05-25 20:57:15,256 - ERROR - Error in run function for link https://www.chess.com/analysis/game/computer/291933578?tab=review: Task <Task pending name='Task-5' coro=<run() running at d:\Python\BsVinh\Chess\Chess Analysis Sever\Chrome Server Deep PGN\main.py:989> cb=[_run_until_complete_cb() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\asyncio\base_events.py:184]> got Future <Future pending> attached to a different loop
+2025-05-25 20:57:15,276 - ERROR - Error processing https://www.chess.com/analysis/game/computer/291933578?tab=review: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8002951108:AAEeUXPdNKVPc7_wdAiFGAgXyV0InsJMDhk/sendMessage?chat_id=7880397584&text=Error+in+run+function+for+link+%3A+Task+%3CTask+pending+name%3D%27Task-5%27+coro%3D%3Crun%28%29+running+at+d%3A%5CPython%5CBsVinh%5CChess%5CChess+Analysis+Sever%5CChrome+Server+Deep+PGN%5Cmain.py%3A989%3E+cb%3D%5B_run_until_complete_cb%28%29+at+C%3A%5CProgram+Files%5CWindowsApps%5CPythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0%5Clib%5Casyncio%5Cbase_events.py%3A184%5D%3E+got+Future+%3CFuture+pending%3E+attached+to+a+different+loop (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')))
+2025-05-25 20:57:15,290 - ERROR - Exception on /message [POST]
+Traceback (most recent call last):
+  File "d:\Python\BsVinh\Chess\Chess Analysis Sever\Chrome Server Deep PGN\main.py", line 989, in run
+    await save_storage_state(context)
+  File "d:\Python\BsVinh\Chess\Chess Analysis Sever\Chrome Server Deep PGN\main.py", line 1032, in save_storage_state
+    async with lock:  # \u0110\u1ea3m b\u1ea3o ch\u1ec9 m\u1ed9t lu\u1ed3ng ghi d\u1eef li\u1ec7u
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\asyncio\locks.py", line 14, in __aenter__
+    await self.acquire()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\asyncio\locks.py", line 120, in acquire
+    await fut
+RuntimeError: Task <Task pending name='Task-5' coro=<run() running at d:\Python\BsVinh\Chess\Chess Analysis Sever\Chrome Server Deep PGN\main.py:989> cb=[_run_until_complete_cb() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\asyncio\base_events.py:184]> got Future <Future pending> attached to a different loop
 
-2025-05-25 19:37:39,701 - INFO - Processing PGN
-2025-05-25 19:37:42,038 - INFO - Successfully logged in and saved cookies for chessvinh123
-2025-05-25 19:37:42,075 - INFO - Processing link: github
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\ssl.py", line 501, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\ssl.py", line 1310, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+urllib3.exceptions.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8002951108:AAEeUXPdNKVPc7_wdAiFGAgXyV0InsJMDhk/sendMessage?chat_id=7880397584&text=Error+in+run+function+for+link+%3A+Task+%3CTask+pending+name%3D%27Task-5%27+coro%3D%3Crun%28%29+running+at+d%3A%5CPython%5CBsVinh%5CChess%5CChess+Analysis+Sever%5CChrome+Server+Deep+PGN%5Cmain.py%3A989%3E+cb%3D%5B_run_until_complete_cb%28%29+at+C%3A%5CProgram+Files%5CWindowsApps%5CPythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0%5Clib%5Casyncio%5Cbase_events.py%3A184%5D%3E+got+Future+%3CFuture+pending%3E+attached+to+a+different+loop (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\Python\BsVinh\Chess\Chess Analysis Sever\Chrome Server Deep PGN\main.py", line 1024, in process_link
+    value = asyncio.run(run(link))
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\asyncio\base_events.py", line 647, in run_until_complete
+    return future.result()
+  File "d:\Python\BsVinh\Chess\Chess Analysis Sever\Chrome Server Deep PGN\main.py", line 1011, in run
+    send_telegram_bot(f"Error in run function for link : {e}")
+  File "d:\Python\BsVinh\Chess\Chess Analysis Sever\Chrome Server Deep PGN\main.py", line 1058, in send_telegram_bot
+    response = requests.get(url, params=params )
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\requests\adapters.py", line 698, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8002951108:AAEeUXPdNKVPc7_wdAiFGAgXyV0InsJMDhk/sendMessage?chat_id=7880397584&text=Error+in+run+function+for+link+%3A+Task+%3CTask+pending+name%3D%27Task-5%27+coro%3D%3Crun%28%29+running+at+d%3A%5CPython%5CBsVinh%5CChess%5CChess+Analysis+Sever%5CChrome+Server+Deep+PGN%5Cmain.py%3A989%3E+cb%3D%5B_run_until_complete_cb%28%29+at+C%3A%5CProgram+Files%5CWindowsApps%5CPythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0%5Clib%5Casyncio%5Cbase_events.py%3A184%5D%3E+got+Future+%3CFuture+pending%3E+attached+to+a+different+loop (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\ssl.py", line 501, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\ssl.py", line 1310, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+urllib3.exceptions.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8002951108:AAEeUXPdNKVPc7_wdAiFGAgXyV0InsJMDhk/sendMessage?chat_id=7880397584&text=Error+processing+link%3A+HTTPSConnectionPool%28host%3D%27api.telegram.org%27%2C+port%3D443%29%3A+Max+retries+exceeded+with+url%3A+%2Fbot8002951108%3AAAEeUXPdNKVPc7_wdAiFGAgXyV0InsJMDhk%2FsendMessage%3Fchat_id%3D7880397584%26text%3DError%2Bin%2Brun%2Bfunction%2Bfor%2Blink%2B%253A%2BTask%2B%253CTask%2Bpending%2Bname%253D%2527Task-5%2527%2Bcoro%253D%253Crun%2528%2529%2Brunning%2Bat%2Bd%253A%255CPython%255CBsVinh%255CChess%255CChess%2BAnalysis%2BSever%255CChrome%2BServer%2BDeep%2BPGN%255Cmain.py%253A989%253E%2Bcb%253D%255B_run_until_complete_cb%2528%2529%2Bat%2BC%253A%255CProgram%2BFiles%255CWindowsApps%255CPythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0%255Clib%255Casyncio%255Cbase_events.py%253A184%255D%253E%2Bgot%2BFuture%2B%253CFuture%2Bpending%253E%2Battached%2Bto%2Ba%2Bdifferent%2Bloop+%28Caused+by+SSLError%28SSLCertVerificationError%281%2C+%27%5BSSL%3A+CERTIFICATE_VERIFY_FAILED%5D+certificate+verify+failed%3A+self+signed+certificate+%28_ssl.c%3A1129%29%27%29%29%29 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\flask_cors\extension.py", line 194, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "d:\Python\BsVinh\Chess\Chess Analysis Sever\Chrome Server Deep PGN\main.py", line 1066, in receive_message
+    process_link(message)
+  File "d:\Python\BsVinh\Chess\Chess Analysis Sever\Chrome Server Deep PGN\main.py", line 1028, in process_link
+    send_telegram_bot(f"Error processing link: {e}")
+  File "d:\Python\BsVinh\Chess\Chess Analysis Sever\Chrome Server Deep PGN\main.py", line 1058, in send_telegram_bot
+    response = requests.get(url, params=params )
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\robeb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\requests\adapters.py", line 698, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8002951108:AAEeUXPdNKVPc7_wdAiFGAgXyV0InsJMDhk/sendMessage?chat_id=7880397584&text=Error+processing+link%3A+HTTPSConnectionPool%28host%3D%27api.telegram.org%27%2C+port%3D443%29%3A+Max+retries+exceeded+with+url%3A+%2Fbot8002951108%3AAAEeUXPdNKVPc7_wdAiFGAgXyV0InsJMDhk%2FsendMessage%3Fchat_id%3D7880397584%26text%3DError%2Bin%2Brun%2Bfunction%2Bfor%2Blink%2B%253A%2BTask%2B%253CTask%2Bpending%2Bname%253D%2527Task-5%2527%2Bcoro%253D%253Crun%2528%2529%2Brunning%2Bat%2Bd%253A%255CPython%255CBsVinh%255CChess%255CChess%2BAnalysis%2BSever%255CChrome%2BServer%2BDeep%2BPGN%255Cmain.py%253A989%253E%2Bcb%253D%255B_run_until_complete_cb%2528%2529%2Bat%2BC%253A%255CProgram%2BFiles%255CWindowsApps%255CPythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0%255Clib%255Casyncio%255Cbase_events.py%253A184%255D%253E%2Bgot%2BFuture%2B%253CFuture%2Bpending%253E%2Battached%2Bto%2Ba%2Bdifferent%2Bloop+%28Caused+by+SSLError%28SSLCertVerificationError%281%2C+%27%5BSSL%3A+CERTIFICATE_VERIFY_FAILED%5D+certificate+verify+failed%3A+self+signed+certificate+%28_ssl.c%3A1129%29%27%29%29%29 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')))
+2025-05-25 20:57:20,767 - INFO - Processing link: https://www.chess.com/live/game/138846705110
+2025-05-25 20:57:25,891 - INFO - Processing link: https://www.chess.com/analysis/game/live/138845883260
+2025-05-25 20:57:27,769 - INFO - Processing PGN
+2025-05-25 20:57:37,438 - INFO - Processing link: github
